@@ -21,10 +21,12 @@ The list below contains all patchs from current major version. For a list of all
 
 The date in front of each patch represents the date when the patch was pushed to this repository, not the date when it was released by Riot Games. Here's a list of all patchs of current seasons included in this repository :
 
+- (September 3rd, 2025) 11.04
 - (July 29th, 2025) 11.02
 - (June 24th, 2025) 11.00
 
 ## Missing patchs for the current major version
 The list below contains all missing patchs from current major version, and the reason of why.
 
+- 11.03 : Patch hasn't been released by Riot
 - 11.01 : [Patch skipped by Riot Games](https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-11-01/) to prepare the game engine switch in patch 11.02 (UE4 to UE5)
