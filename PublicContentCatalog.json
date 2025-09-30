@@ -1,5 +1,5 @@
 {
-	"version": "11.06.00.3803668",
+	"version": "11.07.00.3836447",
 	"characters": [
 		{
 			"description":
@@ -321,7 +321,7 @@
 							"ko-KR": "공포의 매듭을 장착합니다. 발사하면 던집니다. 매듭은 일정 시간이 지난 후 땅에 떨어집니다. 다시 사용하면 매듭을 일찍 떨어뜨립니다. 매듭이 땅에 닿으면 폭발해 주변의 적을 그 자리에 붙잡습니다. 붙잡힌 적의 청력을 약화시키고 부패 효과를 적용합니다.",
 							"pl-PL": "WYPOSAŻ węzeł czystego strachu. STRZEL, by rzucić. Węzeł opadnie po określonym czasie. UŻYJ PONOWNIE, aby węzeł opadł wcześniej. Węzeł pęka po zderzeniu, usidlając pobliskich wrogów. Usidleni wrogowie zostają ogłuszeni i ulegają rozpadowi.",
 							"pt-BR": "EQUIPE um nódulo de puro temor. DISPARE para arremessá-lo. O nódulo cairá depois de um determinado tempo. REPITA a habilidade para soltá-lo antecipadamente. Esse nódulo se rompe ao impacto, enclausurando inimigos próximos. Inimigos enclausurados sofrem Surdez e Deterioração.",
-							"ru-RU": "Выбирает сгусток страха. Нажмите кнопку ОГОНЬ для броска. Через некоторое время сгусток опустится на землю. Используйте умение повторно, чтобы он опустился сразу. При столкновении с целью сгусток взрывается, удерживая ближайших противников, оглушая их и нанося им периодический урон.",
+							"ru-RU": "Выбирает сгусток страха. Нажмите кнопку ОГОНЬ для броска. Через некоторое время сгусток опустится на землю. Используйте умение повторно, чтобы он опустился сразу. При столкновении с целью сгусток взрывается, удерживая ближайших противников, лишая их слуха и нанося им периодический урон.",
 							"th-TH": "ติดตั้งกลุ่มก้อนแห่งความหวาดกลัว กดยิงเพื่อขว้าง กลุ่มก้อนจะตกลงบนพื้นหลังจากผ่านไปช่วงเวลาหนึ่ง กดใช้อีกครั้งเพื่อปล่อยกลุ่มก้อนลงพื้นก่อนเวลาที่กำหนด กลุ่มก้อนจะระเบิดออกเมื่อตกกระทบพื้นผิว และยึดศัตรูใกล้เคียงให้อยู่กับที่ ศัตรูที่ถูกยึดอยู่กับที่จะถูกจำกัดการได้ยินและติดสถานะเสื่อมสลาย",
 							"tr-TR": "Bir saf korku yumağı KUŞAN. Fırlatmak için ATEŞ ET. Yumak belli bir süre sonra yere iner. Yumağı yere erken indirmek için TEKRAR KULLAN. Yumak yere indiğinde açılarak yakındaki düşmanları olduğu yere sabitler. Sabitlenmiş düşmanlar Sağır olur ve Çürüme hasarı almaya başlar.",
 							"vi-VN": "TRANG BỊ 1 nút thắt chứa đầy ác mộng kinh hoàng. BẮN để ném. Nút thắt sẽ rơi xuống sau 1 khoảng thời gian cố định. TÁI SỬ DỤNG để thả sớm. Nút thắt sẽ đứt ra khi va chạm, giam giữ những kẻ địch gần bên. Những kẻ địch bị giam giữ sẽ mất đi Thính Giác và chịu Phân Rã.",
@@ -483,7 +483,7 @@
 							"ko-KR": "악몽의 힘을 장착합니다. 발사하면 멈출 수 없는 악몽의 에너지 파동을 보냅니다. 파동이 적에게 닿으면 공포의 흔적을 남기며 청력을 약화시키고 부패 효과를 적용합니다.",
 							"pl-PL": "WYPOSAŻ moc koszmaru. WYSTRZEL, aby uwolnić falę niepowstrzymanej energii koszmaru. Wrogowie dotknięci przez falę zostają oznaczeni szlakami przerażenia, ogłuszeni i ulegają rozpadowi.",
 							"pt-BR": "EQUIPE o poder dos pesadelos. DISPARE para liberar uma onda implacável de energia aterrorizante. Inimigos atingidos pela onda são Marcados por rastros sinistros e sofrem Surdez e Deterioração.",
-							"ru-RU": "Выбирает силу Кошмара. Нажмите кнопку ОГОНЬ, чтобы создать волну неудержимой энергии Кошмара. Эта энергия оглушает противников и наносит им периодический урон, а также прокладывает к ним след ужаса.",
+							"ru-RU": "Выбирает силу Кошмара. Нажмите кнопку ОГОНЬ, чтобы создать волну неудержимой энергии Кошмара. Эта энергия лишает противников слуха и наносит им периодический урон, а также прокладывает к ним след ужаса.",
 							"th-TH": "ติดตั้งมวลพลังแห่งฝันร้าย กดยิงเพื่อปลดปล่อยคลื่นพลังงานฝันร้ายที่ไม่สามารถหยุดได้ ศัตรูที่โดนคลื่นพลังจะถูกทำเครื่องหมายร่องรอยแห่งความกลัว ถูกจำกัดการได้ยิน และติดสถานะเสื่อมสลาย",
 							"tr-TR": "Kâbusun gücünü KUŞAN. Durdurulamaz bir kâbus enerjisi göndermek için ATEŞ ET. Dalgaya maruz kalan düşmanlar dehşet izleriyle İşaretlenir, Sağır olur ve Çürüme hasarı almaya başlar.",
 							"vi-VN": "TRANG BỊ nguồn sức mạnh ác mộng. BẮN để phóng ra một đợt sóng năng lượng ác mộng không thể cản phá. Những kẻ địch bị sóng bắn trúng sẽ bị Đánh Dấu bởi dấu vết kinh hoàng, mất đi Thính Giác và chịu Phân Rã.",
@@ -6593,7 +6593,7 @@
 							"fr-FR": "Produisez INSTANTANÉMENT une balise lumineuse au sol. RÉACTIVEZ pour revenir rapidement à votre balise sous forme d'une particule de lumière pure. Vous êtes invulnérable pendant ce déplacement. Vous regagnez une charge de Réfraction toutes les deux éliminations.",
 							"id-ID": "SEKETIKA menciptakan suar cahaya di lantai. AKTIFKAN ULANG untuk kembali ke suarmu sebagai setitik cahaya murni. Kamu kebal saat bergerak. Refract mereset charge tiap dua kill.",
 							"it-IT": "Crea ALL'ISTANTE un segnalatore luminoso sul terreno. RIATTIVA per tornare velocemente al segnalatore sotto forma di particella di luce pura. Durante il viaggio, Waylay è invulnerabile. Recuperi una carica di Rifrazione ogni due uccisioni.",
-							"ja-JP": "床に光のビーコンを設置する。純粋な光の粒子となり、ビーコンへ瞬時に移動する。移動中は無敵状態になる。「リフラクト」のチャージは敵を2回キルするたびにリセットされる。",
+							"ja-JP": "床に光のビーコンを設置する。再発動すると純粋な光の粒子となり、ビーコンへ瞬時に移動する。移動中は無敵状態になる。「リフラクト」のチャージは敵を2回キルするたびにリセットされる。",
 							"ko-KR": "즉시 바닥에 빛의 신호기를 생성합니다. 다시 활성화하면 순수한 빛의 입자가 되어 신호기로 돌아갑니다. 이동 중에는 무적 상태가 됩니다. 굴절 충전량은 2킬마다 하나 초기화됩니다.",
 							"pl-PL": "NATYCHMIAST tworzy promień światła na podłożu. AKTYWUJ PONOWNIE, aby wrócić do promienia jako drobina czystego światła. Podczas podróży nie można cię zranić. Refrakcja odświeża się co dwa zabójstwa.",
 							"pt-BR": "Cria INSTANTANEAMENTE um feixe de luz no chão. REATIVE para voltar rapidamente ao feixe como uma partícula de luz pura. Você fica invulnerável durante o deslocamento. Uma carga de Refração é restaurada a cada dois abates.",
@@ -35565,7 +35565,7 @@
 							"ru-RU": "Vandal \"Пустошь\"",
 							"th-TH": "Wasteland Vandal",
 							"tr-TR": "Viran Vandal",
-							"vi-VN": "Vandal Vùng Đất Hoang Tàn",
+							"vi-VN": "Vandal Wasteland",
 							"zh-CN": "废土 狂徒",
 							"zh-TW": "煙漠荒土 暴徒"
 						}
@@ -35596,7 +35596,7 @@
 							"ru-RU": "Vandal \"Пустошь\"",
 							"th-TH": "Wasteland Vandal",
 							"tr-TR": "Viran Vandal",
-							"vi-VN": "Vandal Vùng Đất Hoang Tàn",
+							"vi-VN": "Vandal Wasteland",
 							"zh-CN": "废土 狂徒",
 							"zh-TW": "煙漠荒土 暴徒"
 						}
@@ -35625,7 +35625,7 @@
 					"ru-RU": "Vandal \"Пустошь\"",
 					"th-TH": "Wasteland Vandal",
 					"tr-TR": "VİRAN VANDAL",
-					"vi-VN": "Vandal Vùng Đất Hoang Tàn",
+					"vi-VN": "Vandal Wasteland",
 					"zh-CN": "废土 狂徒",
 					"zh-TW": "煙漠荒土 暴徒"
 				}
@@ -44166,6 +44166,99 @@
 					"vi-VN": "Bulldog Gỗ Hạt Dẻ",
 					"zh-CN": "真皮沙发 獠犬",
 					"zh-TW": "漆面皮革 鬥牛犬"
+				}
+			}
+		},
+		{
+			"weaponId": "AE3DE142-4D85-2547-DD26-4E90BED35CF7",
+			"defaultChromaId": "FD1427EC-416D-8256-8CE2-CCAAA817E4A4",
+			"chromas": [
+				{
+					"id": "FD1427EC-416D-8256-8CE2-CCAAA817E4A4",
+					"label": "FD1427EC-416D-8256-8CE2-CCAAA817E4A4",
+					"name":
+					{
+						"defaultText": "Wasteland Bulldog",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأرض القاحلة بولدوغ",
+							"de-DE": "Bulldog – Ödland",
+							"en-US": "Wasteland Bulldog",
+							"es-ES": "Bulldog Wasteland",
+							"es-MX": "Bulldog Tierra de Nadie",
+							"fr-FR": "Bulldog (Terres désolées)",
+							"id-ID": "Wasteland Bulldog",
+							"it-IT": "Bulldog Terre desolate",
+							"ja-JP": "ウェイストランド ブルドッグ",
+							"ko-KR": "황무지 불독",
+							"pl-PL": "Bulldog Pustkowie",
+							"pt-BR": "Bulldog Desolação",
+							"ru-RU": "Bulldog \"Пустошь\"",
+							"th-TH": "Wasteland Bulldog",
+							"tr-TR": "Viran Bulldog",
+							"vi-VN": "Bulldog Wasteland",
+							"zh-CN": "废土//2.0 獠犬",
+							"zh-TW": "煙漠荒土 鬥牛犬"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "E9BC2389-4A3E-2D52-DC39-FD8C92011AAE",
+					"label": "E9BC2389-4A3E-2D52-DC39-FD8C92011AAE",
+					"name":
+					{
+						"defaultText": "Wasteland Bulldog",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأرض القاحلة بولدوغ",
+							"de-DE": "Bulldog – Ödland",
+							"en-US": "Wasteland Bulldog",
+							"es-ES": "Bulldog Wasteland",
+							"es-MX": "Bulldog Tierra de Nadie",
+							"fr-FR": "Bulldog (Terres désolées)",
+							"id-ID": "Wasteland Bulldog",
+							"it-IT": "Bulldog Terre desolate",
+							"ja-JP": "ウェイストランド ブルドッグ",
+							"ko-KR": "황무지 불독",
+							"pl-PL": "Bulldog Pustkowie",
+							"pt-BR": "Bulldog Desolação",
+							"ru-RU": "Bulldog \"Пустошь\"",
+							"th-TH": "Wasteland Bulldog",
+							"tr-TR": "Viran Bulldog",
+							"vi-VN": "Bulldog Wasteland",
+							"zh-CN": "废土//2.0 獠犬",
+							"zh-TW": "煙漠荒土 鬥牛犬"
+						}
+					}
+				}
+			],
+			"id": "FFB2F24F-43BD-8735-F9BD-36BDE08D86CB",
+			"label": "FFB2F24F-43BD-8735-F9BD-36BDE08D86CB",
+			"name":
+			{
+				"defaultText": "Wasteland Bulldog",
+				"localizedByCulture":
+				{
+					"ar-AE": "الأرض القاحلة بولدوغ",
+					"de-DE": "Bulldog – Ödland",
+					"en-US": "Wasteland Bulldog",
+					"es-ES": "Bulldog Wasteland",
+					"es-MX": "Bulldog Tierra de Nadie",
+					"fr-FR": "Bulldog (Terres désolées)",
+					"id-ID": "Wasteland Bulldog",
+					"it-IT": "Bulldog Terre desolate",
+					"ja-JP": "ウェイストランド ブルドッグ",
+					"ko-KR": "황무지 불독",
+					"pl-PL": "Bulldog Pustkowie",
+					"pt-BR": "Bulldog Desolação",
+					"ru-RU": "Bulldog \"Пустошь\"",
+					"th-TH": "Wasteland Bulldog",
+					"tr-TR": "Viran Bulldog",
+					"vi-VN": "Bulldog Wasteland",
+					"zh-CN": "废土//2.0 獠犬",
+					"zh-TW": "煙漠荒土 鬥牛犬"
 				}
 			}
 		},
@@ -58741,6 +58834,99 @@
 		},
 		{
 			"weaponId": "EE8E8D15-496B-07AC-E5F6-8FAE5D4C7B1A",
+			"defaultChromaId": "4547DA25-4C9F-13FD-9B8D-0CB416413B57",
+			"chromas": [
+				{
+					"id": "4547DA25-4C9F-13FD-9B8D-0CB416413B57",
+					"label": "4547DA25-4C9F-13FD-9B8D-0CB416413B57",
+					"name":
+					{
+						"defaultText": "Wasteland Phantom",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأرض القاحلة فانتوم",
+							"de-DE": "Phantom – Ödland",
+							"en-US": "Wasteland Phantom",
+							"es-ES": "Phantom Wasteland",
+							"es-MX": "Phantom Tierra de Nadie",
+							"fr-FR": "Phantom (Terres désolées)",
+							"id-ID": "Wasteland Phantom",
+							"it-IT": "Phantom Terre desolate",
+							"ja-JP": "ウェイストランド ファントム",
+							"ko-KR": "황무지 팬텀",
+							"pl-PL": "Phantom Pustkowie",
+							"pt-BR": "Phantom Desolação",
+							"ru-RU": "Phantom \"Пустошь\"",
+							"th-TH": "Wasteland Phantom",
+							"tr-TR": "Viran Phantom",
+							"vi-VN": "Phantom Wasteland",
+							"zh-CN": "废土//2.0 幻影",
+							"zh-TW": "煙漠荒土 幻象"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "9880F2AD-479C-0125-9028-349E1F828E73",
+					"label": "9880F2AD-479C-0125-9028-349E1F828E73",
+					"name":
+					{
+						"defaultText": "Wasteland Phantom",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأرض القاحلة فانتوم",
+							"de-DE": "Phantom – Ödland",
+							"en-US": "Wasteland Phantom",
+							"es-ES": "Phantom Wasteland",
+							"es-MX": "Phantom Tierra de Nadie",
+							"fr-FR": "Phantom (Terres désolées)",
+							"id-ID": "Wasteland Phantom",
+							"it-IT": "Phantom Terre desolate",
+							"ja-JP": "ウェイストランド ファントム",
+							"ko-KR": "황무지 팬텀",
+							"pl-PL": "Phantom Pustkowie",
+							"pt-BR": "Phantom Desolação",
+							"ru-RU": "Phantom \"Пустошь\"",
+							"th-TH": "Wasteland Phantom",
+							"tr-TR": "Viran Phantom",
+							"vi-VN": "Phantom Wasteland",
+							"zh-CN": "废土//2.0 幻影",
+							"zh-TW": "煙漠荒土 幻象"
+						}
+					}
+				}
+			],
+			"id": "33F1AE2C-4BD3-97EB-1798-57AB067CE805",
+			"label": "33F1AE2C-4BD3-97EB-1798-57AB067CE805",
+			"name":
+			{
+				"defaultText": "Wasteland Phantom",
+				"localizedByCulture":
+				{
+					"ar-AE": "الأرض القاحلة فانتوم",
+					"de-DE": "Phantom – Ödland",
+					"en-US": "Wasteland Phantom",
+					"es-ES": "Phantom Wasteland",
+					"es-MX": "Phantom Tierra de Nadie",
+					"fr-FR": "Phantom (Terres désolées)",
+					"id-ID": "Wasteland Phantom",
+					"it-IT": "Phantom Terre desolate",
+					"ja-JP": "ウェイストランド ファントム",
+					"ko-KR": "황무지 팬텀",
+					"pl-PL": "Phantom Pustkowie",
+					"pt-BR": "Phantom Desolação",
+					"ru-RU": "Phantom \"Пустошь\"",
+					"th-TH": "Wasteland Phantom",
+					"tr-TR": "Viran Phantom",
+					"vi-VN": "Phantom Wasteland",
+					"zh-CN": "废土//2.0 幻影",
+					"zh-TW": "煙漠荒土 幻象"
+				}
+			}
+		},
+		{
+			"weaponId": "EE8E8D15-496B-07AC-E5F6-8FAE5D4C7B1A",
 			"defaultChromaId": "C90457F0-4342-9615-D012-96A68CBF4304",
 			"chromas": [
 				{
@@ -71596,6 +71782,99 @@
 					"vi-VN": "Bucky Khí Sương",
 					"zh-CN": "喷漆涂鸦 雄鹿",
 					"zh-TW": "街頭藝術 重砲"
+				}
+			}
+		},
+		{
+			"weaponId": "910BE174-449B-C412-AB22-D0873436B21B",
+			"defaultChromaId": "CAA2CEC8-4F09-5A38-BC86-F09D3786BFC4",
+			"chromas": [
+				{
+					"id": "CAA2CEC8-4F09-5A38-BC86-F09D3786BFC4",
+					"label": "CAA2CEC8-4F09-5A38-BC86-F09D3786BFC4",
+					"name":
+					{
+						"defaultText": "Wasteland Bucky",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأرض القاحلة باكي",
+							"de-DE": "Bucky – Ödland",
+							"en-US": "Wasteland Bucky",
+							"es-ES": "Bucky Wasteland",
+							"es-MX": "Bucky Tierra de Nadie",
+							"fr-FR": "Bucky (Terres désolées)",
+							"id-ID": "Wasteland Bucky",
+							"it-IT": "Bucky Terre desolate",
+							"ja-JP": "ウェイストランド バッキー",
+							"ko-KR": "황무지 버키",
+							"pl-PL": "Bucky Pustkowie",
+							"pt-BR": "Bucky Desolação",
+							"ru-RU": "Bucky \"Пустошь\"",
+							"th-TH": "Wasteland Bucky",
+							"tr-TR": "Viran Bucky",
+							"vi-VN": "Bucky Wasteland",
+							"zh-CN": "废土//2.0 雄鹿",
+							"zh-TW": "煙漠荒土 重砲"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "ACD4B2CF-409D-841B-F5F3-E4969C720323",
+					"label": "ACD4B2CF-409D-841B-F5F3-E4969C720323",
+					"name":
+					{
+						"defaultText": "Wasteland Bucky",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأرض القاحلة باكي",
+							"de-DE": "Bucky – Ödland",
+							"en-US": "Wasteland Bucky",
+							"es-ES": "Bucky Wasteland",
+							"es-MX": "Bucky Tierra de Nadie",
+							"fr-FR": "Bucky (Terres désolées)",
+							"id-ID": "Wasteland Bucky",
+							"it-IT": "Bucky Terre desolate",
+							"ja-JP": "ウェイストランド バッキー",
+							"ko-KR": "황무지 버키",
+							"pl-PL": "Bucky Pustkowie",
+							"pt-BR": "Bucky Desolação",
+							"ru-RU": "Bucky \"Пустошь\"",
+							"th-TH": "Wasteland Bucky",
+							"tr-TR": "Viran Bucky",
+							"vi-VN": "Bucky Wasteland",
+							"zh-CN": "废土//2.0 雄鹿",
+							"zh-TW": "煙漠荒土 重砲"
+						}
+					}
+				}
+			],
+			"id": "949E3298-4875-C495-9978-EC87F3A85118",
+			"label": "949E3298-4875-C495-9978-EC87F3A85118",
+			"name":
+			{
+				"defaultText": "Wasteland Bucky",
+				"localizedByCulture":
+				{
+					"ar-AE": "الأرض القاحلة باكي",
+					"de-DE": "Bucky – Ödland",
+					"en-US": "Wasteland Bucky",
+					"es-ES": "Bucky Wasteland",
+					"es-MX": "Bucky Tierra de Nadie",
+					"fr-FR": "Bucky (Terres désolées)",
+					"id-ID": "Wasteland Bucky",
+					"it-IT": "Bucky Terre desolate",
+					"ja-JP": "ウェイストランド バッキー",
+					"ko-KR": "황무지 버키",
+					"pl-PL": "Bucky Pustkowie",
+					"pt-BR": "Bucky Desolação",
+					"ru-RU": "Bucky \"Пустошь\"",
+					"th-TH": "Wasteland Bucky",
+					"tr-TR": "Viran Bucky",
+					"vi-VN": "Bucky Wasteland",
+					"zh-CN": "废土//2.0 雄鹿",
+					"zh-TW": "煙漠荒土 重砲"
 				}
 			}
 		},
@@ -117979,7 +118258,7 @@
 							"ru-RU": "Sheriff \"Пустошь\"",
 							"th-TH": "Wasteland Sheriff",
 							"tr-TR": "Viran Sheriff",
-							"vi-VN": "Sheriff Vùng Đất Hoang Tàn",
+							"vi-VN": "Sheriff Wasteland",
 							"zh-CN": "废土 正义",
 							"zh-TW": "煙漠荒土 神射"
 						}
@@ -118010,7 +118289,7 @@
 							"ru-RU": "Sheriff \"Пустошь\"",
 							"th-TH": "Wasteland Sheriff",
 							"tr-TR": "Viran Sheriff",
-							"vi-VN": "Sheriff Vùng Đất Hoang Tàn",
+							"vi-VN": "Sheriff Wasteland",
 							"zh-CN": "废土 正义",
 							"zh-TW": "煙漠荒土 神射"
 						}
@@ -118039,7 +118318,7 @@
 					"ru-RU": "Sheriff \"Пустошь\"",
 					"th-TH": "Wasteland Sheriff",
 					"tr-TR": "Viran Sheriff",
-					"vi-VN": "Sheriff Vùng Đất Hoang Tàn",
+					"vi-VN": "Sheriff Wasteland",
 					"zh-CN": "废土 正义",
 					"zh-TW": "煙漠荒土 神射"
 				}
@@ -123108,7 +123387,7 @@
 							"ru-RU": "Shorty \"Пустошь\"",
 							"th-TH": "Wasteland Shorty",
 							"tr-TR": "Viran Shorty",
-							"vi-VN": "Shorty Vùng Đất Hoang Tàn",
+							"vi-VN": "Shorty Wasteland",
 							"zh-CN": "废土 短炮",
 							"zh-TW": "煙漠荒土 短管"
 						}
@@ -123139,7 +123418,7 @@
 							"ru-RU": "Shorty \"Пустошь\"",
 							"th-TH": "Wasteland Shorty",
 							"tr-TR": "Viran Shorty",
-							"vi-VN": "Shorty Vùng Đất Hoang Tàn",
+							"vi-VN": "Shorty Wasteland",
 							"zh-CN": "废土 短炮",
 							"zh-TW": "煙漠荒土 短管"
 						}
@@ -123168,7 +123447,7 @@
 					"ru-RU": "Shorty \"Пустошь\"",
 					"th-TH": "Wasteland Shorty",
 					"tr-TR": "VİRAN SHORTY",
-					"vi-VN": "Shorty Vùng Đất Hoang Tàn",
+					"vi-VN": "Shorty Wasteland",
 					"zh-CN": "废土 短炮",
 					"zh-TW": "煙漠荒土 短管"
 				}
@@ -142891,7 +143170,7 @@
 					"it-IT": "Outlaw Standard",
 					"ja-JP": "スタンダード アウトロー",
 					"ko-KR": "기본 아웃로",
-					"pl-PL": "Zwykły Outlaw",
+					"pl-PL": "Outlaw Zwykły",
 					"pt-BR": "Outlaw Padrão",
 					"ru-RU": "Outlaw \"Стандарт\"",
 					"th-TH": "Standard Outlaw",
@@ -143294,6 +143573,99 @@
 					"vi-VN": "Outlaw Holomoku",
 					"zh-CN": "海洋旅者 莽侠",
 					"zh-TW": "遠洋啟航 逃犯"
+				}
+			}
+		},
+		{
+			"weaponId": "5F0AAF7A-4289-3998-D5FF-EB9A5CF7EF5C",
+			"defaultChromaId": "12120D07-41F2-D2C4-F476-82A5687F1E62",
+			"chromas": [
+				{
+					"id": "12120D07-41F2-D2C4-F476-82A5687F1E62",
+					"label": "12120D07-41F2-D2C4-F476-82A5687F1E62",
+					"name":
+					{
+						"defaultText": "Wasteland Outlaw",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأرض القاحلة آوت لو",
+							"de-DE": "Outlaw – Ödland",
+							"en-US": "Wasteland Outlaw",
+							"es-ES": "Outlaw Wasteland",
+							"es-MX": "Outlaw Tierra de Nadie",
+							"fr-FR": "Outlaw (Terres désolées)",
+							"id-ID": "Wasteland Outlaw",
+							"it-IT": "Outlaw Terre desolate",
+							"ja-JP": "ウェイストランド アウトロー",
+							"ko-KR": "황무지 아웃로",
+							"pl-PL": "Outlaw Pustkowie",
+							"pt-BR": "Outlaw Desolação",
+							"ru-RU": "Outlaw \"Пустошь\"",
+							"th-TH": "Wasteland Outlaw",
+							"tr-TR": "Viran Outlaw",
+							"vi-VN": "Outlaw Wasteland",
+							"zh-CN": "废土//2.0 莽侠",
+							"zh-TW": "煙漠荒土 逃犯"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "8FEC472E-481B-3722-56D0-4CB5341F77D9",
+					"label": "8FEC472E-481B-3722-56D0-4CB5341F77D9",
+					"name":
+					{
+						"defaultText": "Wasteland Outlaw",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأرض القاحلة آوت لو",
+							"de-DE": "Outlaw – Ödland",
+							"en-US": "Wasteland Outlaw",
+							"es-ES": "Outlaw Wasteland",
+							"es-MX": "Outlaw Tierra de Nadie",
+							"fr-FR": "Outlaw (Terres désolées)",
+							"id-ID": "Wasteland Outlaw",
+							"it-IT": "Outlaw Terre desolate",
+							"ja-JP": "ウェイストランド アウトロー",
+							"ko-KR": "황무지 아웃로",
+							"pl-PL": "Outlaw Pustkowie",
+							"pt-BR": "Outlaw Desolação",
+							"ru-RU": "Outlaw \"Пустошь\"",
+							"th-TH": "Wasteland Outlaw",
+							"tr-TR": "Viran Outlaw",
+							"vi-VN": "Outlaw Wasteland",
+							"zh-CN": "废土//2.0 莽侠",
+							"zh-TW": "煙漠荒土 逃犯"
+						}
+					}
+				}
+			],
+			"id": "04B1D687-4E86-1011-56A4-A9816CF3F5E0",
+			"label": "04B1D687-4E86-1011-56A4-A9816CF3F5E0",
+			"name":
+			{
+				"defaultText": "Wasteland Outlaw",
+				"localizedByCulture":
+				{
+					"ar-AE": "الأرض القاحلة آوت لو",
+					"de-DE": "Outlaw – Ödland",
+					"en-US": "Wasteland Outlaw",
+					"es-ES": "Outlaw Wasteland",
+					"es-MX": "Outlaw Tierra de Nadie",
+					"fr-FR": "Outlaw (Terres désolées)",
+					"id-ID": "Wasteland Outlaw",
+					"it-IT": "Outlaw Terre desolate",
+					"ja-JP": "ウェイストランド アウトロー",
+					"ko-KR": "황무지 아웃로",
+					"pl-PL": "Outlaw Pustkowie",
+					"pt-BR": "Outlaw Desolação",
+					"ru-RU": "Outlaw \"Пустошь\"",
+					"th-TH": "Wasteland Outlaw",
+					"tr-TR": "Viran Outlaw",
+					"vi-VN": "Outlaw Wasteland",
+					"zh-CN": "废土//2.0 莽侠",
+					"zh-TW": "煙漠荒土 逃犯"
 				}
 			}
 		},
@@ -149034,7 +149406,7 @@
 							"ru-RU": "Marshal \"Пустошь\"",
 							"th-TH": "Wasteland Marshal",
 							"tr-TR": "Viran Marshal",
-							"vi-VN": "Marshal Vùng Đất Hoang Tàn",
+							"vi-VN": "Marshal Wasteland",
 							"zh-CN": "废土 飞将",
 							"zh-TW": "煙漠荒土 警長"
 						}
@@ -149065,7 +149437,7 @@
 							"ru-RU": "Marshal \"Пустошь\"",
 							"th-TH": "Wasteland Marshal",
 							"tr-TR": "Viran Marshal",
-							"vi-VN": "Marshal Vùng Đất Hoang Tàn",
+							"vi-VN": "Marshal Wasteland",
 							"zh-CN": "废土 飞将",
 							"zh-TW": "煙漠荒土 警長"
 						}
@@ -149094,7 +149466,7 @@
 					"ru-RU": "Marshal \"Пустошь\"",
 					"th-TH": "Wasteland Marshal",
 					"tr-TR": "VİRAN MARSHAL",
-					"vi-VN": "Marshal Vùng Đất Hoang Tàn",
+					"vi-VN": "Marshal Wasteland",
 					"zh-CN": "废土 飞将",
 					"zh-TW": "煙漠荒土 警長"
 				}
@@ -160457,7 +160829,7 @@
 							"ru-RU": "Spectre \"Пустошь\"",
 							"th-TH": "Wasteland Spectre",
 							"tr-TR": "Viran Spectre",
-							"vi-VN": "Spectre Vùng Đất Hoang Tàn",
+							"vi-VN": "Spectre Wasteland",
 							"zh-CN": "废土 骇灵",
 							"zh-TW": "煙漠荒土 惡靈"
 						}
@@ -160488,7 +160860,7 @@
 							"ru-RU": "Spectre \"Пустошь\"",
 							"th-TH": "Wasteland Spectre",
 							"tr-TR": "Viran Spectre",
-							"vi-VN": "Spectre Vùng Đất Hoang Tàn",
+							"vi-VN": "Spectre Wasteland",
 							"zh-CN": "废土 骇灵",
 							"zh-TW": "煙漠荒土 惡靈"
 						}
@@ -160517,7 +160889,7 @@
 					"ru-RU": "Spectre \"Пустошь\"",
 					"th-TH": "Wasteland Spectre",
 					"tr-TR": "VİRAN SPECTRE",
-					"vi-VN": "Spectre Vùng Đất Hoang Tàn",
+					"vi-VN": "Spectre Wasteland",
 					"zh-CN": "废土 骇灵",
 					"zh-TW": "煙漠荒土 惡靈"
 				}
@@ -188066,6 +188438,99 @@
 		},
 		{
 			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
+			"defaultChromaId": "4DA3193D-4884-7A53-AA04-14878ACD4546",
+			"chromas": [
+				{
+					"id": "4DA3193D-4884-7A53-AA04-14878ACD4546",
+					"label": "4DA3193D-4884-7A53-AA04-14878ACD4546",
+					"name":
+					{
+						"defaultText": "Wasteland Crowbar",
+						"localizedByCulture":
+						{
+							"ar-AE": "عتلة الأرض القاحلة",
+							"de-DE": "Brecheisen – Ödland",
+							"en-US": "Wasteland Crowbar",
+							"es-ES": "Palanca Wasteland",
+							"es-MX": "Barreta Tierra de Nadie",
+							"fr-FR": "Pied-de-biche (Terres désolées)",
+							"id-ID": "Wasteland Crowbar",
+							"it-IT": "Piede di porco Terre desolate",
+							"ja-JP": "ウェイストランド バール",
+							"ko-KR": "황무지 쇠지렛대",
+							"pl-PL": "Łom Pustkowie",
+							"pt-BR": "Pé de Cabra Desolação",
+							"ru-RU": "Гвоздодер \"Пустошь\"",
+							"th-TH": "Wasteland Crowbar",
+							"tr-TR": "Viran Levye",
+							"vi-VN": "Xà Beng Wasteland",
+							"zh-CN": "废土//2.0 撬棍",
+							"zh-TW": "煙漠荒土 撬棍"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "D15EBB7C-425D-4C95-EC5E-F69BFF2C86C3",
+					"label": "D15EBB7C-425D-4C95-EC5E-F69BFF2C86C3",
+					"name":
+					{
+						"defaultText": "Wasteland Crowbar",
+						"localizedByCulture":
+						{
+							"ar-AE": "عتلة الأرض القاحلة",
+							"de-DE": "Brecheisen – Ödland",
+							"en-US": "Wasteland Crowbar",
+							"es-ES": "Palanca Wasteland",
+							"es-MX": "Barreta Tierra de Nadie",
+							"fr-FR": "Pied-de-biche (Terres désolées)",
+							"id-ID": "Wasteland Crowbar",
+							"it-IT": "Piede di porco Terre desolate",
+							"ja-JP": "ウェイストランド バール",
+							"ko-KR": "황무지 쇠지렛대",
+							"pl-PL": "Łom Pustkowie",
+							"pt-BR": "Pé de Cabra Desolação",
+							"ru-RU": "Гвоздодер \"Пустошь\"",
+							"th-TH": "Wasteland Crowbar",
+							"tr-TR": "Viran Levye",
+							"vi-VN": "Xà Beng Wasteland",
+							"zh-CN": "废土//2.0 撬棍",
+							"zh-TW": "煙漠荒土 撬棍"
+						}
+					}
+				}
+			],
+			"id": "9CCDE738-4D26-44E3-189E-DDAEBB95E64E",
+			"label": "9CCDE738-4D26-44E3-189E-DDAEBB95E64E",
+			"name":
+			{
+				"defaultText": "Wasteland Crowbar",
+				"localizedByCulture":
+				{
+					"ar-AE": "عتلة الأرض القاحلة",
+					"de-DE": "Brecheisen – Ödland",
+					"en-US": "Wasteland Crowbar",
+					"es-ES": "Palanca Wasteland",
+					"es-MX": "Barreta Tierra de Nadie",
+					"fr-FR": "Pied-de-biche (Terres désolées)",
+					"id-ID": "Wasteland Crowbar",
+					"it-IT": "Piede di porco Terre desolate",
+					"ja-JP": "ウェイストランド バール",
+					"ko-KR": "황무지 쇠지렛대",
+					"pl-PL": "Łom Pustkowie",
+					"pt-BR": "Pé de Cabra Desolação",
+					"ru-RU": "Гвоздодер \"Пустошь\"",
+					"th-TH": "Wasteland Crowbar",
+					"tr-TR": "Viran Levye",
+					"vi-VN": "Xà Beng Wasteland",
+					"zh-CN": "废土//2.0 撬棍",
+					"zh-TW": "煙漠荒土 撬棍"
+				}
+			}
+		},
+		{
+			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
 			"defaultChromaId": "5A81F28D-4221-3AAA-F230-8F9CBC2FC3E4",
 			"chromas": [
 				{
@@ -189092,6 +189557,180 @@
 					"vi-VN": "Bind",
 					"zh-CN": "源工重镇",
 					"zh-TW": "劫境之地"
+				}
+			}
+		},
+		{
+			"coordinates":
+			{
+				"defaultText": "",
+				"localizedByCulture":
+				{
+					"ar-AE": "",
+					"de-DE": "",
+					"en-US": "",
+					"es-ES": "",
+					"es-MX": "",
+					"fr-FR": "",
+					"id-ID": "",
+					"it-IT": "",
+					"ja-JP": "",
+					"ko-KR": "",
+					"pl-PL": "",
+					"pt-BR": "",
+					"ru-RU": "",
+					"th-TH": "",
+					"tr-TR": "",
+					"vi-VN": "",
+					"zh-CN": "",
+					"zh-TW": ""
+				}
+			},
+			"xScalarToAdd": 0,
+			"xMultiplier": 0,
+			"yScalarToAdd": 0,
+			"yMultiplier": 0,
+			"id": "A9009649-421F-D5D5-F80C-0CBE02C125BB",
+			"label": "A9009649-421F-D5D5-F80C-0CBE02C125BB",
+			"name":
+			{
+				"defaultText": "Skirmish A",
+				"localizedByCulture":
+				{
+					"ar-AE": "مناوشة A",
+					"de-DE": "Geplänkel A",
+					"en-US": "Skirmish A",
+					"es-ES": "Escaramuza A",
+					"es-MX": "Escaramuza A",
+					"fr-FR": "Escarmouche A",
+					"id-ID": "Skirmish A",
+					"it-IT": "Schermaglia A",
+					"ja-JP": "スカーミッシュ A",
+					"ko-KR": "난투 A",
+					"pl-PL": "Potyczka A",
+					"pt-BR": "Duelo A",
+					"ru-RU": "Столкновение A",
+					"th-TH": "Skirmish A",
+					"tr-TR": "ÇATIŞMA A",
+					"vi-VN": "Skirmish A",
+					"zh-CN": "斗牛 1",
+					"zh-TW": "火線交鋒A"
+				}
+			}
+		},
+		{
+			"coordinates":
+			{
+				"defaultText": "",
+				"localizedByCulture":
+				{
+					"ar-AE": "",
+					"de-DE": "",
+					"en-US": "",
+					"es-ES": "",
+					"es-MX": "",
+					"fr-FR": "",
+					"id-ID": "",
+					"it-IT": "",
+					"ja-JP": "",
+					"ko-KR": "",
+					"pl-PL": "",
+					"pt-BR": "",
+					"ru-RU": "",
+					"th-TH": "",
+					"tr-TR": "",
+					"vi-VN": "",
+					"zh-CN": "",
+					"zh-TW": ""
+				}
+			},
+			"xScalarToAdd": 0,
+			"xMultiplier": 0,
+			"yScalarToAdd": 0,
+			"yMultiplier": 0,
+			"id": "A38A3F9A-4042-844C-8970-A3AC2F7CE93D",
+			"label": "A38A3F9A-4042-844C-8970-A3AC2F7CE93D",
+			"name":
+			{
+				"defaultText": "Skirmish B",
+				"localizedByCulture":
+				{
+					"ar-AE": "مناوشة B",
+					"de-DE": "Geplänkel B",
+					"en-US": "Skirmish B",
+					"es-ES": "Escaramuza B",
+					"es-MX": "Escaramuza B",
+					"fr-FR": "Escarmouche B",
+					"id-ID": "Skirmish B",
+					"it-IT": "Schermaglia B",
+					"ja-JP": "スカーミッシュ B",
+					"ko-KR": "난투 B",
+					"pl-PL": "Potyczka B",
+					"pt-BR": "Duelo B",
+					"ru-RU": "Столкновение B",
+					"th-TH": "Skirmish B",
+					"tr-TR": "ÇATIŞMA B",
+					"vi-VN": "Skirmish B",
+					"zh-CN": "斗牛 2",
+					"zh-TW": "火線交鋒B"
+				}
+			}
+		},
+		{
+			"coordinates":
+			{
+				"defaultText": "",
+				"localizedByCulture":
+				{
+					"ar-AE": "",
+					"de-DE": "",
+					"en-US": "",
+					"es-ES": "",
+					"es-MX": "",
+					"fr-FR": "",
+					"id-ID": "",
+					"it-IT": "",
+					"ja-JP": "",
+					"ko-KR": "",
+					"pl-PL": "",
+					"pt-BR": "",
+					"ru-RU": "",
+					"th-TH": "",
+					"tr-TR": "",
+					"vi-VN": "",
+					"zh-CN": "",
+					"zh-TW": ""
+				}
+			},
+			"xScalarToAdd": 0,
+			"xMultiplier": 0,
+			"yScalarToAdd": 0,
+			"yMultiplier": 0,
+			"id": "A264DE0F-4A04-9C78-C97A-A6B192CE6E86",
+			"label": "A264DE0F-4A04-9C78-C97A-A6B192CE6E86",
+			"name":
+			{
+				"defaultText": "Skirmish C",
+				"localizedByCulture":
+				{
+					"ar-AE": "مناوشة C",
+					"de-DE": "Geplänkel C",
+					"en-US": "Skirmish C",
+					"es-ES": "Escaramuza C",
+					"es-MX": "Escaramuza C",
+					"fr-FR": "Escarmouche C",
+					"id-ID": "Skirmish C",
+					"it-IT": "Schermaglia C",
+					"ja-JP": "スカーミッシュ C",
+					"ko-KR": "난투 C",
+					"pl-PL": "Potyczka C",
+					"pt-BR": "Duelo C",
+					"ru-RU": "Столкновение C",
+					"th-TH": "Skirmish C",
+					"tr-TR": "ÇATIŞMA C",
+					"vi-VN": "Skirmish C",
+					"zh-CN": "斗牛 3",
+					"zh-TW": "火線交鋒C"
 				}
 			}
 		},
@@ -203913,6 +204552,35 @@
 					"vi-VN": "Thẻ PREMIER V25P4",
 					"zh-CN": "超级赛//V25第四幕 卡面",
 					"zh-TW": "Premier V25第四章 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "E10F88FC-400B-A70F-D608-FCA288BF88F6",
+			"label": "E10F88FC-400B-A70F-D608-FCA288BF88F6",
+			"name":
+			{
+				"defaultText": "PREMIER V25A5 Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة بريمير V25م5",
+					"de-DE": "Banner „PREMIER V25A5“",
+					"en-US": "PREMIER V25A5 Card",
+					"es-ES": "Tarjeta de PREMIER V25A5",
+					"es-MX": "Tarjeta V25A5: PREMIER",
+					"fr-FR": "Carte PREMIER V25A5",
+					"id-ID": "Kartu PREMIER V25A5",
+					"it-IT": "Carta PREMIER V25A5",
+					"ja-JP": "PREMIER V25A5 カード",
+					"ko-KR": "프리미어 V25A5 카드",
+					"pl-PL": "Karta „V25A5 PREMIER”",
+					"pt-BR": "Card PREMIER V25A5",
+					"ru-RU": "Карточка \"V25A5 PREMIER\"",
+					"th-TH": "การ์ด PREMIER V25A5",
+					"tr-TR": "PREMIER V25K5 Kartı",
+					"vi-VN": "Thẻ PREMIER V25P5",
+					"zh-CN": "超级赛//V25第五幕 卡面",
+					"zh-TW": "Premier V25第五章 玩家卡面"
 				}
 			}
 		},
@@ -222781,7 +223449,7 @@
 					"pt-BR": "Jiāyóu",
 					"ru-RU": "Поддай газу",
 					"th-TH": "เจียโหยว",
-					"tr-TR": "Jiāyóu",
+					"tr-TR": "JIĀYÓU",
 					"vi-VN": "Jiāyóu",
 					"zh-CN": "加油",
 					"zh-TW": "加油"
@@ -226916,6 +227584,330 @@
 					"vi-VN": "Danh Hiệu VĐ PREMIER V25P4 // CC",
 					"zh-CN": "超级赛//V25第四幕冠军//高级 称号",
 					"zh-TW": "Premier V25第四章冠軍 // 高階 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V25A5 CHAMPION // OPN",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V25م5 \\\\ مفتوح",
+					"de-DE": "PREMIER V25A5 CHAMPION // OFFN",
+					"en-US": "PREMIER V25A5 CHAMPION // OPN",
+					"es-ES": "CAMP. PREMIER V25A5 // ABRT",
+					"es-MX": "V25A5: ABIERTO // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V25A5 // OUV",
+					"id-ID": "PREMIER V25A5 CHAMPION // OPN",
+					"it-IT": "CAMPIONE PREMIER V25A5 // APR",
+					"ja-JP": "PREMIER V25A5 チャンピオン // OPN",
+					"ko-KR": "프리미어 V25A5 챔피언 // 초급",
+					"pl-PL": "BOHATER V25A5 PREMIER // OTW",
+					"pt-BR": "CAMPEÃO PREMIER V25A5 // ABR",
+					"ru-RU": "ЧЕМПИОН V25A5 PREMIER // ОТКР",
+					"th-TH": "PREMIER V25A5 CHAMPION // OPN",
+					"tr-TR": "PREMIER V25K5 ŞAMP. // AÇK",
+					"vi-VN": "VĐ PREMIER V25P5 // TD",
+					"zh-CN": "超级赛//V25第五幕冠军//初级",
+					"zh-TW": "Premier V25第五章冠軍 // 初階"
+				}
+			},
+			"id": "983ED823-4D1A-DD83-1330-F5B120FD70A7",
+			"label": "983ED823-4D1A-DD83-1330-F5B120FD70A7",
+			"name":
+			{
+				"defaultText": "PREMIER V25A5 CHAMPION // OPN Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V25م5 \\\\ مفتوح",
+					"de-DE": "Titel „PREMIER V25A5 CHAMPION // OFFN“",
+					"en-US": "PREMIER V25A5 CHAMPION // OPN Title",
+					"es-ES": "CAMP. PREMIER V25A5 // Título ABRT",
+					"es-MX": "Título V25A5: ABIERTO // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V25A5 // OUV",
+					"id-ID": "Gelar PREMIER V25A5 CHAMPION // OPN",
+					"it-IT": "Titolo CAMPIONE PREMIER V25A5 // APR",
+					"ja-JP": "PREMIER V25A5 チャンピオン // OPN タイトル",
+					"ko-KR": "프리미어 V25A5 챔피언 // 초급 칭호",
+					"pl-PL": "Tytuł „BOHATER V25A5 PREMIER // OTW”",
+					"pt-BR": "Título CAMPEÃO PREMIER V25A5 // ABR",
+					"ru-RU": "Звание \"ЧЕМПИОН V25A5 PREMIER // ОТКР\"",
+					"th-TH": "ฉายา PREMIER V25A5 CHAMPION // OPN",
+					"tr-TR": "PREMIER V25K5 ŞAMP. // AÇK Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V25P5 // TD",
+					"zh-CN": "超级赛//V25第五幕冠军//初级 称号",
+					"zh-TW": "Premier V25第五章冠軍 // 初階 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V25A5 CHAMPION // INT",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V25م5 \\\\ متوسط",
+					"de-DE": "PREMIER V25A5 CHAMPION // FRTG",
+					"en-US": "PREMIER V25A5 CHAMPION // INT",
+					"es-ES": "CAMP. PREMIER V25A5 // INTM",
+					"es-MX": "V25A5: INT. // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V25A5 // INT",
+					"id-ID": "PREMIER V25A5 CHAMPION // INT",
+					"it-IT": "CAMPIONE PREMIER V25A5 // INT",
+					"ja-JP": "PREMIER V25A5 チャンピオン // INT",
+					"ko-KR": "프리미어 V25A5 챔피언 // 중급",
+					"pl-PL": "BOHATER V25A5 PREMIER // ŚRD",
+					"pt-BR": "CAMPEÃO PREMIER V25A5 // INT",
+					"ru-RU": "ЧЕМПИОН V25A5 PREMIER // СРЕД",
+					"th-TH": "PREMIER V25A5 CHAMPION // INT",
+					"tr-TR": "PREMIER V25K5 ŞAMP. // ORT",
+					"vi-VN": "VĐ PREMIER V25P5 // TC",
+					"zh-CN": "超级赛//V25第五幕冠军//中级",
+					"zh-TW": "Premier V25第五章冠軍 // 中階"
+				}
+			},
+			"id": "6CB52604-468C-A15D-F0CA-04912D3D9066",
+			"label": "6CB52604-468C-A15D-F0CA-04912D3D9066",
+			"name":
+			{
+				"defaultText": "PREMIER V25A5 CHAMPION // INT Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V25م5 \\\\ متوسط",
+					"de-DE": "Titel „PREMIER V25A5 CHAMPION // FRTG“",
+					"en-US": "PREMIER V25A5 CHAMPION // INT Title",
+					"es-ES": "CAMP. PREMIER V25A5 // Título INTM",
+					"es-MX": "Título V25A5: INT. // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V25A5 // INT",
+					"id-ID": "Gelar PREMIER V25A5 CHAMPION // INT",
+					"it-IT": "Titolo CAMPIONE PREMIER V25A5 // INT",
+					"ja-JP": "PREMIER V25A5 チャンピオン // INT タイトル",
+					"ko-KR": "프리미어 V25A5 챔피언 // 중급 칭호",
+					"pl-PL": "Tytuł „BOHATER V25A5 PREMIER // ŚRD”",
+					"pt-BR": "Título CAMPEÃO PREMIER V25A5 // INT",
+					"ru-RU": "Звание \"ЧЕМПИОН V25A5 PREMIER // СРЕД\"",
+					"th-TH": "ฉายา PREMIER V25A5 CHAMPION // INT",
+					"tr-TR": "PREMIER V25K5 ŞAMP. // ORT Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V25P5 // TC",
+					"zh-CN": "超级赛//V25第五幕冠军//中级 称号",
+					"zh-TW": "Premier V25第五章冠軍 // 中階 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V25A5 GRAND CHAMP",
+				"localizedByCulture":
+				{
+					"ar-AE": "البطل الأعظم بريمير V25م5",
+					"de-DE": "PREMIER V25A5 GROSSMEISTER",
+					"en-US": "PREMIER V25A5 GRAND CHAMP",
+					"es-ES": "GRAN CAMP. PREMIER V25A5",
+					"es-MX": "V25A5: MEGACAMPEONES PREMIER",
+					"fr-FR": "GRAND CHAMPION DE PREMIER V25A5",
+					"id-ID": "PREMIER V25A5 GRAND CHAMP",
+					"it-IT": "CAMPIONE ASSOLUTO PREMIER V25A5",
+					"ja-JP": "PREMIER V25A5 グランドチャンピオン",
+					"ko-KR": "프리미어 V25A5 그랜드 챔피언",
+					"pl-PL": "NAJWIĘKSZY BOHATER V25A5 PREMIER",
+					"pt-BR": "GRANDE CAMPEÃO PREMIER V25A5",
+					"ru-RU": "ГРАНД-ЧЕМПИОН V25A5 PREMIER",
+					"th-TH": "PREMIER V25A5 GRAND CHAMP",
+					"tr-TR": "PREMIER V25K5 BÜYÜK ŞAMP.",
+					"vi-VN": "NHÀ VĐ PREMIER V25P5",
+					"zh-CN": "超级赛//V25第五幕总冠军",
+					"zh-TW": "Premier V25第五章總冠軍"
+				}
+			},
+			"id": "F317DC25-4B23-AF3D-D971-34BBD8313DEC",
+			"label": "F317DC25-4B23-AF3D-D971-34BBD8313DEC",
+			"name":
+			{
+				"defaultText": "PREMIER V25A5 GRAND CHAMP Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب البطل الأعظم بريمير V25م5",
+					"de-DE": "Titel „PREMIER V25A5 GROSSMEISTER“",
+					"en-US": "PREMIER V25A5 GRAND CHAMP Title",
+					"es-ES": "Título GRAN CAMP. PREMIER V25A5",
+					"es-MX": "Título V25A5: MEGACAMPEONES PREMIER",
+					"fr-FR": "Titre GRAND CHAMPION DE PREMIER V25A5",
+					"id-ID": "Gelar PREMIER V25A5 GRAND CHAMP",
+					"it-IT": "Titolo CAMPIONE ASSOLUTO PREMIER V25A5",
+					"ja-JP": "PREMIER V25A5 グランドチャンピオン タイトル",
+					"ko-KR": "프리미어 V25A5 그랜드 챔피언 칭호",
+					"pl-PL": "Tytuł „NAJWIĘKSZY BOHATER V25A5 PREMIER”",
+					"pt-BR": "Título GRANDE CAMPEÃO PREMIER V25A5",
+					"ru-RU": "Звание \"ГРАНД-ЧЕМПИОН V25A5 PREMIER\"",
+					"th-TH": "ฉายา PREMIER V25A5 GRAND CHAMP",
+					"tr-TR": "PREMIER V25K5 BÜYÜK ŞAMP. Unvanı",
+					"vi-VN": "Danh Hiệu NHÀ VĐ PREMIER V25P5",
+					"zh-CN": "超级赛//V25第五幕总冠军 称号",
+					"zh-TW": "Premier V25第五章總冠軍 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V25A5 CHAMPION // ELT",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V25م5 \\\\ نخبة",
+					"de-DE": "PREMIER V25A5 CHAMPION // ELT",
+					"en-US": "PREMIER V25A5 CHAMPION // ELT",
+					"es-ES": "CAMP. PREMIER V25A5 // ÉLT",
+					"es-MX": "V25A5: ÉLITE // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V25A5 // ÉLT",
+					"id-ID": "PREMIER V25A5 CHAMPION // ELT",
+					"it-IT": "CAMPIONE PREMIER V25A5 // ÉLT",
+					"ja-JP": "PREMIER V25A5 チャンピオン // ELT",
+					"ko-KR": "프리미어 V25A5 챔피언 // 상급",
+					"pl-PL": "BOHATER V25A5 PREMIER // ELT",
+					"pt-BR": "CAMPEÃO PREMIER V25A5 // ELT",
+					"ru-RU": "ЧЕМПИОН V25A5 PREMIER // ЭЛИТА",
+					"th-TH": "PREMIER V25A5 CHAMPION // ELT",
+					"tr-TR": "PREMIER V25K5 ŞAMP. // SÇKN",
+					"vi-VN": "VĐ PREMIER V25P5 // TN",
+					"zh-CN": "超级赛//V25第五幕冠军//精英",
+					"zh-TW": "Premier V25第五章冠軍 // 菁英"
+				}
+			},
+			"id": "6FBA12C2-41FA-891E-391D-8894E0184EBB",
+			"label": "6FBA12C2-41FA-891E-391D-8894E0184EBB",
+			"name":
+			{
+				"defaultText": "PREMIER V25A5 CHAMPION // ELT Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V25م5 \\\\ نخبة",
+					"de-DE": "Titel „PREMIER V25A5 CHAMPION // ELT“",
+					"en-US": "PREMIER V25A5 CHAMPION // ELT Title",
+					"es-ES": "CAMP. PREMIER V25A5 // Título ÉLT",
+					"es-MX": "Título V25A5: ÉLITE // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V25A5 // ÉLT",
+					"id-ID": "Gelar PREMIER V25A5 CHAMPION // ELT",
+					"it-IT": "Titolo CAMPIONE PREMIER V25A5 // ÉLT",
+					"ja-JP": "PREMIER V25A5 チャンピオン // ELT タイトル",
+					"ko-KR": "프리미어 V25A5 챔피언 // 상급 칭호",
+					"pl-PL": "Tytuł „BOHATER V25A5 PREMIER // ELT”",
+					"pt-BR": "Título CAMPEÃO PREMIER V25A5 // ELT",
+					"ru-RU": "Звание \"ЧЕМПИОН V25A5 PREMIER // ЭЛИТА\"",
+					"th-TH": "ฉายา PREMIER V25A5 CHAMPION // ELT",
+					"tr-TR": "PREMIER V25K5 ŞAMP. // SÇKN Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V25P5 // TN",
+					"zh-CN": "超级赛//V25第五幕冠军//精英 称号",
+					"zh-TW": "Premier V25第五章冠軍 // 菁英 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V25A5 CHAMPION // CTD",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V25م5 \\\\ منافس",
+					"de-DE": "PREMIER V25A5 CHAMPION // KNDT",
+					"en-US": "PREMIER V25A5 CHAMPION // CTD",
+					"es-ES": "CAMP. PREMIER V25A5 // CNTD",
+					"es-MX": "V25A5: CONT. // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V25A5 // CCR",
+					"id-ID": "PREMIER V25A5 CHAMPION // CTD",
+					"it-IT": "CAMPIONE PREMIER V25A5 // SFD",
+					"ja-JP": "PREMIER V25A5 チャンピオン // CTD",
+					"ko-KR": "프리미어 V25A5 챔피언 // 최상급",
+					"pl-PL": "BOHATER V25A5 PREMIER // ZDK",
+					"pt-BR": "CAMPEÃO PREMIER V25A5 // DES",
+					"ru-RU": "ЧЕМПИОН V25A5 PREMIER // БОЕЦ",
+					"th-TH": "PREMIER V25A5 CHAMPION // CTD",
+					"tr-TR": "PREMIER V25K5 ŞAMP. // TTKÇİ",
+					"vi-VN": "VĐ PREMIER V25P5 // UVNK",
+					"zh-CN": "超级赛//V25第五幕冠军//竞争者",
+					"zh-TW": "Premier V25第五章冠軍 // 競爭者"
+				}
+			},
+			"id": "A79E58EB-407C-CEFA-ED75-5F93E4157C15",
+			"label": "A79E58EB-407C-CEFA-ED75-5F93E4157C15",
+			"name":
+			{
+				"defaultText": "PREMIER V25A5 CHAMPION // CTD Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V25م5 \\\\ منافس",
+					"de-DE": "Titel „PREMIER V25A5 CHAMPION // KNDT“",
+					"en-US": "PREMIER V25A5 CHAMPION // CTD Title",
+					"es-ES": "CAMP. PREMIER V25A5 // Título CNTD",
+					"es-MX": "Título V25A5: CONT. // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V25A5 // CCR",
+					"id-ID": "Gelar PREMIER V25A5 CHAMPION // CTD",
+					"it-IT": "Titolo CAMPIONE PREMIER V25A5 // SFD",
+					"ja-JP": "PREMIER V25A5 チャンピオン // CTD タイトル",
+					"ko-KR": "프리미어 V25A5 챔피언 // 최상급 칭호",
+					"pl-PL": "Tytuł „BOHATER V25A5 PREMIER // ZDK”",
+					"pt-BR": "Título CAMPEÃO PREMIER V25A5 // DES",
+					"ru-RU": "Звание \"ЧЕМПИОН V25A5 PREMIER // БОЕЦ\"",
+					"th-TH": "ฉายา PREMIER V25A5 CHAMPION // CTD",
+					"tr-TR": "PREMIER V25K5 ŞAMP. // TTKÇİ Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V25P5 // UVNK",
+					"zh-CN": "超级赛//V25第五幕冠军//竞争者 称号",
+					"zh-TW": "Premier V25第五章冠軍 // 競爭者 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V25A5 CHAMPION // ADV",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V25م5 \\\\ متقدم",
+					"de-DE": "PREMIER V25A5 CHAMPION // PRF",
+					"en-US": "PREMIER V25A5 CHAMPION // ADV",
+					"es-ES": "CAMP. PREMIER V25A5 // AVNZ",
+					"es-MX": "V25A5: AVAN. // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V25A5 // AVN",
+					"id-ID": "PREMIER V25A5 CHAMPION // ADV",
+					"it-IT": "CAMPIONE PREMIER V25A5 // AVZ",
+					"ja-JP": "PREMIER V25A5 チャンピオン // ADV",
+					"ko-KR": "프리미어 V25A5 챔피언 // 중상급",
+					"pl-PL": "BOHATER V25A5 PREMIER // ZWN",
+					"pt-BR": "CAMPEÃO PREMIER V25A5 // AV",
+					"ru-RU": "ЧЕМПИОН V25A5 PREMIER // АС",
+					"th-TH": "PREMIER V25A5 CHAMPION // ADV",
+					"tr-TR": "PREMIER V25K5 ŞAMP. // İLR",
+					"vi-VN": "VĐ PREMIER V25P5 // CC",
+					"zh-CN": "超级赛//V25第五幕冠军//高级",
+					"zh-TW": "Premier V25第五章冠軍 // 高階"
+				}
+			},
+			"id": "B1CA87BB-4AF0-C80E-A759-1594AF35CCB2",
+			"label": "B1CA87BB-4AF0-C80E-A759-1594AF35CCB2",
+			"name":
+			{
+				"defaultText": "PREMIER V25A5 CHAMPION // ADV Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V25م5 \\\\ متقدم",
+					"de-DE": "Titel „PREMIER V25A5 CHAMPION // PRF“",
+					"en-US": "PREMIER V25A5 CHAMPION // ADV Title",
+					"es-ES": "CAMP. PREMIER V25A5 // Título AVNZ",
+					"es-MX": "Título V25A5: AVAN. // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V25A5 // AVN",
+					"id-ID": "Gelar PREMIER V25A5 CHAMPION // ADV",
+					"it-IT": "Titolo CAMPIONE PREMIER V25A5 // AVZ",
+					"ja-JP": "PREMIER V25A5 チャンピオン // ADV タイトル",
+					"ko-KR": "프리미어 V25A5 챔피언 // 중상급 칭호",
+					"pl-PL": "Tytuł „BOHATER V25A5 PREMIER // ZWN”",
+					"pt-BR": "Título CAMPEÃO PREMIER V25A5 // AV",
+					"ru-RU": "Звание \"ЧЕМПИОН V25A5 PREMIER // АС\"",
+					"th-TH": "ฉายา PREMIER V25A5 CHAMPION // ADV",
+					"tr-TR": "PREMIER V25K5 ŞAMP. // İLR Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V25P5 // CC",
+					"zh-CN": "超级赛//V25第五幕冠军//高级 称号",
+					"zh-TW": "Premier V25第五章冠軍 // 高階 稱號"
 				}
 			}
 		},
@@ -256852,6 +257844,366 @@
 		{
 			"levels": [
 				{
+					"id": "59DF47E3-4416-22A2-654F-59BD6FF46B5F",
+					"label": "59DF47E3-4416-22A2-654F-59BD6FF46B5F",
+					"name":
+					{
+						"defaultText": "PremierV25A5_Advanced",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV25A5_Advanced",
+							"de-DE": "PremierV25A5_Advanced",
+							"en-US": "PremierV25A5_Advanced",
+							"es-ES": "PremierV25A5_Advanced",
+							"es-MX": "PremierV25A5_Advanced",
+							"fr-FR": "PremierV25A5_Advanced",
+							"id-ID": "PremierV25A5_Advanced",
+							"it-IT": "PremierV25A5_Advanced",
+							"ja-JP": "PremierV25A5_Advanced",
+							"ko-KR": "PremierV25A5_Advanced",
+							"pl-PL": "PremierV25A5_Advanced",
+							"pt-BR": "PremierV25A5_Advanced",
+							"ru-RU": "PremierV25A5_Advanced",
+							"th-TH": "PremierV25A5_Advanced",
+							"tr-TR": "PremierV25A5_Advanced",
+							"vi-VN": "PremierV25A5_Advanced",
+							"zh-CN": "PremierV25A5_Advanced",
+							"zh-TW": "PremierV25A5_Advanced"
+						}
+					}
+				}
+			],
+			"id": "DCAA8698-4C93-7AEC-7A82-C0A76F7F2256",
+			"label": "DCAA8698-4C93-7AEC-7A82-C0A76F7F2256",
+			"name":
+			{
+				"defaultText": "PREMIER V25A5 CHAMPION // ADV Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V25م5 \\\\ متقدم",
+					"de-DE": "Talisman „PREMIER V25A5 CHAMPION // PRF“",
+					"en-US": "PREMIER V25A5 CHAMPION // ADV Buddy",
+					"es-ES": "CAMP. PREMIER V25A5 // Amuleto AVNZ",
+					"es-MX": "Buddy V25A5: AVAN. // CAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V25A5 // AVN",
+					"id-ID": "Buddy PREMIER V25A5 CHAMPION // ADV",
+					"it-IT": "Accessorio CAMPIONE PREMIER V25A5 // AVZ",
+					"ja-JP": "PREMIER V25A5 チャンピオン // ADV バディー",
+					"ko-KR": "프리미어 V25A5 챔피언 // 중상급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V25A5 PREMIER // ZWN”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V25A5 // AV",
+					"ru-RU": "Брелок \"ЧЕМПИОН V25A5 PREMIER // АС\"",
+					"th-TH": "บัดดี้ PREMIER V25A5 CHAMPION // ADV",
+					"tr-TR": "PREMIER V25K5 ŞAMPİYONU // İLR DZY Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V25P5 // CC",
+					"zh-CN": "超级赛//V25第五幕冠军//高级 挂饰",
+					"zh-TW": "Premier V25第五章冠軍 // 高階 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "93521EC0-4E9E-C955-84D3-FA8B47C8C1ED",
+					"label": "93521EC0-4E9E-C955-84D3-FA8B47C8C1ED",
+					"name":
+					{
+						"defaultText": "PremierV25A5_Contender",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV25A5_Contender",
+							"de-DE": "PremierV25A5_Contender",
+							"en-US": "PremierV25A5_Contender",
+							"es-ES": "PremierV25A5_Contender",
+							"es-MX": "PremierV25A5_Contender",
+							"fr-FR": "PremierV25A5_Contender",
+							"id-ID": "PremierV25A5_Contender",
+							"it-IT": "PremierV25A5_Contender",
+							"ja-JP": "PremierV25A5_Contender",
+							"ko-KR": "PremierV25A5_Contender",
+							"pl-PL": "PremierV25A5_Contender",
+							"pt-BR": "PremierV25A5_Contender",
+							"ru-RU": "PremierV25A5_Contender",
+							"th-TH": "PremierV25A5_Contender",
+							"tr-TR": "PremierV25A5_Contender",
+							"vi-VN": "PremierV25A5_Contender",
+							"zh-CN": "PremierV25A5_Contender",
+							"zh-TW": "PremierV25A5_Contender"
+						}
+					}
+				}
+			],
+			"id": "3FB35A1D-47D2-92BC-D9B2-D490151F3E5C",
+			"label": "3FB35A1D-47D2-92BC-D9B2-D490151F3E5C",
+			"name":
+			{
+				"defaultText": "PREMIER V25A5 CHAMPION // CTD Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V25م5 \\\\ منافس",
+					"de-DE": "Talisman „PREMIER V25A5 CHAMPION // KNDT“",
+					"en-US": "PREMIER V25A5 CHAMPION // CTD Buddy",
+					"es-ES": "CAMP. PREMIER V25A5 // Amuleto CNTD",
+					"es-MX": "Buddy V25A5: CONT. // CAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V25A5 // CCR",
+					"id-ID": "Buddy PREMIER V25A5 CHAMPION // CTD",
+					"it-IT": "Accessorio CAMPIONE PREMIER V25A5 // SFD",
+					"ja-JP": "PREMIER V25A5 チャンピオン // CTD バディー",
+					"ko-KR": "프리미어 V25A5 챔피언 // 최상급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V25A5 PREMIER // ZDK”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V25A5 // DES",
+					"ru-RU": "Брелок \"ЧЕМПИОН V25A5 PREMIER // БОЕЦ\"",
+					"th-TH": "บัดดี้ PREMIER V25A5 CHAMPION // CTD",
+					"tr-TR": "PREMIER V25K5 ŞAMPİYONU // TTKÇİ Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V25P5 // UVNK",
+					"zh-CN": "超级赛//V25第五幕冠军//竞争者 挂饰",
+					"zh-TW": "Premier V25第五章冠軍 // 競爭者 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "999B200B-47F3-C9D1-0356-4ABC8CB2A075",
+					"label": "999B200B-47F3-C9D1-0356-4ABC8CB2A075",
+					"name":
+					{
+						"defaultText": "PremierV25A5_Elite",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV25A5_Elite",
+							"de-DE": "PremierV25A5_Elite",
+							"en-US": "PremierV25A5_Elite",
+							"es-ES": "PremierV25A5_Elite",
+							"es-MX": "PremierV25A5_Elite",
+							"fr-FR": "PremierV25A5_Elite",
+							"id-ID": "PremierV25A5_Elite",
+							"it-IT": "PremierV25A5_Elite",
+							"ja-JP": "PremierV25A5_Elite",
+							"ko-KR": "PremierV25A5_Elite",
+							"pl-PL": "PremierV25A5_Elite",
+							"pt-BR": "PremierV25A5_Elite",
+							"ru-RU": "PremierV25A5_Elite",
+							"th-TH": "PremierV25A5_Elite",
+							"tr-TR": "PremierV25A5_Elite",
+							"vi-VN": "PremierV25A5_Elite",
+							"zh-CN": "PremierV25A5_Elite",
+							"zh-TW": "PremierV25A5_Elite"
+						}
+					}
+				}
+			],
+			"id": "030A7FE7-4795-3638-E54A-618DFBE08450",
+			"label": "030A7FE7-4795-3638-E54A-618DFBE08450",
+			"name":
+			{
+				"defaultText": "PREMIER V25A5 CHAMPION // ELT Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V25م5 \\\\ نخبة",
+					"de-DE": "Talisman „PREMIER V25A5 CHAMPION // ELT“",
+					"en-US": "PREMIER V25A5 CHAMPION // ELT Buddy",
+					"es-ES": "CAMP. PREMIER V25A5 // Amuleto ÉLT",
+					"es-MX": "Buddy V25A5: ÉLITE // CAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V25A5 // ÉLT",
+					"id-ID": "Buddy PREMIER V25A5 CHAMPION // ELT",
+					"it-IT": "Accessorio CAMPIONE PREMIER V25A5 // ÉLT",
+					"ja-JP": "PREMIER V25A5 チャンピオン // ELT バディー",
+					"ko-KR": "프리미어 V25A5 챔피언 // 상급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V25A5 PREMIER // ELT”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V25A5 // ELT",
+					"ru-RU": "Брелок \"ЧЕМПИОН V25A5 PREMIER // ЭЛИТА\"",
+					"th-TH": "บัดดี้ PREMIER V25A5 CHAMPION // ELT",
+					"tr-TR": "PREMIER V25K5 ŞAMPİYONU // SÇKN DZY Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V25P5 // TN",
+					"zh-CN": "超级赛//V25第五幕冠军//精英 挂饰",
+					"zh-TW": "Premier V25第五章冠軍 // 菁英 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "3D83C82F-436C-4AA9-311D-A7B34B53299E",
+					"label": "3D83C82F-436C-4AA9-311D-A7B34B53299E",
+					"name":
+					{
+						"defaultText": "PremierV25A5_Intermediate",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV25A5_Intermediate",
+							"de-DE": "PremierV25A5_Intermediate",
+							"en-US": "PremierV25A5_Intermediate",
+							"es-ES": "PremierV25A5_Intermediate",
+							"es-MX": "PremierV25A5_Intermediate",
+							"fr-FR": "PremierV25A5_Intermediate",
+							"id-ID": "PremierV25A5_Intermediate",
+							"it-IT": "PremierV25A5_Intermediate",
+							"ja-JP": "PremierV25A5_Intermediate",
+							"ko-KR": "PremierV25A5_Intermediate",
+							"pl-PL": "PremierV25A5_Intermediate",
+							"pt-BR": "PremierV25A5_Intermediate",
+							"ru-RU": "PremierV25A5_Intermediate",
+							"th-TH": "PremierV25A5_Intermediate",
+							"tr-TR": "PremierV25A5_Intermediate",
+							"vi-VN": "PremierV25A5_Intermediate",
+							"zh-CN": "PremierV25A5_Intermediate",
+							"zh-TW": "PremierV25A5_Intermediate"
+						}
+					}
+				}
+			],
+			"id": "89B42EFB-43A2-E958-54AE-2A8A0EAC3F45",
+			"label": "89B42EFB-43A2-E958-54AE-2A8A0EAC3F45",
+			"name":
+			{
+				"defaultText": "PREMIER V25A5 CHAMPION // INT Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V25م5 \\\\ متوسط",
+					"de-DE": "Talisman „PREMIER V25A5 CHAMPION // FRTG“",
+					"en-US": "PREMIER V25A5 CHAMPION // INT Buddy",
+					"es-ES": "CAMP. PREMIER V25A5 // Amuleto INTM",
+					"es-MX": "Buddy V25A5: INT. // CAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V25A5 // INT",
+					"id-ID": "Buddy PREMIER V25A5 CHAMPION // INT",
+					"it-IT": "Accessorio CAMPIONE PREMIER V25A5 // INT",
+					"ja-JP": "PREMIER V25A5 チャンピオン // INT バディー",
+					"ko-KR": "프리미어 V25A5 챔피언 // 중급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V25A5 PREMIER // ŚRD”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V25A5 // INT",
+					"ru-RU": "Брелок \"ЧЕМПИОН V25A5 PREMIER // СРЕД\"",
+					"th-TH": "บัดดี้ PREMIER V25A5 CHAMPION // INT",
+					"tr-TR": "PREMIER V25K5 ŞAMPİYONU // ORT DZY Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V25P5 // TC",
+					"zh-CN": "超级赛//V25第五幕冠军//中级 挂饰",
+					"zh-TW": "Premier V25第五章冠軍 // 中階 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "69DB2890-48D3-ED71-6FD3-13B4A9656E89",
+					"label": "69DB2890-48D3-ED71-6FD3-13B4A9656E89",
+					"name":
+					{
+						"defaultText": "PremierV25A5_Invite",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV25A5_Invite",
+							"de-DE": "PremierV25A5_Invite",
+							"en-US": "PremierV25A5_Invite",
+							"es-ES": "PremierV25A5_Invite",
+							"es-MX": "PremierV25A5_Invite",
+							"fr-FR": "PremierV25A5_Invite",
+							"id-ID": "PremierV25A5_Invite",
+							"it-IT": "PremierV25A5_Invite",
+							"ja-JP": "PremierV25A5_Invite",
+							"ko-KR": "PremierV25A5_Invite",
+							"pl-PL": "PremierV25A5_Invite",
+							"pt-BR": "PremierV25A5_Invite",
+							"ru-RU": "PremierV25A5_Invite",
+							"th-TH": "PremierV25A5_Invite",
+							"tr-TR": "PremierV25A5_Invite",
+							"vi-VN": "PremierV25A5_Invite",
+							"zh-CN": "PremierV25A5_Invite",
+							"zh-TW": "PremierV25A5_Invite"
+						}
+					}
+				}
+			],
+			"id": "7D2DA612-48FC-C7F4-6DB5-748AF1AFFD5B",
+			"label": "7D2DA612-48FC-C7F4-6DB5-748AF1AFFD5B",
+			"name":
+			{
+				"defaultText": "PREMIER V25A5 GRAND CHAMP Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق البطل الأعظم بريمير V25م5",
+					"de-DE": "Talisman „PREMIER V25A5 GROSSMEISTER“",
+					"en-US": "PREMIER V25A5 GRAND CHAMP Buddy",
+					"es-ES": "Amuleto GRAN CAMP. PREMIER V25A5",
+					"es-MX": "Buddy V25A5: MEGACAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur GRAND CHAMPION DE PREMIER V25A5",
+					"id-ID": "Buddy PREMIER V25A5 GRAND CHAMP",
+					"it-IT": "Accessorio CAMPIONE ASSOLUTO PREMIER V25A5",
+					"ja-JP": "PREMIER V25A5 グランドチャンピオン バディー",
+					"ko-KR": "프리미어 V25A5 그랜드 챔피언 총기 장식",
+					"pl-PL": "Przywieszka „NAJWIĘKSZY BOHATER V25A5 PREMIER”",
+					"pt-BR": "Chaveiro GRANDE CAMPEÃO PREMIER V25A5",
+					"ru-RU": "Брелок \"ГРАНД-ЧЕМПИОН V25A5 PREMIER\"",
+					"th-TH": "บัดดี้ PREMIER V25A5 GRAND CHAMP",
+					"tr-TR": "PREMIER V25K5 BÜYÜK ŞAMPİYONU Uğuru",
+					"vi-VN": "Phụ Kiện NHÀ VĐ PREMIER V25P5",
+					"zh-CN": "超级赛//V25第五幕总冠军 挂饰",
+					"zh-TW": "Premier V25第五章總冠軍 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "F4E57998-4D8C-8639-0045-F2812F10834B",
+					"label": "F4E57998-4D8C-8639-0045-F2812F10834B",
+					"name":
+					{
+						"defaultText": "PremierV25A5_Open",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV25A5_Open",
+							"de-DE": "PremierV25A5_Open",
+							"en-US": "PremierV25A5_Open",
+							"es-ES": "PremierV25A5_Open",
+							"es-MX": "PremierV25A5_Open",
+							"fr-FR": "PremierV25A5_Open",
+							"id-ID": "PremierV25A5_Open",
+							"it-IT": "PremierV25A5_Open",
+							"ja-JP": "PremierV25A5_Open",
+							"ko-KR": "PremierV25A5_Open",
+							"pl-PL": "PremierV25A5_Open",
+							"pt-BR": "PremierV25A5_Open",
+							"ru-RU": "PremierV25A5_Open",
+							"th-TH": "PremierV25A5_Open",
+							"tr-TR": "PremierV25A5_Open",
+							"vi-VN": "PremierV25A5_Open",
+							"zh-CN": "PremierV25A5_Open",
+							"zh-TW": "PremierV25A5_Open"
+						}
+					}
+				}
+			],
+			"id": "2F96C359-45BE-24DB-0902-72AB13A6BD44",
+			"label": "2F96C359-45BE-24DB-0902-72AB13A6BD44",
+			"name":
+			{
+				"defaultText": "PREMIER V25A5 CHAMPION // OPN Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V25م5 \\\\ مفتوح",
+					"de-DE": "Talisman „PREMIER V25A5 CHAMPION // OFFN“",
+					"en-US": "PREMIER V25A5 CHAMPION // OPN Buddy",
+					"es-ES": "CAMP. PREMIER V25A5 // Amuleto ABRT",
+					"es-MX": "Buddy V25A5: ABIERTO // CAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V25A5 // OUV",
+					"id-ID": "Buddy PREMIER V25A5 CHAMPION // OPN",
+					"it-IT": "Accessorio CAMPIONE PREMIER V25A5 // APR",
+					"ja-JP": "PREMIER V25A5 チャンピオン // OPN バディー",
+					"ko-KR": "프리미어 V25A5 챔피언 // 초급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V25A5 PREMIER // OTW”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V25A5 // ABR",
+					"ru-RU": "Брелок \"ЧЕМПИОН V25A5 PREMIER // ОТКР\"",
+					"th-TH": "บัดดี้ PREMIER V25A5 CHAMPION // OPN",
+					"tr-TR": "PREMIER V25K5 ŞAMPİYONU // AÇK Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V25P5 // TD",
+					"zh-CN": "超级赛//V25第五幕冠军//初级 挂饰",
+					"zh-TW": "Premier V25第五章冠軍 // 初階 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "56F98991-43F8-DCC8-189E-08B7AE6C42AD",
 					"label": "56F98991-43F8-DCC8-189E-08B7AE6C42AD",
 					"name":
@@ -277834,7 +279186,7 @@
 					"de-DE": "Graffiti „Brotschuss“",
 					"en-US": "Breadshot Spray",
 					"es-ES": "Grafiti Tiene miga el tiro",
-					"es-MX": "Spray Tiro al Pan",
+					"es-MX": "Spray Pan al Blanco",
 					"fr-FR": "Graffiti Baguette chargée",
 					"id-ID": "Spray Breadshot",
 					"it-IT": "Spray Baguette di precisione",
@@ -322006,6 +323358,60 @@
 		{
 			"duration":
 			{
+				"defaultText": "7-9 MINS",
+				"localizedByCulture":
+				{
+					"ar-AE": "7-9 دقائق",
+					"de-DE": "7 BIS 9 MIN.",
+					"en-US": "7-9 MINS",
+					"es-ES": "7-9 MIN",
+					"es-MX": "7-9 MIN",
+					"fr-FR": "7-9 MIN",
+					"id-ID": "7-9 MNT",
+					"it-IT": "7-9 MIN",
+					"ja-JP": "7-9 分",
+					"ko-KR": "7~9분",
+					"pl-PL": "7-9 MIN",
+					"pt-BR": "7-9 MIN",
+					"ru-RU": "7–9 МИНУТ",
+					"th-TH": "7 ถึง 9 นาที",
+					"tr-TR": "7-9 DK.",
+					"vi-VN": "7 - 9 PHÚT",
+					"zh-CN": "7至9分钟",
+					"zh-TW": "7-9分鐘"
+				}
+			},
+			"id": "0E9805D8-4AF6-5FFB-F467-55806A6BC484",
+			"label": "0E9805D8-4AF6-5FFB-F467-55806A6BC484",
+			"name":
+			{
+				"defaultText": "Skirmish",
+				"localizedByCulture":
+				{
+					"ar-AE": "مناوشة",
+					"de-DE": "Geplänkel",
+					"en-US": "Skirmish",
+					"es-ES": "Escaramuza",
+					"es-MX": "Escaramuza",
+					"fr-FR": "Escarmouche",
+					"id-ID": "Skirmish",
+					"it-IT": "Schermaglia",
+					"ja-JP": "スカーミッシュ",
+					"ko-KR": "난투",
+					"pl-PL": "Potyczka",
+					"pt-BR": "Duelo",
+					"ru-RU": "Столкновение",
+					"th-TH": "Skirmish",
+					"tr-TR": "ÇATIŞMA",
+					"vi-VN": "Skirmish",
+					"zh-CN": "斗牛",
+					"zh-TW": "火線交鋒"
+				}
+			}
+		},
+		{
+			"duration":
+			{
 				"defaultText": "5-7 MINS",
 				"localizedByCulture":
 				{
@@ -324121,7 +325527,7 @@
 				"defaultText": "Eliminate enemies to advance your team’s arsenal. Cycle through a series of 12 randomized weapons.  First to complete the series wins.",
 				"localizedByCulture":
 				{
-					"ar-AE": "اقضِ على الأعداء لتعزيز ترسانة فريقك. تنقّل عبر سلسلة من 12 سلاحًا عشوائيًا. الفوز لأول لاعب يكمل السلسلة.",
+					"ar-AE": "اقضِ على الأعداء لتعزيز ترسانة فريقك. تنقّل عبر سلسلة من 12 سلاحًا عشوائيًا. الفوز لأول من يكمل السلسلة.",
 					"de-DE": "Eliminiere deine Gegner, um das Arsenal deines Teams zu erweitern. Probiere eine Reihe von 12 zufällig ausgewählten Waffen aus.  Wer die Serie zuerst abschließt, gewinnt.",
 					"en-US": "Eliminate enemies to advance your team’s arsenal. Cycle through a series of 12 randomized weapons.  First to complete the series wins.",
 					"es-ES": "Elimina enemigos para mejorar el arsenal de tu equipo. Alterna entre 12 armas aleatorias.  Gana quien complete la serie primero.",
