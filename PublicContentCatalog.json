@@ -1,5 +1,5 @@
 {
-	"version": "11.07.00.3836447",
+	"version": "11.07.00.3855133",
 	"characters": [
 		{
 			"description":
@@ -4855,6 +4855,279 @@
 					"vi-VN": "Phoenix",
 					"zh-CN": "不死鸟",
 					"zh-TW": "菲尼克斯"
+				}
+			}
+		},
+		{
+			"description":
+			{
+				"defaultText": "Empowered by an unstoppable DNA mutation, Senegalese enforcer Veto defies the rules of engagement by nullifying his opponent's powers and technology. On Veto's battlefield, gunplay is your only guarantee.",
+				"localizedByCulture":
+				{
+					"ar-AE": "مع تعزيزه بطفرته الجينية الفائقة، يتحدى الشرطي السنغالي فيتو قواعد الاشتباك عبر إبطال مفعول قدرات خصومه وتقنياتهم. في معارك فيتو، مهاراتك في استخدام الأسلحة هي الضمان الوحيد للنجاة.",
+					"de-DE": "Seine unglaublichen DNA-Mutationen versetzen den senegalesischen Vollstrecker Veto in die Lage, alle Kräfte und Technologien seiner Gegner zu neutralisieren und so die Situation auf dem Schlachtfeld grundlegend umzuwälzen. Auf Vetos Schlachtfeld kannst du dich nur auf deine Waffe verlassen.",
+					"en-US": "Empowered by an unstoppable DNA mutation, Senegalese enforcer Veto defies the rules of engagement by nullifying his opponent's powers and technology. On Veto's battlefield, gunplay is your only guarantee.",
+					"es-ES": "Veto, un asesino a sueldo senegalés cuya fuerza radica en una potente mutación genética, pone en jaque el funcionamiento de las iniciaciones anulando tanto las capacidades como la tecnología de su oponente. Cuando juegas en el campo de Veto, las armas de fuego son el mejor aliado.",
+					"es-MX": "Veto es un vigilante originario de Senegal que, con la ayuda de una mutación genética, desafía las reglas del combate al anular los poderes y la tecnología de sus oponentes. En el campo de batalla de Veto, las armas son tu única garantía.",
+					"fr-FR": "Alimenté par une mutation génétique imparable, Veto, l'homme de main sénégalais, défie les règles du combat en neutralisant les pouvoirs et la technologie de ses adversaires. La seule chose que vous trouverez avec Veto sur le champ de bataille, c'est des armes.",
+					"id-ID": "Diperkuat mutasi DNA yang tak terbendung, enforcer asal Senegal Veto menabrak aturan tempur dengan melumpuhkan kekuatan dan teknologi lawannya. Di medan tempur Veto, tembakan adalah satu-satunya peganganmu.",
+					"it-IT": "Potenziato da un'inarrestabile mutazione genetica, il vigilante senegalese Veto infrange ogni regola d'ingaggio annullando i poteri e la tecnologia degli avversari. Quando Veto è in battaglia, le armi sono l'unica certezza.",
+					"ja-JP": "セネガル出身のヴィトーは制御不能なDNA変異によって力を得た武闘派の精鋭だ。敵のパワーとテクノロジーを無効化し、戦いのルールを塗り替える。戦場にヴィトーがいるなら、確実なのは銃撃だけだ。",
+					"ko-KR": "멈출 수 없는 DNA 변이로 강화된 세네갈 출신 집행자 비토는 상대의 능력과 기술을 무력화함으로써 교전 수칙을 무시합니다. 비토의 전장에서 믿을 건 사격 실력뿐입니다.",
+					"pl-PL": "Senegalski stróż prawa Veto, wzmocniony przez niepohamowaną mutację DNA, tworzy własne zasady walki, przeciwdziałając mocom i technologii przeciwnika. Gdy mu się sprzeciwiasz, możesz ufać wyłącznie swojej broni palnej.",
+					"pt-BR": "Portador de uma mutação genética avassaladora, o implacável Agente senegalês Veto desafia as regras do combate, anulando os poderes e as tecnologias de seus oponentes. No campo de batalha do Veto, a troca de tiros é sua melhor opção.",
+					"ru-RU": "Veto, заступник из Сенегала, усилен мощной мутацией ДНК. Он меняет правила ведения боя, нейтрализуя силы и технику врага. Сражаясь с Veto, можно полагаться только на оружие.",
+					"th-TH": "Veto ผู้รักษากฎหมายชาวเซเนกัลที่ได้รับพลังจากการกลายพันธุ์ของ DNA ที่ไม่อาจหยุดยั้งได้ แหกกฎการต่อสู้ด้วยการทำให้พลังและเทคโนโลยีของคู่ต่อสู้ไร้ผล ในสนามรบของ Veto มีแต่ปืนเท่านั้นที่จะช่วยคุณได้",
+					"tr-TR": "Durdurulamaz bir DNA mutasyonuyla gücüne güç katan Senegalli fedai Veto, rakibinin güçlerini ve teknolojisini etkisiz kılarak çatışma kurallarını hiçe sayıyor. Veto'nun savaş meydanında tek güvenilir seçeneğin silahların.",
+					"vi-VN": "Được cường hóa bởi đột biến gien bất khả kháng cự, Veto - người thi hành luật đến từ Senegal - thách thức mọi quy tắc chiến đấu bằng cách vô hiệu hóa toàn bộ sức mạnh và công nghệ của đối thủ. Trên chiến trường của Veto, kỹ năng bắn súng là thứ duy nhất giúp bạn toàn mạng.",
+					"zh-CN": "来自西非的“禁灭”是一名压制型英雄，因基因突变获得了超凡力量。禁灭打破了既有的战斗规则，无论敌人使出怎样的手段和科技，在他面前都形同虚设。禁灭出现在战场上时，只有枪法才是你唯一的保障。",
+					"zh-TW": "維托是來自塞內加爾的執法者，身上帶有無可遏抑的DNA突變，也因此獲得能力強化。他能使對手的能力和科技武器變成毫無作用，完全視戰鬥規則為無物。與維托交戰時，槍法是你唯一的依靠。"
+				}
+			},
+			"abilities":
+			{
+				"ability2":
+				{
+					"description":
+					{
+						"defaultText": "EQUIP the Interceptor. FIRE to place the Interceptor at projected location. Once placed, RE-USE to activate. Once active, it will destroy any utility that would BOUNCE off a player and/or be destroyed naturally by gunfire. Enemies can destroy the Interceptor.",
+						"localizedByCulture":
+						{
+							"ar-AE": "تجهّز بجهاز الاعتراض. أطلق لوضع جهاز الاعتراض في الموضع المحدد. بعد وضعه، أعد الاستخدام لتفعيله. عند التفعيل، سيدمّر أي معدات قابلة للارتداد عن اللاعب و\\أو  قابلة للتدمير بإطلاق النار عليها. يستطيع الأعداء تدمير جهاز الاعتراض.",
+							"de-DE": "RÜSTE den Abfänger AUS. FEUERE, um den Abfänger am gewählten Zielort zu platzieren. VERWENDE ihn nach dem Platzieren ERNEUT, um ihn zu aktivieren. Sobald er aktiv ist, zerstört er jegliche Unterstützung, die an einem Spieler ABPRALLEN würde und/oder durch Beschuss zerstört würde. Gegner können den Abfänger zerstören.",
+							"en-US": "EQUIP the Interceptor. FIRE to place the Interceptor at projected location. Once placed, RE-USE to activate. Once active, it will destroy any utility that would BOUNCE off a player and/or be destroyed naturally by gunfire. Enemies can destroy the Interceptor.",
+							"es-ES": "EQUIPA el interceptor. DISPARA para colocar el interceptor en la ubicación proyectada. Una vez colocado, VUELVE A USAR la habilidad para activarlo. Cuando esté activado, destruirá toda la utilidad que fuera a rebotar contra un jugador o a resultar eliminada de forma natural con disparos. Los enemigos pueden destruir el interceptor.",
+							"es-MX": "EQUIPA el Interceptor. DISPARA para colocar el Interceptor en la ubicación prevista. Una vez colocado, VUELVE A USAR para activarlo. Una vez activado, destruirá cualquier utilidad que pueda REBOTAR contra un jugador o que se pueda destruir de forma normal con disparos. Los enemigos pueden destruir el Interceptor.",
+							"fr-FR": "ÉQUIPEZ-vous de l'intercepteur. TIREZ pour placer l'intercepteur à l'emplacement prévu. Une fois placé, RÉUTILISEZ cette compétence pour activer. Une fois activé, il détruira les utilitaires qui peuvent REBONDIR sur un joueur et/ou être détruits par des tirs. Les ennemis peuvent détruire l'intercepteur.",
+							"id-ID": "EQUIP Interceptor. TEKAN FIRE untuk menempatkan Interceptor di lokasi yang diproyeksikan. Setelah ditempatkan, GUNAKAN LAGI untuk mengaktifkan. Setelah aktif, Interceptor akan menghancurkan semua utility yang akan MEMANTUL dari pemain dan/atau hancur sendiri oleh tembakan. Musuh bisa menghancurkan Interceptor.",
+							"it-IT": "EQUIPAGGIA l'Intercettore. Usa il FUOCO per piazzare l'Intercettore nel punto evidenziato. Dopo il piazzamento, USA DI NUOVO per attivarlo. Una volta attivato, distruggerà qualsiasi utilità che RIMBALZEREBBE su un giocatore e/o verrebbe distrutta naturalmente dalle armi da fuoco. I nemici possono distruggere l'Intercettore.",
+							"ja-JP": "インターセプターを構える。「発射」でインターセプターを指定の地点に設置する。設置後、「再使用」で起動できる。起動中は、プレイヤーに当たると跳ね返るユーティリティーまたは銃撃により破壊可能なユーティリティーを破壊する。敵はインターセプターを破壊可能。",
+							"ko-KR": "요격기를 장착합니다. 발사하면 예상 위치에 요격기를 설치합니다. 설치 후 다시 사용하면 활성화됩니다. 활성화되면 플레이어에게서 튕겨 나오거나 사격으로 파괴할 수 있는 모든 장치를 파괴합니다. 적이 요격기를 파괴할 수 있습니다.",
+							"pl-PL": "WYPOSAŻ Interceptor. STRZEL, aby umieścić Interceptor we wskazanym miejscu. Po umieszczeniu UŻYJ PONOWNIE, by go aktywować. Po aktywacji zniszczy każdy przedmiot użytkowy, który ODBIŁBY się od gracza lub został normalnie zniszczony przez ostrzał. Wrogowie mogą zniszczyć ten Interceptor.",
+							"pt-BR": "EQUIPE o Interceptador. DISPARE para posicionar o Interceptador no local determinado. Depois de posicionado, REPITA para ativar. Uma vez ativado, ele destruirá qualquer utilitário que REBATERIA em um jogador e/ou que seria destruído naturalmente por tiros. Inimigos podem destruir o Interceptador.",
+							"ru-RU": "Выбирает перехватчик. Нажмите ОГОНЬ, чтобы разместить перехватчик в выбранной точке. При повторном применении умения перехватчик активируется. После активации он уничтожает любое устройство, которое отскочило бы от агента и/или могло бы быть уничтожено выстрелами. Враги могут уничтожить перехватчик.",
+							"th-TH": "ติดตั้ง Interceptor ยิงเพื่อวาง Interceptor ไว้ในตำแหน่งที่แสดง หลังจากวางแล้ว ให้ใช้งานอีกครั้งเพื่อเปิดใช้งาน หลังจากเปิดใช้งานแล้ว จะทำลายสกิลที่จะกระเด้งออกจากผู้เล่นและ/หรือถูกยิงทำลายได้ ศัตรูสามารถทำลาย Interceptor ได้",
+							"tr-TR": "Tehditsavar'ı KUŞAN. Tehditsavar'ı belirlenen konuma yerleştirmek için ATEŞ ET. Yerleştirdikten sonra etkinleştirmek için TEKRAR KULLAN. Etkin hâldeki Tehditsavar bir oyuncudan SEKEBİLEN veya silahla yok edilebilen bütün yetenekleri yok eder. Düşmanlar Tehditsavar'ı yok edebilir.",
+							"vi-VN": "TRANG BỊ Mảnh Đánh Chặn. BẮN để đặt Mảnh Đánh Chặn tại địa điểm chỉ định. Sau khi đặt, TÁI SỬ DỤNG để kích hoạt. Sau khi kích hoạt, mảnh dị thể này sẽ phá hủy mọi tiện ích có thể NẢY khỏi người chơi hoặc bị phá hủy do trúng đạn. Kẻ địch có thể phá hủy Mảnh Đánh Chặn.",
+							"zh-CN": "装备噬源体。按【射击】将其部署至目标位置。部署后，【再次使用】技能即可激活。激活后，噬源体将摧毁一切能从玩家身上弹开或被枪火自然摧毁的装置。 噬源体可被敌人摧毁。 ",
+							"zh-TW": "裝備攔截器。點擊「攻擊」可將攔截器放置於指定地點。放置後，「重施技能」即可啟用。啟用後，它會摧毀任何會從玩家身上反彈和/或可被槍火摧毀的戰略工具。敵軍可破壞攔截器。"
+						}
+					},
+					"label": "92EEEF5D-43B5-1D4A-8D03-B3927A09034B_Ability2",
+					"name":
+					{
+						"defaultText": "Interceptor",
+						"localizedByCulture":
+						{
+							"ar-AE": "جهاز الاعتراض",
+							"de-DE": "Abfänger",
+							"en-US": "Interceptor",
+							"es-ES": "Interceptor",
+							"es-MX": "Interceptor",
+							"fr-FR": "Intercepteur",
+							"id-ID": "Interceptor",
+							"it-IT": "Intercettore",
+							"ja-JP": "インタセプター",
+							"ko-KR": "요격기",
+							"pl-PL": "Interceptor",
+							"pt-BR": "Interceptador",
+							"ru-RU": "Перехватчик",
+							"th-TH": "Interceptor",
+							"tr-TR": "TEHDİTSAVAR",
+							"vi-VN": "Đánh Chặn",
+							"zh-CN": "噬源体",
+							"zh-TW": "攔截器"
+						}
+					}
+				},
+				"grenade":
+				{
+					"description":
+					{
+						"defaultText": "EQUIP a vortex. FIRE to place on the ground. While in range and looking at the vortex, REACTIVATE to teleport to the vortex. During the BUY PHASE, the vortex can be reclaimed to be REDEPLOYED.",
+						"localizedByCulture":
+						{
+							"ar-AE": "تجهّز بدوّامة. أطلق لوضعها على الأرض. عند الوجود ضمن النطاق والنظر إلى الدوّامة، أعد التفعيل لتنفيذ الانتقال السريع إليها. خلال مرحلة الشراء، يمكن استرجاع الدوّامة لإعادة نشرها.",
+							"de-DE": "RÜSTE einen Strudel AUS. FEUERE, um ihn auf dem Boden zu platzieren. Solange du in Reichweite bist und den Strudel ansiehst, kannst du mit REAKTIVIERUNG zum Strudel teleportieren. In der KAUFPHASE kann der Strudel zurückgeholt und NEU AUFGESTELLT werden.",
+							"en-US": "EQUIP a vortex. FIRE to place on the ground. While in range and looking at the vortex, REACTIVATE to teleport to the vortex. During the BUY PHASE, the vortex can be reclaimed to be REDEPLOYED.",
+							"es-ES": "EQUIPA un remolino. DISPARA para colocarlo en el suelo. Cuando tengas el remolino al alcance y te posiciones en su dirección, REACTIVA la habilidad para teleportarte hasta él. Durante la FASE DE COMPRA, puede recuperarse el remolino para VOLVER A COLOCARLO.",
+							"es-MX": "EQUIPA un vórtice. DISPARA para colocarlo en el suelo. Mientras estés dentro del alcance y mirando al vórtice, REACTIVA para teletransportarte al él. Durante la FASE DE COMPRA, el vórtice se puede recuperar para VOLVER A USARLO.",
+							"fr-FR": "ÉQUIPEZ-vous d'un vortex. TIREZ pour le poser sur le sol. Lorsque vous êtes à portée et que vous regardez le vortex, RÉACTIVEZ pour vous téléporter jusqu'au vortex. Pendant la PHASE D'ACHATS, le vortex peut être récupéré pour être REDÉPLOYÉ.",
+							"id-ID": "EQUIP vortex. TEKAN FIRE untuk menempatkan di darat. Saat dalam jangkauan dan melihat vortex, AKTIFKAN ULANG untuk berteleportasi ke vortex. Selama BUY PHASE, vortex bisa diambil kembali untuk DI-REDEPLOY.",
+							"it-IT": "EQUIPAGGIA un vortice. Usa il FUOCO per piazzarlo a terra. Mentre sei a portata e guardi il vortice, RIATTIVA per teletrasportarti su di esso. Durante la FASE DI ACQUISTO, è possibile recuperare il vortice per RIUTILIZZARLO.",
+							"ja-JP": "渦状の物体を装備する。「発射」で地面に設置する。範囲内で渦を見ている間に再発動すると、渦の位置にテレポートする。購入フェーズ中、渦は回収して再設置が可能。",
+							"ko-KR": "소용돌이를 장착합니다. 발사하면 지면에 설치합니다. 범위 내에서 소용돌이를 바라볼 때 다시 활성화하면 해당 소용돌이로 순간이동합니다. 구매 단계에서 소용돌이를 회수하여 재배치할 수 있습니다.",
+							"pl-PL": "WYPOSAŻ Wir. STRZEL, by umieścić go na ziemi. REAKTYWUJ, będąc w zasięgu i patrząc na Wir, by się do niego teleportować. Podczas FAZY ZAKUPÓW można odzyskać Wir, co pozwoli go UŻYĆ PONOWNIE.",
+							"pt-BR": "EQUIPE um vórtice. DISPARE para posicioná-lo no chão. Enquanto estiver dentro do alcance e olhando para o vórtice, REATIVE para se teleportar até ele. Durante a FASE DE COMPRA, o vórtice pode ser recolhido e REPOSICIONADO.",
+							"ru-RU": "Выбирает вихрь. Нажмите ОГОНЬ, чтобы разместить его на земле. Находясь в области действия и смотря на вихрь, нажмите кнопку умения повторно, чтобы переместиться к нему. Во время фазы покупок вихрь можно вернуть, чтобы разместить заново.",
+							"th-TH": "ติดตั้งกระแสวน ยิงเพื่อวางลงบนพื้น ขณะอยู่ในรัศมีและมองไปที่กระแสวน ให้เปิดใช้งานอีกครั้งเพื่อเทเลพอร์ตไปยังกระแสวน ในช่วงการซื้อ กระแสวนจะเก็บกลับมาเพื่อใช้งานใหม่ได้",
+							"tr-TR": "Bir burgaç KUŞAN. Zemine yerleştirmek için ATEŞ ET. Burgaca ışınlanmak için menzilindeyken ve burgaca bakarken TEKRAR ETKİNLEŞTİR. SATIN ALMA EVRESİ sırasında burgacı TEKRAR YERLEŞTİRMEK üzere geri alabilirsin.",
+							"vi-VN": "TRANG BỊ 1 lốc xoáy. BẮN để đặt lốc xoáy trên mặt đất. Khi ở trong phạm vi và nhìn vào lốc xoáy, TÁI KÍCH HOẠT để dịch chuyển đến lốc xoáy. Trong GIAI ĐOẠN MUA ĐỒ, có thể thu hồi lốc xoáy để TRIỂN KHAI LẠI.",
+							"zh-CN": "装备一颗漩涡能量球。按【射击】将其放置于地面。在技能范围内且瞄准漩涡时，【再次激活】技能即可传送至漩涡所在位置。在购买阶段期间，可将能量球回收并【重新部署】。",
+							"zh-TW": "裝備一道漩渦，點擊「攻擊」可放置在地上，當你進入範圍並看著漩渦，重施技能可傳送至漩渦的位置。選購階段可以回收漩渦以重新部署。"
+						}
+					},
+					"label": "92EEEF5D-43B5-1D4A-8D03-B3927A09034B_Grenade",
+					"name":
+					{
+						"defaultText": "Crosscut",
+						"localizedByCulture":
+						{
+							"ar-AE": "الصدع العرضي",
+							"de-DE": "Kreuzhieb",
+							"en-US": "Crosscut",
+							"es-ES": "Corte transversal",
+							"es-MX": "Corte Transversal",
+							"fr-FR": "Vortex",
+							"id-ID": "Crosscut",
+							"it-IT": "Scorciatoia",
+							"ja-JP": "クロスカット",
+							"ko-KR": "지름길",
+							"pl-PL": "Skrót",
+							"pt-BR": "Travessia",
+							"ru-RU": "Связка",
+							"th-TH": "Crosscut",
+							"tr-TR": "GERİ SAR",
+							"vi-VN": "Lối Tắt",
+							"zh-CN": "涡流折跃",
+							"zh-TW": "穿越之徑"
+						}
+					}
+				},
+				"ultimate":
+				{
+					"description":
+					{
+						"defaultText": "INSTANTLY begin to fully mutate, gaining a combat stim, regeneration, and becoming IMMUNE to all forms of debuffs.",
+						"localizedByCulture":
+						{
+							"ar-AE": "تبدأ بالتحوّل الكامل فورًا، فتحصل على محفز قتالي وتجديد للحياة، وتصبح منيعًا ضد جميع تأثيرات الإضعاف.",
+							"de-DE": "Beginnt SOFORT die vollständige Mutation, bekommt eine Kampfstimulation, Regeneration und wird IMMUN gegen alle Debuffs.",
+							"en-US": "INSTANTLY begin to fully mutate, gaining a combat stim, regeneration, and becoming IMMUNE to all forms of debuffs.",
+							"es-ES": "Comienza a mutar completamente AL INSTANTE, lo que le proporciona un estimulante de combate, regeneración e INMUNIDAD a toda clase de debilitaciones.",
+							"es-MX": "Comienza a mutar por completo al INSTANTE, obtiene un potenciador de combate, regeneración y se vuelve INMUNE a todas las formas de debilitación.",
+							"fr-FR": "Vous commencez INSTANTANÉMENT à muter complètement, vous gagnez un stimulant de combat, de la régénération et vous êtes IMMUNISÉ contre toutes les formes de malus.",
+							"id-ID": "SEKETIKA mulai bermutasi sepenuhnya, mendapatkan combat stim, regenerasi, dan menjadi KEBAL terhadap segala bentuk debuff.",
+							"it-IT": "Inizi ISTANTANEAMENTE una mutazione completa, ottenendo un effetto ENERGETICO, rigenerandoti e diventando IMMUNE a ogni forma di debuff.",
+							"ja-JP": "即座に完全変異を開始し、バトルスティムと回復を獲得する。また、あらゆるデバフ効果が無効となる。",
+							"ko-KR": "즉시 완전하게 변이하여 전투 자극제, 체력 회복 효과를 얻고 모든 형태의 해로운 효과에 면역 상태가 됩니다.",
+							"pl-PL": "NATYCHMIAST przechodzi pełną mutację, zyskując stymulant bitewny, regenerację oraz ODPORNOŚĆ na wszystkie formy osłabień.",
+							"pt-BR": "Inicia INSTANTANEAMENTE uma mutação completa, ganhando Estimulante de Combate e Regeneração, e se torna IMUNE a todas as formas de enfraquecimento.",
+							"ru-RU": "Мгновенно начинает мутировать, получая эффект боевого стимулятора и невосприимчивость ко всем отрицательным эффектам, а также восстанавливая здоровье.",
+							"th-TH": "เริ่มกลายพันธุ์โดยสมบูรณ์ในทันที พร้อมทั้งรับบัฟ Combat Stim, ฟื้นฟูพลังชีวิต และไม่ติดดีบัฟทุกรูปแบบ",
+							"tr-TR": "ANINDA tamamen mutasyona uğramaya başlayarak kuvvetli savaş ile can yenilemesi ve bütün zayıflatma etkilerine karşı BAĞIŞIKLIK kazanırsın.",
+							"vi-VN": "NGAY LẬP TỨC biến dị hoàn toàn, được tăng cường hỏa lực, hồi máu và MIỄN NHIỄM với mọi loại bùa hại.",
+							"zh-CN": "立即进入完全变异形态，获得【作战强化】效果和再生能力，并免疫所有形式的减益效果。 ",
+							"zh-TW": "立即開始完全突變，獲得「激發戰意」增益、生命回復，並「免疫」所有類型的減益效果。"
+						}
+					},
+					"label": "92EEEF5D-43B5-1D4A-8D03-B3927A09034B_Ultimate",
+					"name":
+					{
+						"defaultText": "Evolution",
+						"localizedByCulture":
+						{
+							"ar-AE": "التطور",
+							"de-DE": "Evolution",
+							"en-US": "Evolution",
+							"es-ES": "Evolución",
+							"es-MX": "Evolución",
+							"fr-FR": "Évolution",
+							"id-ID": "Evolution",
+							"it-IT": "Evoluzione",
+							"ja-JP": "エヴォリューション",
+							"ko-KR": "진화",
+							"pl-PL": "Ewolucja",
+							"pt-BR": "Evolução",
+							"ru-RU": "Эволюция",
+							"th-TH": "Evolution",
+							"tr-TR": "EVRİM",
+							"vi-VN": "Tiến Hóa",
+							"zh-CN": "完全进化",
+							"zh-TW": "終極突變"
+						}
+					}
+				},
+				"ability1":
+				{
+					"description":
+					{
+						"defaultText": "EQUIP a viscous fragment of your mutation. FIRE to throw. The fragment deploys upon impact, creating a trap to hold enemies in place. Held enemies are Deafened, and Decayed. Enemies can destroy the trap before activation.",
+						"localizedByCulture":
+						{
+							"ar-AE": "تجهّز بشظية لزجة ناتجة عن عملية تحوّلك. أطلق لرميها. تنتشر الشظية عند الاصطدام لتُنشئ فخًا يثبت الأعداء في مكانهم. يصاب الأعداء المثبّتون بتأثيري الصمم وتدهور الصحة. يستطيع الأعداء تدمير الفخ قبل تفعيله.",
+							"de-DE": "RÜSTE ein zähflüssiges Fragment deiner Mutation AUS. FEUERE, um es zu werfen. Das Fragment wird beim Einschlag eingesetzt und bildet eine Falle, die Gegner an Ort und Stelle festhält. Festgehaltenen Gegnern werden Taubheit und Verfall zugefügt. Gegner können die Falle zerstören, bevor sie aktiviert wird.",
+							"en-US": "EQUIP a viscous fragment of your mutation. FIRE to throw. The fragment deploys upon impact, creating a trap to hold enemies in place. Held enemies are Deafened, and Decayed. Enemies can destroy the trap before activation.",
+							"es-ES": "EQUIPA un pedazo viscoso de tu mutación. DISPARA para lanzarlo. El fragmento se despliega al impactar y crea una trampa que detiene a los enemigos en el sitio. Ensordece y aplica declive a los enemigos retenidos. Los enemigos pueden destruir la trampa antes de que se active.",
+							"es-MX": "EQUIPA un fragmento viscoso de tu mutación. DISPARA para lanzar. El fragmento se despliega al impacto, creando una trampa que inmoviliza a los enemigos. Los enemigos inmovilizados quedan ensordecidos y debilitados. Los enemigos pueden destruir la trampa antes de que se active.",
+							"fr-FR": "ÉQUIPEZ-vous d'un fragment visqueux de votre mutation. TIREZ pour le lancer. Le fragment se déploie lors de l'impact, créant un piège qui immobilise les ennemis. Les ennemis retenus sont assourdis et leurs PV se désagrègent. Les ennemis peuvent détruire le piège avant qu'il ne s'active.",
+							"id-ID": "EQUIP fragmen kental dari mutasimu. TEKAN FIRE untuk melempar. Fragmen ini akan aktif saat mengenai target, menciptakan perangkap untuk menahan musuh di tempat. Musuh yang tertahan akan terkena efek Deafen dan Decay. Musuh bisa menghancurkan perangkap sebelum diaktifkan.",
+							"it-IT": "EQUIPAGGIA un frammento viscoso della tua mutazione. Usa il FUOCO per lanciarlo. Il frammento si attiva all'impatto, creando una trappola che immobilizza i nemici. I nemici coinvolti vengono ASSORDATI e DETERIORATI. I nemici possono distruggere la trappola prima che si attivi.",
+							"ja-JP": "変異から生じた粘性の欠片を構える。「発射」で投げる。欠片は着弾すると展開され、敵をその場に拘束するトラップを生成する。拘束された敵は聴覚を奪われ、「衰弱」効果を受ける。敵は起動前のトラップを破壊可能。",
+							"ko-KR": "변이의 점성 조각을 장착합니다. 발사하면 던집니다. 조각은 표면에 닿으면 적을 그 자리에 속박하는 함정을 생성합니다. 속박된 적은 청력이 약화되고 부패 효과를 받습니다. 적은 함정이 활성화되기 전에 함정을 파괴할 수 있습니다.",
+							"pl-PL": "WYPOSAŻ lepki fragment swojej mutacji. STRZEL, by rzucić. Fragment rozstawia się w momencie uderzenia, tworząc pułapkę, która zatrzymuje wrogów. Zatrzymani wrogowie zostają ogłuszeni i ulegają rozpadowi. Wrogowie mogą zniszczyć pułapkę, zanim w nią wejdą.",
+							"pt-BR": "EQUIPE um fragmento viscoso da sua mutação. DISPARE para lançar. O fragmento é acionado com o impacto, criando uma armadilha que prende os inimigos no lugar. Inimigos presos sofrem Surdez e Deterioração. Inimigos podem destruir a armadilha antes da ativação.",
+							"ru-RU": "Выбирает вязкий мутировавший сгусток. Нажмите ОГОНЬ, чтобы бросить его. При столкновении с поверхностью сгусток преобразуется в ловушку, которая удерживает врагов, лишает их слуха и наносит им периодический урон. Враги могут уничтожить ловушку до активации.",
+							"th-TH": "ติดตั้งชิ้นส่วนหนืดจากการกลายพันธุ์ ยิงเพื่อขว้าง ชิ้นส่วนจะทำงานเมื่อสัมผัสโดน และสร้างกับดักเพื่อยึดศัตรูให้อยู่กับที่ ศัตรูที่ถูกยึดอยู่กับที่จะถูกจำกัดการได้ยินและติดสถานะเสื่อมสลาย ศัตรูสามารถทำลายกับดักก่อนกับดักทำงานได้",
+							"tr-TR": "Mutasyonundan yapışkan bir parçacık KUŞAN. Fırlatmak için ATEŞ ET. Parçacık temas anında açılır ve düşmanları yerine sabitleyen bir tuzak oluşturur. Sabitlenmiş düşmanlar Sağır olur ve Çürüme hasarı almaya başlar. Düşmanlar etkinleşmeden önce tuzağı yok edebilir.",
+							"vi-VN": "TRANG BỊ 1 mảnh kết dính từ dị thể của bạn. BẮN để ném. Mảnh kết dính sẽ bung ra khi va chạm, tạo thành bẫy để giữ chân kẻ địch. Những kẻ địch bị giam giữ sẽ mất đi Thính Giác và chịu Phân Rã. Kẻ địch có thể phá hủy bẫy trước khi kích hoạt.",
+							"zh-CN": "装备一块由异变产生的黏液碎片。按【射击】将其掷出。碎片会在发生碰撞时部署为陷阱，困住经过的敌人。被困敌人将受到【致聋】和【腐坏】效果。陷阱激活前可被敌人摧毁。",
+							"zh-TW": "裝備你突變而來的黏性碎片，點擊「攻擊」即可拋出。該碎片碰撞到物體時即刻部署，創造出能束縛敵軍的陷阱；被束縛的目標會遭到「致聾」和「侵蝕」。敵軍可在陷阱啟動前將之摧毀。"
+						}
+					},
+					"label": "92EEEF5D-43B5-1D4A-8D03-B3927A09034B_Ability1",
+					"name":
+					{
+						"defaultText": "Chokehold",
+						"localizedByCulture":
+						{
+							"ar-AE": "القبضة المحكمة",
+							"de-DE": "Schwitzkasten",
+							"en-US": "Chokehold",
+							"es-ES": "Asfixia",
+							"es-MX": "Asfixia",
+							"fr-FR": "Étranglement",
+							"id-ID": "Chokehold",
+							"it-IT": "Morsa",
+							"ja-JP": "チョークホールド",
+							"ko-KR": "목조르기",
+							"pl-PL": "Przyduszenie",
+							"pt-BR": "Imobilidade",
+							"ru-RU": "Удушение",
+							"th-TH": "Chokehold",
+							"tr-TR": "DARBOĞAZ",
+							"vi-VN": "Khóa Cứng",
+							"zh-CN": "裂变残片",
+							"zh-TW": "鎖喉"
+						}
+					}
+				}
+			},
+			"id": "92EEEF5D-43B5-1D4A-8D03-B3927A09034B",
+			"label": "92EEEF5D-43B5-1D4A-8D03-B3927A09034B",
+			"name":
+			{
+				"defaultText": "Veto",
+				"localizedByCulture":
+				{
+					"ar-AE": "فيتو",
+					"de-DE": "Veto",
+					"en-US": "Veto",
+					"es-ES": "Veto",
+					"es-MX": "Veto",
+					"fr-FR": "Veto",
+					"id-ID": "Veto",
+					"it-IT": "Veto",
+					"ja-JP": "ヴィトー",
+					"ko-KR": "비토",
+					"pl-PL": "Veto",
+					"pt-BR": "Veto",
+					"ru-RU": "Veto",
+					"th-TH": "Veto",
+					"tr-TR": "VETO",
+					"vi-VN": "Veto",
+					"zh-CN": "禁灭",
+					"zh-TW": "維托"
 				}
 			}
 		},
@@ -109238,6 +109511,99 @@
 		},
 		{
 			"weaponId": "E336C6B8-418D-9340-D77F-7A9E4CFE0702",
+			"defaultChromaId": "9A11BBFF-4474-00A0-F833-868F5F2488B5",
+			"chromas": [
+				{
+					"id": "9A11BBFF-4474-00A0-F833-868F5F2488B5",
+					"label": "9A11BBFF-4474-00A0-F833-868F5F2488B5",
+					"name":
+					{
+						"defaultText": "Enforcer Sheriff",
+						"localizedByCulture":
+						{
+							"ar-AE": "الشرطي شيريف",
+							"de-DE": "Sheriff – Vollstrecker",
+							"en-US": "Enforcer Sheriff",
+							"es-ES": "Sheriff a sueldo",
+							"es-MX": "Sheriff Vigilante",
+							"fr-FR": "Sheriff (Homme de main)",
+							"id-ID": "Enforcer Sheriff",
+							"it-IT": "Sheriff Vigilante",
+							"ja-JP": "エンフォーサー シェリフ",
+							"ko-KR": "집행자 셰리프",
+							"pl-PL": "Sheriff Stróż Prawa",
+							"pt-BR": "Sheriff Defensor",
+							"ru-RU": "Sheriff \"Заступник\"",
+							"th-TH": "Enforcer Sheriff",
+							"tr-TR": "Fedai Sheriff",
+							"vi-VN": "Sheriff Enforcer",
+							"zh-CN": "压制者 正义",
+							"zh-TW": "執法者 神射"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "8B8DCD8D-438E-9C7A-C6C7-49A24750F5B5",
+					"label": "8B8DCD8D-438E-9C7A-C6C7-49A24750F5B5",
+					"name":
+					{
+						"defaultText": "Enforcer Sheriff",
+						"localizedByCulture":
+						{
+							"ar-AE": "الشرطي شيريف",
+							"de-DE": "Sheriff – Vollstrecker",
+							"en-US": "Enforcer Sheriff",
+							"es-ES": "Sheriff a sueldo",
+							"es-MX": "Sheriff Vigilante",
+							"fr-FR": "Sheriff (Homme de main)",
+							"id-ID": "Enforcer Sheriff",
+							"it-IT": "Sheriff Vigilante",
+							"ja-JP": "エンフォーサー シェリフ",
+							"ko-KR": "집행자 셰리프",
+							"pl-PL": "Sheriff Stróż Prawa",
+							"pt-BR": "Sheriff Defensor",
+							"ru-RU": "Sheriff \"Заступник\"",
+							"th-TH": "Enforcer Sheriff",
+							"tr-TR": "Fedai Sheriff",
+							"vi-VN": "Sheriff Enforcer",
+							"zh-CN": "压制者 正义",
+							"zh-TW": "執法者 神射"
+						}
+					}
+				}
+			],
+			"id": "7AA2C00D-4EB3-0891-8EA0-F2B29CBE7254",
+			"label": "7AA2C00D-4EB3-0891-8EA0-F2B29CBE7254",
+			"name":
+			{
+				"defaultText": "Enforcer Sheriff",
+				"localizedByCulture":
+				{
+					"ar-AE": "الشرطي شيريف",
+					"de-DE": "Sheriff – Vollstrecker",
+					"en-US": "Enforcer Sheriff",
+					"es-ES": "Sheriff a sueldo",
+					"es-MX": "Sheriff Vigilante",
+					"fr-FR": "Sheriff (Homme de main)",
+					"id-ID": "Enforcer Sheriff",
+					"it-IT": "Sheriff Vigilante",
+					"ja-JP": "エンフォーサー シェリフ",
+					"ko-KR": "집행자 셰리프",
+					"pl-PL": "Sheriff Stróż Prawa",
+					"pt-BR": "Sheriff Defensor",
+					"ru-RU": "Sheriff \"Заступник\"",
+					"th-TH": "Enforcer Sheriff",
+					"tr-TR": "Fedai Sheriff",
+					"vi-VN": "Sheriff Enforcer",
+					"zh-CN": "压制者 正义",
+					"zh-TW": "執法者 神射"
+				}
+			}
+		},
+		{
+			"weaponId": "E336C6B8-418D-9340-D77F-7A9E4CFE0702",
 			"defaultChromaId": "52701D90-45FF-9831-FD16-B19DC3C5B03B",
 			"chromas": [
 				{
@@ -204904,6 +205270,64 @@
 			}
 		},
 		{
+			"id": "BC81104F-4AFB-98D3-A04D-73BC99649888",
+			"label": "BC81104F-4AFB-98D3-A04D-73BC99649888",
+			"name":
+			{
+				"defaultText": "VALORANT Veto Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة فيتو VALORANT",
+					"de-DE": "Banner „VALORANT Veto“",
+					"en-US": "VALORANT Veto Card",
+					"es-ES": "Tarjeta de Veto de VALORANT",
+					"es-MX": "Tarjeta Veto de VALORANT",
+					"fr-FR": "Carte Veto de VALORANT",
+					"id-ID": "Kartu VALORANT Veto",
+					"it-IT": "Carta Veto VALORANT",
+					"ja-JP": "VALORANT ヴィトー カード",
+					"ko-KR": "발로란트 비토 카드",
+					"pl-PL": "Karta „VALORANT Veto”",
+					"pt-BR": "Card Veto de VALORANT",
+					"ru-RU": "Карточка \"VALORANT Veto\"",
+					"th-TH": "การ์ด VALORANT Veto",
+					"tr-TR": "VALORANT Veto Kartı",
+					"vi-VN": "Thẻ Veto VALORANT",
+					"zh-CN": "无畏契约：禁灭 卡面",
+					"zh-TW": "《特戰英豪》維托 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "1EC3F3B5-4604-9939-B04A-7CACE50FDD4B",
+			"label": "1EC3F3B5-4604-9939-B04A-7CACE50FDD4B",
+			"name":
+			{
+				"defaultText": "The Deep End Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة الأعماق",
+					"de-DE": "Banner „Kalt erwischt“",
+					"en-US": "The Deep End Card",
+					"es-ES": "Tarjeta Al extremo",
+					"es-MX": "Tarjeta El Abismo",
+					"fr-FR": "Carte Grand bain",
+					"id-ID": "Kartu The Deep End",
+					"it-IT": "Carta Profondità",
+					"ja-JP": "ディープエンド カード",
+					"ko-KR": "깊은 곳 카드",
+					"pl-PL": "Karta „Głębokie wody”",
+					"pt-BR": "Card Profundezas",
+					"ru-RU": "Карточка \"За гранью\"",
+					"th-TH": "การ์ด The Deep End",
+					"tr-TR": "Belalı Derinlikler Kartı",
+					"vi-VN": "Thẻ Phi Vụ Khó",
+					"zh-CN": "绝境深渊 卡面",
+					"zh-TW": "涉入太深 玩家卡面"
+				}
+			}
+		},
+		{
 			"id": "19649CB5-4255-1875-ABBA-0F8195A2D295",
 			"label": "19649CB5-4255-1875-ABBA-0F8195A2D295",
 			"name":
@@ -223804,6 +224228,114 @@
 					"vi-VN": "Danh Hiệu Cứng Rắn",
 					"zh-CN": "千锤百炼 称号",
 					"zh-TW": "千錘百鍊 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Untouchable",
+				"localizedByCulture":
+				{
+					"ar-AE": "المنيع",
+					"de-DE": "Unantastbar",
+					"en-US": "Untouchable",
+					"es-ES": "Intocable",
+					"es-MX": "Intocable",
+					"fr-FR": "Intouchable",
+					"id-ID": "Untouchable",
+					"it-IT": "Intoccabile",
+					"ja-JP": "アンタッチャブル",
+					"ko-KR": "범접 불가",
+					"pl-PL": "Nietykalny",
+					"pt-BR": "Intocável",
+					"ru-RU": "Недосягаемый",
+					"th-TH": "ไร้พ่าย",
+					"tr-TR": "Dokunulmaz",
+					"vi-VN": "Bất Khả Xâm Phạm",
+					"zh-CN": "触不可及",
+					"zh-TW": "無法觸及"
+				}
+			},
+			"id": "89A407D7-4736-A86E-BC53-C98EC8AADF6D",
+			"label": "89A407D7-4736-A86E-BC53-C98EC8AADF6D",
+			"name":
+			{
+				"defaultText": "Untouchable Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب المنيع",
+					"de-DE": "Titel „Unantastbar“",
+					"en-US": "Untouchable Title",
+					"es-ES": "Título Intocable",
+					"es-MX": "Título Intocable",
+					"fr-FR": "Titre Intouchable",
+					"id-ID": "Gelar Untouchable",
+					"it-IT": "Titolo Intoccabile",
+					"ja-JP": "アンタッチャブル タイトル",
+					"ko-KR": "범접 불가 칭호",
+					"pl-PL": "Tytuł „Nietykalny”",
+					"pt-BR": "Título Intocável",
+					"ru-RU": "Звание \"Недосягаемый\"",
+					"th-TH": "ฉายาไร้พ่าย",
+					"tr-TR": "Dokunulmaz Unvanı",
+					"vi-VN": "Danh Hiệu Bất Khả Xâm Phạm",
+					"zh-CN": "触不可及 称号",
+					"zh-TW": "無法觸及 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Evolved",
+				"localizedByCulture":
+				{
+					"ar-AE": "المتطوّر",
+					"de-DE": "Weiterentwickelt",
+					"en-US": "Evolved",
+					"es-ES": "La evolución",
+					"es-MX": "Evolucionado",
+					"fr-FR": "Évolué",
+					"id-ID": "Evolved",
+					"it-IT": "Evoluto",
+					"ja-JP": "進化",
+					"ko-KR": "진화된 자",
+					"pl-PL": "Wyewoluowany",
+					"pt-BR": "Evoluído",
+					"ru-RU": "Плод эволюции",
+					"th-TH": "วิวัฒนาการ",
+					"tr-TR": "Evrim Geçirmiş",
+					"vi-VN": "Tiến Hóa",
+					"zh-CN": "进化者",
+					"zh-TW": "完美進化"
+				}
+			},
+			"id": "ACE493DF-40F6-256F-37B6-50AFB7CE72D4",
+			"label": "ACE493DF-40F6-256F-37B6-50AFB7CE72D4",
+			"name":
+			{
+				"defaultText": "Evolved Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب المتطوّر",
+					"de-DE": "Titel „Weiterentwickelt“",
+					"en-US": "Evolved Title",
+					"es-ES": "Título La evolución",
+					"es-MX": "Título Evolucionado",
+					"fr-FR": "Titre Évolué",
+					"id-ID": "Gelar Evolved",
+					"it-IT": "Titolo Evoluto",
+					"ja-JP": "進化 タイトル",
+					"ko-KR": "진화된 자 칭호",
+					"pl-PL": "Tytuł „Wyewoluowany”",
+					"pt-BR": "Título Evoluído",
+					"ru-RU": "Звание \"Плод эволюции\"",
+					"th-TH": "ฉายาวิวัฒนาการ",
+					"tr-TR": "Evrim Geçirmiş Unvanı",
+					"vi-VN": "Danh Hiệu Tiến Hóa",
+					"zh-CN": "进化者 称号",
+					"zh-TW": "完美進化 稱號"
 				}
 			}
 		},
@@ -252978,6 +253510,66 @@
 					"vi-VN": "Phụ Kiện Đừng Hòng Đập Ta",
 					"zh-CN": "打不烂的 挂饰",
 					"zh-TW": "打不破 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "EDBD17EC-4267-0591-B277-4D84FB64A2FF",
+					"label": "EDBD17EC-4267-0591-B277-4D84FB64A2FF",
+					"name":
+					{
+						"defaultText": "PineDNAStrand",
+						"localizedByCulture":
+						{
+							"ar-AE": "PineDNAStrand",
+							"de-DE": "PineDNAStrand",
+							"en-US": "PineDNAStrand",
+							"es-ES": "PineDNAStrand",
+							"es-MX": "PineDNAStrand",
+							"fr-FR": "PineDNAStrand",
+							"id-ID": "PineDNAStrand",
+							"it-IT": "PineDNAStrand",
+							"ja-JP": "PineDNAStrand",
+							"ko-KR": "PineDNAStrand",
+							"pl-PL": "PineDNAStrand",
+							"pt-BR": "PineDNAStrand",
+							"ru-RU": "PineDNAStrand",
+							"th-TH": "PineDNAStrand",
+							"tr-TR": "PineDNAStrand",
+							"vi-VN": "PineDNAStrand",
+							"zh-CN": "PineDNAStrand",
+							"zh-TW": "PineDNAStrand"
+						}
+					}
+				}
+			],
+			"id": "77D65057-4918-2BA5-A5CC-CC85B1ED6D17",
+			"label": "77D65057-4918-2BA5-A5CC-CC85B1ED6D17",
+			"name":
+			{
+				"defaultText": "Mutagenesis Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق التحوّل الجيني",
+					"de-DE": "Talisman „Mutagenese“",
+					"en-US": "Mutagenesis Buddy",
+					"es-ES": "Amuleto Mutagénesis",
+					"es-MX": "Buddy Mutagénesis",
+					"fr-FR": "Porte-bonheur Mutagenèse",
+					"id-ID": "Buddy Mutagenesis",
+					"it-IT": "Accessorio Mutagenesi",
+					"ja-JP": "ミュータジェネシス バディー",
+					"ko-KR": "돌연변이 생성 총기 장식",
+					"pl-PL": "Przywieszka „Mutageneza”",
+					"pt-BR": "Chaveiro Mutagênese",
+					"ru-RU": "Брелок \"Мутагенез\"",
+					"th-TH": "บัดดี้ Mutagenesis",
+					"tr-TR": "Mutajenez Uğuru",
+					"vi-VN": "Phụ Kiện Biến Dị",
+					"zh-CN": "变种基因 挂饰",
+					"zh-TW": "起源突變 吊飾"
 				}
 			}
 		},
@@ -308900,6 +309492,186 @@
 					"vi-VN": "Hình Phun Sơn Quá Dễ",
 					"zh-CN": "易如反掌 喷漆",
 					"zh-TW": "小菜一碟 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "35C8E818-4F5F-ED71-A4B3-7697B45CE084",
+					"label": "35C8E818-4F5F-ED71-A4B3-7697B45CE084",
+					"name":
+					{
+						"defaultText": "EyePanel",
+						"localizedByCulture":
+						{
+							"ar-AE": "EyePanel",
+							"de-DE": "EyePanel",
+							"en-US": "EyePanel",
+							"es-ES": "EyePanel",
+							"es-MX": "EyePanel",
+							"fr-FR": "EyePanel",
+							"id-ID": "EyePanel",
+							"it-IT": "EyePanel",
+							"ja-JP": "EyePanel",
+							"ko-KR": "EyePanel",
+							"pl-PL": "EyePanel",
+							"pt-BR": "EyePanel",
+							"ru-RU": "EyePanel",
+							"th-TH": "EyePanel",
+							"tr-TR": "EyePanel",
+							"vi-VN": "EyePanel",
+							"zh-CN": "EyePanel",
+							"zh-TW": "EyePanel"
+						}
+					}
+				}
+			],
+			"id": "CCAAB3A0-4261-2A09-5DB8-8ABFFAC52F96",
+			"label": "CCAAB3A0-4261-2A09-5DB8-8ABFFAC52F96",
+			"name":
+			{
+				"defaultText": "Don't You Dare Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة إيّاك أن تحاول",
+					"de-DE": "Graffiti „Wage es nicht“",
+					"en-US": "Don't You Dare Spray",
+					"es-ES": "Grafiti Ni te atrevas",
+					"es-MX": "Spray No te atrevas",
+					"fr-FR": "Graffiti N'y pense même pas",
+					"id-ID": "Spray Don't You Dare",
+					"it-IT": "Spray Non ti azzardare",
+					"ja-JP": "手を出すな スプレー",
+					"ko-KR": "꿈도 꾸지 마 스프레이",
+					"pl-PL": "Graffiti „Ani mi się waż”",
+					"pt-BR": "Spray Nem Se Atreva",
+					"ru-RU": "Граффити \"Не смей\"",
+					"th-TH": "สเปรย์ Don't You Dare",
+					"tr-TR": "Hele Bir Dene Spreyi",
+					"vi-VN": "Hình Phun Sơn Cấm Manh Động",
+					"zh-CN": "有种试试 喷漆",
+					"zh-TW": "想都別想 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "698A2030-41FB-BAAF-0AAA-A1A33E27998F",
+					"label": "698A2030-41FB-BAAF-0AAA-A1A33E27998F",
+					"name":
+					{
+						"defaultText": "PineCallSign",
+						"localizedByCulture":
+						{
+							"ar-AE": "PineCallSign",
+							"de-DE": "PineCallSign",
+							"en-US": "PineCallSign",
+							"es-ES": "PineCallSign",
+							"es-MX": "PineCallSign",
+							"fr-FR": "PineCallSign",
+							"id-ID": "PineCallSign",
+							"it-IT": "PineCallSign",
+							"ja-JP": "PineCallSign",
+							"ko-KR": "PineCallSign",
+							"pl-PL": "PineCallSign",
+							"pt-BR": "PineCallSign",
+							"ru-RU": "PineCallSign",
+							"th-TH": "PineCallSign",
+							"tr-TR": "PineCallSign",
+							"vi-VN": "PineCallSign",
+							"zh-CN": "PineCallSign",
+							"zh-TW": "PineCallSign"
+						}
+					}
+				}
+			],
+			"id": "B35331CC-4E6B-1C59-34C8-9682D5CD7190",
+			"label": "B35331CC-4E6B-1C59-34C8-9682D5CD7190",
+			"name":
+			{
+				"defaultText": "Veto Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة فيتو",
+					"de-DE": "Graffiti „Veto“",
+					"en-US": "Veto Spray",
+					"es-ES": "Grafiti de Veto",
+					"es-MX": "Spray Veto",
+					"fr-FR": "Graffiti Veto",
+					"id-ID": "Spray Veto",
+					"it-IT": "Spray Veto",
+					"ja-JP": "ヴィトー スプレー",
+					"ko-KR": "비토 스프레이",
+					"pl-PL": "Graffiti „Veto”",
+					"pt-BR": "Spray Codinome Veto",
+					"ru-RU": "Граффити \"Veto\"",
+					"th-TH": "สเปรย์ Veto",
+					"tr-TR": "Veto Spreyi",
+					"vi-VN": "Hình Phun Sơn Veto",
+					"zh-CN": "禁灭 喷漆",
+					"zh-TW": "維托 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "26BDB6F6-4AB1-9679-7C32-FDA26E56D47D",
+					"label": "26BDB6F6-4AB1-9679-7C32-FDA26E56D47D",
+					"name":
+					{
+						"defaultText": "RadEater",
+						"localizedByCulture":
+						{
+							"ar-AE": "RadEater",
+							"de-DE": "RadEater",
+							"en-US": "RadEater",
+							"es-ES": "RadEater",
+							"es-MX": "RadEater",
+							"fr-FR": "RadEater",
+							"id-ID": "RadEater",
+							"it-IT": "RadEater",
+							"ja-JP": "RadEater",
+							"ko-KR": "RadEater",
+							"pl-PL": "RadEater",
+							"pt-BR": "RadEater",
+							"ru-RU": "RadEater",
+							"th-TH": "RadEater",
+							"tr-TR": "RadEater",
+							"vi-VN": "RadEater",
+							"zh-CN": "RadEater",
+							"zh-TW": "RadEater"
+						}
+					}
+				}
+			],
+			"id": "E33BEB88-48DF-482B-58D8-96986C8A47EE",
+			"label": "E33BEB88-48DF-482B-58D8-96986C8A47EE",
+			"name":
+			{
+				"defaultText": "Negation Ready Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة التشويش جاهز",
+					"de-DE": "Graffiti „Negierung bereit“",
+					"en-US": "Negation Ready Spray",
+					"es-ES": "Grafiti Negación lista",
+					"es-MX": "Spray Negación lista",
+					"fr-FR": "Graffiti Brouilleur en place",
+					"id-ID": "Spray Negation Ready",
+					"it-IT": "Spray Contromisura pronta",
+					"ja-JP": "無効化完了 スプレー",
+					"ko-KR": "거부 준비 스프레이",
+					"pl-PL": "Graffiti „Negacja gotowa”",
+					"pt-BR": "Spray Anulação Pronta",
+					"ru-RU": "Граффити \"Блокировка готова\"",
+					"th-TH": "สเปรย์ Negation Ready",
+					"tr-TR": "Etkisiz Kıl Spreyi",
+					"vi-VN": "Hình Phun Sơn Sẵn Sàng Vô Hiệu",
+					"zh-CN": "噬源体就绪 喷漆 ",
+					"zh-TW": "殲滅確定 塗鴉"
 				}
 			}
 		},
