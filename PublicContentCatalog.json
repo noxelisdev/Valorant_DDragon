@@ -1,5 +1,5 @@
 {
-	"version": "11.08.00.3880807",
+	"version": "11.09.00.3920876",
 	"characters": [
 		{
 			"description":
@@ -1931,7 +1931,7 @@
 					"pl-PL": "KAY/O to maszyna wojenna zbudowana w jednym celu: likwidowanie Promienistych. Jego moc tłumienia wrogich umiejętności ogranicza bojowe możliwości przeciwników, zapewniając KAY/O i jego sojusznikom niesamowitą przewagę.",
 					"pt-BR": "KAY/O é uma máquina de guerra construída com um único propósito: neutralizar Radiantes. Ele é capaz de Suprimir habilidades inimigas, anulando a capacidade de contra-ataque dos adversários e dando a si próprio e a seus aliados uma vantagem essencial em combate.",
 					"ru-RU": "KAY/O – боевая машина, созданная лишь для одной цели: истребить радиантов. Его способность подавлять умения врага существенно ослабляет команду противника и обеспечивает преимущество союзникам.",
-					"th-TH": "KAY/O is a machine of war built for a single purpose: กำจัด Radiant ความสามารถในการยับยั้งสกิลของศัตรูจะทำลายการตอบโต้จากคู่ต่อสู้ และทำให้เขาและเพื่อนร่วมทีมเอาชนะศึกไปได้ในที่สุด",
+					"th-TH": "KAY/O เป็นจักรกลสงครามที่ถูกสร้างขึ้นเพื่อวัตถุประสงค์เดียว: กำจัด Radiant ความสามารถในการยับยั้งสกิลของศัตรูจะทำลายการตอบโต้จากคู่ต่อสู้ และทำให้เขาและเพื่อนร่วมทีมเอาชนะศึกไปได้ในที่สุด",
 					"tr-TR": "KAY/O, Radyantları etkisiz hale getirmek için üretilmiş bir savaş makinesi. Düşmanlarının yeteneklerini Sindirerek karşı koyma yetilerini bastırır. Böylece hem kendisini hem de takım arkadaşlarını korur.",
 					"vi-VN": "KAY/O là một cỗ máy chiến tranh được chế tạo vì 1 mục đích duy nhất: vô hiệu hóa kẻ thù. Khả năng Áp Chế kỹ năng của kẻ địch khiến chúng không thể phản kháng chắc chắn sẽ mang đến lợi thế lớn cho KAY/O và đồng đội khi giao chiến.",
 					"zh-CN": "K/O是一台战争机器，他被制造出来只有一个目的：消灭源能者。他的能力可以【压制】敌人的技能，为自己与队友制造战术优势。",
@@ -3032,333 +3032,6 @@
 			},
 			"id": "320B2A48-4D9B-A075-30F1-1F93A9B638FA",
 			"label": "320B2A48-4D9B-A075-30F1-1F93A9B638FA",
-			"name":
-			{
-				"defaultText": "Sova",
-				"localizedByCulture":
-				{
-					"ar-AE": "سوفا",
-					"de-DE": "Sova",
-					"en-US": "Sova",
-					"es-ES": "Sova",
-					"es-MX": "Sova",
-					"fr-FR": "Sova",
-					"id-ID": "Sova",
-					"it-IT": "Sova",
-					"ja-JP": "ソーヴァ",
-					"ko-KR": "소바",
-					"pl-PL": "Sova",
-					"pt-BR": "Sova",
-					"ru-RU": "Sova",
-					"th-TH": "Sova",
-					"tr-TR": "SOVA",
-					"vi-VN": "Sova",
-					"zh-CN": "猎枭",
-					"zh-TW": "蘇法"
-				}
-			}
-		},
-		{
-			"description":
-			{
-				"defaultText": "Born from the eternal winter of Russia's tundra, Sova tracks, finds, and eliminates enemies with ruthless efficiency and precision. His custom bow and incredible scouting abilities ensure that even if you run, you cannot hide. ",
-				"localizedByCulture":
-				{
-					"ar-AE": "مع ولادته من رحم الشتاء الأزلي المخيم على سهول التندرا في روسيا، يقوم سوفا بالبحث وتقفي الأثر والقضاء على الأعداء بكفاءة ودقة فائقتين. قوسه المصنوع خصيصًا من أجله وقدراته الاستطلاعية المدهشة يضمنان أنك تستطيع الهرب، ولكن لن يمكنك أبدًا الاختباء منه.",
-					"de-DE": "Sova stammt aus dem ewigen Winter der russischen Tundra und verfolgt, findet und eliminiert Gegner mit gnadenloser Effizienz und Präzision. Sein Spezialbogen und seine unglaublichen Späherfähigkeiten sorgen dafür, dass du zwar fliehen, aber nicht entkommen kannst. ",
-					"en-US": "Born from the eternal winter of Russia's tundra, Sova tracks, finds, and eliminates enemies with ruthless efficiency and precision. His custom bow and incredible scouting abilities ensure that even if you run, you cannot hide. ",
-					"es-ES": "Nacido en el eterno invierno de la tundra rusa, Sova destaca a la hora de localizar, perseguir y eliminar a los enemigos con una eficiencia y una precisión inclementes. Su arco personalizado junto con su sobrenatural capacidad de rastreamiento hacen que sea imposible escapar. ",
-					"es-MX": "Proveniente de la tundra del eterno invierno de Rusia, Sova rastrea, encuentra y elimina a sus enemigos con gran eficiencia y precisión. Su arco personalizado y sus increíbles habilidades de exploración impedirán que sus enemigos puedan esconderse de él. ",
-					"fr-FR": "Né dans l'hiver éternel de la toundra russe, Sova traque, trouve et élimine ses ennemis avec une efficacité et une précision redoutables. Ses incroyables talents d'éclaireur et son arc personnalisé lui garantissent que sa cible ne fuira jamais très longtemps. ",
-					"id-ID": "Terlahir di teritori tundra Rusia yang diselimuti musim dingin abadi, Sova dapat melacak, menemukan, dan menghabisi musuh dengan efisiensi serta akurasi yang dahsyat. Busur khusus dan ability pengintaiannya yang sangat kuat, dapat memastikan bahwa musuh bisa lari tetapi tidak bisa sembunyi. ",
-					"it-IT": "Nato tra le nevi perenni della tundra russa, Sova insegue, trova ed elimina i nemici con precisione e spietata efficienza. Il suo arco modificato, combinato alle sue incredibili doti da ricognitore, lo rendono un cacciatore implacabile. ",
-					"ja-JP": "とこしえの冬、ロシアの凍原で生まれたソーヴァは、冷徹かつ確実に敵を追跡、発見し、そして排除する。たとえ逃げようとしても、彼の特別製の弓と恐るべき偵察アビリティーから身を隠すことはできない。 ",
-					"ko-KR": "겨울이 끝없이 이어지는 러시아 툰드라 지대에서 온 소바는 적들을 추적하고 발견하는 능력이 뛰어나며 정밀하면서도 무자비하게 적을 섬멸합니다. 직접 제작한 활과 뛰어난 정찰 스킬은 숨어 있는 적도 놓치지 않습니다.",
-					"pl-PL": "Sova to urodzony w skutej wieczną zimą rosyjskiej tundrze tropiciel, który śledzi, namierza i eliminuje wrogów z bezwzględną skutecznością i precyzją. Jego niestandardowy łuk w połączeniu z niesamowitymi umiejętnościami tropiącymi sprawiają, że nie ma przed nim ucieczki. ",
-					"pt-BR": "Nascido sob o eterno inverno das tundras russas, Sova rastreia, encontra e elimina inimigos com eficiência e precisão implacáveis. Seu arco personalizado e suas habilidades inigualáveis de reconhecimento garantem que nenhuma presa escape. ",
-					"ru-RU": "Рожденный в вечной мерзлоте российского заполярья, Sova выслеживает и уничтожает противников с холодной расчетливостью и эффективностью. Этот первоклассный разведчик, экипированный особым луком, найдет вас, где бы вы ни прятались. ",
-					"th-TH": "Sova เกิดในช่วงฤดูหนาวอันยาวนาน ณ ทุ้งทุนดราแห่งรัสเซีย เขาติดตาม ตามล่า กำจัดศัตรูได้อย่างเด็ดขาดและแม่นยำ ด้วยธนูพิเศษที่ดัดแปลงเอง พร้อมความสามารถในการล่าชั้นเลิศ ต่อให้คุณหนีไปสุดขอบฟ้าก็ไม่มีวันรอดพ้นจากเงื้อมมือของเขา",
-					"tr-TR": "Rusya'nın uçsuz bucaksız tundralarında yetişen Sova düşmanlarını acımasız bir verimlilik ve titizlikle tespit eder, izlerini sürer ve onları yok eder. Özel yayı ve sıra dışı iz sürme yetenekleri ile ondan kaçsanız da asla saklanamazsınız. ",
-					"vi-VN": "Sinh ra tại vùng lãnh nguyên lạnh giá của nước Nga, Sova có khả năng tìm kiếm, đánh dấu và tiêu diệt đối thủ một cách hiệu quả và chính xác. Sở hữu cây cung đặc chế và những kỹ năng trinh sát hiểm hóc, con mồi của Sova sẽ chẳng bao giờ có thể trốn thoát. ",
-					"zh-CN": "”猎枭“生长于终年严寒的北方冻原。他能够精准而高效地追踪、锁定和歼灭敌人。凭借一把特制战弓和无与伦比的侦察能力，他能让猎物无所遁形、无处可逃。 ",
-					"zh-TW": "蘇法出生於俄羅斯的永凍冰原，他靠著快捷而精準的身手，緊追在後、曝光敵蹤、將目標無情殲滅。他手持改造弓，結合出色的偵察能力，讓你逃得了一時，躲不過一世。 "
-				}
-			},
-			"abilities":
-			{
-				"ability1":
-				{
-					"description":
-					{
-						"defaultText": "EQUIP a bow with a shock bolt. FIRE to send the explosive bolt forward, detonating upon collision and damaging players nearby. HOLD FIRE to extend the range of the projectile. ALT FIRE to add up to two bounces to this arrow.",
-						"localizedByCulture":
-						{
-							"ar-AE": "تجهّز بقوسٍ يطلق سهمًا صاعقًا. أطلق لكي ترمي السهم المتفجر إلى الأمام حتى ينفجر عند الارتطام ويلحق الضرر باللاعبين المتواجدين في الجوار. تابع الضغط على زر الإطلاق لتطيل مدى السهم. استخدم الإطلاق البديل كي تضيف إمكانية ارتداد ذلك السهم مرتين كحد أقصى.",
-							"de-DE": "LEGE einen Bogen mit einem Schockschuss AN. FEUERE, um einen explodierenden Schuss abzugeben, der beim Aufprall hochgeht und Spielern in der Nähe Schaden zufügt. HALTE FEUERN gedrückt, um die Reichweite des Projektils zu erhöhen. ALT. FEUERMODUS, damit der Schuss bis zu zweimal abprallt.",
-							"en-US": "EQUIP a bow with a shock bolt. FIRE to send the explosive bolt forward, detonating upon collision and damaging players nearby. HOLD FIRE to extend the range of the projectile. ALT FIRE to add up to two bounces to this arrow.",
-							"es-ES": "EQUIPA un arco con una flecha explosiva. DISPARA para lanzar la flecha explosiva hacia delante. Explotará cuando impacte e infligirá daño a los enemigos cercanos. MANTÉN PULSADO para ampliar su alcance. Utiliza el DISPARO ALTERNATIVO para añadir hasta dos rebotes a la flecha.",
-							"es-MX": "EQUIPA un arco con un proyectil eléctrico. DISPARA para lanzarlo. El proyectil detonará al impactar y dañará a los jugadores cercanos. MANTÉN PRESIONADO EL DISPARO para aumentar el alcance del proyectil. Usa el DISPARO SECUNDARIO para que la flecha rebote hasta dos veces.",
-							"fr-FR": "ÉQUIPEZ-vous d'un arc et d'une flèche électrique. TIREZ pour décocher la flèche, qui explose à l'impact et blesse les joueurs proches. MAINTENEZ LE TIR pour augmenter la portée du projectile. Utilisez le TIR SECONDAIRE pour ajouter jusqu'à deux rebonds à cette flèche.",
-							"id-ID": "EQUIP busur dan shock bolt. Tekan FIRE untuk mengirim ledakan petir yang terdetonasi saat menabrak, ledakan tersebut memberikan damage pada pemain di sekitar. Tekan HOLD FIRE untuk memperluas jangkauan proyektil dan ALT FIRE untuk menambahkan maksimal dua pantulan pada anak panah ini.",
-							"it-IT": "EQUIPAGGIA un arco con una freccia elettrica. Usa il FUOCO per scoccare il dardo che esplode al contatto, danneggiando i giocatori vicini. TIENI PREMUTO il FUOCO per estendere la gittata della freccia. Usa il FUOCO ALTERNATIVO per aggiungere fino a due rimbalzi a questa freccia.",
-							"ja-JP": "弓を構え、ショックボルトをつがえる。「発射」でショックボルトを前方に射出する。この矢は着弾すると爆発し、周囲のプレイヤーにダメージを与える。「発射長押し」で矢をより遠くに射ることができる。「オルト射撃」でこの矢を最大 2 回までバウンド可能にする。",
-							"ko-KR": "충격 화살과 활을 장착합니다. 발사하면 충돌 시 폭발해 주변 플레이어에게 피해를 입히는 화살을 전방에 쏩니다. 발사를 길게 누르면 화살의 사거리가 늘어납니다. 보조 공격 시 화살이 최대 두 번 더 튕깁니다.",
-							"pl-PL": "WYPOSAŻ łuk ze strzałą-piorunem. STRZEL, by wypuścić wybuchową strzałę, która w momencie trafienia eksploduje i zadaje obrażenia pobliskim graczom. PRZYTRZYMAJ STRZAŁ, by zwiększyć zasięg pocisku. Przycisk ALT. STRZAŁU pozwala zwiększyć liczbę odbić strzały o maksymalnie dwa.",
-							"pt-BR": "EQUIPE um arco com uma flecha de choque. DISPARE para lançar a flecha, que explode ao impacto, causando dano aos jogadores próximos. SEGURE O DISPARO para estender o alcance do projétil. Use o DISPARO ALTERNATIVO para adicionar até dois ricochetes à flecha.",
-							"ru-RU": "Выбирает шоковую стрелу. Нажмите кнопку ОГОНЬ, чтобы выпустить стрелу, летящую по прямой. При столкновении она срабатывает, нанося урон игрокам поблизости. Удерживайте кнопку ОГОНЬ для увеличения дальности выстрела. При нажатии кнопки АЛЬТ. ОГОНЬ стрела отскакивает от стен до двух раз.",
-							"th-TH": "ติดตั้งธนูสำหรับยิง Shock Bolt ยิงเพื่อปล่อยลูกธนูหัวระเบิดไปข้างหน้า โดยจะระเบิดเมื่อปะทะแล้วสร้างความเสียหายแก่ผู้เล่นใกล้เคียง กดยิงค้างไว้เพื่อเพิ่มระยะทางการยิง กดโหมดยิงเสริมเพื่อเพิ่มจำนวนการเด้งของลูกธนูมากขึ้นสูงสุดสองครั้ง",
-							"tr-TR": "Şok okuna sahip bir yay KUŞAN. Patlayıcı oku ileri yollamak için ATEŞ ET. Ok çarpışma anında infilak eder ve yakındaki oyunculara hasar verir. Atış mesafesini uzatmak için ATEŞ DÜĞMESİNİ BASILI TUT. Oku iki kereye kadar sektirmek için ALT. ATIŞ kullan.",
-							"vi-VN": "TRANG BỊ 1 cây cung bắn tên điện. BẮN để phóng mũi tên điện gây nổ ra phía trước, sẽ kích nổ khi va chạm và gây sát thương lên tất cả người chơi xung quanh. GIỮ BẮN để tăng tầm bắn của mũi tên. BẮN PHỤ để tăng thêm tối đa 2 lần nảy cho mũi tên.",
-							"zh-CN": "装备弓和雷击箭，按【射击】即可将箭矢向前射出，箭矢在碰撞物体后爆炸，对附近的玩家造成伤害。【按住射击】可延长投射距离。按【辅助射击】可为该弩箭增加一次弹射次数，最多两次。",
-							"zh-TW": "裝備一把弓，配有震波箭。點擊「攻擊」，即可向前射出這支爆破箭，觸物後的爆炸將傷害附近玩家。長按「攻擊」可增加射程。點擊「輔助攻擊」，可使箭矢彈射最多兩次。"
-						}
-					},
-					"label": "DED3520F-4264-BFED-162D-B080E2ABCCF9_Ability1",
-					"name":
-					{
-						"defaultText": "Shock Bolt",
-						"localizedByCulture":
-						{
-							"ar-AE": "السهم الصاعق",
-							"de-DE": "Schockschuss",
-							"en-US": "Shock Bolt",
-							"es-ES": "Flecha explosiva",
-							"es-MX": "Proyectil Eléctrico",
-							"fr-FR": "Électroflèche",
-							"id-ID": "Shock Bolt",
-							"it-IT": "Freccia elettrica",
-							"ja-JP": "ショックボルト",
-							"ko-KR": "충격 화살",
-							"pl-PL": "Strzała-piorun",
-							"pt-BR": "Flecha de Choque",
-							"ru-RU": "Шоковая стрела",
-							"th-TH": "Shock Bolt",
-							"tr-TR": "ŞOK OKU",
-							"vi-VN": "Sốc Điện",
-							"zh-CN": "雷击箭",
-							"zh-TW": "震波箭"
-						}
-					}
-				},
-				"ability2":
-				{
-					"description":
-					{
-						"defaultText": "EQUIP a bow with recon bolt. FIRE to send the recon bolt forward, activating upon collision and Revealing the location of nearby enemies caught in the line of sight of the bolt. Enemies can destroy this bolt. HOLD FIRE to extend the range of the projectile. ALT FIRE to add up to two bounces to this arrow. ",
-						"localizedByCulture":
-						{
-							"ar-AE": "تجهّز بقوس مع سهم استطلاع. أطلق لإرسال سهم استطلاع إلى الأمام، حيث يتم تفعيله عند الارتطام كاشفًا مواقع الأعداء المحيطين الواقعين ضمن خط رؤية السهم. يستطيع الأعداء تدمير هذا السهم. تابع الضغط على زر الإطلاق لتطيل مدى السهم. استخدم الإطلاق البديل كي تضيف إمكانية ارتداد ذلك السهم مرتين كحد أقصى. ",
-							"de-DE": "RÜSTE einen Bogen mit einem Aufklärungsgeschoss AUS. FEUERE, um das Aufklärungsgeschoss abzuschießen. Er wird beim Aufprall aktiviert und deckt die Position von Gegnern in der Nähe auf, die sich im Sichtfeld des Pfeils befinden. Gegner können dieses Projektil zerstören. HALTE FEUERN gedrückt, um die Reichweite des Projektils zu erhöhen. ALT. FEUERMODUS, damit der Schuss bis zu zweimal abprallt. ",
-							"en-US": "EQUIP a bow with recon bolt. FIRE to send the recon bolt forward, activating upon collision and Revealing the location of nearby enemies caught in the line of sight of the bolt. Enemies can destroy this bolt. HOLD FIRE to extend the range of the projectile. ALT FIRE to add up to two bounces to this arrow. ",
-							"es-ES": "EQUIPA un arco con un proyectil de reconocimiento. Se activará cuando impacte y revelará la posición de los enemigos que se encuentren en la línea de visión del proyectil. El proyectil puede ser destruido. MANTÉN PULSADO para ampliar su alcance. Utiliza el DISPARO ALTERNATIVO para añadir hasta dos rebotes a la flecha. ",
-							"es-MX": "EQUIPA un arco con un proyectil rastreador. DISPARA para lanzarlo. El proyectil se activará al impactar y revelará la ubicación de los enemigos cercanos que estén dentro de su alcance de visión. Los enemigos pueden destruir este proyectil. MANTÉN PRESIONADO EL DISPARO para aumentar el alcance del proyectil. Usa el DISPARO SECUNDARIO para que la flecha rebote hasta dos veces. ",
-							"fr-FR": "ÉQUIPEZ-vous d'un arc et d'une flèche de reconnaissance. TIREZ pour décocher la flèche, qui s'active à l'impact et révèle la position des ennemis proches se trouvant dans sa ligne de vue. Les ennemis peuvent détruire cette flèche. MAINTENEZ LE TIR pour augmenter la portée du projectile. Utilisez le TIR SECONDAIRE pour ajouter jusqu'à deux rebonds à cette flèche. ",
-							"id-ID": "EQUIP busur dan recon bolt. Tekan FIRE untuk menembakkan bolt ke depan, yang akan aktif saat menabrak dan mengungkap lokasi musuh selama di garis pandang bolt. Musuh bisa menghancurkan bolt ini. Tekan HOLD FIRE untuk menambahkan maksimal dua pantulan pada anak panah ini.",
-							"it-IT": "EQUIPAGGIA un arco con una freccia sonar. Usa il FUOCO per scoccare la freccia sonar, che si attiva al contatto e RIVELA la posizione dei nemici entro il suo raggio visivo. I nemici possono distruggere la freccia. TIENI PREMUTO il FUOCO per estendere la gittata della freccia. Usa il FUOCO ALTERNATIVO per aggiungere fino a due rimbalzi a questa freccia. ",
-							"ja-JP": "弓を構え、リコンボルトをつがえる。「発射」でリコンボルトを前方に射出する。この矢は着弾すると起動し、矢の場所から視線が通る周囲のすべての敵の位置を特定する。敵はこのボルトを破壊可能。「発射長押し」で射程距離を伸ばすことができ、「オルト射撃」でこの矢を最大 2 回までバウンド可能にする。 ",
-							"ko-KR": "정찰 화살과 활을 장착합니다. 발사하면 정찰 화살을 전방에 쏘아 화살이 꽂힌 곳을 기준으로 모습이 드러난 주변 적의 위치를 표시합니다. 적이 이 화살을 파괴할 수 있습니다. 발사를 길게 누르면 화살의 사거리가 늘어납니다. 보조 공격 시 화살이 최대 두 번 더 튕깁니다.",
-							"pl-PL": "WYPOSAŻ łuk ze strzałą zwiadowczą. STRZEL, by posłać przed siebie strzałę zwiadowczą, która w momencie trafienia aktywuje się i ujawnia miejsce pobytu przeciwników będących w polu działania strzały. Wrogowie mogą ją zniszczyć. PRZYTRZYMAJ STRZAŁ, by zwiększyć zasięg pocisku. Przycisk ALT. STRZAŁU pozwala zwiększyć liczbę odbić strzały o maksymalnie dwa. ",
-							"pt-BR": "EQUIPE um arco com uma flecha de reconhecimento. DISPARE para lançar a flecha, que é ativada mediante impacto e Revela a localização de quaisquer inimigos próximos da linha de visão. Inimigos podem destruí-la. SEGURE O DISPARO para estender o alcance do projétil. Use o DISPARO ALTERNATIVO para adicionar até dois ricochetes à flecha. ",
-							"ru-RU": "Выбирает разведстрелу. Нажмите кнопку ОГОНЬ, чтобы выпустить стрелу, летящую по прямой. При столкновении она активируется, показывая местоположение противников в зоне видимости. Враги могут уничтожить стрелу. Удерживайте кнопку ОГОНЬ для увеличения дальности выстрела. При нажатии кнопки АЛЬТ. ОГОНЬ стрела отскакивает от стен до двух раз. ",
-							"th-TH": "ติดตั้งธนูสำหรับยิง Recon Bolt กดยิงเพื่อปล่อย Recon Bolt ไปข้างหน้า จะเปิดใช้งานเมื่อปะทะและเปิดเผยตำแหน่งของผู้เล่นใกล้เคียงที่อยู่ในรัศมีระยะมองเห็นของลูกธนู ศัตรูสามารถทำลายลูกธนูนี้ได้ กดยิงค้างไว้เพื่อเพิ่มระยะทางการยิง กดโหมดยิงเสริมเพื่อเพิ่มจำนวนการเด้งของลูกธนูมากขึ้นสูงสุดสองครั้ง ",
-							"tr-TR": "Keşif okuna sahip bir yay KUŞAN. Keşif okunu ileri yollamak için ATEŞ ET. Ok çarpışma anında etkinleşir ve görüş hattı yakınında kalan düşmanların konumunu Açığa Çıkarır. Düşmanlar bu oku yok edebilir. Atış mesafesini uzatmak için ATEŞ DÜĞMESİNİ BASILI TUT. Oku iki kereye kadar sektirmek için ALT. ATIŞ kullan. ",
-							"vi-VN": "TRANG BỊ 1 cây cung bắn tên trinh sát. BẮN để phóng 1 mũi tên trinh sát ra phía trước, kích hoạt khi va chạm và làm Lộ Vị Trí của tất cả đối thủ trong phạm vi tầm nhìn của mũi tên. Đối thủ có thể phá hủy mũi tên này. GIỮ BẮN để tăng tầm bắn của mũi tên. BẮN PHỤ để tăng thêm tối đa 2 lần nảy cho mũi tên. ",
-							"zh-CN": "装备弓和寻敌箭，按【射击】即可将箭矢向前射出，箭矢在碰撞物体后激活声纳并【揭露】探测范围内的敌人位置。敌人可摧毁该箭矢。【按住射击】可延长投射距离。按【辅助射击】可为该弩箭增加一次弹射次数，最多两次。 ",
-							"zh-TW": "裝備一把弓，配有偵察箭。點擊「攻擊」，即可向前射出偵察箭，觸物後將直接啟動，處於偵測範圍內的敵軍將被揭露行蹤，敵軍可破壞此箭。長按「攻擊」可增加射程。點擊「輔助攻擊」，可使箭矢彈射最多兩次。 "
-						}
-					},
-					"label": "DED3520F-4264-BFED-162D-B080E2ABCCF9_Ability2",
-					"name":
-					{
-						"defaultText": "Recon Bolt",
-						"localizedByCulture":
-						{
-							"ar-AE": "سهم الاستطلاع",
-							"de-DE": "Aufklärungsgeschoss",
-							"en-US": "Recon Bolt",
-							"es-ES": "Proyectil de reconocimiento",
-							"es-MX": "Proyectil Rastreador",
-							"fr-FR": "Flèche de reconnaissance",
-							"id-ID": "Recon Bolt",
-							"it-IT": "Freccia sonar",
-							"ja-JP": "リコンボルト",
-							"ko-KR": "정찰용 화살",
-							"pl-PL": "Strzała Zwiadowcza",
-							"pt-BR": "Flecha Rastreadora",
-							"ru-RU": "Разведстрела",
-							"th-TH": "Recon Bolt",
-							"tr-TR": "KEŞİF OKU",
-							"vi-VN": "Tên Do Thám",
-							"zh-CN": "寻敌箭",
-							"zh-TW": "偵察箭"
-						}
-					}
-				},
-				"grenade":
-				{
-					"description":
-					{
-						"defaultText": "EQUIP an owl drone. FIRE to deploy and take control of movement of the drone. While in control of the drone, FIRE to shoot a marking dart. This dart will Reveal the location of any player struck by the dart. Enemies can destroy the Owl Drone.",
-						"localizedByCulture":
-						{
-							"ar-AE": "تجهّز بدرون البومة. أطلق لنشر الدرون والتحكم في حركتها. أطلق أثناء التحكم في حركة الدرون لكي ترمي سهمًا واسمًا. سيؤدي هذا السهم إلى كشف موقع أي لاعب يصيبه. يستطيع الأعداء تدمير درون البومة.",
-							"de-DE": "RÜSTE eine Eulendrohne AUS. FEUERE, um die Drohne einzusetzen und sie zu steuern. FEUERE, während du die Drohne steuerst, um einen Ortungspfeil zu verschießen. Dieser Pfeil deckt die Position des getroffenen Spielers auf. Gegner können die Eulendrohne zerstören.",
-							"en-US": "EQUIP an owl drone. FIRE to deploy and take control of movement of the drone. While in control of the drone, FIRE to shoot a marking dart. This dart will Reveal the location of any player struck by the dart. Enemies can destroy the Owl Drone.",
-							"es-ES": "EQUIPA un dron de reconocimiento. DISPARA para desplegar el dron y controlar su movimiento. Cuando tengas el control del dron, DISPARA para lanzar un dardo marcador Que revelará la ubicación de cualquier jugador alcanzado. Los enemigos pueden destruir el Dron de reconocimiento.",
-							"es-MX": "EQUIPA un Dron Búho. DISPARA para desplegarlo y controlar el movimiento del dron. Mientras lo controlas, DISPARA para lanzar un dardo marcador. Este dardo revelará la ubicación de cualquier jugador impactado. Los enemigos pueden destruir el Dron Búho.",
-							"fr-FR": "ÉQUIPEZ-vous d'un drone rapace. TIREZ pour déployer et prendre le contrôle du drone. Quand vous contrôlez le drone, TIREZ pour envoyer une fléchette de marquage. Cette fléchette révélera la position de tout joueur qu'elle a touché. Les ennemis peuvent détruire le drone rapace.",
-							"id-ID": "EQUIP owl drone. Tekan FIRE untuk mengerahkan dan mengendalikan drone. Saat dikendalikan, tekan FIRE untuk menembakkan panah penanda. Panah ini memiliki utilitas Reveal sehingga akan mendeteksi lokasi pemain mana pun yang dikenainya. Musuh bisa menghancurkan Owl Drone.",
-							"it-IT": "EQUIPAGGIA un drone di sorveglianza. Usa il FUOCO per attivare il drone e prenderne il controllo dei movimenti. Mentre controlli il drone, usa il FUOCO per lanciare un dardo tracciante. Questo dardo RIVELERÀ la posizione dei giocatori colpiti. I nemici possono distruggere il drone di sorveglianza.",
-							"ja-JP": "フクロウ型のドローンを準備する。「発射」でこのドローンを起動して操作する。ドローンの操作中に「発射」でマーキングダーツを発射する。このダーツが当たったプレイヤーは位置を特定され、現在位置が表示されるようになる。敵はオウルドローンを破壊可能。",
-							"ko-KR": "올빼미 드론을 장착합니다. 발사하면 드론을 날려 조종합니다. 드론을 조종하는 동안 발사를 누르면 표식용 다트가 발사됩니다. 다트에 맞은 플레이어는 위치가 드러납니다. 적이 올빼미 드론을 파괴할 수 있습니다.",
-							"pl-PL": "WYPOSAŻ sowi dron. STRZEL, by wypuścić drona i przejąć nad nim kontrolę. Sterując nim, STRZEL, by wypuścić lotkę oznaczającą. Ujawni ona miejsce pobytu każdego trafionego nią gracza. Wrogowie mogą zniszczyć Sowiego Drona.",
-							"pt-BR": "EQUIPE um drone coruja. DISPARE para acionar e pilotar o drone. Enquanto pilota o drone, DISPARE para atirar um dardo marcador. O dardo revelará a localização de qualquer jogador atingido. Inimigos podem destruir o Drone Coruja.",
-							"ru-RU": "Выбирает дрон-сову. Нажмите кнопку ОГОНЬ, чтобы выпустить управляемый дрон. Управляя дроном, нажмите кнопку ОГОНЬ, чтобы выстрелить помечающим дротиком. При попадании в игрока дротик показывает его местоположение. Враги могут уничтожить дрон-сову.",
-							"th-TH": "ติดตั้ง Owl Drone กดยิงเพื่อปล่อยและควบคุมการเคลื่อนไหวของโดรน ในขณะที่ควบคุมโดรน กดยิงเพื่อปล่อยลูกดอกระบุตำแหน่ง ลูกดอกนี้จะเปิดเผยตำแหน่งของผู้เล่นที่ถูกยิง ศัตรูสามารถทำลาย Owl Drone ได้",
-							"tr-TR": "Bir Baykuş Dron KUŞAN. Dronu göndermek ve hareketlerini kontrol etmek için ATEŞ ET. Dronun kontrolü sendeyken düşmanları işaretleyen bir iğne fırlatmak için ATEŞ ET. Bu iğne, isabet ettiği herhangi bir düşmanın konumunu Açığa Çıkarır. Düşmanlar Baykuş Dron'u yok edebilir.",
-							"vi-VN": "TRANG BỊ 1 drone cú vọ. BẮN để sử dụng và kiểm soát di chuyển của drone. Khi đang kiểm soát drone, BẮN để phóng 1 phi tiêu đánh dấu. Phi tiêu này sẽ làm Lộ Vị Trí của người chơi bị bắn trúng. Kẻ địch có thể phá hủy Drone Do Thám.",
-							"zh-CN": "装备枭型无人机，按【射击】即可部署并操作无人机，在操作期间按【射击】可发射定位镖，【揭露】所命中目标的位置。枭型无人机可被敌人摧毁。",
-							"zh-TW": "裝備一台夜梟無人機。點擊「攻擊」即可讓無人機升空並開始遙控。飛行時點擊「攻擊」，可發射記號飛鏢，被射中的玩家將被揭露行蹤。敵軍可破壞夜梟無人機。"
-						}
-					},
-					"label": "DED3520F-4264-BFED-162D-B080E2ABCCF9_Grenade",
-					"name":
-					{
-						"defaultText": "Owl Drone",
-						"localizedByCulture":
-						{
-							"ar-AE": "درون البومة",
-							"de-DE": "Eulendrohne",
-							"en-US": "Owl Drone",
-							"es-ES": "Dron de reconocimiento",
-							"es-MX": "Dron Búho",
-							"fr-FR": "Drone rapace",
-							"id-ID": "Owl Drone",
-							"it-IT": "Drone sorvegliante",
-							"ja-JP": "オウルドローン",
-							"ko-KR": "올빼미 드론",
-							"pl-PL": "Sowi Dron",
-							"pt-BR": "Drone Coruja",
-							"ru-RU": "Дрон-сова",
-							"th-TH": "Owl Drone",
-							"tr-TR": "BAYKUŞ DRON",
-							"vi-VN": "Drone Do Thám",
-							"zh-CN": "枭型无人机",
-							"zh-TW": "夜梟無人機"
-						}
-					}
-				},
-				"ultimate":
-				{
-					"description":
-					{
-						"defaultText": "EQUIP a bow with three long-range, wall-piercing energy blasts. FIRE to release an energy blast in a line in front of Sova, dealing damage and Revealing the location of enemies caught in the line. This ability can be RE-USED up to two more times while the ability timer is active.",
-						"localizedByCulture":
-						{
-							"ar-AE": "تجهّز بقوس وثلاثة أسهم طاقة بعيدة المدى قادرة على اختراق الجدران. أطلق لتحرير سهم طاقة في خط مستقيم أمام سوفا، مما يلحق الضرر ويكشف موقع الأعداء المتواجدين على الخط. يمكن إعادة استخدام هذه القدرة حتى مرتين إضافيتين أثناء استمرار عمل مؤقت القدرة.",
-							"de-DE": "RÜSTE einen Bogen mit drei Energiestößen AUS, die eine große Reichweite haben und Mauern durchdringen. FEUERE, um einen Energiestoß in einer Linie vor Sova zu entfesseln, der Schaden verursacht und die Position von getroffenen Gegnern aufdeckt. Diese Fähigkeit kann bis zu zweimal REAKTIVIERT werden, solange der Timer der Fähigkeit nicht abgelaufen ist.",
-							"en-US": "EQUIP a bow with three long-range, wall-piercing energy blasts. FIRE to release an energy blast in a line in front of Sova, dealing damage and Revealing the location of enemies caught in the line. This ability can be RE-USED up to two more times while the ability timer is active.",
-							"es-ES": "EQUIPA un arco con tres proyectiles de energía de largo alcance que atraviesan paredes. DISPARA para lanzar un proyectil de energía en línea recta frente a Sova, que infligirá daño y revelará la posición de los enemigos que se encuentren a su paso. Esta habilidad puede VOLVERSE A USAR hasta dos veces más mientras el temporizador de la habilidad esté activo.",
-							"es-MX": "EQUIPA un arco con tres ráfagas de energía de largo alcance que atraviesan las paredes. DISPARA para lanzar una ráfaga de energía frente a Sova que infligirá daño y revelará la ubicación de los enemigos impactados. Puedes VOLVER A USAR esta habilidad hasta dos veces más mientras su contador esté activo.",
-							"fr-FR": "ÉQUIPEZ-vous d'un arc et de trois projectiles d'énergie à longue portée capables de traverser les murs. TIREZ pour décocher un projectile d'énergie en ligne droite, qui inflige des dégâts et révèle la position des ennemis touchés. Cette compétence peut être RÉUTILISÉE jusqu'à deux fois de plus tant que la compétence est active.",
-							"id-ID": "EQUIP busur dan tiga ledakan jarak jauh yang energinya dapat menembus dinding. Tekan FIRE untuk melepas garis yang memuat ledakan energi dari depan Sova. Garis tersebut menghasilkan damage dan mendeteksi lokasi musuh yang ada di dalamnya. Ability ini bisa DIGUNAKAN LAGI sampai dua kali lagi selama timer ability aktif.",
-							"it-IT": "EQUIPAGGIA un arco con tre colpi a lunga gittata che passano attraverso i muri. Usa il FUOCO per rilasciare una scarica di energia in linea retta davanti a Sova, infliggendo danni e RIVELANDO la posizione dei nemici colpiti. Questa abilità può essere RIUTILIZZATA fino a due volte mentre il timer dell'abilità è attivo.",
-							"ja-JP": "弓を構え、3 回分のエナジーブラストを準備する。このエナジーブラストは射程距離が長く、壁を貫通する。「発射」でソーヴァの前方に一直線にエナジーブラストを放ち、巻き込んだ敵にダメージを与えると共に、その位置を特定し、表示する。このアビリティーはタイマーが切れるまでにさらに 2 回「再使用」することができる。",
-							"ko-KR": "벽을 관통하는 에너지 3개를 장거리로 발사하는 활을 장착합니다. 발사하면 전방에 일직선상으로 에너지를 날려 닿은 적에게 피해를 입히고 위치를 드러냅니다. 스킬 지속시간이 활성화된 상태에서 최대 두 번 더 다시 사용할 수 있습니다.",
-							"pl-PL": "WYPOSAŻ łuk z trzema eksplozjami energii dalekiego zasięgu, przebijającymi ściany. STRZEL, by wypuścić eksplozję energii lecącą na wprost Sovy, zadającą obrażenia i ujawniającą miejsce pobytu przeciwników w jej polu działania. Można jej UŻYĆ PONOWNIE do dwóch razy, dopóki licznik umiejętności jest aktywny.",
-							"pt-BR": "EQUIPE um arco com três disparos de longo alcance que perfuram paredes. DISPARE para atirar um raio de energia diante de Sova, causando dano e Revelando a localização dos inimigos que estiverem na linha. A habilidade pode ser REPETIDA até mais duas vezes enquanto o cronômetro de habilidade estiver ativo.",
-							"ru-RU": "Выбирает три стрелы с дальнобойными, пробивающими стены импульсами. Нажмите кнопку ОГОНЬ, чтобы выпустить импульс по прямой перед агентом, нанося урон и показывая местоположение всех раненых врагов. Умение можно использовать еще два раза, пока активен таймер.",
-							"th-TH": "ติดตั้งธนูด้วยพลังงานที่สามารถยิงทะลุกำแพงสามนัด กดยิงเพื่อปล่อยพลังงานเป็นเส้นด้านหน้า Sova สร้างความเสียหายและเปิดเผยตำแหน่งของศัตรูที่อยู่ในรัศมี สกิลนี้สามารถใช้ซ้ำได้อีกสองครั้งในขณะที่ยังอยู่ในระยะเวลาที่กำหนด",
-							"tr-TR": "Üç taneye kadar duvar delici enerji patlaması ateşleyebilen bir yay KUŞAN. Sova'nın önündeki bir hat üzerinde enerji patlamaları oluşturmak ve isabet alan düşmanlara hasar verip konumlarını Açığa Çıkarmak için ATEŞ ET. Bu yetenek, yetenek sayacı etkinken iki kez daha YENİDEN KULLANILABİLİR.",
-							"vi-VN": "TRANG BỊ 1 cây cung với 3 mũi tên năng lượng có tầm bắn xa và khả năng xuyên tường. BẮN để phóng 1 mũi tên năng lượng trên đường thẳng ra phía trước Sova, gây sát thương và làm Lộ Vị Trí của đối thủ trên đường đi của mũi tên. Kỹ năng này có thể TÁI SỬ DỤNG tối đa thêm 2 lần nữa khi đồng hồ đếm của kỹ năng đang kích hoạt.",
-							"zh-CN": "装备弓和三发可穿墙的远程能量箭。按【射击】即向猎枭的前方发射一道能量冲击波，对直线上的敌人造成伤害并【揭露】其位置。此技能在计时器结束前可【再次使用】最多两次。",
-							"zh-TW": "裝備一把弓，配有三發可穿牆的遠距離爆擊光束。點擊「攻擊」，即可在蘇法身前發射一直線的爆擊光束，對擊中的敵軍造成傷害並「揭露」其行蹤。技能啟用期間，還能再「重新施放」最多兩次。"
-						}
-					},
-					"label": "DED3520F-4264-BFED-162D-B080E2ABCCF9_Ultimate",
-					"name":
-					{
-						"defaultText": "Hunter's Fury",
-						"localizedByCulture":
-						{
-							"ar-AE": "غضب الصياد",
-							"de-DE": "Zorn des Jägers",
-							"en-US": "Hunter's Fury",
-							"es-ES": "Furia del cazador",
-							"es-MX": "Furia del Cazador",
-							"fr-FR": "Fureur du chasseur",
-							"id-ID": "Hunter's Fury",
-							"it-IT": "Furia del cacciatore",
-							"ja-JP": "ハンターズフューリー",
-							"ko-KR": "사냥꾼의 분노",
-							"pl-PL": "Furia Łowcy",
-							"pt-BR": "Fúria do Caçador",
-							"ru-RU": "Гнев охотника",
-							"th-TH": "Hunter's Fury",
-							"tr-TR": "AVCININ HİDDETİ",
-							"vi-VN": "Thợ Săn Cuồng Nộ",
-							"zh-CN": "狂猎之怒",
-							"zh-TW": "獵者之怒"
-						}
-					}
-				},
-				"passive":
-				{
-					"description":
-					{
-						"defaultText": "Sova's custom bow can fire his arrows and bounce them off terrain. Holding fire charges the bow's power, and the bolt is loosed when released. Press alt fire to change the number of bounces.Your arrows can bounce off terrain. Holding left click increases the bow's range trajectory. Right clicking Toggle through the desired number of terrain bounces by right clicking. The arrow is loosed when left click is released.",
-						"localizedByCulture":
-						{
-							"ar-AE": "قوس سوفا المخصص قادر على إطلاق سهامه وجعلها ترتد عن التضاريس. متابعة الضغط على زر الإطلاق يشحن طاقة القوس ويتم إطلاق السهم عند تحرير الزر. اضغط الإطلاق البديل لتغيير عدد مرات الارتداد. سهامك قادرة على الارتداد عن التضاريس. متابعة الضغط على زر الماوس الأيسر يزيد من مدى السهم. الضغط على الزر الأيمن يمكن من التبديل بين عدد مرات الارتداد عن التضاريس من خلال الضغط على الزر الأيمن. يتم إطلاق السهم عند تحرير زر الماوس الأيسر.",
-							"de-DE": "Sovas Spezialbogen feuert Pfeile ab, die vom Terrain abprallen. Durch Halten wird der Bogen aufgeladen und der abgefeuerte Pfeil verstärkt. Drücke ALT. FEUERMODUS, um die Anzahl der Abpraller zu ändern. Deine Pfeile können vom Terrain abprallen. Halte die linke Maustaste gedrückt, um die Flugbahn zu verändern und die Reichweite der Pfeile zu erhöhen. Mit der rechten Maustaste stellst du ein, wie oft die Pfeile vom Terrain abprallen sollen. Der Pfeil wird abgeschossen, sobald du die linke Maustaste loslässt.",
-							"en-US": "Sova's custom bow can fire his arrows and bounce them off terrain. Holding fire charges the bow's power, and the bolt is loosed when released. Press alt fire to change the number of bounces.Your arrows can bounce off terrain. Holding left click increases the bow's range trajectory. Right clicking Toggle through the desired number of terrain bounces by right clicking. The arrow is loosed when left click is released.",
-							"es-ES": "El arco personalizado de Sova permite que sus flechas reboten contra los obstáculos del terreno. Mantener pulsado el botón de disparo aumenta la potencia del mismo, y soltarlo lanza la flecha. Utiliza el disparo alternativo para cambiar el número de rebotes. Las flechas pueden rebotar en los obstáculos del terreno. Mantener pulsado el clic izquierdo aumenta el alcance de la trayectoria del proyectil. Clic derecho - Hacer clic derecho permite seleccionar la cantidad de rebotes en el terreno. La flecha sale disparada cuando se deja de pulsar el clic izquierdo.",
-							"es-MX": "El arco personalizado de Sova puede disparar sus flechas y hacer que reboten por el terreno. Puedes cargar la potencia del arco si mantienes presionado el botón de disparo y después lanzar el proyectil al soltarlo. Presiona el botón de disparo secundario para cambiar el número de rebotes. Tus flechas pueden rebotar contra el terreno. Puedes aumentar la trayectoria del alcance del arco si mantienes presionado el clic izquierdo. Usa el clic derecho para alternar entre el número de rebotes que deseas en el terreno. Suelta el clic izquierdo para disparar la flecha.",
-							"fr-FR": "L'arc personnalisé de Sova peut tirer des flèches qui rebondissent sur le décor. Maintenir la touche de tir charge la puissance de tir de l'arc. La lâcher lance la flèche. Appuyez sur la touche de tir secondaire pour modifier le nombre de rebonds. Vos flèches peuvent rebondir sur le décor. Maintenir le clic gauche augmente la portée du tir. Le clic droit permet de modifier le nombre de rebonds. La flèche est tirée quand vous relâchez le clic gauche.",
-							"id-ID": "Busur milik Sova ini bisa menembakkan dan memantulkan anak panah dari tanah. Menahan tembakan akan mengisi daya busur, lalu bolt dilepaskan sesudahnya. Tekan ALT FIRE untuk mengganti jumlah pantulan. Anak panah bisa memantul dari tanah. Menahan klik kiri akan meningkatkan jangkauan, sedangkan klik kanan Toggle menentukan jumlah pantulan dari tanah sesuai yang diinginkan. Anak panah dilepas saat klik kiri dilepaskan.",
-							"it-IT": "L'arco personalizzato di Sova può sparare frecce e farle rimbalzare sul terreno. Tieni premuto il fuoco per caricare la potenza dell'arco e rilascialo per scoccare la freccia. Premi il fuoco alternativo per cambiare il numero di rimbalzi. Le tue frecce possono rimbalzare sul terreno. Tieni premuto il tasto sinistro per aumentare la gittata dell'arco. Seleziona il numero di rimbalzi cliccando con il tasto destro. Quando rilasci il tasto sinistro, la freccia viene scoccata.",
-							"ja-JP": "ソーヴァ独自のカスタマイズが施された弓から放たれる矢は、地形に当たると跳ね返る。射撃ボタン長押しで弓を引き絞り、離すと矢が発射される。オルトを押すと跳ね返る回数が変化する。矢は地形に当たると跳ね返る。左クリック長押しでより遠くに矢を放つ。右クリックで矢が地形に当たった際に跳ね返る回数を切り替えることができる。左クリックを離すと矢が放たれる。",
-							"ko-KR": "소바가 직접 제작한 활로 지형지물에 맞으면 튕기는 화살을 발사합니다. 공격 버튼을 길게 누르면 활의 힘이 충전되며 놓으면 화살이 날아갑니다. 보조 공격을 누르면 화살이 튕기는 횟수가 변경됩니다. 화살은 지형지물에 맞고 튕길 수 있습니다. 마우스 왼쪽 버튼을 길게 누르면 활의 사거리가 증가합니다. 마우스 오른쪽 버튼을 누르면 화살이 지형지물에 튕기는 횟수를 설정할 수 있습니다. 마우스 왼쪽 버튼을 놓으면 화살이 발사됩니다.",
-							"pl-PL": "Specjalny łuk Sovy wypuszcza strzały, które odbijają się od otoczenia. Przytrzymanie przycisku strzału zwiększa moc łuku, a jego zwolnienie powoduje wypuszczenie strzały. Przycisk alt. strzału zmienia liczbę odbić. Twoje strzały potrafią się odbijać od otoczenia. Przytrzymanie LPM zwiększa zasięg strzał. PPM pozwala zmienić liczbę odbić od otoczenia. Strzała zostaje wypuszczona po zwolnieniu LPM.",
-							"pt-BR": "O arco personalizado de Sova pode disparar as flechas e ricocheteá-las em superfícies. Segurar o disparo aumenta o poder do arco, e a flecha é disparada ao soltar. Pressione o disparo alternativo para mudar o número de ricochetes. Suas flechas podem ricochetear no terreno. Segurar o clique esquerdo aumenta a trajetória do alcance do arco. O clique direito alterna o número de ricochetes desejados. A flecha é disparada ao soltar o clique esquerdo.",
-							"ru-RU": "Модифицированный лук агента Sova может пускать стрелы, отскакивающие от препятствий. При удерживании кнопки стрельбы лук накапливает заряд и совершает выстрел, если ее отпустить. Нажатием кнопки альтернативного режима стрельбы можно выбрать количество рикошетов. Стрелы отскакивают от препятствий. Чем дольше удерживается кнопка стрельбы, тем более пологой будет траектория полета стрелы. Количество рикошетов можно выбрать нажатием правой кнопки мыши. Стрела вылетит, если отпустить левую кнопку мыши.",
-							"th-TH": "ธนูพิเศษของ Sova สามารถยิงลูกธนูและตีกลับออกจากพื้นที่ การกดปุ่มโจมตีค้างไว้ก่อนยิงจะชาร์จพลังให้กับธนู และปล่อยเพื่อยิงลูกธนู กดยิงเสริมเพื่อเปลี่ยนจำนวนการตีกลับเพื่อให้ลูกธนูของคุณเด้งออกจากพื้นที่ คลิกซ้ายค้างไว้เพื่อเพิ่มการเล็งของลูกธนู สลับไปคลิกขวาเพื่อเพิ่มจำนวนการตีกลับที่ต้องการ ปล่อยคลิกซ้ายเพื่อยิงลูกธนู",
-							"tr-TR": "Sova'nın özel yapım yayı, okları atar ve onları çevredeki yüzeylerden sektirebilir. Atış düğmesini basılı tutmak yayın gücünü yükler, bırakmak da oku serbest bırakır. Sekme sayısını ayarlamak için alternatif atış kullan. Okların yüzeylerden sekebilir. Sol fare düğmesini basılı tutmak, yayın menzil doğrultusunu genişletir. Sağ fare düğmesiyle yüzey sekme sayıları arasında geçiş yap. Sol fare düğmesi bırakıldığında ok serbest kalır.",
-							"vi-VN": "Cung đặc chế của Sova có thể bắn các mũi tên có khả năng nảy ra khi chạm vào bề mặt địa hình. Giữ BẮN sẽ tăng sức mạnh của cây cung, tên sẽ phóng ra khi thả. Nhấp chuột phải để thay đổi số lần nảy của tên. Mũi tên có thể nảy khi chạm vào bề mặt địa hình. Giữ chuột trái sẽ tăng tầm bắn của mũi tên. Nhấp chuột phải sẽ thay đổi số lần mũi tên nảy khỏi bề mặt địa hình. Tên sẽ bắn ra khi nhả chuột trái.",
-							"zh-CN": "猎枭的特制战弓能发射特制弩箭，并让箭在碰撞地形后反弹。按住【射击】可拉弦蓄力，【松开】即射出箭。按【辅助射击】可调整反弹次数。你的箭可在地形上反弹。按住左键可延伸弓的弹道射程。按右键可切换预期的地形反弹次数。松开左键即可射出箭矢。",
-							"zh-TW": "蘇法的改造弓能射出多種特製箭矢，還能依地勢建物使箭矢反彈。長按「攻擊」不放可蓄力，放開即可射出箭矢。使用「輔助攻擊」來調整彈跳的次數，你的箭矢會隨著地勢建物反彈。長按左鍵可以增加射程。點擊右鍵，即可選擇在地勢建物上反彈的次數。放開左鍵就能放箭。"
-						}
-					},
-					"label": "DED3520F-4264-BFED-162D-B080E2ABCCF9_Passive",
-					"name":
-					{
-						"defaultText": "Uncanny Marksman",
-						"localizedByCulture":
-						{
-							"ar-AE": "قناص محنك",
-							"de-DE": "Außergewöhnlicher Schütze",
-							"en-US": "Uncanny Marksman",
-							"es-ES": "Tirador infalible",
-							"es-MX": "Tirador Experto",
-							"fr-FR": "Tireur habile",
-							"id-ID": "Marksman yang Luar Biasa",
-							"it-IT": "Tiratore eccezionale",
-							"ja-JP": "神業の射手",
-							"ko-KR": "뛰어난 명사수",
-							"pl-PL": "Sokole Oko",
-							"pt-BR": "Mira Extraordinária",
-							"ru-RU": "Несравненный стрелок",
-							"th-TH": "Uncanny Marksman",
-							"tr-TR": "Tekinsiz Nişancı",
-							"vi-VN": "Xạ thủ thần bí",
-							"zh-CN": "诡秘神射手",
-							"zh-TW": "奇異神射手"
-						}
-					}
-				}
-			},
-			"id": "DED3520F-4264-BFED-162D-B080E2ABCCF9",
-			"label": "DED3520F-4264-BFED-162D-B080E2ABCCF9",
 			"name":
 			{
 				"defaultText": "Sova",
@@ -4944,27 +4617,27 @@
 				{
 					"description":
 					{
-						"defaultText": "EQUIP a vortex. FIRE to place on the ground. While in range and looking at the vortex, REACTIVATE to teleport to the vortex. During the BUY PHASE, the vortex can be reclaimed to be REDEPLOYED.",
+						"defaultText": "EQUIP a vortex. FIRE to place on the ground. While in range and looking at the vortex, ACTIVATE to teleport to the vortex. During the BUY PHASE, the vortex can be reclaimed to be REDEPLOYED.",
 						"localizedByCulture":
 						{
-							"ar-AE": "تجهّز بدوّامة. أطلق لوضعها على الأرض. عند الوجود ضمن النطاق والنظر إلى الدوّامة، أعد التفعيل لتنفيذ الانتقال السريع إليها. خلال مرحلة الشراء، يمكن استرجاع الدوّامة لإعادة نشرها.",
-							"de-DE": "RÜSTE einen Strudel AUS. FEUERE, um ihn auf dem Boden zu platzieren. Solange du in Reichweite bist und den Strudel ansiehst, kannst du mit REAKTIVIERUNG zum Strudel teleportieren. In der KAUFPHASE kann der Strudel zurückgeholt und NEU AUFGESTELLT werden.",
-							"en-US": "EQUIP a vortex. FIRE to place on the ground. While in range and looking at the vortex, REACTIVATE to teleport to the vortex. During the BUY PHASE, the vortex can be reclaimed to be REDEPLOYED.",
-							"es-ES": "EQUIPA un remolino. DISPARA para colocarlo en el suelo. Cuando tengas el remolino al alcance y te posiciones en su dirección, REACTIVA la habilidad para teleportarte hasta él. Durante la FASE DE COMPRA, puede recuperarse el remolino para VOLVER A COLOCARLO.",
-							"es-MX": "EQUIPA un vórtice. DISPARA para colocarlo en el suelo. Mientras estés dentro del alcance y mirando al vórtice, REACTIVA para teletransportarte al él. Durante la FASE DE COMPRA, el vórtice se puede recuperar para VOLVER A USARLO.",
-							"fr-FR": "ÉQUIPEZ-vous d'un vortex. TIREZ pour le poser sur le sol. Lorsque vous êtes à portée et que vous regardez le vortex, RÉACTIVEZ pour vous téléporter jusqu'au vortex. Pendant la PHASE D'ACHATS, le vortex peut être récupéré pour être REDÉPLOYÉ.",
-							"id-ID": "EQUIP vortex. TEKAN FIRE untuk menempatkan di darat. Saat dalam jangkauan dan melihat vortex, AKTIFKAN ULANG untuk berteleportasi ke vortex. Selama BUY PHASE, vortex bisa diambil kembali untuk DI-REDEPLOY.",
-							"it-IT": "EQUIPAGGIA un vortice. Usa il FUOCO per piazzarlo a terra. Mentre sei a portata e guardi il vortice, RIATTIVA per teletrasportarti su di esso. Durante la FASE DI ACQUISTO, è possibile recuperare il vortice per RIUTILIZZARLO.",
-							"ja-JP": "渦状の物体を装備する。「発射」で地面に設置する。範囲内で渦を見ている間に再発動すると、渦の位置にテレポートする。購入フェーズ中、渦は回収して再設置が可能。",
-							"ko-KR": "소용돌이를 장착합니다. 발사하면 지면에 설치합니다. 범위 내에서 소용돌이를 바라볼 때 다시 활성화하면 해당 소용돌이로 순간이동합니다. 구매 단계에서 소용돌이를 회수하여 재배치할 수 있습니다.",
-							"pl-PL": "WYPOSAŻ Wir. STRZEL, by umieścić go na ziemi. REAKTYWUJ, będąc w zasięgu i patrząc na Wir, by się do niego teleportować. Podczas FAZY ZAKUPÓW można odzyskać Wir, co pozwoli go UŻYĆ PONOWNIE.",
-							"pt-BR": "EQUIPE um vórtice. DISPARE para posicioná-lo no chão. Enquanto estiver dentro do alcance e olhando para o vórtice, REATIVE para se teleportar até ele. Durante a FASE DE COMPRA, o vórtice pode ser recolhido e REPOSICIONADO.",
-							"ru-RU": "Выбирает вихрь. Нажмите ОГОНЬ, чтобы разместить его на земле. Находясь в области действия и смотря на вихрь, нажмите кнопку умения повторно, чтобы переместиться к нему. Во время фазы покупок вихрь можно вернуть, чтобы разместить заново.",
-							"th-TH": "ติดตั้งกระแสวน ยิงเพื่อวางลงบนพื้น ขณะอยู่ในรัศมีและมองไปที่กระแสวน ให้เปิดใช้งานอีกครั้งเพื่อเทเลพอร์ตไปยังกระแสวน ในช่วงการซื้อ กระแสวนจะเก็บกลับมาเพื่อใช้งานใหม่ได้",
-							"tr-TR": "Bir burgaç KUŞAN. Zemine yerleştirmek için ATEŞ ET. Burgaca ışınlanmak için menzilindeyken ve burgaca bakarken TEKRAR ETKİNLEŞTİR. SATIN ALMA EVRESİ sırasında burgacı TEKRAR YERLEŞTİRMEK üzere geri alabilirsin.",
-							"vi-VN": "TRANG BỊ 1 lốc xoáy. BẮN để đặt lốc xoáy trên mặt đất. Khi ở trong phạm vi và nhìn vào lốc xoáy, TÁI KÍCH HOẠT để dịch chuyển đến lốc xoáy. Trong GIAI ĐOẠN MUA ĐỒ, có thể thu hồi lốc xoáy để TRIỂN KHAI LẠI.",
-							"zh-CN": "装备一颗漩涡能量球。按【射击】将其放置于地面。在技能范围内且瞄准漩涡时，【再次激活】技能即可传送至漩涡所在位置。在购买阶段期间，可将能量球回收并【重新部署】。",
-							"zh-TW": "裝備一道漩渦，點擊「攻擊」可放置在地上，當你進入範圍並看著漩渦，重施技能可傳送至漩渦的位置。選購階段可以回收漩渦以重新部署。"
+							"ar-AE": "تجهّز بدوّامة. أطلق لوضعها على الأرض. عند الوجود ضمن النطاق والنظر إلى الدوّامة، قم بالتفعيل لتنفيذ الانتقال السريع إليها. خلال مرحلة الشراء، يمكن استرجاع الدوّامة لإعادة نشرها.",
+							"de-DE": "RÜSTE einen Strudel AUS. FEUERE, um ihn auf dem Boden zu platzieren. Solange du in Reichweite bist und den Strudel ansiehst, AKTIVIERE die Fähigkeit erneut um dich zum Strudel zu teleportieren. In der KAUFPHASE kann der Strudel zurückgeholt und NEU AUFGESTELLT werden.",
+							"en-US": "EQUIP a vortex. FIRE to place on the ground. While in range and looking at the vortex, ACTIVATE to teleport to the vortex. During the BUY PHASE, the vortex can be reclaimed to be REDEPLOYED.",
+							"es-ES": "EQUIPA un remolino. DISPARA para colocarlo en el suelo. Cuando tengas el remolino al alcance y te posiciones en su dirección, ACTIVA para teleportarte hasta él. Durante la FASE DE COMPRA, puede recuperarse el remolino para VOLVER A COLOCARLO.",
+							"es-MX": "EQUIPA un vórtice. DISPARA para colocarlo en el suelo. Mientras estés dentro del alcance y mirando al vórtice, ACTIVA para teletransportarte a él. Durante la FASE DE COMPRA, el vórtice se puede recuperar para VOLVER A USARLO.",
+							"fr-FR": "ÉQUIPEZ-vous d'un vortex. TIREZ pour le poser sur le sol. Lorsque vous êtes à portée et que vous regardez le vortex, ACTIVEZ pour vous téléporter jusqu'au vortex. Pendant la PHASE D'ACHATS, le vortex peut être récupéré pour être REDÉPLOYÉ.",
+							"id-ID": "EQUIP vortex. TEKAN FIRE untuk menempatkan di darat. Saat dalam jangkauan dan melihat vortex, AKTIFKAN untuk berteleportasi ke vortex. Selama BUY PHASE, vortex bisa diambil kembali untuk DIKERAHKAN LAGI.",
+							"it-IT": "EQUIPAGGIA un vortice. Usa il FUOCO per piazzarlo a terra. Mentre sei a portata e guardi il vortice, ATTIVA per teletrasportarti su di esso. Durante la FASE DI ACQUISTO, è possibile recuperare il vortice per RIUTILIZZARLO.",
+							"ja-JP": "渦状の物体を装備する。「発射」で地面に設置する。範囲内で渦を見ている間に「発動」すると、渦の位置にテレポートする。購入フェーズ中、渦は回収して再設置が可能。",
+							"ko-KR": "소용돌이를 장착합니다. 발사하면 지면에 설치합니다. 범위 내에서 소용돌이를 바라볼 때 활성화하면 해당 소용돌이로 순간이동합니다. 구매 단계에서 소용돌이를 회수하여 재배치할 수 있습니다.",
+							"pl-PL": "WYPOSAŻ Wir. STRZEL, by umieścić go na ziemi. AKTYWUJ, będąc w zasięgu i patrząc na Wir, by się do niego teleportować. Podczas FAZY ZAKUPÓW można odzyskać Wir, co pozwoli go UŻYĆ PONOWNIE.",
+							"pt-BR": "EQUIPE um vórtice. DISPARE para posicioná-lo no chão. Enquanto estiver dentro do alcance e olhando para o vórtice, ATIVE para se teleportar até ele. Durante a FASE DE COMPRA, o vórtice pode ser recolhido e REPOSICIONADO.",
+							"ru-RU": "Выбирает вихрь. Нажмите ОГОНЬ, чтобы разместить его на земле. Находясь в области действия и смотря на вихрь, нажмите кнопку умения, чтобы переместиться к нему. Во время фазы покупок вихрь можно вернуть, чтобы разместить заново.",
+							"th-TH": "ติดตั้งกระแสวน ยิงเพื่อวางลงบนพื้น ขณะอยู่ในรัศมีและมองไปที่กระแสวน ให้เปิดใช้งานเพื่อเทเลพอร์ตไปยังกระแสวน ในช่วงการซื้อ กระแสวนจะเก็บกลับมาเพื่อใช้งานใหม่ได้",
+							"tr-TR": "Bir burgaç KUŞAN. Zemine yerleştirmek için ATEŞ ET. Burgaca ışınlanmak için menzilindeyken ve burgaca bakarken ETKİNLEŞTİR. SATIN ALMA EVRESİ sırasında burgacı TEKRAR YERLEŞTİRMEK üzere geri alabilirsin.",
+							"vi-VN": "TRANG BỊ 1 lốc xoáy. BẮN để đặt lốc xoáy trên mặt đất. Khi ở trong phạm vi và nhìn vào lốc xoáy, KÍCH HOẠT để dịch chuyển đến lốc xoáy. Trong GIAI ĐOẠN MUA ĐỒ, có thể thu hồi lốc xoáy để TRIỂN KHAI LẠI.",
+							"zh-CN": "装备一颗漩涡能量球。按【射击】将其放置于地面。在技能范围内且瞄准漩涡时，【激活】技能即可传送至漩涡所在位置。在购买阶段期间，可将能量球回收并【重新部署】。",
+							"zh-TW": "裝備一道漩渦，點擊「攻擊」可放置在地上，當你進入範圍並看著漩渦，「啟動」即可傳送至漩渦的位置。選購階段可以回收漩渦以重新部署。"
 						}
 					},
 					"label": "92EEEF5D-43B5-1D4A-8D03-B3927A09034B_Grenade",
@@ -5052,27 +4725,27 @@
 				{
 					"description":
 					{
-						"defaultText": "EQUIP a viscous fragment of your mutation. FIRE to throw. The fragment deploys upon impact, creating a trap to hold enemies in place. Held enemies are Deafened, and Decayed. Enemies can destroy the trap before activation.",
+						"defaultText": "EQUIP a viscous fragment of your mutation. FIRE to throw. The fragment deploys upon hitting the ground, creating a trap to hold enemies in place. Held enemies are Deafened, and Decayed. Enemies can destroy the trap before activation.",
 						"localizedByCulture":
 						{
-							"ar-AE": "تجهّز بشظية لزجة ناتجة عن عملية تحوّلك. أطلق لرميها. تنتشر الشظية عند الاصطدام لتُنشئ فخًا يثبت الأعداء في مكانهم. يصاب الأعداء المثبّتون بتأثيري الصمم وتدهور الصحة. يستطيع الأعداء تدمير الفخ قبل تفعيله.",
-							"de-DE": "RÜSTE ein zähflüssiges Fragment deiner Mutation AUS. FEUERE, um es zu werfen. Das Fragment wird beim Einschlag eingesetzt und bildet eine Falle, die Gegner an Ort und Stelle festhält. Festgehaltenen Gegnern werden Taubheit und Verfall zugefügt. Gegner können die Falle zerstören, bevor sie aktiviert wird.",
-							"en-US": "EQUIP a viscous fragment of your mutation. FIRE to throw. The fragment deploys upon impact, creating a trap to hold enemies in place. Held enemies are Deafened, and Decayed. Enemies can destroy the trap before activation.",
-							"es-ES": "EQUIPA un pedazo viscoso de tu mutación. DISPARA para lanzarlo. El fragmento se despliega al impactar y crea una trampa que detiene a los enemigos en el sitio. Ensordece y aplica declive a los enemigos retenidos. Los enemigos pueden destruir la trampa antes de que se active.",
-							"es-MX": "EQUIPA un fragmento viscoso de tu mutación. DISPARA para lanzar. El fragmento se despliega al impacto, creando una trampa que inmoviliza a los enemigos. Los enemigos inmovilizados quedan ensordecidos y debilitados. Los enemigos pueden destruir la trampa antes de que se active.",
-							"fr-FR": "ÉQUIPEZ-vous d'un fragment visqueux de votre mutation. TIREZ pour le lancer. Le fragment se déploie lors de l'impact, créant un piège qui immobilise les ennemis. Les ennemis retenus sont assourdis et leurs PV se désagrègent. Les ennemis peuvent détruire le piège avant qu'il ne s'active.",
-							"id-ID": "EQUIP fragmen kental dari mutasimu. TEKAN FIRE untuk melempar. Fragmen ini akan aktif saat mengenai target, menciptakan perangkap untuk menahan musuh di tempat. Musuh yang tertahan akan terkena efek Deafen dan Decay. Musuh bisa menghancurkan perangkap sebelum diaktifkan.",
-							"it-IT": "EQUIPAGGIA un frammento viscoso della tua mutazione. Usa il FUOCO per lanciarlo. Il frammento si attiva all'impatto, creando una trappola che immobilizza i nemici. I nemici coinvolti vengono ASSORDATI e DETERIORATI. I nemici possono distruggere la trappola prima che si attivi.",
-							"ja-JP": "変異から生じた粘性の欠片を構える。「発射」で投げる。欠片は着弾すると展開され、敵をその場に拘束するトラップを生成する。拘束された敵は聴覚を奪われ、「衰弱」効果を受ける。敵は起動前のトラップを破壊可能。",
-							"ko-KR": "변이의 점성 조각을 장착합니다. 발사하면 던집니다. 조각은 표면에 닿으면 적을 그 자리에 속박하는 함정을 생성합니다. 속박된 적은 청력이 약화되고 부패 효과를 받습니다. 적은 함정이 활성화되기 전에 함정을 파괴할 수 있습니다.",
-							"pl-PL": "WYPOSAŻ lepki fragment swojej mutacji. STRZEL, by rzucić. Fragment rozstawia się w momencie uderzenia, tworząc pułapkę, która zatrzymuje wrogów. Zatrzymani wrogowie zostają ogłuszeni i ulegają rozpadowi. Wrogowie mogą zniszczyć pułapkę, zanim w nią wejdą.",
-							"pt-BR": "EQUIPE um fragmento viscoso da sua mutação. DISPARE para lançar. O fragmento é acionado com o impacto, criando uma armadilha que prende os inimigos no lugar. Inimigos presos sofrem Surdez e Deterioração. Inimigos podem destruir a armadilha antes da ativação.",
-							"ru-RU": "Выбирает вязкий мутировавший сгусток. Нажмите ОГОНЬ, чтобы бросить его. При столкновении с поверхностью сгусток преобразуется в ловушку, которая удерживает врагов, лишает их слуха и наносит им периодический урон. Враги могут уничтожить ловушку до активации.",
-							"th-TH": "ติดตั้งชิ้นส่วนหนืดจากการกลายพันธุ์ ยิงเพื่อขว้าง ชิ้นส่วนจะทำงานเมื่อสัมผัสโดน และสร้างกับดักเพื่อยึดศัตรูให้อยู่กับที่ ศัตรูที่ถูกยึดอยู่กับที่จะถูกจำกัดการได้ยินและติดสถานะเสื่อมสลาย ศัตรูสามารถทำลายกับดักก่อนกับดักทำงานได้",
-							"tr-TR": "Mutasyonundan yapışkan bir parçacık KUŞAN. Fırlatmak için ATEŞ ET. Parçacık temas anında açılır ve düşmanları yerine sabitleyen bir tuzak oluşturur. Sabitlenmiş düşmanlar Sağır olur ve Çürüme hasarı almaya başlar. Düşmanlar etkinleşmeden önce tuzağı yok edebilir.",
-							"vi-VN": "TRANG BỊ 1 mảnh kết dính từ dị thể của bạn. BẮN để ném. Mảnh kết dính sẽ bung ra khi va chạm, tạo thành bẫy để giữ chân kẻ địch. Những kẻ địch bị giam giữ sẽ mất đi Thính Giác và chịu Phân Rã. Kẻ địch có thể phá hủy bẫy trước khi kích hoạt.",
-							"zh-CN": "装备一块由异变产生的黏液碎片。按【射击】将其掷出。碎片会在发生碰撞时部署为陷阱，困住经过的敌人。被困敌人将受到【致聋】和【腐坏】效果。陷阱激活前可被敌人摧毁。",
-							"zh-TW": "裝備你突變而來的黏性碎片，點擊「攻擊」即可拋出。該碎片碰撞到物體時即刻部署，創造出能束縛敵軍的陷阱；被束縛的目標會遭到「致聾」和「侵蝕」。敵軍可在陷阱啟動前將之摧毀。"
+							"ar-AE": "تجهّز بشظية لزجة ناتجة عن عملية تحوّلك. أطلق لرميها. تنتشر الشظية عند ارتطامها بالأرض لتُنشئ فخًا يثبت الأعداء في مكانهم. يصاب الأعداء المثبّتون بتأثيري الصمم وتدهور الصحة. يستطيع الأعداء تدمير الفخ قبل تفعيله.",
+							"de-DE": "RÜSTE ein zähflüssiges Fragment deiner Mutation AUS. FEUERE, um es zu werfen. Das Fragment wird beim Einschlag auf dem Boden eingesetzt und bildet eine Falle, die Gegner an Ort und Stelle festhält. Festgehaltenen Gegnern werden Taubheit und Verfall zugefügt. Gegner können die Falle zerstören, bevor sie aktiviert wird.",
+							"en-US": "EQUIP a viscous fragment of your mutation. FIRE to throw. The fragment deploys upon hitting the ground, creating a trap to hold enemies in place. Held enemies are Deafened, and Decayed. Enemies can destroy the trap before activation.",
+							"es-ES": "EQUIPA un pedazo viscoso de tu mutación. DISPARA para lanzarlo. El fragmento se despliega al impactar contra el suelo y crea una trampa que detiene a los enemigos en el sitio. Ensordece y aplica declive a los enemigos retenidos. Los enemigos pueden destruir la trampa antes de que se active.",
+							"es-MX": "EQUIPA un fragmento viscoso de tu mutación. DISPARA para lanzar. El fragmento se despliega al impactar contra el suelo, creando una trampa que inmoviliza a los enemigos. Los enemigos inmovilizados quedan ensordecidos y debilitados Los enemigos pueden destruir la trampa antes de que se active.",
+							"fr-FR": "ÉQUIPEZ-vous d'un fragment visqueux de votre mutation. TIREZ pour le lancer. Le fragment se déploie lorsqu'il touche le sol, créant un piège qui immobilise les ennemis. Les ennemis retenus sont assourdis et leurs PV se désagrègent. Les ennemis peuvent détruire le piège avant qu'il ne s'active.",
+							"id-ID": "EQUIP fragmen kental dari mutasimu. TEKAN FIRE untuk melempar. Fragmen ini akan aktif saat mengenai tanah, menciptakan perangkap untuk menahan musuh di tempat. Musuh yang tertahan akan terkena efek Deafen dan Decay. Musuh bisa menghancurkan perangkap sebelum diaktifkan.",
+							"it-IT": "EQUIPAGGIA un frammento viscoso della tua mutazione. Usa il FUOCO per lanciarlo. Il frammento si attiva quando tocca terra, creando una trappola che immobilizza i nemici. I nemici coinvolti vengono ASSORDATI e DETERIORATI. I nemici possono distruggere la trappola prima che si attivi.",
+							"ja-JP": "変異から生じた粘性の欠片を構える。「発射」で投げる。欠片は地面に当たると展開され、敵をその場に拘束するトラップを生成する。拘束された敵は聴覚を奪われ、「衰弱」効果を受ける。敵は起動前のトラップを破壊可能。",
+							"ko-KR": "변이의 점성 조각을 장착합니다. 발사하면 던집니다. 조각은 땅에 닿으면 적을 그 자리에 속박하는 함정을 생성합니다. 속박된 적은 청력이 약화되고 부패 효과를 받습니다. 적은 함정이 활성화되기 전에 함정을 파괴할 수 있습니다.",
+							"pl-PL": "WYPOSAŻ lepki fragment swojej mutacji. STRZEL, by rzucić. Fragment rozstawia się w momencie trafienia w ziemię, tworząc pułapkę, która zatrzymuje wrogów. Zatrzymani wrogowie zostają ogłuszeni i ulegają rozpadowi. Wrogowie mogą zniszczyć pułapkę, zanim w nią wejdą.",
+							"pt-BR": "EQUIPE um fragmento viscoso da sua mutação. DISPARE para lançar. O fragmento é acionado com o impacto no chão, criando uma armadilha que prende os inimigos no lugar. Inimigos presos sofrem Surdez e Deterioração. Inimigos podem destruir a armadilha antes da ativação.",
+							"ru-RU": "Выбирает вязкий мутировавший сгусток. Нажмите ОГОНЬ, чтобы бросить его. При столкновении с поверхностью сгусток преобразуется в ловушку, которая удерживает врагов. Также она лишает их слуха и наносит им периодический урон. Враги могут уничтожить ловушку до активации.",
+							"th-TH": "ติดตั้งชิ้นส่วนหนืดจากการกลายพันธุ์ ยิงเพื่อขว้าง ชิ้นส่วนจะทำงานเมื่อกระทบกับพื้น และสร้างกับดักเพื่อยึดศัตรูให้อยู่กับที่ ศัตรูที่ถูกยึดอยู่กับที่จะถูกจำกัดการได้ยินและติดสถานะเสื่อมสลาย ศัตรูสามารถทำลายกับดักก่อนกับดักทำงานได้",
+							"tr-TR": "Mutasyonundan yapışkan bir parçacık KUŞAN. Fırlatmak için ATEŞ ET. Parçacık yere değdiğinde açılır ve düşmanları yerine sabitleyen bir tuzak oluşturur. Sabitlenmiş düşmanlar Sağır olur ve Çürüme hasarı almaya başlar. Düşmanlar etkinleşmeden önce tuzağı yok edebilir.",
+							"vi-VN": "TRANG BỊ 1 mảnh kết dính từ dị thể của bạn. BẮN để ném. Mảnh kết dính sẽ bung ra khi chạm mặt đất, tạo thành bẫy để giữ chân kẻ địch. Những kẻ địch bị giam giữ sẽ mất đi Thính Giác và chịu Phân Rã. Kẻ địch có thể phá hủy bẫy trước khi kích hoạt.",
+							"zh-CN": "装备一块由异变产生的黏液碎片。按【射击】将其掷出。碎片会在碰到地面时部署为陷阱，困住经过的敌人。被困敌人将受到【致聋】和【腐坏】效果。陷阱激活前可被敌人摧毁。",
+							"zh-TW": "裝備你突變而來的黏性碎片，點擊「攻擊」即可拋出。該碎片碰撞到地面時即刻部署，創造出能束縛敵軍的陷阱；被束縛的目標會遭到「致聾」和「侵蝕」。敵軍可在陷阱啟動前將之摧毀。"
 						}
 					},
 					"label": "92EEEF5D-43B5-1D4A-8D03-B3927A09034B_Ability1",
@@ -19839,7 +19512,7 @@
 							"id-ID": "Ion Ares Level 4\n(Varian 3 Biru)",
 							"it-IT": "Ares Ion livello 4\n(variante 3 Blu)",
 							"ja-JP": "イオン アレス Lv.4\n(ヴァリアント 3 ブルー)",
-							"ko-KR": "싱귤래러티 아레스 4레벨\n(변형 3 파란색)",
+							"ko-KR": "아이온 아레스 4레벨\n(변형 3 파란색)",
 							"pl-PL": "Ares Ion (poziom 4)\n(wersja 3 – niebieska)",
 							"pt-BR": "Ares Íon Nível 4\n(Variante 3 Azul)",
 							"ru-RU": "Ares \"Ион\" уровень 4\n(расцветка 3 \"Синий\")",
@@ -50454,6 +50127,186 @@
 		},
 		{
 			"weaponId": "EE8E8D15-496B-07AC-E5F6-8FAE5D4C7B1A",
+			"defaultChromaId": "7F75A90C-414D-FBC6-9BBC-8CB310943B3D",
+			"chromas": [
+				{
+					"id": "7F75A90C-414D-FBC6-9BBC-8CB310943B3D",
+					"label": "7F75A90C-414D-FBC6-9BBC-8CB310943B3D",
+					"name":
+					{
+						"defaultText": "Nanomight Phantom",
+						"localizedByCulture":
+						{
+							"ar-AE": "قوة النانو فانتوم",
+							"de-DE": "Phantom – Nanomacht",
+							"en-US": "Nanomight Phantom",
+							"es-ES": "Phantom Nanomight",
+							"es-MX": "Phantom Nanopoder",
+							"fr-FR": "Phantom (Nanomight)",
+							"id-ID": "Nanomight Phantom",
+							"it-IT": "Phantom Nanopotenza",
+							"ja-JP": "ナノマイト ファントム",
+							"ko-KR": "나노마이트 팬텀",
+							"pl-PL": "Phantom Nanopotęgi",
+							"pt-BR": "Phantom Nanopoder",
+							"ru-RU": "Phantom \"Наномощь\"",
+							"th-TH": "Nanomight Phantom",
+							"tr-TR": "Nanogüç Phantom",
+							"vi-VN": "Phantom Nanomight",
+							"zh-CN": "纳米奇宝 幻影",
+							"zh-TW": "奈米威能 幻象"
+						}
+					}
+				},
+				{
+					"id": "392A0AC6-461D-7943-31B6-2E9771C7B186",
+					"label": "392A0AC6-461D-7943-31B6-2E9771C7B186",
+					"name":
+					{
+						"defaultText": "Nanomight Phantom\n(Variant 1 Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "قوة النانو فانتوم\n(بديل 1 أخضر)",
+							"de-DE": "Phantom – Nanomacht\n(Variante 1, Grün)",
+							"en-US": "Nanomight Phantom\n(Variant 1 Green)",
+							"es-ES": "Phantom Nanomight\n(variante 1: verde)",
+							"es-MX": "Phantom Nanopoder\n(Variante 1 Verde)",
+							"fr-FR": "Phantom (Nanomight)\n(Variante 1 Vert)",
+							"id-ID": "Nanomight Phantom\n(Varian 1 Hijau)",
+							"it-IT": "Phantom Nanopotenza\n(variante 1 Verde)",
+							"ja-JP": "ナノマイト ファントム\n(ヴァリアント 1 グリーン)",
+							"ko-KR": "나노마이트 팬텀\n(변형 1 녹색)",
+							"pl-PL": "Phantom Nanopotęgi\n(Wersja 1 – zielona)",
+							"pt-BR": "Phantom Nanopoder\n(Variante 1 Verde)",
+							"ru-RU": "Phantom \"Наномощь\"\n(расцветка 1 \"Зеленый\")",
+							"th-TH": "Nanomight Phantom\n(ตัวเลือกที่ 1 สีเขียว)",
+							"tr-TR": "Nanogüç Phantom\n(Stil 1 - Yeşil)",
+							"vi-VN": "Phantom Nanomight\n(Dạng 1 Ánh Lục)",
+							"zh-CN": "纳米奇宝 幻影\n(炫彩1 绿色)",
+							"zh-TW": "奈米威能 幻象\n(幻彩1 綠色)"
+						}
+					}
+				},
+				{
+					"id": "ADC5EFB1-4B07-7D77-01B1-95ACD53710C3",
+					"label": "ADC5EFB1-4B07-7D77-01B1-95ACD53710C3",
+					"name":
+					{
+						"defaultText": "Nanomight Phantom\n(Variant 2 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "قوة النانو فانتوم\n(بديل 2 أزرق)",
+							"de-DE": "Phantom – Nanomacht\n(Variante 2, Blau)",
+							"en-US": "Nanomight Phantom\n(Variant 2 Blue)",
+							"es-ES": "Phantom Nanomight\n(variante 2: azul)",
+							"es-MX": "Phantom Nanopoder\n(Variante 2 Azul)",
+							"fr-FR": "Phantom (Nanomight)\n(Variante 2 Bleu)",
+							"id-ID": "Nanomight Phantom\n(Varian 2 Biru)",
+							"it-IT": "Phantom Nanopotenza\n(variante 2 Blu)",
+							"ja-JP": "ナノマイト ファントム\n(ヴァリアント 2 ブルー)",
+							"ko-KR": "나노마이트 팬텀\n(변형 2 파란색)",
+							"pl-PL": "Phantom Nanopotęgi\n(Wersja 2 – niebieska)",
+							"pt-BR": "Phantom Nanopoder\n(Variante 2 Azul)",
+							"ru-RU": "Phantom \"Наномощь\"\n(расцветка 2 \"Синий\")",
+							"th-TH": "Nanomight Phantom\n(ตัวเลือกที่ 2 สีฟ้า)",
+							"tr-TR": "Nanogüç Phantom\n(Stil 2 - Mavi)",
+							"vi-VN": "Phantom Nanomight\n(Dạng 2 Ánh Lam)",
+							"zh-CN": "纳米奇宝 幻影\n(炫彩2 蓝色)",
+							"zh-TW": "奈米威能 幻象\n(幻彩2 藍色)"
+						}
+					}
+				},
+				{
+					"id": "E22E316A-4E89-8A4F-BA04-4EAEDFD3BB4D",
+					"label": "E22E316A-4E89-8A4F-BA04-4EAEDFD3BB4D",
+					"name":
+					{
+						"defaultText": "Nanomight Phantom\n(Variant 3 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "قوة النانو فانتوم\n(بديل 3 وردي)",
+							"de-DE": "Phantom – Nanomacht\n(Variante 3, Rosa)",
+							"en-US": "Nanomight Phantom\n(Variant 3 Pink)",
+							"es-ES": "Phantom Nanomight\n(variante 3: rosa)",
+							"es-MX": "Phantom Nanopoder\n(Variante 3 Rosa)",
+							"fr-FR": "Phantom (Nanomight)\n(Variante 3 Rose)",
+							"id-ID": "Nanomight Phantom\n(Varian 3 Merah Muda)",
+							"it-IT": "Phantom Nanopotenza\n(variante 3 Rosa)",
+							"ja-JP": "ナノマイト ファントム\n(ヴァリアント 3 ピンク)",
+							"ko-KR": "나노마이트 팬텀\n(변형 3 분홍색)",
+							"pl-PL": "Phantom Nanopotęgi\n(Wersja 3 – różowa)",
+							"pt-BR": "Phantom Nanopoder\n(Variante 3 Rosa)",
+							"ru-RU": "Phantom \"Наномощь\"\n(расцветка 3 \"Розовый\")",
+							"th-TH": "Nanomight Phantom\n(ตัวเลือกที่ 3 สีชมพู)",
+							"tr-TR": "Nanogüç Phantom\n(Stil 3 - Pembe)",
+							"vi-VN": "Phantom Nanomight\n(Dạng 3 Ánh Hồng)",
+							"zh-CN": "纳米奇宝 幻影\n(炫彩3 粉色)",
+							"zh-TW": "奈米威能 幻象\n(幻彩3 粉色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "CF44E28E-4FCE-3D05-6556-01A22AB1D99F",
+					"label": "CF44E28E-4FCE-3D05-6556-01A22AB1D99F",
+					"name":
+					{
+						"defaultText": "Nanomight Phantom",
+						"localizedByCulture":
+						{
+							"ar-AE": "قوة النانو فانتوم",
+							"de-DE": "Phantom – Nanomacht",
+							"en-US": "Nanomight Phantom",
+							"es-ES": "Phantom Nanomight",
+							"es-MX": "Phantom Nanopoder",
+							"fr-FR": "Phantom (Nanomight)",
+							"id-ID": "Nanomight Phantom",
+							"it-IT": "Phantom Nanopotenza",
+							"ja-JP": "ナノマイト ファントム",
+							"ko-KR": "나노마이트 팬텀",
+							"pl-PL": "Phantom Nanopotęgi",
+							"pt-BR": "Phantom Nanopoder",
+							"ru-RU": "Phantom \"Наномощь\"",
+							"th-TH": "Nanomight Phantom",
+							"tr-TR": "Nanogüç Phantom",
+							"vi-VN": "Phantom Nanomight",
+							"zh-CN": "纳米奇宝 幻影",
+							"zh-TW": "奈米威能 幻象"
+						}
+					}
+				}
+			],
+			"id": "A72C55B6-4CAD-3DB4-BCC3-5FAECE01B0EF",
+			"label": "A72C55B6-4CAD-3DB4-BCC3-5FAECE01B0EF",
+			"name":
+			{
+				"defaultText": "Nanomight Phantom",
+				"localizedByCulture":
+				{
+					"ar-AE": "قوة النانو فانتوم",
+					"de-DE": "Phantom – Nanomacht",
+					"en-US": "Nanomight Phantom",
+					"es-ES": "Phantom Nanomight",
+					"es-MX": "Phantom Nanopoder",
+					"fr-FR": "Phantom (Nanomight)",
+					"id-ID": "Nanomight Phantom",
+					"it-IT": "Phantom Nanopotenza",
+					"ja-JP": "ナノマイト ファントム",
+					"ko-KR": "나노마이트 팬텀",
+					"pl-PL": "Phantom Nanopotęgi",
+					"pt-BR": "Phantom Nanopoder",
+					"ru-RU": "Phantom \"Наномощь\"",
+					"th-TH": "Nanomight Phantom",
+					"tr-TR": "Nanogüç Phantom",
+					"vi-VN": "Phantom Nanomight",
+					"zh-CN": "纳米奇宝 幻影",
+					"zh-TW": "奈米威能 幻象"
+				}
+			}
+		},
+		{
+			"weaponId": "EE8E8D15-496B-07AC-E5F6-8FAE5D4C7B1A",
 			"defaultChromaId": "04B49EF4-40A2-F6E9-C0BA-0995CA536F91",
 			"chromas": [
 				{
@@ -74796,6 +74649,186 @@
 					"vi-VN": "Frenzy Emberclad",
 					"zh-CN": "冥铁骑士团 狂怒",
 					"zh-TW": "黑曜燼火 狂弒"
+				}
+			}
+		},
+		{
+			"weaponId": "44D4E95C-4157-0037-81B2-17841BF2E8E3",
+			"defaultChromaId": "99E0735A-42F5-F234-322A-B5B94C749A07",
+			"chromas": [
+				{
+					"id": "99E0735A-42F5-F234-322A-B5B94C749A07",
+					"label": "99E0735A-42F5-F234-322A-B5B94C749A07",
+					"name":
+					{
+						"defaultText": "Nanomight Frenzy",
+						"localizedByCulture":
+						{
+							"ar-AE": "قوة النانو فرينزي",
+							"de-DE": "Frenzy – Nanomacht",
+							"en-US": "Nanomight Frenzy",
+							"es-ES": "Frenzy Nanomight",
+							"es-MX": "Frenzy Nanopoder",
+							"fr-FR": "Frenzy (Nanomight)",
+							"id-ID": "Nanomight Frenzy",
+							"it-IT": "Frenzy Nanopotenza",
+							"ja-JP": "ナノマイト フレンジー",
+							"ko-KR": "나노마이트 프렌지",
+							"pl-PL": "Frenzy Nanopotęgi",
+							"pt-BR": "Frenzy Nanopoder",
+							"ru-RU": "Frenzy \"Наномощь\"",
+							"th-TH": "Nanomight Frenzy",
+							"tr-TR": "Nanogüç Frenzy",
+							"vi-VN": "Frenzy Nanomight",
+							"zh-CN": "纳米奇宝 狂怒",
+							"zh-TW": "奈米威能 狂弒"
+						}
+					}
+				},
+				{
+					"id": "1F69BECF-4C4D-8C25-E2A3-72AF7935F015",
+					"label": "1F69BECF-4C4D-8C25-E2A3-72AF7935F015",
+					"name":
+					{
+						"defaultText": "Nanomight Frenzy\n(Variant 1 Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "قوة النانو فرينزي\n(بديل 1 أخضر)",
+							"de-DE": "Frenzy – Nanomacht\n(Variante 1, Grün)",
+							"en-US": "Nanomight Frenzy\n(Variant 1 Green)",
+							"es-ES": "Frenzy Nanomight\n(variante 1: verde)",
+							"es-MX": "Frenzy Nanopoder\n(Variante 1 Verde)",
+							"fr-FR": "Frenzy (Nanomight)\n(Variante 1 Vert)",
+							"id-ID": "Nanomight Frenzy\n(Varian 1 Hijau)",
+							"it-IT": "Frenzy Nanopotenza\n(variante 1 Verde)",
+							"ja-JP": "ナノマイト フレンジー\n(ヴァリアント 1 グリーン)",
+							"ko-KR": "나노마이트 프렌지\n(변형 1 녹색)",
+							"pl-PL": "Frenzy Nanopotęgi\n(Wersja 1 – zielona)",
+							"pt-BR": "Frenzy Nanopoder\n(Variante 1 Verde)",
+							"ru-RU": "Frenzy \"Наномощь\"\n(расцветка 1 \"Зеленый\")",
+							"th-TH": "Nanomight Frenzy\n(ตัวเลือกที่ 1 สีเขียว)",
+							"tr-TR": "Nanogüç Frenzy\n(Stil 1 - Yeşil)",
+							"vi-VN": "Frenzy Nanomight\n(Dạng 1 Ánh Lục)",
+							"zh-CN": "纳米奇宝 狂怒\n(炫彩1 绿色)",
+							"zh-TW": "奈米威能 狂弒\n(幻彩1 綠色)"
+						}
+					}
+				},
+				{
+					"id": "CC0CCAD4-4202-758E-7495-1B96405F53CD",
+					"label": "CC0CCAD4-4202-758E-7495-1B96405F53CD",
+					"name":
+					{
+						"defaultText": "Nanomight Frenzy\n(Variant 2 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "قوة النانو فرينزي\n(بديل 2 أزرق)",
+							"de-DE": "Frenzy – Nanomacht\n(Variante 2, Blau)",
+							"en-US": "Nanomight Frenzy\n(Variant 2 Blue)",
+							"es-ES": "Frenzy Nanomight\n(variante 2: azul)",
+							"es-MX": "Frenzy Nanopoder\n(Variante 2 Azul)",
+							"fr-FR": "Frenzy (Nanomight)\n(Variante 2 Bleu)",
+							"id-ID": "Nanomight Frenzy\n(Varian 2 Biru)",
+							"it-IT": "Frenzy Nanopotenza\n(variante 2 Blu)",
+							"ja-JP": "ナノマイト フレンジー\n(ヴァリアント 2 ブルー)",
+							"ko-KR": "나노마이트 프렌지\n(변형 2 파란색)",
+							"pl-PL": "Frenzy Nanopotęgi\n(Wersja 2 – niebieska)",
+							"pt-BR": "Frenzy Nanopoder\n(Variante 2 Azul)",
+							"ru-RU": "Frenzy \"Наномощь\"\n(расцветка 2 \"Синий\")",
+							"th-TH": "Nanomight Frenzy\n(ตัวเลือกที่ 2 สีฟ้า)",
+							"tr-TR": "Nanogüç Frenzy\n(Stil 2 - Mavi)",
+							"vi-VN": "Frenzy Nanomight\n(Dạng 2 Ánh Lam)",
+							"zh-CN": "纳米奇宝 狂怒\n(炫彩2 蓝色)",
+							"zh-TW": "奈米威能 狂弒\n(幻彩2 藍色)"
+						}
+					}
+				},
+				{
+					"id": "9E968703-4261-58A7-A633-DEB899B7FD5B",
+					"label": "9E968703-4261-58A7-A633-DEB899B7FD5B",
+					"name":
+					{
+						"defaultText": "Nanomight Frenzy\n(Variant 3 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "قوة النانو فرينزي\n(بديل 3 وردي)",
+							"de-DE": "Frenzy – Nanomacht\n(Variante 3, Rosa)",
+							"en-US": "Nanomight Frenzy\n(Variant 3 Pink)",
+							"es-ES": "Frenzy Nanomight\n(variante 3: rosa)",
+							"es-MX": "Frenzy Nanopoder\n(Variante 3 Rosa)",
+							"fr-FR": "Frenzy (Nanomight)\n(Variante 3 Rose)",
+							"id-ID": "Nanomight Frenzy\n(Varian 3 Merah Muda)",
+							"it-IT": "Frenzy Nanopotenza\n(variante 3 Rosa)",
+							"ja-JP": "ナノマイト フレンジー\n(ヴァリアント 3 ピンク)",
+							"ko-KR": "나노마이트 프렌지\n(변형 3 분홍색)",
+							"pl-PL": "Frenzy Nanopotęgi\n(Wersja 3 – różowa)",
+							"pt-BR": "Frenzy Nanopoder\n(Variante 3 Rosa)",
+							"ru-RU": "Frenzy \"Наномощь\"\n(расцветка 3 \"Розовый\")",
+							"th-TH": "Nanomight Frenzy\n(ตัวเลือกที่ 3 สีชมพู)",
+							"tr-TR": "Nanogüç Frenzy\n(Stil 3 - Pembe)",
+							"vi-VN": "Frenzy Nanomight\n(Dạng 3 Ánh Hồng)",
+							"zh-CN": "纳米奇宝 狂怒\n(炫彩3 粉色)",
+							"zh-TW": "奈米威能 狂弒\n(幻彩3 粉色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "9C8CD3EE-4D92-3EF2-C845-B18957D5A69A",
+					"label": "9C8CD3EE-4D92-3EF2-C845-B18957D5A69A",
+					"name":
+					{
+						"defaultText": "Nanomight Frenzy",
+						"localizedByCulture":
+						{
+							"ar-AE": "قوة النانو فرينزي",
+							"de-DE": "Frenzy – Nanomacht",
+							"en-US": "Nanomight Frenzy",
+							"es-ES": "Frenzy Nanomight",
+							"es-MX": "Frenzy Nanopoder",
+							"fr-FR": "Frenzy (Nanomight)",
+							"id-ID": "Nanomight Frenzy",
+							"it-IT": "Frenzy Nanopotenza",
+							"ja-JP": "ナノマイト フレンジー",
+							"ko-KR": "나노마이트 프렌지",
+							"pl-PL": "Frenzy Nanopotęgi",
+							"pt-BR": "Frenzy Nanopoder",
+							"ru-RU": "Frenzy \"Наномощь\"",
+							"th-TH": "Nanomight Frenzy",
+							"tr-TR": "Nanogüç Frenzy",
+							"vi-VN": "Frenzy Nanomight",
+							"zh-CN": "纳米奇宝 狂怒",
+							"zh-TW": "奈米威能 狂弒"
+						}
+					}
+				}
+			],
+			"id": "C8B1923B-4CDA-A532-7616-4B9A9A2CFE15",
+			"label": "C8B1923B-4CDA-A532-7616-4B9A9A2CFE15",
+			"name":
+			{
+				"defaultText": "Nanomight Frenzy",
+				"localizedByCulture":
+				{
+					"ar-AE": "قوة النانو فرينزي",
+					"de-DE": "Frenzy – Nanomacht",
+					"en-US": "Nanomight Frenzy",
+					"es-ES": "Frenzy Nanomight",
+					"es-MX": "Frenzy Nanopoder",
+					"fr-FR": "Frenzy (Nanomight)",
+					"id-ID": "Nanomight Frenzy",
+					"it-IT": "Frenzy Nanopotenza",
+					"ja-JP": "ナノマイト フレンジー",
+					"ko-KR": "나노마이트 프렌지",
+					"pl-PL": "Frenzy Nanopotęgi",
+					"pt-BR": "Frenzy Nanopoder",
+					"ru-RU": "Frenzy \"Наномощь\"",
+					"th-TH": "Nanomight Frenzy",
+					"tr-TR": "Nanogüç Frenzy",
+					"vi-VN": "Frenzy Nanomight",
+					"zh-CN": "纳米奇宝 狂怒",
+					"zh-TW": "奈米威能 狂弒"
 				}
 			}
 		},
@@ -136957,6 +136990,186 @@
 		},
 		{
 			"weaponId": "4ADE7FAA-4CF1-8376-95EF-39884480959B",
+			"defaultChromaId": "18252494-4654-9C9F-6086-A3B623FC0A9F",
+			"chromas": [
+				{
+					"id": "18252494-4654-9C9F-6086-A3B623FC0A9F",
+					"label": "18252494-4654-9C9F-6086-A3B623FC0A9F",
+					"name":
+					{
+						"defaultText": "Nanomight Guardian",
+						"localizedByCulture":
+						{
+							"ar-AE": "قوة النانو غارديان",
+							"de-DE": "Guardian – Nanomacht",
+							"en-US": "Nanomight Guardian",
+							"es-ES": "Guardian Nanomight",
+							"es-MX": "Guardian Nanopoder",
+							"fr-FR": "Guardian (Nanomight)",
+							"id-ID": "Nanomight Guardian",
+							"it-IT": "Guardian Nanopotenza",
+							"ja-JP": "ナノマイト ガーディアン",
+							"ko-KR": "나노마이트 가디언",
+							"pl-PL": "Guardian Nanopotęgi",
+							"pt-BR": "Guardian Nanopoder",
+							"ru-RU": "Guardian \"Наномощь\"",
+							"th-TH": "Nanomight Guardian",
+							"tr-TR": "Nanogüç Guardian",
+							"vi-VN": "Guardian Nanomight",
+							"zh-CN": "纳米奇宝 戍卫",
+							"zh-TW": "奈米威能 捍衛者"
+						}
+					}
+				},
+				{
+					"id": "EB99F57A-42FC-D18D-D1E6-E19A42EACCE4",
+					"label": "EB99F57A-42FC-D18D-D1E6-E19A42EACCE4",
+					"name":
+					{
+						"defaultText": "Nanomight Guardian\n(Variant 1 Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "قوة النانو غارديان\n(بديل 1 أخضر)",
+							"de-DE": "Guardian – Nanomacht\n(Variante 1, Grün)",
+							"en-US": "Nanomight Guardian\n(Variant 1 Green)",
+							"es-ES": "Guardian Nanomight\n(variante 1: verde)",
+							"es-MX": "Guardian Nanopoder\n(Variante 1 Verde)",
+							"fr-FR": "Guardian (Nanomight)\n(Variante 1 Vert)",
+							"id-ID": "Nanomight Guardian\n(Varian 1 Hijau)",
+							"it-IT": "Guardian Nanopotenza\n(variante 1 Verde)",
+							"ja-JP": "ナノマイト ガーディアン\n(ヴァリアント 1 グリーン)",
+							"ko-KR": "나노마이트 가디언\n(변형 1 녹색)",
+							"pl-PL": "Guardian Nanopotęgi\n(Wersja 1 – zielona)",
+							"pt-BR": "Guardian Nanopoder\n(Variante 1 Verde)",
+							"ru-RU": "Guardian \"Наномощь\"\n(расцветка 1 \"Зеленый\")",
+							"th-TH": "Nanomight Guardian\n(ตัวเลือกที่ 1 สีเขียว)",
+							"tr-TR": "Nanogüç Guardian\n(Stil 1 - Yeşil)",
+							"vi-VN": "Guardian Nanomight\n(Dạng 1 Ánh Lục)",
+							"zh-CN": "纳米奇宝 戍卫\n(炫彩1 绿色)",
+							"zh-TW": "奈米威能 捍衛者\n(幻彩1 綠色)"
+						}
+					}
+				},
+				{
+					"id": "637EA301-4C5D-776D-6ED6-E1B76EEFCB52",
+					"label": "637EA301-4C5D-776D-6ED6-E1B76EEFCB52",
+					"name":
+					{
+						"defaultText": "Nanomight Guardian\n(Variant 2 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "قوة النانو غارديان\n(بديل 2 أزرق)",
+							"de-DE": "Guardian – Nanomacht\n(Variante 2, Blau)",
+							"en-US": "Nanomight Guardian\n(Variant 2 Blue)",
+							"es-ES": "Guardian Nanomight\n(variante 2: azul)",
+							"es-MX": "Guardian Nanopoder\n(Variante 2 Azul)",
+							"fr-FR": "Guardian (Nanomight)\n(Variante 2 Bleu)",
+							"id-ID": "Nanomight Guardian\n(Varian 2 Biru)",
+							"it-IT": "Guardian Nanopotenza\n(variante 2 Blu)",
+							"ja-JP": "ナノマイト ガーディアン\n(ヴァリアント 2 ブルー)",
+							"ko-KR": "나노마이트 가디언\n(변형 2 파란색)",
+							"pl-PL": "Guardian Nanopotęgi\n(Wersja 2 – niebieska)",
+							"pt-BR": "Guardian Nanopoder\n(Variante 2 Azul)",
+							"ru-RU": "Guardian \"Наномощь\"\n(расцветка 2 \"Синий\")",
+							"th-TH": "Nanomight Guardian\n(ตัวเลือกที่ 2 สีฟ้า)",
+							"tr-TR": "Nanogüç Guardian\n(Stil 2 - Mavi)",
+							"vi-VN": "Guardian Nanomight\n(Dạng 2 Ánh Lam)",
+							"zh-CN": "纳米奇宝 戍卫\n(炫彩2 蓝色)",
+							"zh-TW": "奈米威能 捍衛者\n(幻彩2 藍色)"
+						}
+					}
+				},
+				{
+					"id": "62828853-4586-0DFC-CA75-F4B5507543E7",
+					"label": "62828853-4586-0DFC-CA75-F4B5507543E7",
+					"name":
+					{
+						"defaultText": "Nanomight Guardian\n(Variant 3 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "قوة النانو غارديان\n(بديل 3 وردي)",
+							"de-DE": "Guardian – Nanomacht\n(Variante 3, Rosa)",
+							"en-US": "Nanomight Guardian\n(Variant 3 Pink)",
+							"es-ES": "Guardian Nanomight\n(variante 3: rosa)",
+							"es-MX": "Guardian Nanopoder\n(Variante 3 Rosa)",
+							"fr-FR": "Guardian (Nanomight)\n(Variante 3 Rose)",
+							"id-ID": "Nanomight Guardian\n(Varian 3 Merah Muda)",
+							"it-IT": "Guardian Nanopotenza\n(variante 3 Rosa)",
+							"ja-JP": "ナノマイト ガーディアン\n(ヴァリアント 3 ピンク)",
+							"ko-KR": "나노마이트 가디언\n(변형 3 분홍색)",
+							"pl-PL": "Guardian Nanopotęgi\n(Wersja 3 – różowa)",
+							"pt-BR": "Guardian Nanopoder\n(Variante 3 Rosa)",
+							"ru-RU": "Guardian \"Наномощь\"\n(расцветка 3 \"Розовый\")",
+							"th-TH": "Nanomight Guardian\n(ตัวเลือกที่ 3 สีชมพู)",
+							"tr-TR": "Nanogüç Guardian\n(Stil 3 - Pembe)",
+							"vi-VN": "Guardian Nanomight\n(Dạng 3 Ánh Hồng)",
+							"zh-CN": "纳米奇宝 戍卫\n(炫彩3 粉色)",
+							"zh-TW": "奈米威能 捍衛者\n(幻彩3 粉色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "85497E04-487A-FC77-DA68-2CAFC812F7ED",
+					"label": "85497E04-487A-FC77-DA68-2CAFC812F7ED",
+					"name":
+					{
+						"defaultText": "Nanomight Guardian",
+						"localizedByCulture":
+						{
+							"ar-AE": "قوة النانو غارديان",
+							"de-DE": "Guardian – Nanomacht",
+							"en-US": "Nanomight Guardian",
+							"es-ES": "Guardian Nanomight",
+							"es-MX": "Guardian Nanopoder",
+							"fr-FR": "Guardian (Nanomight)",
+							"id-ID": "Nanomight Guardian",
+							"it-IT": "Guardian Nanopotenza",
+							"ja-JP": "ナノマイト ガーディアン",
+							"ko-KR": "나노마이트 가디언",
+							"pl-PL": "Guardian Nanopotęgi",
+							"pt-BR": "Guardian Nanopoder",
+							"ru-RU": "Guardian \"Наномощь\"",
+							"th-TH": "Nanomight Guardian",
+							"tr-TR": "Nanogüç Guardian",
+							"vi-VN": "Guardian Nanomight",
+							"zh-CN": "纳米奇宝 戍卫",
+							"zh-TW": "奈米威能 捍衛者"
+						}
+					}
+				}
+			],
+			"id": "EF889A32-4951-AE40-44FE-40A4DA210060",
+			"label": "EF889A32-4951-AE40-44FE-40A4DA210060",
+			"name":
+			{
+				"defaultText": "Nanomight Guardian",
+				"localizedByCulture":
+				{
+					"ar-AE": "قوة النانو غارديان",
+					"de-DE": "Guardian – Nanomacht",
+					"en-US": "Nanomight Guardian",
+					"es-ES": "Guardian Nanomight",
+					"es-MX": "Guardian Nanopoder",
+					"fr-FR": "Guardian (Nanomight)",
+					"id-ID": "Nanomight Guardian",
+					"it-IT": "Guardian Nanopotenza",
+					"ja-JP": "ナノマイト ガーディアン",
+					"ko-KR": "나노마이트 가디언",
+					"pl-PL": "Guardian Nanopotęgi",
+					"pt-BR": "Guardian Nanopoder",
+					"ru-RU": "Guardian \"Наномощь\"",
+					"th-TH": "Nanomight Guardian",
+					"tr-TR": "Nanogüç Guardian",
+					"vi-VN": "Guardian Nanomight",
+					"zh-CN": "纳米奇宝 戍卫",
+					"zh-TW": "奈米威能 捍衛者"
+				}
+			}
+		},
+		{
+			"weaponId": "4ADE7FAA-4CF1-8376-95EF-39884480959B",
 			"defaultChromaId": "C8721633-461A-A7BE-8777-BD96C9332470",
 			"chromas": [
 				{
@@ -164852,6 +165065,186 @@
 		},
 		{
 			"weaponId": "F7E1B454-4AD4-1063-EC0A-159E56B58941",
+			"defaultChromaId": "0DF1E30E-4E75-929D-FB95-F1AD28DAF985",
+			"chromas": [
+				{
+					"id": "0DF1E30E-4E75-929D-FB95-F1AD28DAF985",
+					"label": "0DF1E30E-4E75-929D-FB95-F1AD28DAF985",
+					"name":
+					{
+						"defaultText": "Nanomight Stinger",
+						"localizedByCulture":
+						{
+							"ar-AE": "قوة النانو ستينغر",
+							"de-DE": "Stinger – Nanomacht",
+							"en-US": "Nanomight Stinger",
+							"es-ES": "Stinger Nanomight",
+							"es-MX": "Stinger Nanopoder",
+							"fr-FR": "Stinger (Nanomight)",
+							"id-ID": "Nanomight Stinger",
+							"it-IT": "Stinger Nanopotenza",
+							"ja-JP": "ナノマイト スティンガー",
+							"ko-KR": "나노마이트 스팅어",
+							"pl-PL": "Stinger Nanopotęgi",
+							"pt-BR": "Stinger Nanopoder",
+							"ru-RU": "Stinger \"Наномощь\"",
+							"th-TH": "Nanomight Stinger",
+							"tr-TR": "Nanogüç Stinger",
+							"vi-VN": "Stinger Nanomight",
+							"zh-CN": "纳米奇宝 蜂刺",
+							"zh-TW": "奈米威能 刺針"
+						}
+					}
+				},
+				{
+					"id": "AFD761D9-4A55-A500-C15E-ADBAF8A43A73",
+					"label": "AFD761D9-4A55-A500-C15E-ADBAF8A43A73",
+					"name":
+					{
+						"defaultText": "Nanomight Stinger\n(Variant 1 Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "قوة النانو ستينغر\n(بديل 1 أخضر)",
+							"de-DE": "Stinger – Nanomacht\n(Variante 1, Grün)",
+							"en-US": "Nanomight Stinger\n(Variant 1 Green)",
+							"es-ES": "Stinger Nanomight\n(variante 1: verde)",
+							"es-MX": "Stinger Nanopoder\n(Variante 1 Verde)",
+							"fr-FR": "Stinger (Nanomight)\n(Variante 1 Vert)",
+							"id-ID": "Nanomight Stinger\n(Varian 1 Hijau)",
+							"it-IT": "Stinger Nanopotenza\n(variante 1 Verde)",
+							"ja-JP": "ナノマイト スティンガー\n(ヴァリアント 1 グリーン)",
+							"ko-KR": "나노마이트 스팅어\n(변형 1 녹색)",
+							"pl-PL": "Stinger Nanopotęgi\n(Wersja 1 – zielona)",
+							"pt-BR": "Stinger Nanopoder\n(Variante 1 Verde)",
+							"ru-RU": "Stinger \"Наномощь\"\n(расцветка 1 \"Зеленый\")",
+							"th-TH": "Nanomight Stinger\n(ตัวเลือกที่ 1 สีเขียว)",
+							"tr-TR": "Nanogüç Stinger\n(Stil 1 - Yeşil)",
+							"vi-VN": "Stinger Nanomight\n(Dạng 1 Ánh Lục)",
+							"zh-CN": "纳米奇宝 蜂刺\n(炫彩1 绿色)",
+							"zh-TW": "奈米威能 刺針\n(幻彩1 綠色)"
+						}
+					}
+				},
+				{
+					"id": "2B0BA8A3-46EC-65FB-EAC6-B2B62C92D0A5",
+					"label": "2B0BA8A3-46EC-65FB-EAC6-B2B62C92D0A5",
+					"name":
+					{
+						"defaultText": "Nanomight Stinger\n(Variant 2 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "قوة النانو ستينغر\n(بديل 2 أزرق)",
+							"de-DE": "Stinger – Nanomacht\n(Variante 2, Blau)",
+							"en-US": "Nanomight Stinger\n(Variant 2 Blue)",
+							"es-ES": "Stinger Nanomight\n(variante 2: azul)",
+							"es-MX": "Stinger Nanopoder\n(Variante 2 Azul)",
+							"fr-FR": "Stinger (Nanomight)\n(Variante 2 Bleu)",
+							"id-ID": "Nanomight Stinger\n(Varian 2 Biru)",
+							"it-IT": "Stinger Nanopotenza\n(variante 2 Blu)",
+							"ja-JP": "ナノマイト スティンガー\n(ヴァリアント 2 ブルー)",
+							"ko-KR": "나노마이트 스팅어\n(변형 2 파란색)",
+							"pl-PL": "Stinger Nanopotęgi\n(Wersja 2 – niebieska)",
+							"pt-BR": "Stinger Nanopoder\n(Variante 2 Azul)",
+							"ru-RU": "Stinger \"Наномощь\"\n(расцветка 2 \"Синий\")",
+							"th-TH": "Nanomight Stinger\n(ตัวเลือกที่ 2 สีฟ้า)",
+							"tr-TR": "Nanogüç Stinger\n(Stil 2 - Mavi)",
+							"vi-VN": "Stinger Nanomight\n(Dạng 2 Ánh Lam)",
+							"zh-CN": "纳米奇宝 蜂刺\n(炫彩2 蓝色)",
+							"zh-TW": "奈米威能 刺針\n(幻彩2 藍色)"
+						}
+					}
+				},
+				{
+					"id": "401CA692-4608-A06B-6FEC-72B411A3C14F",
+					"label": "401CA692-4608-A06B-6FEC-72B411A3C14F",
+					"name":
+					{
+						"defaultText": "Nanomight Stinger\n(Variant 3 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "قوة النانو ستينغر\n(بديل 3 وردي)",
+							"de-DE": "Stinger – Nanomacht\n(Variante 3, Rosa)",
+							"en-US": "Nanomight Stinger\n(Variant 3 Pink)",
+							"es-ES": "Stinger Nanomight\n(variante 3: rosa)",
+							"es-MX": "Stinger Nanopoder\n(Variante 3 Rosa)",
+							"fr-FR": "Stinger (Nanomight)\n(Variante 3 Rose)",
+							"id-ID": "Nanomight Stinger\n(Varian 3 Merah Muda)",
+							"it-IT": "Stinger Nanopotenza\n(variante 3 Rosa)",
+							"ja-JP": "ナノマイト スティンガー\n(ヴァリアント 3 ピンク)",
+							"ko-KR": "나노마이트 스팅어\n(변형 3 분홍색)",
+							"pl-PL": "Stinger Nanopotęgi\n(Wersja 3 – różowa)",
+							"pt-BR": "Stinger Nanopoder\n(Variante 3 Rosa)",
+							"ru-RU": "Stinger \"Наномощь\"\n(расцветка 3 \"Розовый\")",
+							"th-TH": "Nanomight Stinger\n(ตัวเลือกที่ 3 สีชมพู)",
+							"tr-TR": "Nanogüç Stinger\n(Stil 3 - Pembe)",
+							"vi-VN": "Stinger Nanomight\n(Dạng 3 Ánh Hồng)",
+							"zh-CN": "纳米奇宝 蜂刺\n(炫彩3 粉色)",
+							"zh-TW": "奈米威能 刺針\n(幻彩3 粉色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "2EF39286-4F10-05F4-E537-8E89A58C57F9",
+					"label": "2EF39286-4F10-05F4-E537-8E89A58C57F9",
+					"name":
+					{
+						"defaultText": "Nanomight Stinger",
+						"localizedByCulture":
+						{
+							"ar-AE": "قوة النانو ستينغر",
+							"de-DE": "Stinger – Nanomacht",
+							"en-US": "Nanomight Stinger",
+							"es-ES": "Stinger Nanomight",
+							"es-MX": "Stinger Nanopoder",
+							"fr-FR": "Stinger (Nanomight)",
+							"id-ID": "Nanomight Stinger",
+							"it-IT": "Stinger Nanopotenza",
+							"ja-JP": "ナノマイト スティンガー",
+							"ko-KR": "나노마이트 스팅어",
+							"pl-PL": "Stinger Nanopotęgi",
+							"pt-BR": "Stinger Nanopoder",
+							"ru-RU": "Stinger \"Наномощь\"",
+							"th-TH": "Nanomight Stinger",
+							"tr-TR": "Nanogüç Stinger",
+							"vi-VN": "Stinger Nanomight",
+							"zh-CN": "纳米奇宝 蜂刺",
+							"zh-TW": "奈米威能 刺針"
+						}
+					}
+				}
+			],
+			"id": "EEE0304D-45F1-6C08-1A53-4E850F594F51",
+			"label": "EEE0304D-45F1-6C08-1A53-4E850F594F51",
+			"name":
+			{
+				"defaultText": "Nanomight Stinger",
+				"localizedByCulture":
+				{
+					"ar-AE": "قوة النانو ستينغر",
+					"de-DE": "Stinger – Nanomacht",
+					"en-US": "Nanomight Stinger",
+					"es-ES": "Stinger Nanomight",
+					"es-MX": "Stinger Nanopoder",
+					"fr-FR": "Stinger (Nanomight)",
+					"id-ID": "Nanomight Stinger",
+					"it-IT": "Stinger Nanopotenza",
+					"ja-JP": "ナノマイト スティンガー",
+					"ko-KR": "나노마이트 스팅어",
+					"pl-PL": "Stinger Nanopotęgi",
+					"pt-BR": "Stinger Nanopoder",
+					"ru-RU": "Stinger \"Наномощь\"",
+					"th-TH": "Nanomight Stinger",
+					"tr-TR": "Nanogüç Stinger",
+					"vi-VN": "Stinger Nanomight",
+					"zh-CN": "纳米奇宝 蜂刺",
+					"zh-TW": "奈米威能 刺針"
+				}
+			}
+		},
+		{
+			"weaponId": "F7E1B454-4AD4-1063-EC0A-159E56B58941",
 			"defaultChromaId": "73D27DE9-45F2-3739-5FEE-CE8B18ACD136",
 			"chromas": [
 				{
@@ -176167,6 +176560,186 @@
 					"vi-VN": "Chùy Hỗn Mang",
 					"zh-CN": "混沌链枷",
 					"zh-TW": "混沌連枷"
+				}
+			}
+		},
+		{
+			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
+			"defaultChromaId": "A440F428-45BA-5579-CBE4-D2AFEBC25F08",
+			"chromas": [
+				{
+					"id": "A440F428-45BA-5579-CBE4-D2AFEBC25F08",
+					"label": "A440F428-45BA-5579-CBE4-D2AFEBC25F08",
+					"name":
+					{
+						"defaultText": "Nanomight Knuckles",
+						"localizedByCulture":
+						{
+							"ar-AE": "القبضة الحديدية قوة النانو",
+							"de-DE": "Schlagring – Nanomacht",
+							"en-US": "Nanomight Knuckles",
+							"es-ES": "Puños americanos Nanomight",
+							"es-MX": "Puños Nanopoder",
+							"fr-FR": "Poing américain (Nanomight)",
+							"id-ID": "Nanomight Knuckles",
+							"it-IT": "Tirapugni Nanopotenza",
+							"ja-JP": "ナノマイト ナックル",
+							"ko-KR": "나노마이트 너클",
+							"pl-PL": "Kastet Nanopotęgi",
+							"pt-BR": "Soqueira Nanopoder",
+							"ru-RU": "Кастеты \"Наномощь\"",
+							"th-TH": "Nanomight Knuckles",
+							"tr-TR": "Nanogüç Muştası",
+							"vi-VN": "Tay Gấu Nanomight",
+							"zh-CN": "纳米奇宝 指虎",
+							"zh-TW": "奈米威能 手指虎"
+						}
+					}
+				},
+				{
+					"id": "08A431A0-4C0C-E085-35C8-68B6DE67AAC3",
+					"label": "08A431A0-4C0C-E085-35C8-68B6DE67AAC3",
+					"name":
+					{
+						"defaultText": "Nanomight Knuckles\n(Variant 1 Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "القبضة الحديدية قوة النانو\n(بديل 1 أخضر)",
+							"de-DE": "Schlagring – Nanomacht\n(Variante 1, Grün)",
+							"en-US": "Nanomight Knuckles\n(Variant 1 Green)",
+							"es-ES": "Puños americanos Nanomight\n(variante 1: verde)",
+							"es-MX": "Puños Nanopoder\n(Variante 1 Verde)",
+							"fr-FR": "Poing américain (Nanomight)\n(Variante 1 Vert)",
+							"id-ID": "Nanomight Knuckles\n(Varian 1 Hijau)",
+							"it-IT": "Tirapugni Nanopotenza\n(variante 1 Verde)",
+							"ja-JP": "ナノマイト ナックル\n(ヴァリアント 1 グリーン)",
+							"ko-KR": "나노마이트 너클\n(변형 1 녹색)",
+							"pl-PL": "Kastet Nanopotęgi\n(Wersja 1 – zielona)",
+							"pt-BR": "Soqueira Nanopoder\n(Variante 1 Verde)",
+							"ru-RU": "Кастеты \"Наномощь\"\n(расцветка 1 \"Зеленый\")",
+							"th-TH": "Nanomight Knuckles\n(ตัวเลือกที่ 1 สีเขียว)",
+							"tr-TR": "Nanogüç Muştası\n(Stil 1 - Yeşil)",
+							"vi-VN": "Tay Gấu Nanomight\n(Dạng 1 Ánh Lục)",
+							"zh-CN": "纳米奇宝 指虎\n(炫彩1 绿色)",
+							"zh-TW": "奈米威能 手指虎\n(幻彩1 綠色)"
+						}
+					}
+				},
+				{
+					"id": "879C32E4-431F-4B9D-E947-E690D91C42F9",
+					"label": "879C32E4-431F-4B9D-E947-E690D91C42F9",
+					"name":
+					{
+						"defaultText": "Nanomight Knuckles\n(Variant 2 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "القبضة الحديدية قوة النانو\n(بديل 2 أزرق)",
+							"de-DE": "Schlagring – Nanomacht\n(Variante 2, Blau)",
+							"en-US": "Nanomight Knuckles\n(Variant 2 Blue)",
+							"es-ES": "Puños americanos Nanomight\n(variante 2: azul)",
+							"es-MX": "Puños Nanopoder\n(Variante 2 Azul)",
+							"fr-FR": "Poing américain (Nanomight)\n(Variante 2 Bleu)",
+							"id-ID": "Nanomight Knuckles\n(Varian 2 Biru)",
+							"it-IT": "Tirapugni Nanopotenza\n(variante 2 Blu)",
+							"ja-JP": "ナノマイト ナックル\n(ヴァリアント 2 ブルー)",
+							"ko-KR": "나노마이트 너클\n(변형 2 파란색)",
+							"pl-PL": "Kastet Nanopotęgi\n(Wersja 2 – niebieska)",
+							"pt-BR": "Soqueira Nanopoder\n(Variante 2 Azul)",
+							"ru-RU": "Кастеты \"Наномощь\"\n(расцветка 2 \"Синий\")",
+							"th-TH": "Nanomight Knuckles\n(ตัวเลือกที่ 2 สีฟ้า)",
+							"tr-TR": "Nanogüç Muştası\n(Stil 2 - Mavi)",
+							"vi-VN": "Tay Gấu Nanomight\n(Dạng 2 Ánh Lam)",
+							"zh-CN": "纳米奇宝 指虎\n(炫彩2 蓝色)",
+							"zh-TW": "奈米威能 手指虎\n(幻彩2 藍色)"
+						}
+					}
+				},
+				{
+					"id": "98316325-423D-2F99-E251-A0B749DF29FC",
+					"label": "98316325-423D-2F99-E251-A0B749DF29FC",
+					"name":
+					{
+						"defaultText": "Nanomight Knuckles\n(Variant 3 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "القبضة الحديدية قوة النانو\n(بديل 3 وردي)",
+							"de-DE": "Schlagring – Nanomacht\n(Variante 3, Rosa)",
+							"en-US": "Nanomight Knuckles\n(Variant 3 Pink)",
+							"es-ES": "Puños americanos Nanomight\n(variante 3: rosa)",
+							"es-MX": "Puños Nanopoder\n(Variante 3 Rosa)",
+							"fr-FR": "Poing américain (Nanomight)\n(Variante 3 Rose)",
+							"id-ID": "Nanomight Knuckles\n(Varian 3 Merah Muda)",
+							"it-IT": "Tirapugni Nanopotenza\n(variante 3 Rosa)",
+							"ja-JP": "ナノマイト ナックル\n(ヴァリアント 3 ピンク)",
+							"ko-KR": "나노마이트 너클\n(변형 3 분홍색)",
+							"pl-PL": "Kastet Nanopotęgi\n(Wersja 3 – różowa)",
+							"pt-BR": "Soqueira Nanopoder\n(Variante 3 Rosa)",
+							"ru-RU": "Кастеты \"Наномощь\"\n(расцветка 3 \"Розовый\")",
+							"th-TH": "Nanomight Knuckles\n(ตัวเลือกที่ 3 สีชมพู)",
+							"tr-TR": "Nanogüç Muştası\n(Stil 3 - Pembe)",
+							"vi-VN": "Tay Gấu Nanomight\n(Dạng 3 Ánh Hồng)",
+							"zh-CN": "纳米奇宝 指虎\n(炫彩3 粉色)",
+							"zh-TW": "奈米威能 手指虎\n(幻彩3 粉色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "1843794A-4514-A609-3EF0-82961748707C",
+					"label": "1843794A-4514-A609-3EF0-82961748707C",
+					"name":
+					{
+						"defaultText": "Nanomight Knuckles",
+						"localizedByCulture":
+						{
+							"ar-AE": "القبضة الحديدية قوة النانو",
+							"de-DE": "Schlagring – Nanomacht",
+							"en-US": "Nanomight Knuckles",
+							"es-ES": "Puños americanos Nanomight",
+							"es-MX": "Puños Nanopoder",
+							"fr-FR": "Poing américain (Nanomight)",
+							"id-ID": "Nanomight Knuckles",
+							"it-IT": "Tirapugni Nanopotenza",
+							"ja-JP": "ナノマイト ナックル",
+							"ko-KR": "나노마이트 너클",
+							"pl-PL": "Kastet Nanopotęgi",
+							"pt-BR": "Soqueira Nanopoder",
+							"ru-RU": "Кастеты \"Наномощь\"",
+							"th-TH": "Nanomight Knuckles",
+							"tr-TR": "Nanogüç Muştası",
+							"vi-VN": "Tay Gấu Nanomight",
+							"zh-CN": "纳米奇宝 指虎",
+							"zh-TW": "奈米威能 手指虎"
+						}
+					}
+				}
+			],
+			"id": "F1D98ECD-4D68-30AF-8908-EDAFABCF18AB",
+			"label": "F1D98ECD-4D68-30AF-8908-EDAFABCF18AB",
+			"name":
+			{
+				"defaultText": "Nanomight Knuckles",
+				"localizedByCulture":
+				{
+					"ar-AE": "القبضة الحديدية قوة النانو",
+					"de-DE": "Schlagring – Nanomacht",
+					"en-US": "Nanomight Knuckles",
+					"es-ES": "Puños americanos Nanomight",
+					"es-MX": "Puños Nanopoder",
+					"fr-FR": "Poing américain (Nanomight)",
+					"id-ID": "Nanomight Knuckles",
+					"it-IT": "Tirapugni Nanopotenza",
+					"ja-JP": "ナノマイト ナックル",
+					"ko-KR": "나노마이트 너클",
+					"pl-PL": "Kastet Nanopotęgi",
+					"pt-BR": "Soqueira Nanopoder",
+					"ru-RU": "Кастеты \"Наномощь\"",
+					"th-TH": "Nanomight Knuckles",
+					"tr-TR": "Nanogüç Muştası",
+					"vi-VN": "Tay Gấu Nanomight",
+					"zh-CN": "纳米奇宝 指虎",
+					"zh-TW": "奈米威能 手指虎"
 				}
 			}
 		},
@@ -195317,7 +195890,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "بطاقة تيهو VALORANT",
-					"de-DE": "Banner „VALORANT Tejo“",
+					"de-DE": "Banner „VALORANT: Tejo“",
 					"en-US": "VALORANT Tejo Card",
 					"es-ES": "Tarjeta de Tejo de VALORANT",
 					"es-MX": "Tarjeta Tejo de VALORANT",
@@ -195781,7 +196354,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "بطاقة فايس VALORANT",
-					"de-DE": "Banner „VALORANT Vyse“",
+					"de-DE": "Banner „VALORANT: Vyse“",
 					"en-US": "VALORANT Vyse Card",
 					"es-ES": "Tarjeta de Vyse de VALORANT",
 					"es-MX": "Tarjeta Vyse de VALORANT",
@@ -196187,7 +196760,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "بطاقة كلوف VALORANT",
-					"de-DE": "Banner „VALORANT Clove“",
+					"de-DE": "Banner „VALORANT: Clove“",
 					"en-US": "VALORANT Clove Card",
 					"es-ES": "Tarjeta de Clove de VALORANT",
 					"es-MX": "Tarjeta Clove de VALORANT",
@@ -206706,6 +207279,35 @@
 			}
 		},
 		{
+			"id": "17BCE81B-4215-896B-4526-E9ADF68FF349",
+			"label": "17BCE81B-4215-896B-4526-E9ADF68FF349",
+			"name":
+			{
+				"defaultText": "Dodge This! Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة راوغ هذا!",
+					"de-DE": "Banner „Ausweichen!“",
+					"en-US": "Dodge This! Card",
+					"es-ES": "Tarjeta ¡Esquiva esto!",
+					"es-MX": "Tarjeta ¡Esquiva Eso!",
+					"fr-FR": "Carte Évite donc ça !",
+					"id-ID": "Kartu Dodge This!",
+					"it-IT": "Carta Schiva questo!",
+					"ja-JP": "避けてみな！ カード",
+					"ko-KR": "이것도 피해 보시지! 카드",
+					"pl-PL": "Karta „Tego spróbuj uniknąć!”",
+					"pt-BR": "Card Desvia Disso!",
+					"ru-RU": "Карточка \"Не уйдешь!\"",
+					"th-TH": "การ์ด Dodge This!",
+					"tr-TR": "Sıkıysa Bundan Kaç! Kartı",
+					"vi-VN": "Thẻ Giỏi Né Coi!",
+					"zh-CN": "看你怎么躲！卡面",
+					"zh-TW": "你再躲啊！玩家卡面"
+				}
+			}
+		},
+		{
 			"id": "4B00C963-4FF3-D147-F8AB-92B31A88C8A2",
 			"label": "4B00C963-4FF3-D147-F8AB-92B31A88C8A2",
 			"name":
@@ -207188,7 +207790,7 @@
 					"ja-JP": "PREMIER E7A3 カード",
 					"ko-KR": "프리미어 E7A3 카드",
 					"pl-PL": "KARTA „O7A3 PREMIER”",
-					"pt-BR": "CARD E7A3 DO PREMIER",
+					"pt-BR": "CARD PREMIER E7A3",
 					"ru-RU": "КАРТОЧКА \"Э7А3 PREMIER\"",
 					"th-TH": "การ์ด PREMIER E7A3",
 					"tr-TR": "PREMIER B7K3 KARTI",
@@ -207845,7 +208447,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "بطاقة فيتو VALORANT",
-					"de-DE": "Banner „VALORANT Veto“",
+					"de-DE": "Banner „VALORANT: Veto“",
 					"en-US": "VALORANT Veto Card",
 					"es-ES": "Tarjeta de Veto de VALORANT",
 					"es-MX": "Tarjeta Veto de VALORANT",
@@ -209776,6 +210378,35 @@
 					"vi-VN": "Thẻ Prelude to Chaos, V25",
 					"zh-CN": "混沌序曲//2.0 V25 卡面",
 					"zh-TW": "混沌序幕 V25 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "A372C539-41C7-6A41-7064-80A61CCD597B",
+			"label": "A372C539-41C7-6A41-7064-80A61CCD597B",
+			"name":
+			{
+				"defaultText": "Nanomight Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة قوة النانو",
+					"de-DE": "Banner „Nanomacht“",
+					"en-US": "Nanomight Card",
+					"es-ES": "Tarjeta Nanomight",
+					"es-MX": "Tarjeta Nanopoder",
+					"fr-FR": "Carte Nanomight",
+					"id-ID": "Kartu Nanomight",
+					"it-IT": "Carta Nanopotenza",
+					"ja-JP": "ナノマイト カード",
+					"ko-KR": "나노마이트 카드",
+					"pl-PL": "Karta „Nanopotęga”",
+					"pt-BR": "Card Nanopoder",
+					"ru-RU": "Карточка \"Наномощь\"",
+					"th-TH": "การ์ด Nanomight",
+					"tr-TR": "Nanogüç Kartı",
+					"vi-VN": "Thẻ Nanomight",
+					"zh-CN": "纳米奇宝 卡面",
+					"zh-TW": "奈米威能 玩家卡面"
 				}
 			}
 		},
@@ -226247,7 +226878,7 @@
 					"id-ID": "Go Off",
 					"it-IT": "Esplodi",
 					"ja-JP": "解き放て",
-					"ko-KR": "촉발",
+					"ko-KR": "터뜨려",
 					"pl-PL": "Zaszalej",
 					"pt-BR": "Manda Ver",
 					"ru-RU": "В отрыв",
@@ -226274,7 +226905,7 @@
 					"id-ID": "Gelar Go Off",
 					"it-IT": "Titolo Esplodi",
 					"ja-JP": "解き放て タイトル",
-					"ko-KR": "촉발 칭호",
+					"ko-KR": "터뜨려 칭호",
 					"pl-PL": "Tytuł „Zaszalej”",
 					"pt-BR": "Título Manda Ver",
 					"ru-RU": "Звание \"В отрыв\"",
@@ -226391,6 +227022,168 @@
 					"vi-VN": "Danh Hiệu Nhà Vô Địch Game Changers 2025",
 					"zh-CN": "2025改变者全球冠军赛冠军 称号",
 					"zh-TW": "2025 顛覆者贏家 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Unnie",
+				"localizedByCulture":
+				{
+					"ar-AE": "‏Unnie",
+					"de-DE": "Unnie",
+					"en-US": "Unnie",
+					"es-ES": "Unnie",
+					"es-MX": "Unnie",
+					"fr-FR": "Unnie",
+					"id-ID": "Unnie",
+					"it-IT": "Unnie",
+					"ja-JP": "Unnie",
+					"ko-KR": "언니",
+					"pl-PL": "Siostrunia",
+					"pt-BR": "언니 (Unnie)",
+					"ru-RU": "Онни",
+					"th-TH": "ออนนี",
+					"tr-TR": "UNNIE",
+					"vi-VN": "Unnie",
+					"zh-CN": "欧尼",
+					"zh-TW": "歐膩"
+				}
+			},
+			"id": "D5B34736-4802-7FD6-61E4-CAA5B5F30B36",
+			"label": "D5B34736-4802-7FD6-61E4-CAA5B5F30B36",
+			"name":
+			{
+				"defaultText": "Unnie Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب Unnie",
+					"de-DE": "Titel „Unnie“",
+					"en-US": "Unnie Title",
+					"es-ES": "Título Unnie",
+					"es-MX": "Título Unnie",
+					"fr-FR": "Titre Unnie",
+					"id-ID": "Gelar Unnie",
+					"it-IT": "Titolo Unnie",
+					"ja-JP": "Unnie タイトル",
+					"ko-KR": "언니 칭호",
+					"pl-PL": "Tytuł „Siostrunia”",
+					"pt-BR": "Título 언니 (Unnie)",
+					"ru-RU": "Звание \"Онни\"",
+					"th-TH": "ฉายาออนนี",
+					"tr-TR": "Unnie Unvanı",
+					"vi-VN": "Danh Hiệu Unnie",
+					"zh-CN": "欧尼 称号",
+					"zh-TW": "歐膩 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Melting",
+				"localizedByCulture":
+				{
+					"ar-AE": "قلبي لا يحتمل",
+					"de-DE": "Verknallt",
+					"en-US": "Melting",
+					"es-ES": "Melting",
+					"es-MX": "Fundido",
+					"fr-FR": "C'est trop",
+					"id-ID": "Melting",
+					"it-IT": "Piango",
+					"ja-JP": "Melting",
+					"ko-KR": "심쿵",
+					"pl-PL": "Rozpływam się",
+					"pt-BR": "Adorável",
+					"ru-RU": "Краш",
+					"th-TH": "ใจบาง",
+					"tr-TR": "Erimelik",
+					"vi-VN": "Đốn Tim",
+					"zh-CN": "着迷",
+					"zh-TW": "無法抗拒"
+				}
+			},
+			"id": "5EC06BBB-4DE3-1B76-3D29-D0916BE5D9D4",
+			"label": "5EC06BBB-4DE3-1B76-3D29-D0916BE5D9D4",
+			"name":
+			{
+				"defaultText": "Melting Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب قلبي لا يحتمل",
+					"de-DE": "Titel „Verknallt“",
+					"en-US": "Melting Title",
+					"es-ES": "Título Melting",
+					"es-MX": "Título Derretida",
+					"fr-FR": "Titre C'est trop",
+					"id-ID": "Gelar Melting",
+					"it-IT": "Titolo Piango",
+					"ja-JP": "Melting タイトル",
+					"ko-KR": "심쿵 칭호",
+					"pl-PL": "Tytuł „Rozpływam się”",
+					"pt-BR": "Título Adorável",
+					"ru-RU": "Звание \"Краш\"",
+					"th-TH": "ฉายาใจบาง",
+					"tr-TR": "Erimelik Unvanı",
+					"vi-VN": "Danh Hiệu Đốn Tim",
+					"zh-CN": "着迷 称号",
+					"zh-TW": "無法抗拒 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "^>.<^",
+				"localizedByCulture":
+				{
+					"ar-AE": "‏^>.<^",
+					"de-DE": "^>.<^",
+					"en-US": "^>.<^",
+					"es-ES": "^>.<^",
+					"es-MX": "^>.<^",
+					"fr-FR": "^>.<^",
+					"id-ID": "^>.<^",
+					"it-IT": "^>.<^",
+					"ja-JP": "^>.<^",
+					"ko-KR": "^>.<^",
+					"pl-PL": "^>.<^",
+					"pt-BR": "^>.<^",
+					"ru-RU": "^>.<^",
+					"th-TH": "^>.<^",
+					"tr-TR": "^>.<^",
+					"vi-VN": "^>.<^",
+					"zh-CN": "^>.<^",
+					"zh-TW": "^>.<^"
+				}
+			},
+			"id": "6DC31DA9-4775-6AFE-800A-B1BAC95D6F63",
+			"label": "6DC31DA9-4775-6AFE-800A-B1BAC95D6F63",
+			"name":
+			{
+				"defaultText": "^>.<^ Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب ^>.<^",
+					"de-DE": "Titel „^>.<^“",
+					"en-US": "^>.<^ Title",
+					"es-ES": "Título ^>.<^",
+					"es-MX": "Título ^>.<^",
+					"fr-FR": "Titre ^>.<^",
+					"id-ID": "Gelar ^>.<^",
+					"it-IT": "Titolo ^>.<^",
+					"ja-JP": "^>.<^ タイトル",
+					"ko-KR": "^>.<^ 칭호",
+					"pl-PL": "Tytuł „^>.<^”",
+					"pt-BR": "Título ^>.<^",
+					"ru-RU": "Звание \"^>.<^\"",
+					"th-TH": "ฉายา ^>.<^",
+					"tr-TR": "^>.<^ Unvanı",
+					"vi-VN": "Danh Hiệu ^>.<^",
+					"zh-CN": "^>.<^ 称号",
+					"zh-TW": "^>.<^ 稱號"
 				}
 			}
 		},
@@ -227653,7 +228446,7 @@
 					"ja-JP": "PREMIER リリース チャンピオン OPN",
 					"ko-KR": "프리미어 론치 챔피언 // 초급",
 					"pl-PL": "BOHATER NA START PREMIER // OTW",
-					"pt-BR": "CAMPEÃO LANÇAMENTO PREMIER // ABT",
+					"pt-BR": "CAMPEÃO LANÇAMENTO PREMIER // ABR",
 					"ru-RU": "ЧЕМПИОН ЗАПУСКА PREMIER // ОТКР",
 					"th-TH": "PREMIER LAUNCH CHAMPION // OPN",
 					"tr-TR": "PREMIER ÇIKIŞ ŞAMP. // AÇK",
@@ -227680,7 +228473,7 @@
 					"ja-JP": "PREMIER リリース チャンピオン OPN タイトル",
 					"ko-KR": "프리미어 론치 챔피언 // 초급 칭호",
 					"pl-PL": "TYTUŁ „BOHATER NA START PREMIER // OTW”",
-					"pt-BR": "CAMPEÃO LANÇAMENTO PREMIER // ABT",
+					"pt-BR": "TÍTULO CAMPEÃO LANÇ. PREMIER // ABR",
 					"ru-RU": "ЗВАНИЕ \"ЧЕМПИОН ЗАПУСКА PREMIER // ОТКР\"",
 					"th-TH": "ฉายา PREMIER LAUNCH CHAMPION // OPN",
 					"tr-TR": "PREMIER ÇIKIŞ ŞAMP. // AÇK UNVANI",
@@ -227734,7 +228527,7 @@
 					"ja-JP": "PREMIER リリース チャンピオン INT タイトル",
 					"ko-KR": "프리미어 론치 챔피언 // 중급 칭호",
 					"pl-PL": "TYTUŁ „BOHATER NA START PREMIER // ŚRD”",
-					"pt-BR": "CAMPEÃO LANÇAMENTO PREMIER // INT",
+					"pt-BR": "TÍTULO CAMPEÃO LANÇ. PREMIER // INT",
 					"ru-RU": "ЗВАНИЕ \"ЧЕМПИОН ЗАПУСКА PREMIER // СРЕД\"",
 					"th-TH": "ฉายา PREMIER LAUNCH CHAMPION // INT",
 					"tr-TR": "PREMIER ÇIKIŞ ŞAMP. // ORT UNVANI",
@@ -227788,7 +228581,7 @@
 					"ja-JP": "PREMIER リリース チャンピオン ELT タイトル",
 					"ko-KR": "프리미어 론치 챔피언 // 상급 칭호",
 					"pl-PL": "TYTUŁ „BOHATER NA START PREMIER // ELT”",
-					"pt-BR": "CAMPEÃO LANÇAMENTO PREMIER // ELT",
+					"pt-BR": "TÍTULO CAMPEÃO LANÇ. PREMIER // ELT",
 					"ru-RU": "ЗВАНИЕ \"ЧЕМПИОН ЗАПУСКА PREMIER // ЭЛИТА\"",
 					"th-TH": "ฉายา PREMIER LAUNCH CHAMPION // ELT",
 					"tr-TR": "PREMIER ÇIKIŞ ŞAMP. // SÇKN UNVANI",
@@ -227842,7 +228635,7 @@
 					"ja-JP": "PREMIER リリース チャンピオン CTD タイトル",
 					"ko-KR": "프리미어 론치 챔피언 // 최상급 칭호",
 					"pl-PL": "TYTUŁ „BOHATER NA START PREMIER // ZDK”",
-					"pt-BR": "CAMPEÃO LANÇAMENTO PREMIER // DES",
+					"pt-BR": "TÍTULO CAMPEÃO LANÇ. PREMIER // DES",
 					"ru-RU": "ЗВАНИЕ \"ЧЕМПИОН ЗАПУСКА PREMIER // БОЕЦ\"",
 					"th-TH": "ฉายา PREMIER LAUNCH CHAMPION // CTD",
 					"tr-TR": "PREMIER ÇIKIŞ ŞAMP. // TTKÇİ UNVANI",
@@ -227896,7 +228689,7 @@
 					"ja-JP": "PREMIER リリース チャンピオン ADV タイトル",
 					"ko-KR": "프리미어 론치 챔피언 // 중상급 칭호",
 					"pl-PL": "TYTUŁ „BOHATER NA START PREMIER // ZWN”",
-					"pt-BR": "CAMPEÃO LANÇAMENTO PREMIER // AV",
+					"pt-BR": "TÍTULO CAMPEÃO LANÇ. PREMIER // AV",
 					"ru-RU": "ЗВАНИЕ \"ЧЕМПИОН ЗАПУСКА PREMIER // АС\"",
 					"th-TH": "ฉายา PREMIER LAUNCH CHAMPION // ADV",
 					"tr-TR": "PREMIER ÇIKIŞ ŞAMP. // İLR UNVANI",
@@ -227923,7 +228716,7 @@
 					"ja-JP": "PREMIER E7A3 チャンピオン // OPN",
 					"ko-KR": "프리미어 E7A3 챔피언 // 초급",
 					"pl-PL": "BOHATER O7A3 PREMIER // OTW",
-					"pt-BR": "CAMPEÃO PREMIER E7A3 // ABERTA",
+					"pt-BR": "CAMPEÃO PREMIER E7A3 // ABR",
 					"ru-RU": "ЧЕМПИОН Э7А3 PREMIER // ОТКР",
 					"th-TH": "PREMIER E7A3 CHAMPION // OPN",
 					"tr-TR": "PREMIER B7K3 ŞAMP. // AÇK",
@@ -227950,7 +228743,7 @@
 					"ja-JP": "PREMIER E7A3 チャンピオン // OPN タイトル",
 					"ko-KR": "프리미어 E7A3 챔피언 // 초급 칭호",
 					"pl-PL": "TYTUŁ „BOHATER O7A3 PREMIER // OTW”",
-					"pt-BR": "CAMPEÃO PREMIER E7A3 // ABERTA",
+					"pt-BR": "TÍTULO CAMPEÃO PREMIER E7A3 // ABR",
 					"ru-RU": "ЗВАНИЕ \"ЧЕМПИОН Э7А3 PREMIER // ОТКР\"",
 					"th-TH": "ฉายา PREMIER E7A3 CHAMPION // OPN",
 					"tr-TR": "PREMIER B7K3 ŞAMP. // AÇK UNVANI",
@@ -227977,7 +228770,7 @@
 					"ja-JP": "PREMIER E7A3 チャンピオン // INT",
 					"ko-KR": "프리미어 E7A3 챔피언 // 중급",
 					"pl-PL": "BOHATER O7A3 PREMIER // ŚRD",
-					"pt-BR": "CAMPEÃO PREMIER E7A3 // INTERMED.",
+					"pt-BR": "CAMPEÃO PREMIER E7A3 // INT",
 					"ru-RU": "ЧЕМПИОН Э7А3 PREMIER // СРЕД",
 					"th-TH": "PREMIER E7A3 CHAMPION // INT",
 					"tr-TR": "PREMIER B7K3 ŞAMP. // ORT",
@@ -228004,7 +228797,7 @@
 					"ja-JP": "PREMIER E7A3 チャンピオン // INT タイトル",
 					"ko-KR": "프리미어 E7A3 챔피언 // 중급 칭호",
 					"pl-PL": "TYTUŁ „BOHATER O7A3 PREMIER // ŚRD”",
-					"pt-BR": "CAMPEÃO PREMIER E7A3 // INTERMED.",
+					"pt-BR": "TÍTULO CAMPEÃO PREMIER E7A3 // INT",
 					"ru-RU": "ЗВАНИЕ \"ЧЕМПИОН Э7А3 PREMIER // СРЕД\"",
 					"th-TH": "ฉายา PREMIER E7A3 CHAMPION // INT",
 					"tr-TR": "PREMIER B7K3 ŞAMP. // ORT UNVANI",
@@ -228031,7 +228824,7 @@
 					"ja-JP": "PREMIER E7A3 チャンピオン // ELT",
 					"ko-KR": "프리미어 E7A3 챔피언 // 상급",
 					"pl-PL": "BOHATER O7A3 PREMIER // ELT",
-					"pt-BR": "CAMPEÃO PREMIER E7A3 // ELITE",
+					"pt-BR": "CAMPEÃO PREMIER E7A3 // ELT",
 					"ru-RU": "ЧЕМПИОН Э7А3 PREMIER // ЭЛИТА",
 					"th-TH": "PREMIER E7A3 CHAMPION // ELT",
 					"tr-TR": "PREMIER B7K3 ŞAMP. // SÇKN",
@@ -228058,7 +228851,7 @@
 					"ja-JP": "PREMIER E7A3 チャンピオン // ELT タイトル",
 					"ko-KR": "프리미어 E7A3 챔피언 // 상급 칭호",
 					"pl-PL": "TYTUŁ „BOHATER O7A3 PREMIER // ELT”",
-					"pt-BR": "CAMPEÃO PREMIER E7A3 // ELITE",
+					"pt-BR": "CAMPEÃO PREMIER E7A3 // ELT",
 					"ru-RU": "ЗВАНИЕ \"ЧЕМПИОН Э7А3 PREMIER // ЭЛИТА\"",
 					"th-TH": "ฉายา PREMIER E7A3 CHAMPION // ELT",
 					"tr-TR": "PREMIER B7K3 ŞAMP. // SÇKN UNVANI",
@@ -228085,7 +228878,7 @@
 					"ja-JP": "PREMIER E7A3 チャンピオン // CTD",
 					"ko-KR": "프리미어 E7A3 챔피언 // 최상급",
 					"pl-PL": "BOHATER O7A3 PREMIER // ZDK",
-					"pt-BR": "CAMPEÃO PREMIER E7A3 // DESAFIANTE",
+					"pt-BR": "CAMPEÃO PREMIER E7A3 // DES",
 					"ru-RU": "ЧЕМПИОН Э7А3 PREMIER // БОЕЦ",
 					"th-TH": "PREMIER E7A3 CHAMPION // CTD",
 					"tr-TR": "PREMIER B7K3 ŞAMP. // TTKÇİ",
@@ -228112,7 +228905,7 @@
 					"ja-JP": "PREMIER E7A3 チャンピオン // CTD タイトル",
 					"ko-KR": "프리미어 E7A3 챔피언 // 최상급 칭호",
 					"pl-PL": "TYTUŁ „BOHATER O7A3 PREMIER // ZDK”",
-					"pt-BR": "CAMPEÃO PREMIER E7A3 // DESAFIANTE",
+					"pt-BR": "TÍTULO CAMPEÃO PREMIER E7A3 // DES",
 					"ru-RU": "ЗВАНИЕ \"ЧЕМПИОН Э7А3 PREMIER // БОЕЦ\"",
 					"th-TH": "ฉายา PREMIER E7A3 CHAMPION // CTD",
 					"tr-TR": "PREMIER B7K3 ŞAMP. // TTKÇİ UNVANI",
@@ -228139,7 +228932,7 @@
 					"ja-JP": "PREMIER E7A3 チャンピオン // ADV",
 					"ko-KR": "프리미어 E7A3 챔피언 // 중상급",
 					"pl-PL": "BOHATER O7A3 PREMIER // ZWN",
-					"pt-BR": "CAMPEÃO PREMIER E7A3 // AVANÇADA",
+					"pt-BR": "CAMPEÃO PREMIER E7A3 // AV",
 					"ru-RU": "ЧЕМПИОН Э7А3 PREMIER // АС",
 					"th-TH": "PREMIER E7A3 CHAMPION // ADV",
 					"tr-TR": "PREMIER B7K3 ŞAMP. // İLR",
@@ -228166,7 +228959,7 @@
 					"ja-JP": "PREMIER E7A3 チャンピオン // ADV タイトル",
 					"ko-KR": "프리미어 E7A3 챔피언 // 중상급 칭호",
 					"pl-PL": "TYTUŁ „BOHATER O7A3 PREMIER // ZWN”",
-					"pt-BR": "CAMPEÃO PREMIER E7A3 // AVANÇADA",
+					"pt-BR": "TÍTULO CAMPEÃO PREMIER E7A3 // AV",
 					"ru-RU": "ЗВАНИЕ \"ЧЕМПИОН Э7А3 PREMIER // АС\"",
 					"th-TH": "ฉายา PREMIER E7A3 CHAMPION // ADV",
 					"tr-TR": "PREMIER B7K3 ŞAMP. // İLR UNVANI",
@@ -228301,7 +229094,7 @@
 					"ja-JP": "PREMIER E8A1 チャンピオン // ELT",
 					"ko-KR": "프리미어 E8A1 챔피언 // 상급",
 					"pl-PL": "BOHATER O8A1 PREMIER // ELT",
-					"pt-BR": "Campeão Premier E8A1 // Elite",
+					"pt-BR": "Campeão Premier E8A1 // ELT",
 					"ru-RU": "ЧЕМПИОН Э8А1 PREMIER // ЭЛИТА",
 					"th-TH": "PREMIER E8A1 CHAMPION // ELT",
 					"tr-TR": "PREMIER B8K1 ŞAMP. // SÇKN",
@@ -228328,7 +229121,7 @@
 					"ja-JP": "PREMIER E8A1 チャンピオン // ELT タイトル",
 					"ko-KR": "프리미어 E8A1 챔피언 // 상급 칭호",
 					"pl-PL": "Tytuł „BOHATER O8A1 PREMIER // ELT”",
-					"pt-BR": "CAMPEÃO PREMIER E8A1 // ELITE",
+					"pt-BR": "Título CAMPEÃO PREMIER E8A1 // ELT",
 					"ru-RU": "Звание \"ЧЕМПИОН Э8А1 PREMIER // ЭЛИТА\"",
 					"th-TH": "ฉายา PREMIER E8A1 CHAMPION // ELT",
 					"tr-TR": "PREMIER B8K1 ŞAMP. // SÇKN Unvanı",
@@ -228463,7 +229256,7 @@
 					"ja-JP": "PREMIER E8A2 チャンピオン // OPN",
 					"ko-KR": "프리미어 E8A2 챔피언 // 초급",
 					"pl-PL": "BOHATER O8A2 PREMIER // OTW",
-					"pt-BR": "CAMPEÃO PREMIER E8A2 // ABERTA",
+					"pt-BR": "CAMPEÃO PREMIER E8A2 // ABR",
 					"ru-RU": "ЧЕМПИОН Э8А2 PREMIER // ОТКР",
 					"th-TH": "PREMIER E8A2 CHAMPION // OPN",
 					"tr-TR": "PREMIER B8K2 ŞAMP. // AÇK",
@@ -228490,7 +229283,7 @@
 					"ja-JP": "PREMIER E8A2 チャンピオン // OPN タイトル",
 					"ko-KR": "프리미어 E8A2 챔피언 // 초급 칭호",
 					"pl-PL": "Tytuł „BOHATER O8A2 PREMIER // OTW”",
-					"pt-BR": "CAMPEÃO PREMIER E8A2 // ABERTA",
+					"pt-BR": "Título CAMPEÃO PREMIER E8A2 // ABR",
 					"ru-RU": "Звание \"ЧЕМПИОН Э8А2 PREMIER // ОТКР\"",
 					"th-TH": "ฉายา PREMIER E8A2 CHAMPION // OPN",
 					"tr-TR": "PREMIER B8K2 ŞAMP. // AÇK Unvanı",
@@ -228517,7 +229310,7 @@
 					"ja-JP": "PREMIER E8A2 チャンピオン // INT",
 					"ko-KR": "프리미어 E8A2 챔피언 // 중급",
 					"pl-PL": "BOHATER O8A2 PREMIER // ŚRD",
-					"pt-BR": "CAMPEÃO PREMIER E8A2 // INTERMED.",
+					"pt-BR": "CAMPEÃO PREMIER E8A2 // INT",
 					"ru-RU": "ЧЕМПИОН Э8А2 PREMIER // СРЕД",
 					"th-TH": "PREMIER E8A2 CHAMPION // INT",
 					"tr-TR": "PREMIER B8K2 ŞAMP. // ORT",
@@ -228544,7 +229337,7 @@
 					"ja-JP": "PREMIER E8A2 チャンピオン // INT タイトル",
 					"ko-KR": "프리미어 E8A2 챔피언 // 중급 칭호",
 					"pl-PL": "Tytuł „BOHATER O8A2 PREMIER // ŚRD”",
-					"pt-BR": "CAMPEÃO PREMIER E8A2 // INTERMED.",
+					"pt-BR": "Título CAMPEÃO PREMIER E8A2 // INT",
 					"ru-RU": "Звание \"ЧЕМПИОН Э8А2 PREMIER // СРЕД\"",
 					"th-TH": "ฉายา PREMIER E8A2 CHAMPION // INT",
 					"tr-TR": "PREMIER B8K2 ŞAMP. // ORT Unvanı",
@@ -228571,7 +229364,7 @@
 					"ja-JP": "PREMIER E8A2 チャンピオン // ELT",
 					"ko-KR": "프리미어 E8A2 챔피언 // 상급",
 					"pl-PL": "BOHATER O8A2 PREMIER // ELT",
-					"pt-BR": "CAMPEÃO PREMIER E8A2 // ELITE",
+					"pt-BR": "CAMPEÃO PREMIER E8A2 // ELT",
 					"ru-RU": "ЧЕМПИОН Э8А2 PREMIER // ЭЛИТА",
 					"th-TH": "PREMIER E8A2 CHAMPION // ELT",
 					"tr-TR": "PREMIER B8K2 ŞAMP. // SÇKN",
@@ -228598,7 +229391,7 @@
 					"ja-JP": "PREMIER E8A2 チャンピオン // ELT タイトル",
 					"ko-KR": "프리미어 E8A2 챔피언 // 상급 칭호",
 					"pl-PL": "Tytuł „BOHATER O8A2 PREMIER // ELT”",
-					"pt-BR": "CAMPEÃO PREMIER E8A2 // ELITE",
+					"pt-BR": "Título CAMPEÃO PREMIER E8A2 // ELT",
 					"ru-RU": "Звание \"ЧЕМПИОН Э8А2 PREMIER // ЭЛИТА\"",
 					"th-TH": "ฉายา PREMIER E8A2 CHAMPION // ELT",
 					"tr-TR": "PREMIER B8K2 ŞAMP. // SÇKN Unvanı",
@@ -228625,7 +229418,7 @@
 					"ja-JP": "PREMIER E8A2 チャンピオン // CTD",
 					"ko-KR": "프리미어 E8A2 챔피언 // 최상급",
 					"pl-PL": "BOHATER O8A2 PREMIER // ZDK",
-					"pt-BR": "CAMPEÃO PREMIER E8A2 // DESAFIANTE",
+					"pt-BR": "CAMPEÃO PREMIER E8A2 // DES",
 					"ru-RU": "ЧЕМПИОН Э8А2 PREMIER // БОЕЦ",
 					"th-TH": "PREMIER E8A2 CHAMPION // CTD",
 					"tr-TR": "PREMIER B8K2 ŞAMP. // TTKÇİ",
@@ -228652,7 +229445,7 @@
 					"ja-JP": "PREMIER E8A2 チャンピオン // CTD タイトル",
 					"ko-KR": "프리미어 E8A2 챔피언 // 최상급 칭호",
 					"pl-PL": "Tytuł „BOHATER O8A2 PREMIER // ZDK”",
-					"pt-BR": "CAMPEÃO PREMIER E8A2 // DESAFIANTE",
+					"pt-BR": "Título CAMPEÃO PREMIER E8A2 // DES",
 					"ru-RU": "Звание \"ЧЕМПИОН Э8А2 PREMIER // БОЕЦ\"",
 					"th-TH": "ฉายา PREMIER E8A2 CHAMPION // CTD",
 					"tr-TR": "PREMIER B8K2 ŞAMP. // TTKÇİ Unvanı",
@@ -228679,7 +229472,7 @@
 					"ja-JP": "PREMIER E8A2 チャンピオン // ADV",
 					"ko-KR": "프리미어 E8A2 챔피언 // 중상급",
 					"pl-PL": "BOHATER O8A2 PREMIER // ZWN",
-					"pt-BR": "CAMPEÃO PREMIER E8A2 // AVANÇADA",
+					"pt-BR": "CAMPEÃO PREMIER E8A2 // AV",
 					"ru-RU": "ЧЕМПИОН Э8А2 PREMIER // АС",
 					"th-TH": "PREMIER E8A2 CHAMPION // ADV",
 					"tr-TR": "PREMIER B8K2 ŞAMP. // İLR",
@@ -228706,7 +229499,7 @@
 					"ja-JP": "PREMIER E8A2 チャンピオン // ADV タイトル",
 					"ko-KR": "프리미어 E8A2 챔피언 // 중상급 칭호",
 					"pl-PL": "Tytuł „BOHATER O8A2 PREMIER // ZWN”",
-					"pt-BR": "CAMPEÃO PREMIER E8A2 // AVANÇADA",
+					"pt-BR": "Título CAMPEÃO PREMIER E8A2 // AV",
 					"ru-RU": "Звание \"ЧЕМПИОН Э8А2 PREMIER // АС\"",
 					"th-TH": "ฉายา PREMIER E8A2 CHAMPION // ADV",
 					"tr-TR": "PREMIER B8K2 ŞAMP. // İLR Unvanı",
@@ -258354,7 +259147,7 @@
 					"ja-JP": "PREMIER E7A3 チャンピオン // ADV バディー",
 					"ko-KR": "프리미어 E7A3 챔피언 // 중상급 총기 장식",
 					"pl-PL": "PRZYWIESZKA „BOHATER O7A3 PREMIER // ZWN”",
-					"pt-BR": "CAMPEÃO PREMIER E7A3 // AVANÇADA",
+					"pt-BR": "CHAVEIRO CAMPEÃO PREMIER E7A3 // AV",
 					"ru-RU": "БРЕЛОК \"ЧЕМПИОН Э7А3 PREMIER // АС\"",
 					"th-TH": "บัดดี้ PREMIER E7A3 CHAMPION // ADV",
 					"tr-TR": "PREMIER B7K3 ŞAMPİYONU // İLR DZY UĞURU",
@@ -258414,7 +259207,7 @@
 					"ja-JP": "PREMIER E7A3 チャンピオン // CTD バディー",
 					"ko-KR": "프리미어 E7A3 챔피언 // 최상급 총기 장식",
 					"pl-PL": "PRZYWIESZKA „BOHATER O7A3 PREMIER // ZDK”",
-					"pt-BR": "CAMPEÃO PREMIER E7A3 // DESAFIANTE",
+					"pt-BR": "CHAVEIRO CAMPEÃO PREMIER E7A3 // DES",
 					"ru-RU": "БРЕЛОК \"ЧЕМПИОН Э7А3 PREMIER // БОЕЦ\"",
 					"th-TH": "บัดดี้ PREMIER E7A3 CHAMPION // CTD",
 					"tr-TR": "PREMIER B7K3 ŞAMPİYONU // TTKÇİ UĞURU",
@@ -258474,7 +259267,7 @@
 					"ja-JP": "PREMIER E7A3 チャンピオン // ELT バディー ",
 					"ko-KR": "프리미어 E7A3 챔피언 // 상급 총기 장식 ",
 					"pl-PL": "PRZYWIESZKA „BOHATER O7A3 PREMIER // ELT” ",
-					"pt-BR": "CAMPEÃO PREMIER E7A3 // ELITE",
+					"pt-BR": "CHAVEIRO CAMPEÃO PREMIER E7A3 // ELT",
 					"ru-RU": "БРЕЛОК \"ЧЕМПИОН Э7А3 PREMIER // ЭЛИТА\" ",
 					"th-TH": "บัดดี้ PREMIER E7A3 CHAMPION // ELT",
 					"tr-TR": "PREMIER B7K3 ŞAMPİYONU // SÇKN DZY UĞURU ",
@@ -258534,7 +259327,7 @@
 					"ja-JP": "PREMIER E7A3 チャンピオン // INT バディー",
 					"ko-KR": "프리미어 E7A3 챔피언 // 중급 총기 장식",
 					"pl-PL": "PRZYWIESZKA „BOHATER O7A3 PREMIER // ŚRD”",
-					"pt-BR": "CAMPEÃO PREMIER E7A3 // INTERMED.",
+					"pt-BR": "CHAVEIRO CAMPEÃO PREMIER E7A3 // INT",
 					"ru-RU": "БРЕЛОК \"ЧЕМПИОН Э7А3 PREMIER // СРЕД\"",
 					"th-TH": "บัดดี้ PREMIER E7A3 CHAMPION // INT",
 					"tr-TR": "PREMIER B7K3 ŞAMPİYONU // ORT DZY UĞURU",
@@ -258594,7 +259387,7 @@
 					"ja-JP": "PREMIER E7A3 チャンピオン // OPN バディー",
 					"ko-KR": "프리미어 E7A3 챔피언 // 초급 총기 장식",
 					"pl-PL": "PRZYWIESZKA „BOHATER O7A3 PREMIER // OTW”",
-					"pt-BR": "CAMPEÃO PREMIER E7A3 // ABERTA",
+					"pt-BR": "CHAVEIRO CAMPEÃO PREMIER E7A3 // ABR",
 					"ru-RU": "БРЕЛОК \"ЧЕМПИОН Э7А3 PREMIER // ОТКР\"",
 					"th-TH": "บัดดี้ PREMIER E7A3 CHAMPION // OPN",
 					"tr-TR": "PREMIER B7K3 ŞAMPİYONU // AÇK UĞURU",
@@ -258654,7 +259447,7 @@
 					"ja-JP": "Premier リリース チャンピオン // Adv バディー",
 					"ko-KR": "프리미어 론치 챔피언 // 중상급 총기 장식",
 					"pl-PL": "Przywieszka „Bohater na start Premier // Zwn”",
-					"pt-BR": "Campeão Lançamento Premier // Av.",
+					"pt-BR": "Chav. Campeão Lanç. Premier // AV",
 					"ru-RU": "Брелок \"Чемпион Запуска Premier // Ас\"",
 					"th-TH": "บัดดี้ Premier Launch Champion // Adv",
 					"tr-TR": "Premier Çıkış Şampiyonu // İlr Dzy Uğuru",
@@ -258714,7 +259507,7 @@
 					"ja-JP": "Premier リリース チャンピオン // Ctd バディー",
 					"ko-KR": "프리미어 론치 챔피언 // 최상급 총기 장식",
 					"pl-PL": "Przywieszka „Bohater na start Premier // – Zdk”",
-					"pt-BR": "Campeão Lançamento Premier // Des",
+					"pt-BR": "Chav. Campeão Lanç. Premier // DES",
 					"ru-RU": "Брелок \"Чемпион Запуска Premier // Боец\"",
 					"th-TH": "บัดดี้ Premier Launch Champion // Ctd",
 					"tr-TR": "Premier Çıkış Şampiyonu // Ttkçi Uğuru",
@@ -258774,7 +259567,7 @@
 					"ja-JP": "Premier リリース チャンピオン // Elt バディー ",
 					"ko-KR": "프리미어 론치 챔피언 // 상급 총기 장식",
 					"pl-PL": "Przywieszka „Bohater na start Premier // Elt” ",
-					"pt-BR": "Campeão Lançamento Premier // Elite",
+					"pt-BR": "Chav. Campeão Lanç. Premier // ELT",
 					"ru-RU": "Брелок \"Чемпион Запуска Premier // Элита\"",
 					"th-TH": "บัดดี้ Premier Launch Champion // Elt",
 					"tr-TR": "Premier Çıkış Şampiyonu // Sçkn Dzy Uğuru ",
@@ -258834,7 +259627,7 @@
 					"ja-JP": "Premier リリース チャンピオン // Int バディー",
 					"ko-KR": "프리미어 론치 챔피언 // 중급 총기 장식",
 					"pl-PL": "Przywieszka „Bohater na start Premier // Śrd”",
-					"pt-BR": "Campeão Lançamento Premier // Int",
+					"pt-BR": "Chav. Campeão Lanç. Premier // INT",
 					"ru-RU": "Брелок \"Чемпион Запуска Premier // Сред\"",
 					"th-TH": "บัดดี้ Premier Launch Champion // Int",
 					"tr-TR": "Premier Çıkış Şampiyonu // Ort Dzy Uğuru",
@@ -258894,7 +259687,7 @@
 					"ja-JP": "Premier リリース チャンピオン // Opn バディー",
 					"ko-KR": "프리미어 론치 챔피언 // 초급 총기 장식",
 					"pl-PL": "Przywieszka „Bohater na start Premier // Otw”",
-					"pt-BR": "Campeão Lançamento Premier // Abt",
+					"pt-BR": "Chav. Campeão Lanç. Premier // ABR",
 					"ru-RU": "Брелок \"Чемпион Запуска Premier // Откр\"",
 					"th-TH": "บัดดี้ Premier Launch Champion // Opn",
 					"tr-TR": "Premier Çıkış Şampiyonu // Açk Uğuru",
@@ -259074,7 +259867,7 @@
 					"ja-JP": "PREMIER E8A1 チャンピオン // ELT バディー",
 					"ko-KR": "프리미어 E8A1 챔피언 // 상급 총기 장식",
 					"pl-PL": "Przywieszka „BOHATER O8A1 PREMIER // ELT”",
-					"pt-BR": "CAMPEÃO PREMIER E8A1 // ELITE",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER E8A1 // ELT",
 					"ru-RU": "Брелок \"ЧЕМПИОН Э8А1 PREMIER // ЭЛИТА\"",
 					"th-TH": "บัดดี้ PREMIER E8A1 CHAMPION // ELT",
 					"tr-TR": "PREMIER B8K1 ŞAMPİYONU // SÇKN DZY Uğuru",
@@ -259254,7 +260047,7 @@
 					"ja-JP": "PREMIER E8A2 チャンピオン // ADV バディー",
 					"ko-KR": "프리미어 E8A2 챔피언 // 중상급 총기 장식",
 					"pl-PL": "Przywieszka „BOHATER O8A2 PREMIER // ZWN”",
-					"pt-BR": "CAMPEÃO PREMIER E8A2 // AVANÇADA",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER E8A2 // AV",
 					"ru-RU": "Брелок \"ЧЕМПИОН Э8А2 PREMIER // АС\"",
 					"th-TH": "บัดดี้ PREMIER E8A2 CHAMPION // ADV",
 					"tr-TR": "PREMIER B8K2 ŞAMPİYONU // İLR DZY Uğuru",
@@ -259314,7 +260107,7 @@
 					"ja-JP": "PREMIER E8A2 チャンピオン // CTD バディー",
 					"ko-KR": "프리미어 E8A2 챔피언 // 최상급 총기 장식",
 					"pl-PL": "Przywieszka „BOHATER O8A2 PREMIER // ZDK”",
-					"pt-BR": "CAMPEÃO PREMIER E8A2 // DESAFIANTE",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER E8A2 // DES",
 					"ru-RU": "Брелок \"ЧЕМПИОН Э8А2 PREMIER // БОЕЦ\"",
 					"th-TH": "บัดดี้ PREMIER E8A2 CHAMPION // CTD",
 					"tr-TR": "PREMIER B8K2 ŞAMPİYONU // TTKÇİ Uğuru",
@@ -259374,7 +260167,7 @@
 					"ja-JP": "PREMIER E8A2 チャンピオン // ELT バディー",
 					"ko-KR": "프리미어 E8A2 챔피언 // 상급 총기 장식",
 					"pl-PL": "Przywieszka „BOHATER O8A2 PREMIER // ELT”",
-					"pt-BR": "CAMPEÃO PREMIER E8A2 // ELITE",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER E8A2 // ELT",
 					"ru-RU": "Брелок \"ЧЕМПИОН Э8А2 PREMIER // ЭЛИТА\"",
 					"th-TH": "บัดดี้ PREMIER E8A2 CHAMPION // ELT",
 					"tr-TR": "PREMIER B8K2 ŞAMPİYONU // SÇKN DZY Uğuru",
@@ -259434,7 +260227,7 @@
 					"ja-JP": "PREMIER E8A2 チャンピオン // INT バディー",
 					"ko-KR": "프리미어 E8A2 챔피언 // 중급 총기 장식",
 					"pl-PL": "Przywieszka „BOHATER O8A2 PREMIER // ŚRD”",
-					"pt-BR": "CAMPEÃO PREMIER E8A2 // INTERMED.",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER E8A2 // INT",
 					"ru-RU": "Брелок \"ЧЕМПИОН Э8А2 PREMIER // СРЕД\"",
 					"th-TH": "บัดดี้ PREMIER E8A2 CHAMPION // INT",
 					"tr-TR": "PREMIER B8K2 ŞAMPİYONU // ORT DZY Uğuru",
@@ -259494,7 +260287,7 @@
 					"ja-JP": "PREMIER E8A2 チャンピオン // OPN バディー",
 					"ko-KR": "프리미어 E8A2 챔피언 // 초급 총기 장식",
 					"pl-PL": "Przywieszka „BOHATER O8A2 PREMIER // OTW”",
-					"pt-BR": "CAMPEÃO PREMIER E8A2 // ABERTA",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER E8A2 // ABR",
 					"ru-RU": "Брелок \"ЧЕМПИОН Э8А2 PREMIER // ОТКР\"",
 					"th-TH": "บัดดี้ PREMIER E8A2 CHAMPION // OPN",
 					"tr-TR": "PREMIER B8K2 ŞAMPİYONU // AÇK Uğuru",
@@ -294990,7 +295783,7 @@
 							"pt-BR": "Spray Imortalizados",
 							"ru-RU": "Граффити \"Бессмертие\"",
 							"th-TH": "สเปรย์ Immortalized",
-							"tr-TR": "Ebedi Sprey",
+							"tr-TR": "Ebedi Spreyi",
 							"vi-VN": "Hình Phun Sơn Trường Tồn",
 							"zh-CN": "电光霓虹 喷漆",
 							"zh-TW": "千古不滅 塗鴉"
@@ -295019,7 +295812,7 @@
 					"pt-BR": "Spray Imortalizados",
 					"ru-RU": "Граффити \"Бессмертие\"",
 					"th-TH": "สเปรย์ Immortalized",
-					"tr-TR": "Ebedi Sprey",
+					"tr-TR": "Ebedi Spreyi",
 					"vi-VN": "Hình Phun Sơn Trường Tồn",
 					"zh-CN": "电光霓虹 喷漆",
 					"zh-TW": "千古不滅 塗鴉"
@@ -299131,7 +299924,7 @@
 							"ru-RU": "Граффити \"Я таю!\"",
 							"th-TH": "สเปรย์ I'm Melting",
 							"tr-TR": "Eridim Spreyi",
-							"vi-VN": "Hình Phun Sơn Tan Chảy",
+							"vi-VN": "Hình Phun Sơn Đốn Tim",
 							"zh-CN": "我融化了 喷漆",
 							"zh-TW": "我融化了 塗鴉"
 						}
@@ -299160,7 +299953,7 @@
 					"ru-RU": "Граффити \"Я таю!\"",
 					"th-TH": "สเปรย์ I'm Melting",
 					"tr-TR": "Eridim Spreyi",
-					"vi-VN": "Hình Phun Sơn Tan Chảy",
+					"vi-VN": "Hình Phun Sơn Đốn Tim",
 					"zh-CN": "我融化了 喷漆",
 					"zh-TW": "我融化了 塗鴉"
 				}
@@ -314742,25 +315535,25 @@
 			"label": "FB665ED3-4575-0C99-F228-519B0D42C8D4",
 			"name":
 			{
-				"defaultText": "It’s You and Me Spray",
+				"defaultText": "It's You and Me Spray",
 				"localizedByCulture":
 				{
 					"ar-AE": "رسمة الأمر بيني وبينك",
 					"de-DE": "Graffiti „Nur du und ich“",
-					"en-US": "It’s You and Me Spray",
+					"en-US": "It's You and Me Spray",
 					"es-ES": "Grafiti Somos tú y yo",
 					"es-MX": "Spray Somos Tú y Yo",
 					"fr-FR": "Graffiti C'est entre toi et moi",
-					"id-ID": "Spray It’s You and Me",
-					"it-IT": "Spray Io e te",
+					"id-ID": "Spray It's You and Me",
+					"it-IT": "Spray Siamo io e te",
 					"ja-JP": "俺と勝負だ スプレー",
 					"ko-KR": "네 상대는 나다 스프레이",
 					"pl-PL": "Graffiti „To ja i ty”",
 					"pt-BR": "Spray Só Eu e Você Agora",
 					"ru-RU": "Граффити \"Только ты и я\"",
-					"th-TH": "สเปรย์ It’s You and Me",
+					"th-TH": "สเปรย์ It's You and Me",
 					"tr-TR": "Şimdi Baş Başayız Spreyi",
-					"vi-VN": "Hình Phun Sơn Tôi Làm Được",
+					"vi-VN": "Hình Phun Sơn Chỉ Có Hai Ta",
 					"zh-CN": "就你和我 喷漆",
 					"zh-TW": "對決時間 塗鴉"
 				}
@@ -321303,6 +322096,66 @@
 					"vi-VN": "Hình Phun Sơn Prelude to Chaos, V25",
 					"zh-CN": "混沌序曲//2.0 V25 喷漆",
 					"zh-TW": "混沌序幕 V25 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "F9ACE16D-4BDF-4A31-1CD1-EC84EFD8BAF2",
+					"label": "F9ACE16D-4BDF-4A31-1CD1-EC84EFD8BAF2",
+					"name":
+					{
+						"defaultText": "Digipets",
+						"localizedByCulture":
+						{
+							"ar-AE": "Digipets",
+							"de-DE": "Digipets",
+							"en-US": "Digipets",
+							"es-ES": "Digipets",
+							"es-MX": "Digipets",
+							"fr-FR": "Digipets",
+							"id-ID": "Digipets",
+							"it-IT": "Digipets",
+							"ja-JP": "Digipets",
+							"ko-KR": "Digipets",
+							"pl-PL": "Digipets",
+							"pt-BR": "Digipets",
+							"ru-RU": "Digipets",
+							"th-TH": "Digipets",
+							"tr-TR": "Digipets",
+							"vi-VN": "Digipets",
+							"zh-CN": "Digipets",
+							"zh-TW": "Digipets"
+						}
+					}
+				}
+			],
+			"id": "372A8223-46FF-5B79-B602-41A68257EE68",
+			"label": "372A8223-46FF-5B79-B602-41A68257EE68",
+			"name":
+			{
+				"defaultText": "Nanomight Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة قوة النانو",
+					"de-DE": "Graffiti „Nanomacht“",
+					"en-US": "Nanomight Spray",
+					"es-ES": "Grafiti Nanomight",
+					"es-MX": "Spray Nanopoder",
+					"fr-FR": "Graffiti Nanomight",
+					"id-ID": "Spray Nanomight",
+					"it-IT": "Spray Nanopotenza",
+					"ja-JP": "ナノマイト スプレー",
+					"ko-KR": "나노마이트 스프레이",
+					"pl-PL": "Graffiti „Nanopotęga”",
+					"pt-BR": "Spray Nanopoder",
+					"ru-RU": "Граффити \"Наномощь\"",
+					"th-TH": "สเปรย์ Nanomight",
+					"tr-TR": "Nanogüç Spreyi",
+					"vi-VN": "Hình Phun Sơn Nanomight",
+					"zh-CN": "纳米奇宝 喷漆",
+					"zh-TW": "奈米威能 塗鴉"
 				}
 			}
 		},
@@ -331447,7 +332300,7 @@
 					"th-TH": "Swiftplay คิวชั่วคราวนี้จะจับคู่คุณเพื่อให้เล่นในแผนที่ใหม่เท่านั้น",
 					"tr-TR": "Tam Gaz. Bu geçici sıra, seni sadece yeni haritadaki karşılaşmalara dahil edecek.",
 					"vi-VN": "Siêu Tốc. Hàng chờ tạm thời này sẽ chỉ sử dụng bản đồ mới khi ghép trận.",
-					"zh-CN": "极速模式。此临时队列仅会为你匹配新地图比赛。",
+					"zh-CN": "极速模式。此临时匹配队列仅会为你匹配新地图比赛。",
 					"zh-TW": "超速衝點。在這個暫時的列隊中，你只會被分配到新地圖。"
 				}
 			},
@@ -331825,7 +332678,7 @@
 					"th-TH": "Swiftplay คิวชั่วคราวนี้จะจับคู่คุณเพื่อให้เล่นในแผนที่ใหม่เท่านั้น",
 					"tr-TR": "Tam Gaz. Bu geçici sıra, seni sadece yeni haritadaki karşılaşmalara dahil edecek.",
 					"vi-VN": "Siêu Tốc. Hàng chờ tạm thời này sẽ chỉ sử dụng bản đồ mới khi ghép trận.",
-					"zh-CN": "极速模式。此临时队列仅会为你匹配新地图比赛。",
+					"zh-CN": "极速模式。此临时匹配队列仅会为你匹配新地图比赛。",
 					"zh-TW": "超速衝點。在這個暫時的列隊中，你只會被分配到新地圖。"
 				}
 			},
