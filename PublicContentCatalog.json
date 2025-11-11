@@ -1,5 +1,5 @@
 {
-	"version": "11.09.00.3920876",
+	"version": "11.10.00.4002057",
 	"characters": [
 		{
 			"description":
@@ -2288,7 +2288,7 @@
 							"pt-BR": "EQUIPE um amuleto de falcão. DISPARE para enviá-lo. SEGURE O DISPARO para guiar o falcão na direção da sua mira. REPITA a habilidade enquanto ele estiver voando para transformá-lo em um clarão que alcança a potência máxima depois de um curto período durante o voo.",
 							"ru-RU": "Выбирает фигурку ястреба. Нажмите кнопку ОГОНЬ, чтобы послать ястреба вперед. Удерживайте кнопку ОГОНЬ, чтобы ястреб летел в направлении вашего прицела. Во время полета птицы используйте умение снова, чтобы ястреб превратился в ослепляющую вспышку. Вспышка набирает полную силу вскоре после начала полета ястреба.",
 							"th-TH": "ติดตั้งเครื่องประดับเหยี่ยว กดยิงเพื่อปล่อยเหยี่ยวออกไปข้างหน้า กดยิงค้างไว้เพื่อนำทางเหยี่ยวตามรัศมีเป้าเล็งของคุณ กดใช้งานอีกครั้งในขณะที่เหยี่ยวยังคงบินอยู่เพื่อแปลงร่างมันเป็นแฟลช แฟลชจะเพิ่มประสิทธิภาพสูงสุดหลังจากที่เหยี่ยวบินออกไปเป็นเวลาสั้น ๆ",
-							"tr-TR": "Bir şahin figürü KUŞAN. Şahini ileri göndermek için ATEŞ ET. Şahini nişangâhının baktığı tarafa yöneltmek için ATEŞ KOMUTUNU BASILI TUT. Şahini havada uçarken kör edici bir bombaya çevirmek için yeteneği TEKRAR KULLAN. Şahinin uçuşu başladıktan kısa bir süre sonra Kör etme maksimum potansiyeline ulaşır.",
+							"tr-TR": "Bir şahin figürü KUŞAN. Şahini ileri göndermek için ATEŞ ET. Şahini nişangâhının baktığı tarafa yöneltmek için ATEŞ DÜĞMESİNİ BASILI TUT. Şahini havada uçarken Kör Edici bir bombaya çevirmek için yeteneği TEKRAR KULLAN. Şahinin uçuşu başladıktan kısa bir süre sonra Kör Etme maksimum potansiyeline ulaşır.",
 							"vi-VN": "TRANG BỊ 1 tinh linh chim ưng. BẮN để phóng nó ra trước. GIỮ BẮN để điều khiển chim ưng theo hướng tâm ngắm. KÍCH HOẠT LẠI khi chim ưng đang bay sẽ biến đổi nó thành một pháo mù. Độ mạnh của pháo mù đạt tối đa sau khi chim ưng đã bay được một khoảng ngắn.",
 							"zh-CN": "装备飞鹰雕饰，按【射击】将其放出。【按住射击】可以让飞鹰向准星的方向转弯，【再次按技能键】可以让飞鹰化作闪光弹。闪光弹在飞鹰飞行一小段时间后即可达到最大效能。",
 							"zh-TW": "裝備一個飛鷹雕飾。點擊「攻擊」，即可向前放出飛鷹。長按「攻擊」，可讓飛鷹隨著畫面上十字準星的方向轉彎。在飛行時「重施技能」，可將飛鷹化為一道閃光致盲敵人。飛鷹飛行一小段時間後，閃光就會達到最大效果。"
@@ -2342,7 +2342,7 @@
 							"pt-BR": "EQUIPE um amuleto de cura. SEGURE O DISPARO para canalizar, curando aliados dentro do alcance e na sua linha de visão. Esta habilidade pode ser REPETIDA até a reserva de cura ser esgotada. Skye não pode curar a si mesma.",
 							"ru-RU": "Выбирает исцеляющую фигурку. Удерживайте кнопку ОГОНЬ, чтобы лечить союзников в зоне видимости и действия. Можно использовать снова, пока весь запас лечения не израсходуется. Skye не может лечить себя.",
 							"th-TH": "ติดตั้งเครื่องประดับฮีล กดยิงค้างไว้เพื่อร่าย ฮีลพันธมิตรในระยะและรัศมีการมองเห็น สามารถใช้ซ้ำได้จนกว่าการฮีลของเธอจะหมดลง Skye ไม่สามารถฮีลตนเองได้",
-							"tr-TR": "İyileştiren bir figür KUŞAN. Şifa gücünü odaklayarak menzil içinde ve görüş hattındaki takım arkadaşlarını İyileştirmek için ATEŞ KOMUTUNU BASILI TUT. Bu yetenek, şifa gücü tamamen tükenene kadar birden fazla kez kullanılabilir. Skye kendini iyileştiremez.",
+							"tr-TR": "İyileştiren bir figür KUŞAN. Şifa gücünü odaklayarak menzil içinde ve görüş hattındaki takım arkadaşlarını İyileştirmek için ATEŞ DÜĞMESİNİ BASILI TUT. Bu yetenek, şifa gücü tamamen tükenene kadar birden fazla kez kullanılabilir. Skye kendini iyileştiremez.",
 							"vi-VN": "TRANG BỊ 1 lưu vật hồi phục. GIỮ BẮN để vận sức, Hồi Máu cho tất cả đồng minh trong phạm vi và ở trong tầm nhìn. Có thể tái sử dụng cho đến khi hết khả năng hồi phục. Skye không thể hồi máu cho bản thân.",
 							"zh-CN": "装备治疗雕饰，【按住射击】开始输出，【治疗】技能范围内且在视线内的队友。在治疗池耗尽前，此技能可重复使用。斯凯无法治疗自己。",
 							"zh-TW": "裝備一個治療雕飾。長按「攻擊」即可開始施法，「治療」範圍和視野內的友軍，在治療能量條用完前可重複施放。絲凱無法治療自己。"
@@ -3363,138 +3363,30 @@
 				{
 					"description":
 					{
-						"defaultText": "EQUIP a sphere of shielding water. FIRE to throw. ALT FIRE to lob. Upon impacting the ground, spawn a destructible water shield that blocks bullets.",
+						"defaultText": "EQUIP High Tide. FIRE to send water forward along the ground. HOLD FIRE to guide the water towards your crosshair spawning a vision blocking Screen along the path. ALT FIRE to stop the water early. All players crossing High Tide are Slowed.",
 						"localizedByCulture":
 						{
-							"ar-AE": "تجهّز بكرة من الماء للتدريع. أطلق لرميها. استخدم الإطلاق البديل للإلقاء المقوس. عند ارتطامها بالأرض، يتولد درع مائي قابل للتدمير يصد الطلقات.",
-							"de-DE": "RÜSTE eine schützende Wasserkugel AUS. FEUERE, um sie zu werfen. ALT. FEUERMODUS für einen Unterhandwurf. Bei Bodenkontakt wird ein zerstörbarer Wasserschild erschaffen, der Kugeln abfängt.",
-							"en-US": "EQUIP a sphere of shielding water. FIRE to throw. ALT FIRE to lob. Upon impacting the ground, spawn a destructible water shield that blocks bullets.",
-							"es-ES": "EQUIPA una esfera de agua protectora. DISPARA para lanzarla. Utiliza el DISPARO ALTERNATIVO para tirarla. Al impactar contra el suelo, genera un escudo de agua destructible que bloquea las balas.",
-							"es-MX": "EQUIPA una esfera de agua protectora. DISPARA para lanzarla. Usa el DISPARO SECUNDARIO para lanzarla por debajo. Al impactar contra el suelo, genera un escudo de agua destructible que bloquea balas.",
-							"fr-FR": "ÉQUIPEZ-vous d'une boule d'eau. TIREZ pour la lancer. Utilisez le TIR SECONDAIRE pour la lancer en cloche. Au contact du sol, la boule crée un bouclier aqueux destructible capable d'arrêter les balles.",
-							"id-ID": "EQUIP bola air pelindung. Tekan FIRE untuk melempar. Tekan ALT FIRE untuk melempar tinggi. Setelah membentur daratan, bola tersebut akan menghasilkan shield air yang menghalangi peluru. Shield dapat dihancurkan.",
-							"it-IT": "EQUIPAGGIA una sfera di acqua protettiva. Usa il FUOCO per lanciarla. Usa il FUOCO ALTERNATIVO per lanciarla dal basso verso l'alto. All'impatto con il terreno, la sfera genera uno scudo d'acqua distruttibile che blocca i proiettili.",
-							"ja-JP": "シールドを発生させる球状の水を構え、「発射」で前方に投げる。「オルト射撃」では軽く放る。地面に当たると、弾丸を防ぐ水のシールドが展開される。このシールドは破壊可能である。",
-							"ko-KR": "방어용 물 구체를 장착합니다. 발사하면 투척합니다. 보조 공격 시 가깝게 투척합니다. 땅에 닿으면 탄환을 막는 파괴 가능한 물의 보호막이 생성됩니다.",
-							"pl-PL": "UŻYJ wodnej tarczy. STRZEL, by rzucić. Naciśnij ALT. STRZAŁ, by cisnąć. Po uderzeniu w ziemię tworzy możliwą do zniszczenia wodną tarczę, która blokuje pociski.",
-							"pt-BR": "EQUIPE uma esfera de água defensiva. DISPARE para jogá-la. Use o DISPARO ALTERNATIVO para arremessar a curta distância. Ao atingir o solo, invoque um escudo de água destrutível que bloqueia balas.",
-							"ru-RU": "Выбирает защитную водяную сферу. Нажмите ОГОНЬ для обычного броска или АЛЬТ. ОГОНЬ для броска снизу. Столкнувшись с землей, сфера создает разрушаемый водяной щит, блокирующий пули.",
-							"th-TH": "ติดตั้งลูกบอลสายน้ำแห่งการปกปักษ์ กดยิงเพื่อขว้าง กดโหมดยิงเสริมเพื่อโยนออกไปในระยะสั้น ๆ เมื่อกระทบกับพื้น จะสร้างโล่สายน้ำป้องกันกระสุนที่สามารถทำลายได้ขึ้นมา",
-							"tr-TR": "Kalkan görevi gören bir su küresi KUŞAN. Fırlatmak için ATEŞ ET. Yavaşça fırlatmak için ALT. ATIŞ kullan. Küre yere temas edince mermileri engelleyen ve yok edilebilen bir su kalkanı ortaya çıkar.",
-							"vi-VN": "TRANG BỊ 1 quả cầu thủy khiên. BẮN để ném. BẮN PHỤ để ném cao. Khi chạm đất, tạo ra một lớp khiên nước có thể bị phá hủy và có khả năng chặn đường đạn.",
-							"zh-CN": "装备一颗护盾水球，按【射击】将其掷出，按【辅助射击】可轻抛。在水球撞击地面后，会生成一道阻挡子弹的水盾，过量伤害可以击破水盾。",
-							"zh-TW": "裝備一個防彈水球。點擊「攻擊」即可投出。點擊「輔助攻擊」可低手拋出。水球接觸到地面時，會生成一道可破壞的水製護盾，可以擋下子彈。"
+							"ar-AE": "تجهّز بالمد العالي. أطلق لإرسال الماء إلى الأمام على مستوى الأرض. تابع الضغط على زر الإطلاق لتوجيه الماء نحو مؤشر التصويب، حيث يتولّد حاجز يحجب الرؤية على طول المسار. استخدم الإطلاق البديل لإيقاف الماء مبكرًا. يتعرّض جميع اللاعبين الذين يعبرون المد العالي إلى الإبطاء.",
+							"de-DE": "RÜSTE „Flut“ AUS. FEUERE, um Wasser über den Boden zu schicken. HALTE FEUERN GEDRÜCKT, um das Wasser zu deinem Fadenkreuz zu lenken und eine Wasserwand zu erschaffen, die die Sicht blockiert. ALT. FEUERMODUS, um das Wasser frühzeitig zu stoppen. Alle Spieler, die „Flut“ durchqueren, werden verlangsamt.",
+							"en-US": "EQUIP High Tide. FIRE to send water forward along the ground. HOLD FIRE to guide the water towards your crosshair spawning a vision blocking Screen along the path. ALT FIRE to stop the water early. All players crossing High Tide are Slowed.",
+							"es-ES": "EQUIPA Marea alta. DISPARA para lanzarla hacia adelante por el suelo. MANTÉN PULSADO para guiar el agua hacia la dirección de la mira, lo que genera una pantalla que bloquea la visión por todo el recorrido. Utiliza el DISPARO ALTERNATIVO para detener el agua antes de tiempo. Marea alta ralentiza a todos los jugadores a los que atraviesa.",
+							"es-MX": "EQUIPA la habilidad Marea Alta. DISPARA para enviar agua hacia adelante por el suelo. MANTÉN PRESIONADO EL DISPARO para guiar el agua hacia tu retícula y generar una pantalla que bloquea la visión a lo largo de su trayectoria. Usa el DISPARO SECUNDARIO para detener el agua antes de tiempo. Los jugadores que crucen Marea Alta quedan ralentizados.",
+							"fr-FR": "ÉQUIPEZ-vous de Marée haute. TIREZ pour lancer de l'eau vers l'avant, parallèlement au sol. MAINTENEZ LE TIR pour la guider dans la direction du réticule et faire apparaître un mur liquide sur son passage. Utilisez le TIR SECONDAIRE pour arrêter la compétence prématurément. Tous les joueurs traversant Marée haute sont ralentis.",
+							"id-ID": "EQUIP High Tide. Tekan FIRE untuk melempar air ke depan di sepanjang daratan. HOLD FIRE untuk mengarahkan air ke crosshair-mu, memunculkan Layar yang menghalangi pandangan di sepanjang jalur air. Tekan ALT FIRE untuk menghentikan air lebih awal. Semua pemain yang melewati High Tide akan terkena Slow.",
+							"it-IT": "EQUIPAGGIA Alta marea. Usa il FUOCO per mandare l'acqua in avanti lungo il terreno. TIENI PREMUTO il FUOCO per guidare l'acqua nella direzione del tuo reticolo, generando uno schermo che blocca la visione lungo il percorso. Usa il FUOCO ALTERNATIVO per fermare l'acqua in anticipo. Gli agenti che attraversano Alta marea vengono RALLENTATI.",
+							"ja-JP": "ハイタイドを構える。「発射」で前方に向かって、または「発射長押し」でクロスヘアの方向に誘導しながら水の軌跡を地面に描き、その軌跡上に視界を遮るスクリーンを発生させる。「オルト射撃」で早めに水を止めることができる。ハイタイドを通過したすべてのプレイヤーはスロウ状態になる。",
+							"ko-KR": "만조를 장착합니다. 발사하면 지면을 따라 물을 앞으로 보냅니다. 발사를 길게 누르면 조준점 방향으로 물을 유도합니다. 물은 지나가는 길에 시야를 가리는 장막을 생성합니다. 보조 공격 시 물이 일찍 멈춥니다. 만조를 통과하는 모든 플레이어는 둔화됩니다.",
+							"pl-PL": "WYPOSAŻ Wysoki Przypływ. STRZEL, aby wysłać wodę naprzód po ziemi. PRZYTRZYMAJ STRZAŁ, aby kierować wodę w stronę wskazaną przez twój celownik, tworząc zasłaniającą pole widzenia ścianę wzdłuż jej ścieżki. Naciśnij ALT. STRZAŁ, aby woda zatrzymała się wcześniej. Gracze trafieni Wysokim Przypływem zostają SPOWOLNIENI.",
+							"pt-BR": "EQUIPE Maré Alta. DISPARE para enviar água para frente junto ao chão. SEGURE O DISPARO para guiar a água na direção da sua retícula, fazendo surgir uma Parede que bloqueia a visão ao longo do caminho. Use o DISPARO ALTERNATIVO para parar a água mais cedo. Todos os jogadores que atravessam a Maré Alta sofrem Lentidão.",
+							"ru-RU": "Выбирает \"Гребень волны\". Нажмите ОГОНЬ, чтобы послать воду вперед по земле. Удерживайте ОГОНЬ, чтобы перемещать воду по карте в направлении своего прицела и создать экран, блокирующий обзор, вдоль этой траектории. Нажмите АЛЬТ. ОГОНЬ, чтобы остановить воду. Все игроки, столкнувшиеся с \"Гребнем волны\", замедляются.",
+							"th-TH": "ติดตั้ง High Tide กดยิงเพื่อปล่อยสายน้ำออกไปข้างหน้าไปตามพื้น กดยิงค้างไว้เพื่อนำทางสายน้ำไปทางเป้าเล็งของคุณ และสร้างกำแพงบดบังทัศนวิสัยขึ้นมาตามเส้นทางของสายน้ำ กดโหมดยิงเสริมเพื่อหยุดสายน้ำก่อนเวลาที่กำหนด ผู้เล่นทั้งหมดที่เดินผ่าน High Tide จะติดสโลว์",
+							"tr-TR": "Taşkın'ı KUŞAN. Suyu zemin boyunca hareket ettirmek için ATEŞ ET. Suyu nişangâhının baktığı tarafa yöneltmek ve güzergâhı boyunca görüş engelleyen bir perde oluşturmak için ATEŞ DÜĞMESİNİ BASILI TUT. Suyu erkenden durdurmak için ALT. ATIŞ'a bas. Taşkın'ı geçen tüm oyuncular Yavaşlar.",
+							"vi-VN": "TRANG BỊ Thủy Triều Dâng Trào. BẮN để phóng nguồn nước về phía trước dọc mặt đất. GIỮ BẮN để điều khiển nguồn nước theo hướng tâm ngắm, tạo ra một Màn Chắn che tầm nhìn dọc đường đi. BẮN PHỤ để ngắt sớm kỹ năng. Những người chơi đi qua Thủy Triều Dâng Trào bị Làm Chậm.",
+							"zh-CN": "装备狂潮。按【射击】使水流沿地面向前延展。【按住射击】可使水流朝准星方向卷曲，沿路生成一道封锁视野的屏障。按【辅助射击】可提前中断水流。所有穿过狂潮的玩家都将受到【减速】。",
+							"zh-TW": "裝備「上古水牆」。點擊「攻擊」即可沿著地面向前送出水牆。按住「攻擊」可讓水牆朝十字準星的方向前進，沿路生成遮蔽視線的障壁。點按「輔助攻擊」可以提早停止水流。碰到「上古水牆」的玩家會遭到「緩速」。"
 						}
 					},
 					"label": "95B78ED7-4637-86D9-7E41-71BA8C293152_Ability1",
-					"name":
-					{
-						"defaultText": "Cove",
-						"localizedByCulture":
-						{
-							"ar-AE": "خليج",
-							"de-DE": "Bucht",
-							"en-US": "Cove",
-							"es-ES": "Cala",
-							"es-MX": "Domo",
-							"fr-FR": "Dôme aqueux",
-							"id-ID": "Cove",
-							"it-IT": "Baia",
-							"ja-JP": "コーヴ",
-							"ko-KR": "해만",
-							"pl-PL": "Zatoka",
-							"pt-BR": "Enseada",
-							"ru-RU": "Залив",
-							"th-TH": "Cove",
-							"tr-TR": "DALGAKIRAN",
-							"vi-VN": "Thủy Khiên",
-							"zh-CN": "海盾",
-							"zh-TW": "防彈海灣"
-						}
-					}
-				},
-				"grenade":
-				{
-					"description":
-					{
-						"defaultText": "EQUIP a wave of water. FIRE to send the wave rolling forward and through walls. RE-USE to stop the wave. Players hit are Slowed.",
-						"localizedByCulture":
-						{
-							"ar-AE": "تجهّز بموجة مائية. أطلق لإرسال الموجة إلى الأمام وعبر الجدران. أعد الاستخدام لإيقاف الموجة. يتم إبطاء اللاعبين المصابين.",
-							"de-DE": "RÜSTE eine Welle AUS. FEUERE, um die Welle durch Wände loszuschicken. ERNEUT VERWENDEN, um die Welle anzuhalten. Getroffene Spieler werden verlangsamt.",
-							"en-US": "EQUIP a wave of water. FIRE to send the wave rolling forward and through walls. RE-USE to stop the wave. Players hit are Slowed.",
-							"es-ES": "EQUIPA una ola de agua. DISPARA para enviarla hacia delante y hacer que atraviese las paredes. VUELVE A USAR la habilidad para detener la oleada. Los jugadores golpeados se ven ralentizados.",
-							"es-MX": "EQUIPA una ola de agua. DISPARA para lanzar la ola hacia adelante y a través de los muros. REUTILÍZALA para detener el avance de la ola. Los jugadores impactados quedan ralentizados.",
-							"fr-FR": "ÉQUIPEZ-vous d'une vague. TIREZ pour la lancer devant vous à travers les murs. RÉUTILISEZ la compétence pour arrêter la vague. Les joueurs touchés sont ralentis.",
-							"id-ID": "EQUIP gelombang air. Tekan FIRE untuk mengirim gelombang yang menggulung ke depan dan melewati dinding. GUNAKAN LAGI untuk menghentikan gelombang. Pemain yang menyentuh gelombang akan terkena utilitas Slow.",
-							"it-IT": "EQUIPAGGIA un'onda d'acqua. Usa il FUOCO per mandare l'onda in avanti e attraverso i muri. USA DI NUOVO l'abilità per fermare l'onda. I giocatori toccati dall'acqua vengono RALLENTATI.",
-							"ja-JP": "構えを取り、「発射」で前方に向かって波を発生させる。波は地形を貫通する。「再使用」で、波の動きを途中で止めることができる。波に当たったプレイヤーはスロウ状態になる。",
-							"ko-KR": "물의 파동을 장착합니다. 발사하면 벽을 통과하는 파동을 앞으로 보냅니다. 다시 사용하면 파동이 멈춥니다. 맞은 플레이어는 둔화됩니다.",
-							"pl-PL": "UŻYJ fali wody. STRZEL, aby wysłać ją naprzód i przez ściany. UŻYJ PONOWNIE, aby zatrzymać falę. Uderzeni gracze zostają SPOWOLNIENI.",
-							"pt-BR": "EQUIPE uma onda de água. DISPARE para enviar a onda para frente e através de paredes. REPITA para impedir a onda de seguir em frente. Jogadores atingidos sofrem Redução de Velocidade.",
-							"ru-RU": "Выбирает волну, проходящую сквозь стены. Нажмите кнопку ОГОНЬ, чтобы отправить волну вперед. Используйте умение повторно, чтобы остановить дальнейшее движение волны. Игроки, которых коснулась вода, замедляются.",
-							"th-TH": "ติดตั้งคลื่นสายน้ำ กดยิงเพื่อปล่อยคลื่นน้ำไปข้างหน้าทะลุผ่านกำแพง กดใช้อีกครั้งเพื่อหยุดคลื่นน้ำไว้ ผู้เล่นที่โดนสกิลจะถูกสโลว์",
-							"tr-TR": "Bir su dalgası KUŞAN. Dalganın duvarların içinden geçerek düz bir şekilde ilerlemesi için ATEŞ ET. Dalgayı durdurmak için TEKRAR KULLAN. Dalganın isabet ettiği oyuncular Yavaşlar.",
-							"vi-VN": "TRANG BỊ 1 con sóng nước. BẮN để phóng con sóng lăn về phía trước xuyên qua tường. TÁI SỬ DỤNG để dừng con sóng. Những người chơi trúng chiêu bị Làm Chậm.",
-							"zh-CN": "装备一股波浪，按【射击】向前释放，波浪可以穿过墙体。【再次按技能键】可使波浪停止。被命中的玩家将受到【减速】。",
-							"zh-TW": "裝備一道湧浪。點擊「攻擊」即可向前送出湧浪，可穿過牆體。「重施技能」可停止湧浪。被擊中的玩家會被「緩速」。"
-						}
-					},
-					"label": "95B78ED7-4637-86D9-7E41-71BA8C293152_Grenade",
-					"name":
-					{
-						"defaultText": "Cascade",
-						"localizedByCulture":
-						{
-							"ar-AE": "الشلال",
-							"de-DE": "Wasserfall",
-							"en-US": "Cascade",
-							"es-ES": "Cascada",
-							"es-MX": "Cascada",
-							"fr-FR": "Cascade",
-							"id-ID": "Cascade",
-							"it-IT": "Cascata",
-							"ja-JP": "カスケード",
-							"ko-KR": "폭포",
-							"pl-PL": "Kaskada",
-							"pt-BR": "Cascata",
-							"ru-RU": "Каскад",
-							"th-TH": "Cascade",
-							"tr-TR": "ÇAĞLAYAN",
-							"vi-VN": "Thác Đổ",
-							"zh-CN": "瀑流",
-							"zh-TW": "無畏浪潮"
-						}
-					}
-				},
-				"ability2":
-				{
-					"description":
-					{
-						"defaultText": "EQUIP a wall of water. FIRE to send the water forward along the ground. HOLD FIRE to guide the water in the direction of your crosshair, passing through the world, spawning a wall along the water’s path. ALT FIRE while bending to stop the water early. Players hit are Slowed.",
-						"localizedByCulture":
-						{
-							"ar-AE": "تجهّز بجدار مائي. أطلق لإرسال الماء إلى الأمام. تابع الضغط على زر الإطلاق لتوجيه الماء باتجاه مؤشر تصويبك، حيث يمر الماء عبر التضاريس ويتولّد جدار في مسار الماء. استخدم الإطلاق البديل أثناء التوجيه لإيقاف الماء مبكرًا. يتم إبطاء اللاعبين المصابين.",
-							"de-DE": "RÜSTE eine Wasserwand AUS. FEUERE, um das Wasser auszusenden. HALTE FEUERN gedrückt, um das Wasser in Richtung deines Fadenkreuzes zu lenken und eine Wasserwand zu erschaffen. ALT. FEUERMODUS beim Lenken, um das Wasser frühzeitig zu stoppen. Getroffene Spieler werden verlangsamt.",
-							"en-US": "EQUIP a wall of water. FIRE to send the water forward along the ground. HOLD FIRE to guide the water in the direction of your crosshair, passing through the world, spawning a wall along the water’s path. ALT FIRE while bending to stop the water early. Players hit are Slowed.",
-							"es-ES": "EQUIPA una pared de agua. DISPARA para lanzarla hacia adelante por el suelo. MANTÉN PULSADO DISPARAR para guiar el agua en la dirección de la mira, atravesando los obstáculos del terreno y creando una pared por todo el recorrido. Utiliza el DISPARO ALTERNATIVO mientras trazas la pared para acabarla antes de tiempo. Los jugadores golpeados se ven ralentizados.",
-							"es-MX": "EQUIPA un muro de agua. DISPARA para enviar el agua hacia adelante por el suelo. MANTÉN PRESIONADO EL DISPARO para guiar el agua en la dirección de tu retícula y generar un muro a lo largo de su trayectoria. Puede atravesar paredes. Usa el DISPARO SECUNDARIO mientras curvas el muro para detener su trayectoria anticipadamente. Los jugadores impactados quedan ralentizados.",
-							"fr-FR": "ÉQUIPEZ-vous d'un mur d'eau. TIREZ pour lancer l'eau vers l'avant. MAINTENEZ LE TIR pour la guider dans la direction du réticule. L'eau traverse le décor et fait apparaître un mur liquide sur son passage. Utilisez le TIR SECONDAIRE tout en guidant l'eau pour arrêter la compétence prématurément. Les joueurs touchés sont ralentis.",
-							"id-ID": "EQUIP dinding air. Tekan FIRE untuk melempar dan mendaratkan air ke depan. Tekan HOLD FIRE untuk mengendalikan air ke arah crosshair, lalu biarkan air mencapai jarak maksimumnya dan memunculkan dinding di sepanjang jalurnya. Tekan ALT FIRE sambil membungkuk untuk menghentikan air lebih awal. Pemain yang menyentuh dinding ini akan terkena utilitas Slow.",
-							"it-IT": "EQUIPAGGIA un muro d'acqua. Usa il FUOCO per mandare l'acqua in avanti lungo il terreno. TIENI PREMUTO il FUOCO per guidare l'acqua nella direzione del tuo reticolo, facendole attraversare l'area di gioco e innalzando un muro lungo tutto il percorso. Usa il FUOCO ALTERNATIVO per fermare l'acqua in anticipo. I giocatori toccati dall'acqua vengono RALLENTATI.",
-							"ja-JP": "腕輪を構え、「発射」で前方に向かって、または「発射長押し」でクロスヘアの方向に誘導しながら水の軌跡を地面に描き、その軌跡上に水の壁を発生させる。水の壁は地形を貫通する。壁の誘導中に「オルト射撃」で早めに止めることができる。これに当たったプレイヤーはスロウ状態になる。",
-							"ko-KR": "물의 장벽을 장착합니다. 발사하면 지면을 따라 물을 앞으로 보냅니다. 발사를 길게 누르면 조준점 방향으로 물을 유도합니다. 물은 지형을 통과하며 지나가는 길에 장벽을 생성합니다. 유도 중 보조 공격 시 물이 일찍 멈춥니다. 맞은 플레이어는 둔화됩니다.",
-							"pl-PL": "UŻYJ ściany wody. STRZEL, aby wysłać ją naprzód po ziemi. PRZYTRZYMAJ STRZAŁ, aby kierować wodę w stronę wskazaną przez twój celownik, przenikając przez otoczenie i tworząc ścianę wzdłuż ścieżki wody. Naciśnij ALT. STRZAŁ, aby woda zatrzymała się wcześniej. Uderzeni gracze zostają SPOWOLNIENI.",
-							"pt-BR": "EQUIPE uma parede de água. DISPARE para enviar a água para frente junto ao chão. SEGURE O DISPARO para guiar a água na direção da sua retícula, atravessando o mundo e fazendo surgir uma parede ao longo do caminho. Use o DISPARO ALTERNATIVO enquanto curva para parar a água mais cedo. Jogadores atingidos sofrem Redução de Velocidade.",
-							"ru-RU": "Выбирает водяную стену. Нажмите кнопку ОГОНЬ, чтобы отправить вперед по земле мощный поток воды. Удерживайте кнопку ОГОНЬ, чтобы перемещать поток в направлении прицела и создать стену вдоль этой траектории. Нажмите кнопку АЛЬТ. ОГОНЬ во время создания траектории, чтобы остановить поток. Игроки, которых коснулась вода, замедляются.",
-							"th-TH": "ติดตั้งกำแพงสายน้ำ กดยิงเพื่อปล่อยสายน้ำออกไปข้างหน้าไปตามพื้น กดยิงค้างไว้เพื่อนำทางสายน้ำไปตามทิศทางเป้าเล็งของคุณ ตัดผ่านทะลุไป พร้อมสร้างกำแพงขึ้นมาตามเส้นทางของสายน้ำ กดโหมดยิงเสริมในตอนที่เบี่ยงสายน้ำเพื่อหยุดมันก่อนเวลาที่กำหนด ผู้เล่นที่โดนสกิลจะถูกสโลว์",
-							"tr-TR": "Bir su duvarı KUŞAN. Suyu zemin boyunca hareket ettirmek için ATEŞ ET. Suyu haritanın içinden geçecek şekilde nişangâhının baktığı tarafa yöneltmek ve güzergâhı boyunca bir duvar oluşturmak için ATEŞ DÜĞMESİNİ BASILI TUT. Suyu erkenden durdurmak için ALT. ATIŞ kullan. Dalganın isabet ettiği oyuncular Yavaşlar.",
-							"vi-VN": "TRANG BỊ 1 bức tường nước. BẮN để phóng nguồn nước về phía trước dọc mặt đất. GIỮ BẮN để điều khiển nguồn nước theo hướng tâm ngắm, xuyên qua địa hình và tạo ra một bức tường trên đường đi. BẮN PHỤ khi đang điều khiển để ngắt sớm kỹ năng. Những người chơi trúng chiêu bị Làm Chậm.",
-							"zh-CN": "装备一道水墙，按【射击】使水墙向前延展，【按住射击】可使水墙朝准星方向卷曲，沿路生成一道可以穿过环境物体的水墙。改变方向时按【辅助射击】可提前结束水流。被命中的玩家将受到【减速】。",
-							"zh-TW": "裝備一道水牆。點擊「攻擊」即可沿著地面向前送出水流。長按「攻擊」，可讓水牆隨著畫面上十字準星的方向轉彎，穿過地形，沿著水流生成水牆。操縱水流方向時按下「輔助攻擊」可以提早停止水流。被擊中的玩家會被「緩速」。"
-						}
-					},
-					"label": "95B78ED7-4637-86D9-7E41-71BA8C293152_Ability2",
 					"name":
 					{
 						"defaultText": "High Tide",
@@ -3521,31 +3413,139 @@
 						}
 					}
 				},
+				"grenade":
+				{
+					"description":
+					{
+						"defaultText": "EQUIP Storm Surge. FIRE to throw, creating an explosive whirlpool that Slows and Nearsights enemies within it after a short duration.",
+						"localizedByCulture":
+						{
+							"ar-AE": "تجهّز بموجة عاصفة. أطلق لرمي وإنشاء دوامة متفجرة تسبب الإبطاء وضعف البصر للأعداء في داخلها بعد مدة قصيرة.",
+							"de-DE": "RÜSTE „Sturmschwall“ AUS. FEUERE, um ihn zu werfen und einen explosiven Strudel zu erschaffen, der Gegner, die sich in ihm befinden, nach kurzer Zeit verlangsamt und ihre Sicht einschränkt.",
+							"en-US": "EQUIP Storm Surge. FIRE to throw, creating an explosive whirlpool that Slows and Nearsights enemies within it after a short duration.",
+							"es-ES": "EQUIPA Descarga tormentosa. DISPARA para lanzar, lo que crea un remolino explosivo que ralentiza y limita la visión de los enemigos en su interior tras un breve periodo de tiempo.",
+							"es-MX": "EQUIPA un Remolino Ciclónico. DISPARA para lanzar un remolino explosivo que ralentiza y ofusca temporalmente a los enemigos que se encuentran dentro de él tras un tiempo breve.",
+							"fr-FR": "ÉQUIPEZ-vous de Tempête déferlante. TIREZ pour lancer et créer un tourbillon explosif qui rend myopes et ralentit les ennemis qui se trouvent à l'intérieur après un court instant.",
+							"id-ID": "EQUIP Storm Surge. Tekan FIRE untuk melempar, menciptakan pusaran air eksplosif yang menerapkan Slow dan Nearsight pada musuh di dalamnya setelah beberapa saat.",
+							"it-IT": "EQUIPAGGIA Impeto tempestoso. Usa il FUOCO per lanciarlo, creando un turbine esplosivo che RALLENTA e ANNEBBIA i nemici al suo interno dopo un breve ritardo.",
+							"ja-JP": "ストームサージを構える。「発射」で投げ、短時間の後に爆発を引き起こして中に入った敵をスロウ状態にし、視界を悪化させる渦を発生させる。",
+							"ko-KR": "폭풍 쇄도를 장착합니다. 발사하면 던져서 폭발하는 소용돌이를 생성합니다. 소용돌이는 짧은 시간 이후 내부의 적을 둔화시키고 시야를 제한합니다.",
+							"pl-PL": "WYPOSAŻ Burzowe Przepięcie. STRZEL, aby rzucić, tworząc wybuchowy wir, który po chwili nakłada na znajdujących się w środku przeciwników spowolnienie i krótkowzroczność.",
+							"pt-BR": "EQUIPE um Temporal. DISPARE para lançar, criando um redemoinho explosivo que causa Lentidão e Visão Turva nos inimigos dentro dele após um curto período.",
+							"ru-RU": "Выбирает \"Водоворот\". Нажмите ОГОНЬ для броска, чтобы создать взрывную воронку, которая замедляет и ограничивает обзор противников вскоре после того, как те оказались в ее пределах.",
+							"th-TH": "ติดตั้ง Storm Surge กดยิงเพื่อขว้าง และสร้างน้ำวนระเบิดที่ทำให้ศัตรูที่อยู่ภายในติดสถานะถูกจำกัดการมองเห็นและ\r\nสโลว์หลังจากผ่านไประยะเวลาสั้น ๆ",
+							"tr-TR": "Fırtına Akını'nı KUŞAN. Fırlatmak için ATEŞ ET ve kısa bir sürenin ardından içindeki düşmanları Yavaşlatan ve onların Görüşlerini Kısıtlayan patlayıcı bir girdap oluştur.",
+							"vi-VN": "TRANG BỊ Bão Tố Nổi Dậy. BẮN để ném, tạo ra một xoáy nước phát nổ khiến kẻ địch đứng bên trong bị Làm Chậm và Hạn Chế Tầm Nhìn sau một khoảng thời gian ngắn.",
+							"zh-CN": "装备乱涌。按【射击】向前投掷，制造一股具有强大破坏力的漩流，短时间后使漩流内的敌人受到【减速】和【视野收缩】。",
+							"zh-TW": "裝備「驚濤湧浪」。點擊「攻擊」投出，製造一道爆炸性的漩渦，敵軍置身其中一小段時間後會遭到緩速和限制視野。"
+						}
+					},
+					"label": "95B78ED7-4637-86D9-7E41-71BA8C293152_Grenade",
+					"name":
+					{
+						"defaultText": "Storm Surge",
+						"localizedByCulture":
+						{
+							"ar-AE": "الموجة العاصفة",
+							"de-DE": "Sturmschwall",
+							"en-US": "Storm Surge",
+							"es-ES": "Descarga tormentosa",
+							"es-MX": "Remolino Ciclónico",
+							"fr-FR": "Tempête déferlante",
+							"id-ID": "Storm Surge",
+							"it-IT": "Impeto tempestoso",
+							"ja-JP": "ストームサージ",
+							"ko-KR": "폭풍 쇄도",
+							"pl-PL": "Burzowe Przepięcie",
+							"pt-BR": "Temporal",
+							"ru-RU": "Водоворот",
+							"th-TH": "Storm Surge",
+							"tr-TR": "FIRTINA AKINI",
+							"vi-VN": "Bão Tố Nổi Dậy",
+							"zh-CN": "乱涌",
+							"zh-TW": "驚濤湧浪"
+						}
+					}
+				},
+				"ability2":
+				{
+					"description":
+					{
+						"defaultText": "EQUIP Cove. ACTIVATE to form a water Smoke in the select location. HOLD FIRE while targeting to move the marker further away and HOLD ALT FIRE to move it closer. RELOAD to toggle targeting view. REACTIVATE to Shield the water Smoke, blocking any bullets that hit it. The Shielded water Smoke can be destroyed.",
+						"localizedByCulture":
+						{
+							"ar-AE": "تجهّز بخليج. قم بالتفعيل لتشكيل دخان مائي في الموقع المحدد. تابع الضغط على زر الإطلاق أثناء الاستهداف لتحريك المؤشر إلى مسافة أبعد، وتابع الضغط على زر الإطلاق البديل لتقريبه. أعد التلقيم لتفعيل/تعطيل عرض نافذة الاستهداف. أعد التفعيل لتدعيم الدخان المائي بدرع يصد أي طلقات تصيبه. يمكن تدمير الدخان المائي المدرّع.",
+							"de-DE": "RÜSTE „Bucht“ AUS. AKTIVIEREN, um am Zielort eine Kuppel aus Wasser zu erschaffen. HALTE FEUERN GEDRÜCKT, um die Markierung von dir zu entfernen, und HALTE ALT. FEUERMODUS GEDRÜCKT, um sie zu dir zu bewegen. DRÜCKE NACHLADEN, um zum Zielmodus umzuschalten. REAKTIVIEREN, um der Wasserkuppel einen Schild zu geben, der alle Kugeln blockt. Die mit dem Schild geschützte Wasserkuppel kann zerstört werden.",
+							"en-US": "EQUIP Cove. ACTIVATE to form a water Smoke in the select location. HOLD FIRE while targeting to move the marker further away and HOLD ALT FIRE to move it closer. RELOAD to toggle targeting view. REACTIVATE to Shield the water Smoke, blocking any bullets that hit it. The Shielded water Smoke can be destroyed.",
+							"es-ES": "EQUIPA Cala. ACTIVA para desatar humo acuoso en la ubicación seleccionada. MANTÉN PULSADO al apuntar para que el marcador se aleje más. MANTÉN PULSADO el DISPARO ALTERNATIVO para acercarlo. PULSA RECARGAR para cambiar el modo de apuntado. REACTIVA la habilidad para otorgar un escudo al humo acuoso, que bloqueará todas las balas. El humo acuoso con escudo se puede destruir.",
+							"es-MX": "EQUIPA una Cúpula. ACTIVA para formar un humo de agua en la ubicación seleccionada. MANTÉN PRESIONADO EL DISPARO mientras apuntas para alejar el marcador aún más y MANTÉN PRESIONADO EL DISPARO SECUNDARIO para acercarlo. RECARGA para alternar la vista de selección de objetivos. REACTIVA para proteger el humo de agua, bloqueando cualquier bala que lo alcance. El humo de agua con escudo se puede destruir.",
+							"fr-FR": "ÉQUIPEZ-vous de Dôme aqueux. ACTIVEZ pour placer un fumigène d'eau à l'emplacement ciblé. MAINTENEZ LE TIR tout en visant pour éloigner le marqueur et MAINTENEZ LE TIR SECONDAIRE pour le rapprocher. RECHARGEZ pour repasser en visée. RÉACTIVEZ pour protéger le fumigène d'eau et repousser les balles qui l'atteignent. Le fumigène d'eau protégé peut être détruit.",
+							"id-ID": "EQUIP Cove. AKTIFKAN untuk membentuk Asap air di lokasi yang dipilih. HOLD FIRE saat menarget untuk menjauhkan penanda, dan HOLD ALT FIRE untuk mendekatkannya. Tekan RELOAD untuk berganti tampilan penargetan. AKTIFKAN ULANG untuk memberi Shield pada Asap air sehingga peluru tidak bisa menembus. Asap air yang diberi Shield bisa dihancurkan.",
+							"it-IT": "EQUIPAGGIA Baia. ATTIVA per generare un fumogeno acquatico nella posizione selezionata. TIENI PREMUTO il FUOCO mentre miri per allontanare l'indicatore e TIENI PREMUTO IL FUOCO ALTERNATIVO per farlo avvicinare. PREMI RICARICA per attivare o disattivare la visuale di puntamento. RIATTIVA per fornire al fumogeno acquatico uno scudo che blocca tutti i proiettili. Il fumogeno acquatico protetto dallo scudo può essere distrutto.",
+							"ja-JP": "コーヴを構える。「発動」で狙った場所に水のスモークを形成する。ターゲット中は「発射長押し」でマーカーが遠くへ、「オルト射撃長押し」で近くへ移動する。また「リロード」で照準視点が切り替わる。「再発動」で水のスモークをあらゆる銃弾を防ぐシールド化する。シールド化した水のスモークは破壊可能。",
+							"ko-KR": "해만을 장착합니다. 활성화하면 선택한 위치에 물 연막을 생성합니다. 발사를 길게 누르면 표시 위치를 더 멀리 옮기고, 보조 공격을 길게 누르면 더 가까이 옮깁니다. 재장전을 누르면 조준점을 끄고 켭니다. 다시 활성화하면 물 연막에 보호막을 씌워, 연막에 맞는 모든 탄환을 막습니다. 보호막이 씌워진 연막은 파괴될 수 있습니다.",
+							"pl-PL": "WYPOSAŻ Zatokę. AKTYWUJ, by przywołać wodnisty dym na wybranym obszarze. PRZYTRZYMAJ STRZAŁ podczas namierzania, by oddalić znacznik, i PRZYTRZYMAJ ALT. STRZAŁ, by go przybliżyć. PRZEŁADUJ, by przełączyć widok namierzania. REAKTYWUJ, aby osłonić wodnisty dym tarczą, która blokuje wszystkie pociski. Otoczony tarczą wodnisty dym może zostać zniszczony.",
+							"pt-BR": "EQUIPE Enseada. ATIVE para formar uma Fumaça de água no local selecionado. SEGURE O DISPARO enquanto mira para afastar o marcador e SEGURE O DISPARO ALTERNATIVO para aproximá-lo. RECARREGUE para trocar a visão de posicionamento. REATIVE para criar um Escudo ao redor da Fumaça de água, que bloqueia as balas que a atingem. A Fumaça de água com Escudo pode ser destruída.",
+							"ru-RU": "Выбирает \"Залив\". При активации создает водную завесу в выбранной точке. Чтобы увеличить дальность броска, удерживайте кнопку ОГОНЬ при прицеливании. Чтобы уменьшить дальность броска, удерживайте кнопку АЛЬТ. ОГОНЬ. Нажмите кнопку ПЕРЕЗАРЯДКИ, чтобы переключиться на обычный режим прицеливания. Нажмите кнопку умения повторно, чтобы укрепить завесу и блокировать прилетающие в нее пули. Укрепленную водную завесу можно уничтожить.",
+							"th-TH": "ติดตั้ง Cove เปิดใช้งานเพื่อสร้างควันสายน้ำในตำแหน่งที่กำหนด กดยิงค้างไว้ในขณะที่เล็งเป้าหมายเพื่อย้ายเครื่องหมายให้ไกลออกไปและกดโหมดยิงเสริมค้างไว้เพื่อย้ายเครื่องหมายให้ใกล้เข้ามา กดรีโหลดเพื่อสับเปลี่ยนเป็นมุมมองการเล็งเป้าหมาย เปิดใช้งานอีกครั้งเพื่อสร้างควันสายน้ำให้เป็นโล่ป้องกันกระสุนที่ยิงใส่ ควันสายน้ำที่เป็นโล่ป้องกันสามารถทำลายได้",
+							"tr-TR": "Dalgakıran'ı KUŞAN. Belirlenen konumda bir su dumanı oluşturmak için ETKİNLEŞTİR. Hedef alma esnasında işaretçiyi daha uzağa götürmek için ATEŞ DÜĞMESİNİ BASILI TUT, yakına getirmek içinse ALT. ATIŞ DÜĞMESİNİ BASILI TUT. Hedef almaya geçmek için DOLDURMA DÜĞMESİNE BAS. Su dumanını korumak ve ona isabet eden tüm kurşunları engellemek için TEKRAR ETKİNLEŞTİR. Korunan su dumanı yok edilebilir.",
+							"vi-VN": "TRANG BỊ Thủy Khiên. KÍCH HOẠT để tạo 1 đám Khói nước tại vị trí chỉ định. GIỮ BẮN trong khi nhắm mục tiêu để di chuyển điểm đánh dấu ra xa và GIỮ BẮN PHỤ để đưa điểm đánh dấu lại gần. THAY ĐẠN để bật/tắt nhắm mục tiêu. TÁI KÍCH HOẠT để tạo Khiên cho Khói nước, chặn mọi đường đạn bắn vào. Khói nước được tạo Khiên có thể bị phá hủy.",
+							"zh-CN": "装备海盾。【激活】后在选定位置形成一道水雾。瞄准期间，【按住射击】可将标记移远，【按住辅助射击】可将标记移近。【换弹】即可切换至瞄准视野。【再次激活】技能即可为水雾生成护盾，阻挡所有命中它的子弹。受护盾保护的水雾可被敌人摧毁。",
+							"zh-TW": "裝備「防彈海灣」。按下「啟動」在指定地點生成水霧。瞄準時按住「攻擊」，可將標記移動至遠處；按住「輔助攻擊」可將其移近。按下「填彈」切換瞄準視角。「重施技能」為水霧加上護盾，可阻擋子彈。加上護盾的水霧可被破壞。"
+						}
+					},
+					"label": "95B78ED7-4637-86D9-7E41-71BA8C293152_Ability2",
+					"name":
+					{
+						"defaultText": "Cove",
+						"localizedByCulture":
+						{
+							"ar-AE": "الخليج",
+							"de-DE": "Bucht",
+							"en-US": "Cove",
+							"es-ES": "Cala",
+							"es-MX": "Cúpula",
+							"fr-FR": "Dôme aqueux",
+							"id-ID": "Cove",
+							"it-IT": "Baia",
+							"ja-JP": "コーヴ",
+							"ko-KR": "해만",
+							"pl-PL": "Zatoka",
+							"pt-BR": "Enseada",
+							"ru-RU": "Залив",
+							"th-TH": "Cove",
+							"tr-TR": "DALGAKIRAN",
+							"vi-VN": "Thủy Khiên",
+							"zh-CN": "海盾",
+							"zh-TW": "防彈海灣"
+						}
+					}
+				},
 				"ultimate":
 				{
 					"description":
 					{
-						"defaultText": "EQUIP the full power of your Artifact. FIRE to summon a geyser pool on the ground. Enemy players in the area are targeted by successive geyser strikes. Players caught within a strike are Concussed.",
+						"defaultText": "EQUIP Reckoning. FIRE to unleash the full power of your artifact, releasing a surge of water that barrels forward to Nearsight and Slow enemies that are hit.",
 						"localizedByCulture":
 						{
-							"ar-AE": "تجهّز بكامل قوة تحفتك. أطلق لاستحضار حوض ساخن على الأرضية. يتم استهداف لاعبي العدو في الأرجاء بهجمات الحوض الساخن المتتابعة. يصاب اللاعبون ضمن مدى الهجوم بتأثير الارتجاج.",
-							"de-DE": "RÜSTE die volle Macht deines Artefaktes AUS. FEUERE, um ein Geysir-Becken auf dem Boden zu erschaffen. Gegnerische Spieler im Becken werden von mehreren Geysir-Strahlen getroffen. Getroffene Spieler werden betäubt.",
-							"en-US": "EQUIP the full power of your Artifact. FIRE to summon a geyser pool on the ground. Enemy players in the area are targeted by successive geyser strikes. Players caught within a strike are Concussed.",
-							"es-ES": "EQUIPA todo el poder de tu artefacto. DISPARA para invocar un géiser que nace del suelo. Los enemigos de la zona serán objetivo de varios ataques del géiser. Los jugadores que se vean atrapados por un impacto quedan conmocionados.",
-							"es-MX": "EQUIPA todo el poder de tu artefacto. DISPARA para invocar una zona de géiseres en el suelo. Los enemigos que se encuentren en la zona serán el objetivo de varios impactos sucesivos de géiseres. Los jugadores que reciban un impacto quedarán conmocionados.",
-							"fr-FR": "ÉQUIPEZ-vous de toute la puissance de votre relique. TIREZ pour invoquer une flaque bouillonnante sur le sol. Les ennemis dans la zone sont frappés par des geysers successifs. Les joueurs touchés sont désorientés.",
-							"id-ID": "EQUIP kekuatan penuh dari Artefak. Tekan FIRE untuk memanggil genangan geiser di daratan. Musuh yang berada di area tersebut menjadi target dari rentetan serangan geiser. Pemain yang menerima serangan ini akan terkena utilitas Concuss.",
-							"it-IT": "EQUIPAGGIA il vero potere del tuo manufatto. Usa il FUOCO per evocare un geyser che scaturisce dal terreno. I nemici nella zona vengono bersagliati da eruzioni consecutive del geyser. I giocatori investiti da un getto del geyser vengono STORDITI.",
-							"ja-JP": "構えを取り、「発射」で遺物の力を解放して、地面に間欠泉のエリアを展開する。エリア内にいる敵プレイヤーは間欠泉から繰り返し攻撃を受け、攻撃に当たったプレイヤーはスタン状態になる。",
-							"ko-KR": "유물의 모든 힘을 장착합니다. 발사하면 지면에 간헐천을 소환합니다. 해당 지역 내에 있는 적 플레이어는 잇따른 간헐천 분출의 표적이 됩니다. 분출에 맞은 플레이어에게 뇌진탕을 일으킵니다.",
-							"pl-PL": "UŻYJ pełnej mocy swojego artefaktu. STRZEL, aby przywołać gejzer na ziemi. Wrodzy gracze na obszarze zostają obrani za cel przez kolejne uderzenia gejzerów. Uderzeni gracze zostają ogłuszeni.",
-							"pt-BR": "EQUIPE o poder total do seu Artefato. DISPARE para invocar um gêiser no solo. Os inimigos na área são repetidamente alvejados por ataques do gêiser. Jogadores capturados dentro de uma área do ataque sofrem Concussão.",
-							"ru-RU": "Выбирает силу артефакта. Нажмите кнопку ОГОНЬ, чтобы создать на земле гейзерное озеро. В зоне действия умения вражеские игроки оказываются под прицелом гейзерных ударов. Такой удар оглушает цель.",
-							"th-TH": "ติดตั้งพลังของวัตถุโบราณอย่างเต็มรูปแบบ กดยิงเพื่อสร้างบ่อน้ำพุร้อนขึ้นมาบนพื้น ผู้เล่นฝ่ายศัตรูที่อยู่ในพื้นที่จะตกเป็นเป้าหมายของกระแสน้ำรุนแรงต่อเนื่อง ผู้เล่นที่โดนสกิลนี้จะถูกทำให้ติดสถานะกระทบกระเทือน",
-							"tr-TR": "Yadigârının gerçek gücünü KUŞAN. Yerde bir gayzer oluşturmak için ATEŞ ET. Alanın içindeki düşmanlar art arda gerçekleşen gayzer patlamalarının hedefi olur. Patlamalar isabet ettikleri oyuncuları Sersemletir.",
-							"vi-VN": "TRANG BỊ sức mạnh Tạo Vật tối đa. BẮN để triệu hồi 1 suối nước phun trào trên mặt đất. Kẻ địch trong vùng ảnh hưởng sẽ bị những đợt phun trào liên tục nhắm tới. Nếu một đợt phun trào đánh trúng người chơi, họ sẽ bị Làm Choáng.",
-							"zh-CN": "释放圣物的全部力量，按【射击】在地面召唤出一片喷泉领域。喷泉会间歇性地攻击区域内的敌方玩家，被击中的玩家将受到【震荡】。",
-							"zh-TW": "裝備古文物的全部力量。點擊「攻擊」即可在地面上召喚一個間歇泉池，在範圍內的敵方玩家會受到間歇泉連續攻擊，被擊中的玩家會受到「暈眩」。"
+							"ar-AE": "تجهّز بتصفية الحساب. أطلق لتحرير كامل قوة تحفتك، لتُطلق تيارًا مائيًا يندفع إلى الأمام ويسبب ضعف البصر والإبطاء للأعداء المصابين.",
+							"de-DE": "RÜSTE „Gissung“ AUS. FEUERE, um die ganze Macht deines Artefakts zu entfesseln und einen Wasserschwall freizusetzen, der vorwärts schwappt, um getroffene Gegner zu verlangsamen und ihre Sicht einzuschränken.",
+							"en-US": "EQUIP Reckoning. FIRE to unleash the full power of your artifact, releasing a surge of water that barrels forward to Nearsight and Slow enemies that are hit.",
+							"es-ES": "EQUIPA Ajuste de cuentas. DISPARA para desatar el poder máximo de tu artefacto, lo que libera un torrente de agua que avanza hacia adelante, lo que ralentiza y limita la visión de los enemigos golpeados.",
+							"es-MX": "EQUIPA la habilidad Cataclismo DISPARA para liberar todo el poder de tu artefacto; lanza una ráfaga de agua que se precipita hacia adelante para ofuscar y ralentizar a los enemigos que alcance.",
+							"fr-FR": "ÉQUIPEZ-vous de Raz-de-marée. TIREZ pour libérer toute la puissance de votre relique et libérer un torrent d'eau vers l'avant qui rend myopes et ralentit les ennemis touchés.",
+							"id-ID": "EQUIP Reckoning. Tekan FIRE untuk melepaskan kekuatan penuh artefakmu, melepaskan semburan air yang melesat maju untuk menerapkan Nearsight dan Slow pada musuh yang terkena.",
+							"it-IT": "EQUIPAGGIA la Resa dei conti. Usa il FUOCO per scatenare tutto il potere del tuo manufatto, liberando un cavallone che avanza ANNEBBIANDO e RALLENTANDO i nemici che investe.",
+							"ja-JP": "レコニングを構える。「発射」で遺物の力を解き放ち、前方に進む水の奔流を発生させる。当たった敵は視界悪化とスロウ状態を受ける。",
+							"ko-KR": "심판을 장착합니다. 발사하면 유물의 모든 힘을 해방해, 물의 파도를 방출합니다. 물의 파도는 앞으로 나아가며 맞은 적의 시야를 제한하고 둔화시킵니다.",
+							"pl-PL": "WYPOSAŻ Rozrachunek. STRZEL, aby użyć pełni mocy swego artefaktu, uwalniając wodę pędzącą w przód, by nałożyć na trafionych przeciwników efekty krótkowzroczności i spowolnienia.",
+							"pt-BR": "EQUIPE Acerto de Contas. DISPARE para liberar todo o poder do seu artefato, lançando uma onda que avança em direção aos inimigos, causando Visão Turva e Lentidão nos inimigos atingidos.",
+							"ru-RU": "Выбирает \"Расчет курса\". Нажмите ОГОНЬ, чтобы высвободить мощь артефакта и направить в сторону врагов поток воды, который замедляет и ограничивает обзор пораженных противников.",
+							"th-TH": "ติดตั้ง Reckoning กดยิงเพื่อปลดปล่อยพลังของวัตถุโบราณอย่างเต็มรูปแบบ และส่งคลื่นน้ำพุ่งไปข้างหน้าเพื่อทำให้ศัตรูที่โดนติดสถานะถูกจำกัดการมองเห็นและสโลว์",
+							"tr-TR": "Kaynama Noktası'nı KUŞAN. Yadigârının gerçek gücünü açığa çıkarmak için ATEŞ ET ve ileri doğru giderek isabet ettiği düşmanlara Görüş Kısıtlama ve Yavaşlatma uygulayan bir su dalgası oluştur.",
+							"vi-VN": "TRANG BỊ Thủy Nộ. BẮN để giải phóng toàn bộ sức mạnh của tạo vật, phóng ra một dòng nước dữ dội lao thẳng về phía trước, Hạn Chế Tầm Nhìn và Làm Chậm kẻ địch trúng phải.",
+							"zh-CN": "装备怒涛。按【射击】释放圣物的全部力量，激起汹涌水流向前奔涌，被水流命中的敌人会受到【视野收缩】和【减速】。",
+							"zh-TW": "裝備「湧泉審判」。點擊「攻擊」釋放古文物的全部威力，形成一道湧浪往前翻湧，命中的敵軍會遭到緩速和限制視野。"
 						}
 					},
 					"label": "95B78ED7-4637-86D9-7E41-71BA8C293152_Ultimate",
@@ -3559,18 +3559,18 @@
 							"en-US": "Reckoning",
 							"es-ES": "Ajuste de cuentas",
 							"es-MX": "Cataclismo",
-							"fr-FR": "Geysers diluviens",
+							"fr-FR": "Raz-de-marée",
 							"id-ID": "Reckoning",
 							"it-IT": "Resa dei conti",
 							"ja-JP": "レコニング",
 							"ko-KR": "심판",
 							"pl-PL": "Rozrachunek",
 							"pt-BR": "Acerto de Contas",
-							"ru-RU": "Расчет направления",
+							"ru-RU": "Расчет курса",
 							"th-TH": "Reckoning",
 							"tr-TR": "KAYNAMA NOKTASI",
 							"vi-VN": "Thủy Nộ",
-							"zh-CN": "爆泉",
+							"zh-CN": "怒涛",
 							"zh-TW": "湧泉審判"
 						}
 					}
@@ -4621,7 +4621,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "تجهّز بدوّامة. أطلق لوضعها على الأرض. عند الوجود ضمن النطاق والنظر إلى الدوّامة، قم بالتفعيل لتنفيذ الانتقال السريع إليها. خلال مرحلة الشراء، يمكن استرجاع الدوّامة لإعادة نشرها.",
-							"de-DE": "RÜSTE einen Strudel AUS. FEUERE, um ihn auf dem Boden zu platzieren. Solange du in Reichweite bist und den Strudel ansiehst, AKTIVIERE die Fähigkeit erneut um dich zum Strudel zu teleportieren. In der KAUFPHASE kann der Strudel zurückgeholt und NEU AUFGESTELLT werden.",
+							"de-DE": "RÜSTE einen Strudel AUS. FEUERE, um ihn auf dem Boden zu platzieren. Solange du in Reichweite bist und den Strudel ansiehst, kannst du ihn AKTIVIEREN, um dich zu ihm zu teleportieren. In der KAUFPHASE kann der Strudel zurückgeholt und NEU AUFGESTELLT werden.",
 							"en-US": "EQUIP a vortex. FIRE to place on the ground. While in range and looking at the vortex, ACTIVATE to teleport to the vortex. During the BUY PHASE, the vortex can be reclaimed to be REDEPLOYED.",
 							"es-ES": "EQUIPA un remolino. DISPARA para colocarlo en el suelo. Cuando tengas el remolino al alcance y te posiciones en su dirección, ACTIVA para teleportarte hasta él. Durante la FASE DE COMPRA, puede recuperarse el remolino para VOLVER A COLOCARLO.",
 							"es-MX": "EQUIPA un vórtice. DISPARA para colocarlo en el suelo. Mientras estés dentro del alcance y mirando al vórtice, ACTIVA para teletransportarte a él. Durante la FASE DE COMPRA, el vórtice se puede recuperar para VOLVER A USARLO.",
@@ -7494,7 +7494,7 @@
 							"it-IT": "Passo velato",
 							"ja-JP": "シュラウドステップ",
 							"ko-KR": "어둠의 발자국",
-							"pl-PL": "Krok w mrok",
+							"pl-PL": "Krok w Mrok",
 							"pt-BR": "Passos Tenebrosos",
 							"ru-RU": "Скрытый шаг",
 							"th-TH": "Shrouded Step",
@@ -26455,6 +26455,215 @@
 		},
 		{
 			"weaponId": "9C82E19D-4575-0200-1A81-3EACF00CF872",
+			"defaultChromaId": "296D373F-4838-5712-D8D4-EAAF5CFABE79",
+			"chromas": [
+				{
+					"id": "296D373F-4838-5712-D8D4-EAAF5CFABE79",
+					"label": "296D373F-4838-5712-D8D4-EAAF5CFABE79",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap فاندال",
+							"de-DE": "Vandal – ORA by OneTap",
+							"en-US": "ORA by OneTap Vandal",
+							"es-ES": "Vandal ORA by OneTap",
+							"es-MX": "Vandal ORA por OneTap",
+							"fr-FR": "Vandal (ORA par OneTap)",
+							"id-ID": "ORA by OneTap Vandal",
+							"it-IT": "Vandal ORA by OneTap",
+							"ja-JP": "オラ by OneTap ヴァンダル",
+							"ko-KR": "오라 바이 원탭 밴달",
+							"pl-PL": "Vandal ORA od OneTap",
+							"pt-BR": "Vandal ORA por OneTap",
+							"ru-RU": "Vandal \"ORA от OneTap\"",
+							"th-TH": "ORA by OneTap Vandal",
+							"tr-TR": "OneTap'ten ORA Vandal",
+							"vi-VN": "Vandal ORA by OneTap",
+							"zh-CN": "ORA x 颗秒 狂徒",
+							"zh-TW": "猛攻之境 暴徒"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "97855211-4064-4FA5-996C-CC840C587CC8",
+					"label": "97855211-4064-4FA5-996C-CC840C587CC8",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap فاندال",
+							"de-DE": "Vandal – ORA by OneTap",
+							"en-US": "ORA by OneTap Vandal",
+							"es-ES": "Vandal ORA by OneTap",
+							"es-MX": "Vandal ORA por OneTap",
+							"fr-FR": "Vandal (ORA par OneTap)",
+							"id-ID": "ORA by OneTap Vandal",
+							"it-IT": "Vandal ORA by OneTap",
+							"ja-JP": "オラ by OneTap ヴァンダル",
+							"ko-KR": "오라 바이 원탭 밴달",
+							"pl-PL": "Vandal ORA od OneTap",
+							"pt-BR": "Vandal ORA por OneTap",
+							"ru-RU": "Vandal \"ORA от OneTap\"",
+							"th-TH": "ORA by OneTap Vandal",
+							"tr-TR": "OneTap'ten ORA Vandal",
+							"vi-VN": "Vandal ORA by OneTap",
+							"zh-CN": "ORA x 颗秒 狂徒",
+							"zh-TW": "猛攻之境 暴徒"
+						}
+					}
+				},
+				{
+					"id": "5EB5108F-4E2F-5E1E-5D72-859BB29E6971",
+					"label": "5EB5108F-4E2F-5E1E-5D72-859BB29E6971",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Vandal Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap فاندال المستوى 2",
+							"de-DE": "Vandal – ORA by OneTap Level 2",
+							"en-US": "ORA by OneTap Vandal Level 2",
+							"es-ES": "Vandal ORA by OneTap de nivel 2",
+							"es-MX": "Vandal ORA por OneTap nivel 2",
+							"fr-FR": "Vandal (ORA par OneTap) niveau 2",
+							"id-ID": "ORA by OneTap Vandal Level 2",
+							"it-IT": "Vandal ORA by OneTap livello 2",
+							"ja-JP": "オラ by OneTap ヴァンダル Lv.2",
+							"ko-KR": "오라 바이 원탭 밴달 2레벨",
+							"pl-PL": "Vandal ORA od OneTap (poziom 2)",
+							"pt-BR": "Vandal ORA por OneTap Nível 2",
+							"ru-RU": "Vandal \"ORA от OneTap\" уровень 2",
+							"th-TH": "ORA by OneTap Vandal เลเวล 2",
+							"tr-TR": "OneTap'ten ORA Vandal 2. Seviye",
+							"vi-VN": "Vandal ORA by OneTap Cấp 2",
+							"zh-CN": "ORA x 颗秒 狂徒 等级2",
+							"zh-TW": "猛攻之境 暴徒 等級2"
+						}
+					}
+				},
+				{
+					"id": "022779E9-497D-CE08-1531-5190F9FEF4A8",
+					"label": "022779E9-497D-CE08-1531-5190F9FEF4A8",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Vandal Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap فاندال المستوى 3",
+							"de-DE": "Vandal – ORA by OneTap Level 3",
+							"en-US": "ORA by OneTap Vandal Level 3",
+							"es-ES": "Vandal ORA by OneTap de nivel 3",
+							"es-MX": "Vandal ORA por OneTap nivel 3",
+							"fr-FR": "Vandal (ORA par OneTap) niveau 3",
+							"id-ID": "ORA by OneTap Vandal Level 3",
+							"it-IT": "Vandal ORA by OneTap livello 3",
+							"ja-JP": "オラ by OneTap ヴァンダル Lv.3",
+							"ko-KR": "오라 바이 원탭 밴달 3레벨",
+							"pl-PL": "Vandal ORA od OneTap (poziom 3)",
+							"pt-BR": "Vandal ORA por OneTap Nível 3",
+							"ru-RU": "Vandal \"ORA от OneTap\" уровень 3",
+							"th-TH": "ORA by OneTap Vandal เลเวล 3",
+							"tr-TR": "OneTap'ten ORA Vandal 3. Seviye",
+							"vi-VN": "Vandal ORA by OneTap Cấp 3",
+							"zh-CN": "ORA x 颗秒 狂徒 等级3",
+							"zh-TW": "猛攻之境 暴徒 等級3"
+						}
+					}
+				},
+				{
+					"id": "9CC31F78-4B1C-DA9B-AF8C-80B253367ECD",
+					"label": "9CC31F78-4B1C-DA9B-AF8C-80B253367ECD",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Vandal Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap فاندال المستوى 4",
+							"de-DE": "Vandal – ORA by OneTap Level 4",
+							"en-US": "ORA by OneTap Vandal Level 4",
+							"es-ES": "Vandal ORA by OneTap de nivel 4",
+							"es-MX": "Vandal ORA por OneTap nivel 4",
+							"fr-FR": "Vandal (ORA par OneTap) niveau 4",
+							"id-ID": "ORA by OneTap Vandal Level 4",
+							"it-IT": "Vandal ORA by OneTap livello 4",
+							"ja-JP": "オラ by OneTap ヴァンダル Lv.4",
+							"ko-KR": "오라 바이 원탭 밴달 4레벨",
+							"pl-PL": "Vandal ORA od OneTap (poziom 4)",
+							"pt-BR": "Vandal ORA por OneTap Nível 4",
+							"ru-RU": "Vandal \"ORA от OneTap\" уровень 4",
+							"th-TH": "ORA by OneTap Vandal เลเวล 4",
+							"tr-TR": "OneTap'ten ORA Vandal 4. Seviye",
+							"vi-VN": "Vandal ORA by OneTap Cấp 4",
+							"zh-CN": "ORA x 颗秒 狂徒 等级4",
+							"zh-TW": "猛攻之境 暴徒 等級4"
+						}
+					}
+				},
+				{
+					"id": "4356A6C4-428B-A1EF-F31D-0E9BCFA69306",
+					"label": "4356A6C4-428B-A1EF-F31D-0E9BCFA69306",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Vandal Level 5\r\nInspect weapon pre-round to change between five songs",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap فاندال المستوى 5\r\nقم بمعاينة السلاح قبل الجولة لاختيار واحدة من بين خمس أغنيات",
+							"de-DE": "Vandal – ORA by OneTap Level 5\r\nInspiziere die Waffe vor der Runde, um zwischen fünf Songs zu wechseln.",
+							"en-US": "ORA by OneTap Vandal Level 5\r\nInspect weapon pre-round to change between five songs",
+							"es-ES": "Vandal ORA by OneTap de nivel 5\r\nInspecciona el arma en la prerronda para cambiar entre cinco canciones",
+							"es-MX": "Vandal ORA por OneTap nivel 5\r\nExamina el arma durante la prerronda para alternar entre cinco canciones",
+							"fr-FR": "Vandal (ORA par OneTap) niveau 5\r\nInspectez l'arme en pré-manche pour choisir une des cinq chansons.",
+							"id-ID": "ORA by OneTap Vandal Level 5\r\nInspeksi senjata sebelum ronde dimulai untuk mengganti lagu dari lima pilihan",
+							"it-IT": "Vandal ORA by OneTap livello 5\r\nIspeziona l'arma in fase pre-round per scorrere tra i cinque brani",
+							"ja-JP": "オラ by OneTap ヴァンダル Lv.5\r\nラウンド開始前に武器を見る動作を行うことで、5つの楽曲を切り替え可能",
+							"ko-KR": "오라 바이 원탭 밴달 5레벨\r\n라운드 이전에 자세히 보기를 눌러 다섯 가지 곡 중에 한 곡으로 전환해 보세요.",
+							"pl-PL": "Vandal ORA od OneTap (poziom 5)\r\nSprawdź broń przed rundą, by wybrać jedną z pięciu piosenek",
+							"pt-BR": "Vandal ORA por OneTap Nível 5\r\nInspecione a arma antes da rodada para escolher entre cinco músicas",
+							"ru-RU": "Vandal \"ORA от OneTap\" уровень 5\r\nОсмотрите оружие до начала раунда, чтобы выбрать одну из 5 песен",
+							"th-TH": "ORA by OneTap Vandal เลเวล 5\r\nตรวจสอบอาวุธก่อนเริ่มรอบเพื่อเปลี่ยนไปมาระหว่างห้าเพลง",
+							"tr-TR": "OneTap'ten ORA Vandal 5. Seviye\r\nBeş şarkı arasında geçiş yapmak için tur başlamadan silahı incele.",
+							"vi-VN": "Vandal ORA by OneTap Cấp 5\r\nChiêm ngưỡng vũ khí trước vòng đấu để thay đổi giữa 5 ca khúc",
+							"zh-CN": "ORA x 颗秒 狂徒 等级5\r\n在回合开始前检视武器，即可在五首曲目间切换",
+							"zh-TW": "猛攻之境 暴徒 等級5\r\n在回合開始前查看武器，即可在五首歌曲間切換"
+						}
+					}
+				}
+			],
+			"id": "2EF9EE97-4735-E7D9-069F-FB80541468B5",
+			"label": "2EF9EE97-4735-E7D9-069F-FB80541468B5",
+			"name":
+			{
+				"defaultText": "ORA by OneTap Vandal",
+				"localizedByCulture":
+				{
+					"ar-AE": "‏ORA by OneTap فاندال",
+					"de-DE": "Vandal – ORA by OneTap",
+					"en-US": "ORA by OneTap Vandal",
+					"es-ES": "Vandal ORA by OneTap",
+					"es-MX": "Vandal ORA por OneTap",
+					"fr-FR": "Vandal (ORA par OneTap)",
+					"id-ID": "ORA by OneTap Vandal",
+					"it-IT": "Vandal ORA by OneTap",
+					"ja-JP": "オラ by OneTap ヴァンダル",
+					"ko-KR": "오라 바이 원탭 밴달",
+					"pl-PL": "Vandal ORA od OneTap",
+					"pt-BR": "Vandal ORA por OneTap",
+					"ru-RU": "Vandal \"ORA от OneTap\"",
+					"th-TH": "ORA by OneTap Vandal",
+					"tr-TR": "OneTap'ten ORA Vandal",
+					"vi-VN": "Vandal ORA by OneTap",
+					"zh-CN": "ORA x 颗秒 狂徒",
+					"zh-TW": "猛攻之境 暴徒"
+				}
+			}
+		},
+		{
+			"weaponId": "9C82E19D-4575-0200-1A81-3EACF00CF872",
 			"defaultChromaId": "8B1098F4-41D0-043D-382A-19A2DFF966BB",
 			"chromas": [
 				{
@@ -35981,7 +36190,7 @@
 							"id-ID": "Ego Vandal",
 							"it-IT": "Vandal Ego",
 							"ja-JP": "エゴ ヴァンダル",
-							"ko-KR": "원탭 밴달",
+							"ko-KR": "에고 밴달",
 							"pl-PL": "Vandal Ego",
 							"pt-BR": "Vandal Ego",
 							"ru-RU": "Vandal \"Эго\"",
@@ -36010,7 +36219,7 @@
 							"id-ID": "Ego Vandal\n(Varian 1 Merah)",
 							"it-IT": "Vandal Ego\n(variante 1 Rossa)",
 							"ja-JP": "エゴ ヴァンダル\n(ヴァリアント 1 レッド)",
-							"ko-KR": "원탭 밴달\n(변형 1 빨간색)",
+							"ko-KR": "에고 밴달\n(변형 1 빨간색)",
 							"pl-PL": "Vandal Ego\n(wersja 1 – czerwona)",
 							"pt-BR": "Vandal Ego\r\n(Variante 1 Vermelha)",
 							"ru-RU": "Vandal \"Эго\"\n(расцветка 1 \"Красный\")",
@@ -36039,7 +36248,7 @@
 							"id-ID": "Ego Vandal\n(Varian 2 Cokelat Tua)",
 							"it-IT": "Vandal Ego\n(variante 2 Pelle)",
 							"ja-JP": "エゴ ヴァンダル\n(ヴァリアント 2 タン)",
-							"ko-KR": "원탭 밴달\n(변형 2 갈색)",
+							"ko-KR": "에고 밴달\n(변형 2 갈색)",
 							"pl-PL": "Vandal Ego\n(wersja 2 – jasnobrązowa)",
 							"pt-BR": "Vandal Ego\r\n(Variante 2 Creme)",
 							"ru-RU": "Vandal \"Эго\"\n(расцветка 2 \"Хаки\")",
@@ -36068,7 +36277,7 @@
 							"id-ID": "Ego Vandal\n(Varian 3 Merah Muda)",
 							"it-IT": "Vandal Ego\n(variante 3 Rosa)",
 							"ja-JP": "エゴ ヴァンダル\n(ヴァリアント 3 ピンク)",
-							"ko-KR": "원탭 밴달\n(변형 3 분홍색)",
+							"ko-KR": "에고 밴달\n(변형 3 분홍색)",
 							"pl-PL": "Vandal Ego\n(wersja 3 – różowa)",
 							"pt-BR": "Vandal Ego\r\n(Variante 3 Rosa)",
 							"ru-RU": "Vandal \"Эго\"\n(расцветка 3 \"Розовый\")",
@@ -36099,7 +36308,7 @@
 							"id-ID": "Ego Vandal",
 							"it-IT": "Vandal Ego",
 							"ja-JP": "エゴ ヴァンダル",
-							"ko-KR": "원탭 밴달",
+							"ko-KR": "에고 밴달",
 							"pl-PL": "Vandal Ego",
 							"pt-BR": "Vandal Ego",
 							"ru-RU": "Vandal \"Эго\"",
@@ -36128,7 +36337,7 @@
 					"id-ID": "Ego Vandal",
 					"it-IT": "Vandal Ego",
 					"ja-JP": "エゴ ヴァンダル",
-					"ko-KR": "원탭 밴달",
+					"ko-KR": "에고 밴달",
 					"pl-PL": "Vandal Ego",
 					"pt-BR": "Vandal Ego",
 					"ru-RU": "Vandal \"Эго\"",
@@ -50754,6 +50963,215 @@
 		},
 		{
 			"weaponId": "EE8E8D15-496B-07AC-E5F6-8FAE5D4C7B1A",
+			"defaultChromaId": "75AB3A8E-471C-00C7-5E38-37AD5E1BFF6A",
+			"chromas": [
+				{
+					"id": "75AB3A8E-471C-00C7-5E38-37AD5E1BFF6A",
+					"label": "75AB3A8E-471C-00C7-5E38-37AD5E1BFF6A",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Phantom",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap فانتوم",
+							"de-DE": "Phantom – ORA by OneTap",
+							"en-US": "ORA by OneTap Phantom",
+							"es-ES": "Phantom ORA by OneTap",
+							"es-MX": "Phantom ORA por OneTap",
+							"fr-FR": "Phantom (ORA par OneTap)",
+							"id-ID": "ORA by OneTap Phantom",
+							"it-IT": "Phantom ORA by OneTap",
+							"ja-JP": "オラ by OneTap ファントム",
+							"ko-KR": "오라 바이 원탭 팬텀",
+							"pl-PL": "Phantom ORA od OneTap",
+							"pt-BR": "Phantom ORA por OneTap",
+							"ru-RU": "Phantom \"ORA от OneTap\"",
+							"th-TH": "ORA by OneTap Phantom",
+							"tr-TR": "OneTap'ten ORA Phantom",
+							"vi-VN": "Phantom ORA by OneTap",
+							"zh-CN": "ORA x 颗秒 幻影",
+							"zh-TW": "猛攻之境 幻象"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "DB34A41C-460D-35E1-02D7-ADB5DA26AC86",
+					"label": "DB34A41C-460D-35E1-02D7-ADB5DA26AC86",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Phantom",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap فانتوم",
+							"de-DE": "Phantom – ORA by OneTap",
+							"en-US": "ORA by OneTap Phantom",
+							"es-ES": "Phantom ORA by OneTap",
+							"es-MX": "Phantom ORA por OneTap",
+							"fr-FR": "Phantom (ORA par OneTap)",
+							"id-ID": "ORA by OneTap Phantom",
+							"it-IT": "Phantom ORA by OneTap",
+							"ja-JP": "オラ by OneTap ファントム",
+							"ko-KR": "오라 바이 원탭 팬텀",
+							"pl-PL": "Phantom ORA od OneTap",
+							"pt-BR": "Phantom ORA por OneTap",
+							"ru-RU": "Phantom \"ORA от OneTap\"",
+							"th-TH": "ORA by OneTap Phantom",
+							"tr-TR": "OneTap'ten ORA Phantom",
+							"vi-VN": "Phantom ORA by OneTap",
+							"zh-CN": "ORA x 颗秒 幻影",
+							"zh-TW": "猛攻之境 幻象"
+						}
+					}
+				},
+				{
+					"id": "82DBBB54-466A-409D-DCD6-F2977B45A464",
+					"label": "82DBBB54-466A-409D-DCD6-F2977B45A464",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Phantom Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap فانتوم المستوى 2",
+							"de-DE": "Phantom – ORA by OneTap Level 2",
+							"en-US": "ORA by OneTap Phantom Level 2",
+							"es-ES": "Phantom ORA by OneTap de nivel 2",
+							"es-MX": "Phantom ORA por OneTap nivel 2",
+							"fr-FR": "Phantom (ORA par OneTap) niveau 2",
+							"id-ID": "ORA by OneTap Phantom Level 2",
+							"it-IT": "Phantom ORA by OneTap livello 2",
+							"ja-JP": "オラ by OneTap ファントム Lv.2",
+							"ko-KR": "오라 바이 원탭 팬텀 2레벨",
+							"pl-PL": "Phantom ORA od OneTap (poziom 2)",
+							"pt-BR": "Phantom ORA por OneTap Nível 2",
+							"ru-RU": "Phantom \"ORA от OneTap\" уровень 2",
+							"th-TH": "ORA by OneTap Phantom เลเวล 2",
+							"tr-TR": "OneTap'ten ORA Phantom 2. Seviye",
+							"vi-VN": "Phantom ORA by OneTap Cấp 2",
+							"zh-CN": "ORA x 颗秒 幻影 等级2",
+							"zh-TW": "猛攻之境 幻象 等級2"
+						}
+					}
+				},
+				{
+					"id": "17C1C94C-4A07-638A-9636-32869448483B",
+					"label": "17C1C94C-4A07-638A-9636-32869448483B",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Phantom Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap فانتوم المستوى 3",
+							"de-DE": "Phantom – ORA by OneTap Level 3",
+							"en-US": "ORA by OneTap Phantom Level 3",
+							"es-ES": "Phantom ORA by OneTap de nivel 3",
+							"es-MX": "Phantom ORA por OneTap nivel 3",
+							"fr-FR": "Phantom (ORA par OneTap) niveau 3",
+							"id-ID": "ORA by OneTap Phantom Level 3",
+							"it-IT": "Phantom ORA by OneTap livello 3",
+							"ja-JP": "オラ by OneTap ファントム Lv.3",
+							"ko-KR": "오라 바이 원탭 팬텀 3레벨",
+							"pl-PL": "Phantom ORA od OneTap (poziom 3)",
+							"pt-BR": "Phantom ORA por OneTap Nível 3",
+							"ru-RU": "Phantom \"ORA от OneTap\" уровень 3",
+							"th-TH": "ORA by OneTap Phantom เลเวล 3",
+							"tr-TR": "OneTap'ten ORA Phantom 3. Seviye",
+							"vi-VN": "Phantom ORA by OneTap Cấp 3",
+							"zh-CN": "ORA x 颗秒 幻影 等级3",
+							"zh-TW": "猛攻之境 幻象 等級3"
+						}
+					}
+				},
+				{
+					"id": "465012D8-405D-6F7A-1A43-97886EA3EF81",
+					"label": "465012D8-405D-6F7A-1A43-97886EA3EF81",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Phantom Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap فانتوم المستوى 4",
+							"de-DE": "Phantom – ORA by OneTap Level 4",
+							"en-US": "ORA by OneTap Phantom Level 4",
+							"es-ES": "Phantom ORA by OneTap de nivel 4",
+							"es-MX": "Phantom ORA por OneTap nivel 4",
+							"fr-FR": "Phantom (ORA par OneTap) niveau 4",
+							"id-ID": "ORA by OneTap Phantom Level 4",
+							"it-IT": "Phantom ORA by OneTap livello 4",
+							"ja-JP": "オラ by OneTap ファントム Lv.4",
+							"ko-KR": "오라 바이 원탭 팬텀 4레벨",
+							"pl-PL": "Phantom ORA od OneTap (poziom 4)",
+							"pt-BR": "Phantom ORA por OneTap Nível 4",
+							"ru-RU": "Phantom \"ORA от OneTap\" уровень 4",
+							"th-TH": "ORA by OneTap Phantom เลเวล 4",
+							"tr-TR": "OneTap'ten ORA Phantom 4. Seviye",
+							"vi-VN": "Phantom ORA by OneTap Cấp 4",
+							"zh-CN": "ORA x 颗秒 幻影 等级4",
+							"zh-TW": "猛攻之境 幻象 等級4"
+						}
+					}
+				},
+				{
+					"id": "31304321-4FAD-2E7C-A421-4BBBFE7A6DFF",
+					"label": "31304321-4FAD-2E7C-A421-4BBBFE7A6DFF",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Phantom Level 5\r\nInspect weapon pre-round to change between five songs",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap فانتوم المستوى 5\r\nقم بمعاينة السلاح قبل الجولة لاختيار واحدة من بين خمس أغنيات",
+							"de-DE": "Phantom – ORA by OneTap Level 5\r\nInspiziere die Waffe vor der Runde, um zwischen fünf Songs zu wechseln.",
+							"en-US": "ORA by OneTap Phantom Level 5\r\nInspect weapon pre-round to change between five songs",
+							"es-ES": "Phantom ORA by OneTap de nivel 5\r\nInspecciona el arma en la prerronda para cambiar entre cinco canciones",
+							"es-MX": "Phantom ORA por OneTap nivel 5\r\nExamina el arma durante la prerronda para alternar entre cinco canciones",
+							"fr-FR": "Phantom (ORA par OneTap) niveau 5\r\nInspectez l'arme en pré-manche pour choisir une des cinq chansons.",
+							"id-ID": "ORA by OneTap Phantom Level 5\r\nInspeksi senjata sebelum ronde dimulai untuk mengganti lagu dari lima pilihan",
+							"it-IT": "Phantom ORA by OneTap livello 5\r\nIspeziona l'arma in fase pre-round per scorrere tra i cinque brani",
+							"ja-JP": "オラ by OneTap ファントム Lv.5\r\nラウンド開始前に武器を見る動作を行うことで、5つの楽曲を切り替え可能",
+							"ko-KR": "오라 바이 원탭 팬텀 5레벨\r\n라운드 이전에 자세히 보기를 눌러 다섯 가지 곡 중에 한 곡으로 전환해 보세요.",
+							"pl-PL": "Phantom ORA od OneTap (poziom 5)\r\nSprawdź broń przed rundą, by wybrać jedną z pięciu piosenek",
+							"pt-BR": "Phantom ORA por OneTap Nível 5\r\nInspecione a arma antes da rodada para escolher entre cinco músicas",
+							"ru-RU": "Phantom \"ORA от OneTap\" уровень 5\r\nОсмотрите оружие до начала раунда, чтобы выбрать одну из 5 песен",
+							"th-TH": "ORA by OneTap Phantom เลเวล 5\r\nตรวจสอบอาวุธก่อนเริ่มรอบเพื่อเปลี่ยนไปมาระหว่างห้าเพลง",
+							"tr-TR": "OneTap'ten ORA Phantom 5. Seviye\r\nBeş şarkı arasında geçiş yapmak için tur başlamadan silahı incele.",
+							"vi-VN": "Phantom ORA by OneTap Cấp 5\r\nChiêm ngưỡng vũ khí trước vòng đấu để thay đổi giữa 5 ca khúc",
+							"zh-CN": "ORA x 颗秒 幻影 等级5\r\n在回合开始前检视武器，即可在五首曲目间切换",
+							"zh-TW": "猛攻之境 幻象 等級5\r\n在回合開始前查看武器，即可在五首歌曲間切換"
+						}
+					}
+				}
+			],
+			"id": "7581E975-418F-FE4F-E3B0-08A3000E9A8D",
+			"label": "7581E975-418F-FE4F-E3B0-08A3000E9A8D",
+			"name":
+			{
+				"defaultText": "ORA by OneTap Phantom",
+				"localizedByCulture":
+				{
+					"ar-AE": "‏ORA by OneTap فانتوم",
+					"de-DE": "Phantom – ORA by OneTap",
+					"en-US": "ORA by OneTap Phantom",
+					"es-ES": "Phantom ORA by OneTap",
+					"es-MX": "Phantom ORA por OneTap",
+					"fr-FR": "Phantom (ORA par OneTap)",
+					"id-ID": "ORA by OneTap Phantom",
+					"it-IT": "Phantom ORA by OneTap",
+					"ja-JP": "オラ by OneTap ファントム",
+					"ko-KR": "오라 바이 원탭 팬텀",
+					"pl-PL": "Phantom ORA od OneTap",
+					"pt-BR": "Phantom ORA por OneTap",
+					"ru-RU": "Phantom \"ORA от OneTap\"",
+					"th-TH": "ORA by OneTap Phantom",
+					"tr-TR": "OneTap'ten ORA Phantom",
+					"vi-VN": "Phantom ORA by OneTap",
+					"zh-CN": "ORA x 颗秒 幻影",
+					"zh-TW": "猛攻之境 幻象"
+				}
+			}
+		},
+		{
+			"weaponId": "EE8E8D15-496B-07AC-E5F6-8FAE5D4C7B1A",
 			"defaultChromaId": "A6798C54-438D-C398-A8FF-4F9558A9C782",
 			"chromas": [
 				{
@@ -59212,7 +59630,7 @@
 							"de-DE": "Phantom – Herzenssucher",
 							"en-US": "Heartseeker Phantom",
 							"es-ES": "Phantom Heartseeker",
-							"es-MX": "Phantom Cazacorazones",
+							"es-MX": "Phantom Atrapacorazones",
 							"fr-FR": "Phantom (Amoureux de l'amour)",
 							"id-ID": "Heartseeker Phantom",
 							"it-IT": "Phantom Cercacuore",
@@ -59243,7 +59661,7 @@
 							"de-DE": "Phantom – Herzenssucher",
 							"en-US": "Heartseeker Phantom",
 							"es-ES": "Phantom Heartseeker",
-							"es-MX": "Phantom Cazacorazones",
+							"es-MX": "Phantom Atrapacorazones",
 							"fr-FR": "Phantom (Amoureux de l'amour)",
 							"id-ID": "Heartseeker Phantom",
 							"it-IT": "Phantom Cercacuore",
@@ -59272,7 +59690,7 @@
 					"de-DE": "Phantom – Herzenssucher",
 					"en-US": "Heartseeker Phantom",
 					"es-ES": "Phantom Heartseeker",
-					"es-MX": "Phantom Cazacorazones",
+					"es-MX": "Phantom Atrapacorazones",
 					"fr-FR": "Phantom (Amoureux de l'amour)",
 					"id-ID": "Heartseeker Phantom",
 					"it-IT": "Phantom Cercacuore",
@@ -108554,7 +108972,7 @@
 							"tr-TR": "4. Seviye Fatih Ghost\n(Stil 1 - Yeşil)",
 							"vi-VN": "Ghost Sovereign Cấp 4\n(Dạng 1 Ánh Lục)",
 							"zh-CN": "天界神兵 鬼魅 等级4\r\n（炫彩1 绿色）",
-							"zh-TW": "鎏金帝王 鬼魅 等級4\n\n（幻彩1 綠色）"
+							"zh-TW": "鎏金帝王 鬼魅 等級4\n（幻彩1 綠色）"
 						}
 					}
 				},
@@ -110300,7 +110718,7 @@
 							"id-ID": "Ego Ghost",
 							"it-IT": "Ghost Ego",
 							"ja-JP": "エゴ ゴースト",
-							"ko-KR": "원탭 고스트",
+							"ko-KR": "에고 고스트",
 							"pl-PL": "Ghost Ego",
 							"pt-BR": "Ghost Ego",
 							"ru-RU": "Ghost \"Эго\"",
@@ -110329,7 +110747,7 @@
 							"id-ID": "Ego Ghost\n(Varian 1 Merah)",
 							"it-IT": "Ghost Ego\n(variante 1 Rossa)",
 							"ja-JP": "エゴ ゴースト\n(ヴァリアント 1 レッド)",
-							"ko-KR": "원탭 고스트\n(변형 1 빨간색)",
+							"ko-KR": "에고 고스트\n(변형 1 빨간색)",
 							"pl-PL": "Ghost Ego\n(wersja 1 – czerwona)",
 							"pt-BR": "Ghost Ego\r\n(Variante 1 Vermelha)",
 							"ru-RU": "Ghost \"Эго\"\n(расцветка 1 \"Красный\")",
@@ -110358,7 +110776,7 @@
 							"id-ID": "Ego Ghost\n(Varian 2 Cokelat Tua)",
 							"it-IT": "Ghost Ego\n(variante 2 Pelle)",
 							"ja-JP": "エゴ ゴースト\n(ヴァリアント 2 タン)",
-							"ko-KR": "원탭 고스트\n(변형 2 갈색)",
+							"ko-KR": "에고 고스트\n(변형 2 갈색)",
 							"pl-PL": "Ghost Ego\n(wersja 2 – jasnobrązowa)",
 							"pt-BR": "Ghost Ego\r\n(Variante 2 Creme)",
 							"ru-RU": "Ghost \"Эго\"\n(расцветка 2 \"Хаки\")",
@@ -110387,7 +110805,7 @@
 							"id-ID": "Ego Ghost\n(Varian 3 Merah Muda)",
 							"it-IT": "Ghost Ego\n(variante 3 Rosa)",
 							"ja-JP": "エゴ ゴースト\n(ヴァリアント 3 ピンク)",
-							"ko-KR": "원탭 고스트\n(변형 3 분홍색)",
+							"ko-KR": "에고 고스트\n(변형 3 분홍색)",
 							"pl-PL": "Ghost Ego\n(wersja 3 – różowa)",
 							"pt-BR": "Ghost Ego\r\n(Variante 3 Rosa)",
 							"ru-RU": "Ghost \"Эго\"\n(расцветка 3 \"Розовый\")",
@@ -110418,7 +110836,7 @@
 							"id-ID": "Ego Ghost",
 							"it-IT": "Ghost Ego",
 							"ja-JP": "エゴ ゴースト",
-							"ko-KR": "원탭 고스트",
+							"ko-KR": "에고 고스트",
 							"pl-PL": "Ghost Ego",
 							"pt-BR": "Ghost Ego",
 							"ru-RU": "Ghost \"Эго\"",
@@ -110447,7 +110865,7 @@
 					"id-ID": "Ego Ghost",
 					"it-IT": "Ghost Ego",
 					"ja-JP": "エゴ ゴースト",
-					"ko-KR": "원탭 고스트",
+					"ko-KR": "에고 고스트",
 					"pl-PL": "Ghost Ego",
 					"pt-BR": "Ghost Ego",
 					"ru-RU": "Ghost \"Эго\"",
@@ -113923,6 +114341,215 @@
 					"vi-VN": "Sheriff Singularity",
 					"zh-CN": "奇点 正义",
 					"zh-TW": "奇點 神射"
+				}
+			}
+		},
+		{
+			"weaponId": "E336C6B8-418D-9340-D77F-7A9E4CFE0702",
+			"defaultChromaId": "5B9779B4-48CC-E53C-4043-3681C7067DDB",
+			"chromas": [
+				{
+					"id": "5B9779B4-48CC-E53C-4043-3681C7067DDB",
+					"label": "5B9779B4-48CC-E53C-4043-3681C7067DDB",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Sheriff",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap شيريف",
+							"de-DE": "Sheriff – ORA by OneTap",
+							"en-US": "ORA by OneTap Sheriff",
+							"es-ES": "Sheriff ORA by OneTap",
+							"es-MX": "Sheriff ORA por OneTap",
+							"fr-FR": "Sheriff (ORA par OneTap)",
+							"id-ID": "ORA by OneTap Sheriff",
+							"it-IT": "Sheriff ORA by OneTap",
+							"ja-JP": "オラ by OneTap シェリフ",
+							"ko-KR": "오라 바이 원탭 셰리프",
+							"pl-PL": "Sheriff ORA od OneTap",
+							"pt-BR": "Sheriff ORA por OneTap",
+							"ru-RU": "Sheriff \"ORA от OneTap\"",
+							"th-TH": "ORA by OneTap Sheriff",
+							"tr-TR": "OneTap'ten ORA Sheriff",
+							"vi-VN": "Sheriff ORA by OneTap",
+							"zh-CN": "ORA x 颗秒 正义",
+							"zh-TW": "猛攻之境 神射"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "9F44D797-473F-C285-FC2B-66AD365E6FDA",
+					"label": "9F44D797-473F-C285-FC2B-66AD365E6FDA",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Sheriff",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap شيريف",
+							"de-DE": "Sheriff – ORA by OneTap",
+							"en-US": "ORA by OneTap Sheriff",
+							"es-ES": "Sheriff ORA by OneTap",
+							"es-MX": "Sheriff ORA por OneTap",
+							"fr-FR": "Sheriff (ORA par OneTap)",
+							"id-ID": "ORA by OneTap Sheriff",
+							"it-IT": "Sheriff ORA by OneTap",
+							"ja-JP": "オラ by OneTap シェリフ",
+							"ko-KR": "오라 바이 원탭 셰리프",
+							"pl-PL": "Sheriff ORA od OneTap",
+							"pt-BR": "Sheriff ORA por OneTap",
+							"ru-RU": "Sheriff \"ORA от OneTap\"",
+							"th-TH": "ORA by OneTap Sheriff",
+							"tr-TR": "OneTap'ten ORA Sheriff",
+							"vi-VN": "Sheriff ORA by OneTap",
+							"zh-CN": "ORA x 颗秒 正义",
+							"zh-TW": "猛攻之境 神射"
+						}
+					}
+				},
+				{
+					"id": "7B56396D-4E23-799A-B96C-C790706E9E86",
+					"label": "7B56396D-4E23-799A-B96C-C790706E9E86",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Sheriff Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap شيريف المستوى 2",
+							"de-DE": "Sheriff – ORA by OneTap Level 2",
+							"en-US": "ORA by OneTap Sheriff Level 2",
+							"es-ES": "Sheriff ORA by OneTap de nivel 2",
+							"es-MX": "Sheriff ORA por OneTap nivel 2",
+							"fr-FR": "Sheriff (ORA par OneTap) niveau 2",
+							"id-ID": "ORA by OneTap Sheriff Level 2",
+							"it-IT": "Sheriff ORA by OneTap livello 2",
+							"ja-JP": "オラ by OneTap シェリフ Lv.2",
+							"ko-KR": "오라 바이 원탭 셰리프 2레벨",
+							"pl-PL": "Sheriff ORA od OneTap (poziom 2)",
+							"pt-BR": "Sheriff ORA por OneTap Nível 2",
+							"ru-RU": "Sheriff \"ORA от OneTap\" уровень 2",
+							"th-TH": "ORA by OneTap Sheriff เลเวล 2",
+							"tr-TR": "OneTap'ten ORA Sheriff 2. Seviye",
+							"vi-VN": "Sheriff ORA by OneTap Cấp 2",
+							"zh-CN": "ORA x 颗秒 正义 等级2",
+							"zh-TW": "猛攻之境 神射 等級2"
+						}
+					}
+				},
+				{
+					"id": "86F3D3CB-4C3D-B174-5897-EFA43AFD2FAC",
+					"label": "86F3D3CB-4C3D-B174-5897-EFA43AFD2FAC",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Sheriff Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap شيريف المستوى 3",
+							"de-DE": "Sheriff – ORA by OneTap Level 3",
+							"en-US": "ORA by OneTap Sheriff Level 3",
+							"es-ES": "Sheriff ORA by OneTap de nivel 3",
+							"es-MX": "Sheriff ORA por OneTap nivel 3",
+							"fr-FR": "Sheriff (ORA par OneTap) niveau 3",
+							"id-ID": "ORA by OneTap Sheriff Level 3",
+							"it-IT": "Sheriff ORA by OneTap livello 3",
+							"ja-JP": "オラ by OneTap シェリフ Lv.3",
+							"ko-KR": "오라 바이 원탭 셰리프 3레벨",
+							"pl-PL": "Sheriff ORA od OneTap (poziom 3)",
+							"pt-BR": "Sheriff ORA por OneTap Nível 3",
+							"ru-RU": "Sheriff \"ORA от OneTap\" уровень 3",
+							"th-TH": "ORA by OneTap Sheriff เลเวล 3",
+							"tr-TR": "OneTap'ten ORA Sheriff 3. Seviye",
+							"vi-VN": "Sheriff ORA by OneTap Cấp 3",
+							"zh-CN": "ORA x 颗秒 正义 等级3",
+							"zh-TW": "猛攻之境 神射 等級3"
+						}
+					}
+				},
+				{
+					"id": "C4050448-498E-77F6-8C8A-68BD7CC2BE1A",
+					"label": "C4050448-498E-77F6-8C8A-68BD7CC2BE1A",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Sheriff Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap شيريف المستوى 4",
+							"de-DE": "Sheriff – ORA by OneTap Level 4",
+							"en-US": "ORA by OneTap Sheriff Level 4",
+							"es-ES": "Sheriff ORA by OneTap de nivel 4",
+							"es-MX": "Sheriff ORA por OneTap nivel 4",
+							"fr-FR": "Sheriff (ORA par OneTap) niveau 4",
+							"id-ID": "ORA by OneTap Sheriff Level 4",
+							"it-IT": "Sheriff ORA by OneTap livello 4",
+							"ja-JP": "オラ by OneTap シェリフ Lv.4",
+							"ko-KR": "오라 바이 원탭 셰리프 4레벨",
+							"pl-PL": "Sheriff ORA od OneTap (poziom 4)",
+							"pt-BR": "Sheriff ORA por OneTap Nível 4",
+							"ru-RU": "Sheriff \"ORA от OneTap\" уровень 4",
+							"th-TH": "ORA by OneTap Sheriff เลเวล 4",
+							"tr-TR": "OneTap'ten ORA Sheriff 4. Seviye",
+							"vi-VN": "Sheriff ORA by OneTap Cấp 4",
+							"zh-CN": "ORA x 颗秒 正义 等级4",
+							"zh-TW": "猛攻之境 神射 等級4"
+						}
+					}
+				},
+				{
+					"id": "5F35AFB7-4DE7-7B49-90EE-DD8BCD8AE8DF",
+					"label": "5F35AFB7-4DE7-7B49-90EE-DD8BCD8AE8DF",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Sheriff Level 5\r\nInspect weapon pre-round to change between five songs",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap شيريف المستوى 5\r\nقم بمعاينة السلاح قبل الجولة لاختيار واحدة من بين خمس أغنيات",
+							"de-DE": "Sheriff – ORA by OneTap Level 5\r\nInspiziere die Waffe vor der Runde, um zwischen fünf Songs zu wechseln.",
+							"en-US": "ORA by OneTap Sheriff Level 5\r\nInspect weapon pre-round to change between five songs",
+							"es-ES": "Sheriff ORA by OneTap de nivel 5\r\nInspecciona el arma en la prerronda para cambiar entre cinco canciones",
+							"es-MX": "Sheriff ORA por OneTap nivel 5\r\nExamina el arma durante la prerronda para alternar entre cinco canciones",
+							"fr-FR": "Sheriff (ORA par OneTap) niveau 5\r\nInspectez l'arme en pré-manche pour choisir une des cinq chansons.",
+							"id-ID": "ORA by OneTap Sheriff Level 5\r\nInspeksi senjata sebelum ronde dimulai untuk mengganti lagu dari lima pilihan",
+							"it-IT": "Sheriff ORA by OneTap livello 5\r\nIspeziona l'arma in fase pre-round per scorrere tra i cinque brani",
+							"ja-JP": "オラ by OneTap シェリフ Lv.5\r\nラウンド開始前に武器を見る動作を行うことで、5つの楽曲を切り替え可能",
+							"ko-KR": "오라 바이 원탭 셰리프 5레벨\r\n라운드 이전에 자세히 보기를 눌러 다섯 가지 곡 중에 한 곡으로 전환해 보세요.",
+							"pl-PL": "Sheriff ORA od OneTap (poziom 5)\r\nSprawdź broń przed rundą, by wybrać jedną z pięciu piosenek",
+							"pt-BR": "Sheriff ORA por OneTap Nível 5\r\nInspecione a arma antes da rodada para escolher entre cinco músicas",
+							"ru-RU": "Sheriff \"ORA от OneTap\" уровень 5\r\nОсмотрите оружие до начала раунда, чтобы выбрать одну из 5 песен",
+							"th-TH": "ORA by OneTap Sheriff เลเวล 5\r\nตรวจสอบอาวุธก่อนเริ่มรอบเพื่อเปลี่ยนไปมาระหว่างห้าเพลง",
+							"tr-TR": "OneTap'ten ORA Sheriff 5. Seviye\r\nBeş şarkı arasında geçiş yapmak için tur başlamadan silahı incele.",
+							"vi-VN": "Sheriff ORA by OneTap Cấp 5\r\nChiêm ngưỡng vũ khí trước vòng đấu để thay đổi giữa 5 ca khúc",
+							"zh-CN": "ORA x 颗秒 正义 等级5\r\n在回合开始前检视武器，即可在五首曲目间切换",
+							"zh-TW": "猛攻之境 神射 等級5\r\n在回合開始前查看武器，即可在五首歌曲間切換"
+						}
+					}
+				}
+			],
+			"id": "A452FCD9-4FE6-DC8C-6459-B2AD13EF89FF",
+			"label": "A452FCD9-4FE6-DC8C-6459-B2AD13EF89FF",
+			"name":
+			{
+				"defaultText": "ORA by OneTap Sheriff",
+				"localizedByCulture":
+				{
+					"ar-AE": "‏ORA by OneTap شيريف",
+					"de-DE": "Sheriff – ORA by OneTap",
+					"en-US": "ORA by OneTap Sheriff",
+					"es-ES": "Sheriff ORA by OneTap",
+					"es-MX": "Sheriff ORA por OneTap",
+					"fr-FR": "Sheriff (ORA par OneTap)",
+					"id-ID": "ORA by OneTap Sheriff",
+					"it-IT": "Sheriff ORA by OneTap",
+					"ja-JP": "オラ by OneTap シェリフ",
+					"ko-KR": "오라 바이 원탭 셰리프",
+					"pl-PL": "Sheriff ORA od OneTap",
+					"pt-BR": "Sheriff ORA por OneTap",
+					"ru-RU": "Sheriff \"ORA от OneTap\"",
+					"th-TH": "ORA by OneTap Sheriff",
+					"tr-TR": "OneTap'ten ORA Sheriff",
+					"vi-VN": "Sheriff ORA by OneTap",
+					"zh-CN": "ORA x 颗秒 正义",
+					"zh-TW": "猛攻之境 神射"
 				}
 			}
 		},
@@ -124971,7 +125598,7 @@
 							"de-DE": "Shorty – Herzenssucher",
 							"en-US": "Heartseeker Shorty",
 							"es-ES": "Shorty Heartseeker",
-							"es-MX": "Shorty Cazacorazones",
+							"es-MX": "Shorty Atrapacorazones",
 							"fr-FR": "Shorty (Amoureux de l'amour)",
 							"id-ID": "Heartseeker Shorty",
 							"it-IT": "Shorty Cercacuore",
@@ -125002,7 +125629,7 @@
 							"de-DE": "Shorty – Herzenssucher",
 							"en-US": "Heartseeker Shorty",
 							"es-ES": "Shorty Heartseeker",
-							"es-MX": "Shorty Cazacorazones",
+							"es-MX": "Shorty Atrapacorazones",
 							"fr-FR": "Shorty (Amoureux de l'amour)",
 							"id-ID": "Heartseeker Shorty",
 							"it-IT": "Shorty Cercacuore",
@@ -125031,7 +125658,7 @@
 					"de-DE": "Shorty – Herzenssucher",
 					"en-US": "Heartseeker Shorty",
 					"es-ES": "Shorty Heartseeker",
-					"es-MX": "Shorty Cazacorazones",
+					"es-MX": "Shorty Atrapacorazones",
 					"fr-FR": "Shorty (Amoureux de l'amour)",
 					"id-ID": "Heartseeker Shorty",
 					"it-IT": "Shorty Cercacuore",
@@ -129011,6 +129638,215 @@
 					"vi-VN": "Operator Imperium",
 					"zh-CN": "偃月苍龙 冥驹",
 					"zh-TW": "玉龍半月 間諜"
+				}
+			}
+		},
+		{
+			"weaponId": "A03B24D3-4319-996D-0F8C-94BBFBA1DFC7",
+			"defaultChromaId": "5DFC59C5-4FAF-D120-B7CF-4DA129E4F8AF",
+			"chromas": [
+				{
+					"id": "5DFC59C5-4FAF-D120-B7CF-4DA129E4F8AF",
+					"label": "5DFC59C5-4FAF-D120-B7CF-4DA129E4F8AF",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Operator",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap أوبيريتور",
+							"de-DE": "Operator – ORA by OneTap",
+							"en-US": "ORA by OneTap Operator",
+							"es-ES": "Operator ORA by OneTap",
+							"es-MX": "Operator ORA por OneTap",
+							"fr-FR": "Operator (ORA par OneTap)",
+							"id-ID": "ORA by OneTap Operator",
+							"it-IT": "Operator ORA by OneTap",
+							"ja-JP": "オラ by OneTap オペレーター",
+							"ko-KR": "오라 바이 원탭 오퍼레이터",
+							"pl-PL": "Operator ORA od OneTap",
+							"pt-BR": "Operator ORA por OneTap",
+							"ru-RU": "Operator \"ORA от OneTap\"",
+							"th-TH": "ORA by OneTap Operator",
+							"tr-TR": "OneTap'ten ORA Operator",
+							"vi-VN": "Operator ORA by OneTap",
+							"zh-CN": "ORA x 颗秒 冥驹",
+							"zh-TW": "猛攻之境 間諜"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "D0CC50B1-4704-676D-6525-889B6F7B9089",
+					"label": "D0CC50B1-4704-676D-6525-889B6F7B9089",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Operator",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap أوبيريتور",
+							"de-DE": "Operator – ORA by OneTap",
+							"en-US": "ORA by OneTap Operator",
+							"es-ES": "Operator ORA by OneTap",
+							"es-MX": "Operator ORA por OneTap",
+							"fr-FR": "Operator (ORA par OneTap)",
+							"id-ID": "ORA by OneTap Operator",
+							"it-IT": "Operator ORA by OneTap",
+							"ja-JP": "オラ by OneTap オペレーター",
+							"ko-KR": "오라 바이 원탭 오퍼레이터",
+							"pl-PL": "Operator ORA od OneTap",
+							"pt-BR": "Operator ORA por OneTap",
+							"ru-RU": "Operator \"ORA от OneTap\"",
+							"th-TH": "ORA by OneTap Operator",
+							"tr-TR": "OneTap'ten ORA Operator",
+							"vi-VN": "Operator ORA by OneTap",
+							"zh-CN": "ORA x 颗秒 冥驹",
+							"zh-TW": "猛攻之境 間諜"
+						}
+					}
+				},
+				{
+					"id": "668A8099-47B5-EF5A-1494-AC9CD530E450",
+					"label": "668A8099-47B5-EF5A-1494-AC9CD530E450",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Operator Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap أوبيريتور المستوى 2",
+							"de-DE": "Operator – ORA by OneTap Level 2",
+							"en-US": "ORA by OneTap Operator Level 2",
+							"es-ES": "Operator ORA by OneTap de nivel 2",
+							"es-MX": "Operator ORA por OneTap nivel 2",
+							"fr-FR": "Operator (ORA par OneTap) niveau 2",
+							"id-ID": "ORA by OneTap Operator Level 2",
+							"it-IT": "Operator ORA by OneTap livello 2",
+							"ja-JP": "オラ by OneTap オペレーター Lv.2",
+							"ko-KR": "오라 바이 원탭 오퍼레이터 2레벨",
+							"pl-PL": "Operator ORA od OneTap (poziom 2)",
+							"pt-BR": "Operator ORA por OneTap Nível 2",
+							"ru-RU": "Operator \"ORA от OneTap\" уровень 2",
+							"th-TH": "ORA by OneTap Operator เลเวล 2",
+							"tr-TR": "OneTap'ten ORA Operator 2. Seviye",
+							"vi-VN": "Operator ORA by OneTap Cấp 2",
+							"zh-CN": "ORA x 颗秒 冥驹 等级2",
+							"zh-TW": "猛攻之境 間諜 等級2"
+						}
+					}
+				},
+				{
+					"id": "BBFA84A7-4A31-7A6E-592A-AFA106DA7145",
+					"label": "BBFA84A7-4A31-7A6E-592A-AFA106DA7145",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Operator Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap أوبيريتور المستوى 3",
+							"de-DE": "Operator – ORA by OneTap Level 3",
+							"en-US": "ORA by OneTap Operator Level 3",
+							"es-ES": "Operator ORA by OneTap de nivel 3",
+							"es-MX": "Operator ORA por OneTap nivel 3",
+							"fr-FR": "Operator (ORA par OneTap) niveau 3",
+							"id-ID": "ORA by OneTap Operator Level 3",
+							"it-IT": "Operator ORA by OneTap livello 3",
+							"ja-JP": "オラ by OneTap オペレーター Lv.3",
+							"ko-KR": "오라 바이 원탭 오퍼레이터 3레벨",
+							"pl-PL": "Operator ORA od OneTap (poziom 3)",
+							"pt-BR": "Operator ORA por OneTap Nível 3",
+							"ru-RU": "Operator \"ORA от OneTap\" уровень 3",
+							"th-TH": "ORA by OneTap Operator เลเวล 3",
+							"tr-TR": "OneTap'ten ORA Operator 3. Seviye",
+							"vi-VN": "Operator ORA by OneTap Cấp 3",
+							"zh-CN": "ORA x 颗秒 冥驹 等级3",
+							"zh-TW": "猛攻之境 間諜 等級3"
+						}
+					}
+				},
+				{
+					"id": "126D5197-4ABF-FA89-13DF-E8A06F5FCCAA",
+					"label": "126D5197-4ABF-FA89-13DF-E8A06F5FCCAA",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Operator Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap أوبيريتور المستوى 4",
+							"de-DE": "Operator – ORA by OneTap Level 4",
+							"en-US": "ORA by OneTap Operator Level 4",
+							"es-ES": "Operator ORA by OneTap de nivel 4",
+							"es-MX": "Operator ORA por OneTap nivel 4",
+							"fr-FR": "Operator (ORA par OneTap) niveau 4",
+							"id-ID": "ORA by OneTap Operator Level 4",
+							"it-IT": "Operator ORA by OneTap livello 4",
+							"ja-JP": "オラ by OneTap オペレーター Lv.4",
+							"ko-KR": "오라 바이 원탭 오퍼레이터 4레벨",
+							"pl-PL": "Operator ORA od OneTap (poziom 4)",
+							"pt-BR": "Operator ORA por OneTap Nível 4",
+							"ru-RU": "Operator \"ORA от OneTap\" уровень 4",
+							"th-TH": "ORA by OneTap Operator เลเวล 4",
+							"tr-TR": "OneTap'ten ORA Operator 4. Seviye",
+							"vi-VN": "Operator ORA by OneTap Cấp 4",
+							"zh-CN": "ORA x 颗秒 冥驹 等级4",
+							"zh-TW": "猛攻之境 間諜 等級4"
+						}
+					}
+				},
+				{
+					"id": "E71695AB-4551-7B82-CC33-2785F042C843",
+					"label": "E71695AB-4551-7B82-CC33-2785F042C843",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Operator Level 5\r\nInspect weapon pre-round to change between five songs",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏ORA by OneTap أوبيريتور المستوى 5\r\nقم بمعاينة السلاح قبل الجولة لاختيار واحدة من بين خمس أغنيات",
+							"de-DE": "Operator – ORA by OneTap Level 5\r\nInspiziere die Waffe vor der Runde, um zwischen fünf Songs zu wechseln.",
+							"en-US": "ORA by OneTap Operator Level 5\r\nInspect weapon pre-round to change between five songs",
+							"es-ES": "Operator ORA by OneTap de nivel 5\r\nInspecciona el arma en la prerronda para cambiar entre cinco canciones",
+							"es-MX": "Operator ORA por OneTap nivel 5\r\nExamina el arma durante la prerronda para alternar entre cinco canciones",
+							"fr-FR": "Operator (ORA par OneTap) niveau 5\r\nInspectez l'arme en pré-manche pour choisir une des cinq chansons.",
+							"id-ID": "ORA by OneTap Operator Level 5\r\nInspeksi senjata sebelum ronde dimulai untuk mengganti lagu dari lima pilihan",
+							"it-IT": "Operator ORA by OneTap livello 5\r\nIspeziona l'arma in fase pre-round per scorrere tra i cinque brani",
+							"ja-JP": "オラ by OneTap オペレーター Lv.5\r\nラウンド開始前に武器を見る動作を行うことで、5つの楽曲を切り替え可能",
+							"ko-KR": "오라 바이 원탭 오퍼레이터 5레벨\r\n라운드 이전에 자세히 보기를 눌러 다섯 가지 곡 중에 한 곡으로 전환해 보세요.",
+							"pl-PL": "Operator ORA od OneTap (poziom 5)\r\nSprawdź broń przed rundą, by wybrać jedną z pięciu piosenek",
+							"pt-BR": "Operator ORA por OneTap Nível 5\r\nInspecione a arma antes da rodada para escolher entre cinco músicas",
+							"ru-RU": "Operator \"ORA от OneTap\" уровень 5\r\nОсмотрите оружие до начала раунда, чтобы выбрать одну из 5 песен",
+							"th-TH": "ORA by OneTap Operator เลเวล 5\r\nตรวจสอบอาวุธก่อนเริ่มรอบเพื่อเปลี่ยนไปมาระหว่างห้าเพลง",
+							"tr-TR": "OneTap'ten ORA Operator 5. Seviye\r\nBeş şarkı arasında geçiş yapmak için tur başlamadan silahı incele.",
+							"vi-VN": "Operator ORA by OneTap Cấp 5\r\nChiêm ngưỡng vũ khí trước vòng đấu để thay đổi giữa 5 ca khúc",
+							"zh-CN": "ORA x 颗秒 冥驹 等级5\r\n在回合开始前检视武器，即可在五首曲目间切换",
+							"zh-TW": "猛攻之境 間諜 等級5\r\n在回合開始前查看武器，即可在五首歌曲間切換"
+						}
+					}
+				}
+			],
+			"id": "94E98F1F-4A49-EF5F-B995-CF84750194B6",
+			"label": "94E98F1F-4A49-EF5F-B995-CF84750194B6",
+			"name":
+			{
+				"defaultText": "ORA by OneTap Operator",
+				"localizedByCulture":
+				{
+					"ar-AE": "‏ORA by OneTap أوبيريتور",
+					"de-DE": "Operator – ORA by OneTap",
+					"en-US": "ORA by OneTap Operator",
+					"es-ES": "Operator ORA by OneTap",
+					"es-MX": "Operator ORA por OneTap",
+					"fr-FR": "Operator (ORA par OneTap)",
+					"id-ID": "ORA by OneTap Operator",
+					"it-IT": "Operator ORA by OneTap",
+					"ja-JP": "オラ by OneTap オペレーター",
+					"ko-KR": "오라 바이 원탭 오퍼레이터",
+					"pl-PL": "Operator ORA od OneTap",
+					"pt-BR": "Operator ORA por OneTap",
+					"ru-RU": "Operator \"ORA от OneTap\"",
+					"th-TH": "ORA by OneTap Operator",
+					"tr-TR": "OneTap'ten ORA Operator",
+					"vi-VN": "Operator ORA by OneTap",
+					"zh-CN": "ORA x 颗秒 冥驹",
+					"zh-TW": "猛攻之境 間諜"
 				}
 			}
 		},
@@ -141379,7 +142215,7 @@
 							"tr-TR": "4. Seviye Fatih Guardian\n(Stil 1 - Yeşil)",
 							"vi-VN": "Guardian Sovereign Cấp 4\n(Dạng 1 Ánh Lục)",
 							"zh-CN": "天界神兵 戍卫 等级4\r\n（炫彩1 绿色）",
-							"zh-TW": "鎏金帝王 捍衛者 等級4\n\n（幻彩1 綠色）"
+							"zh-TW": "鎏金帝王 捍衛者 等級4\n（幻彩1 綠色）"
 						}
 					}
 				},
@@ -142423,7 +143259,7 @@
 							"de-DE": "Guardian – Herzenssucher",
 							"en-US": "Heartseeker Guardian",
 							"es-ES": "Guardian Heartseeker",
-							"es-MX": "Guardian Cazacorazones",
+							"es-MX": "Guardian Atrapacorazones",
 							"fr-FR": "Guardian (Amoureux de l'amour)",
 							"id-ID": "Heartseeker Guardian",
 							"it-IT": "Guardian Cercacuore",
@@ -142454,7 +143290,7 @@
 							"de-DE": "Guardian – Herzenssucher",
 							"en-US": "Heartseeker Guardian",
 							"es-ES": "Guardian Heartseeker",
-							"es-MX": "Guardian Cazacorazones",
+							"es-MX": "Guardian Atrapacorazones",
 							"fr-FR": "Guardian (Amoureux de l'amour)",
 							"id-ID": "Heartseeker Guardian",
 							"it-IT": "Guardian Cercacuore",
@@ -142483,7 +143319,7 @@
 					"de-DE": "Guardian – Herzenssucher",
 					"en-US": "Heartseeker Guardian",
 					"es-ES": "Guardian Heartseeker",
-					"es-MX": "Guardian Cazacorazones",
+					"es-MX": "Guardian Atrapacorazones",
 					"fr-FR": "Guardian (Amoureux de l'amour)",
 					"id-ID": "Heartseeker Guardian",
 					"it-IT": "Guardian Cercacuore",
@@ -142974,7 +143810,7 @@
 							"id-ID": "Ego Guardian",
 							"it-IT": "Guardian Ego",
 							"ja-JP": "エゴ ガーディアン",
-							"ko-KR": "원탭 가디언",
+							"ko-KR": "에고 가디언",
 							"pl-PL": "Guardian Ego ",
 							"pt-BR": "Guardian Ego",
 							"ru-RU": "Guardian \"Эго\"",
@@ -143003,7 +143839,7 @@
 							"id-ID": "Ego Guardian\n(Varian 1 Merah)",
 							"it-IT": "Guardian Ego\n(variante 1 Rossa)",
 							"ja-JP": "エゴ ガーディアン\n(ヴァリアント 1 レッド)",
-							"ko-KR": "원탭 가디언\n(변형 1 빨간색)",
+							"ko-KR": "에고 가디언\n(변형 1 빨간색)",
 							"pl-PL": "Guardian Ego\n(wersja 1 – czerwona)",
 							"pt-BR": "Guardian Ego\r\n(Variante 1 Vermelha)",
 							"ru-RU": "Guardian \"Эго\"\n(расцветка 1 \"Красный\")",
@@ -143032,7 +143868,7 @@
 							"id-ID": "Ego Guardian\n(Varian 2 Cokelat Tua)",
 							"it-IT": "Guardian Ego\n(variante 2 Pelle)",
 							"ja-JP": "エゴ ガーディアン\n(ヴァリアント 2 タン)",
-							"ko-KR": "원탭 가디언\n(변형 2 갈색)",
+							"ko-KR": "에고 가디언\n(변형 2 갈색)",
 							"pl-PL": "Guardian Ego\n(wersja 2 – jasnobrązowa)",
 							"pt-BR": "Guardian Ego\r\n(Variante 2 Creme)",
 							"ru-RU": "Guardian \"Эго\"\n(расцветка 2 \"Хаки\")",
@@ -143061,7 +143897,7 @@
 							"id-ID": "Ego Guardian\n(Varian 3 Merah Muda)",
 							"it-IT": "Guardian Ego\n(variante 3 Rosa)",
 							"ja-JP": "エゴ ガーディアン\n(ヴァリアント 3 ピンク)",
-							"ko-KR": "원탭 가디언\n(변형 3 분홍색)",
+							"ko-KR": "에고 가디언\n(변형 3 분홍색)",
 							"pl-PL": "Guardian Ego\n(wersja 3 – różowa)",
 							"pt-BR": "Guardian Ego\r\n(Variante 3 Rosa)",
 							"ru-RU": "Guardian \"Эго\"\n(расцветка 3 \"Розовый\")",
@@ -143092,7 +143928,7 @@
 							"id-ID": "Ego Guardian",
 							"it-IT": "Guardian Ego",
 							"ja-JP": "エゴ ガーディアン",
-							"ko-KR": "원탭 가디언",
+							"ko-KR": "에고 가디언",
 							"pl-PL": "Guardian Ego ",
 							"pt-BR": "Guardian Ego",
 							"ru-RU": "Guardian \"Эго\"",
@@ -143121,7 +143957,7 @@
 					"id-ID": "Ego Guardian",
 					"it-IT": "Guardian Ego",
 					"ja-JP": "エゴ ガーディアン",
-					"ko-KR": "원탭 가디언",
+					"ko-KR": "에고 가디언",
 					"pl-PL": "Guardian Ego ",
 					"pt-BR": "Guardian Ego",
 					"ru-RU": "Guardian \"Эго\"",
@@ -145797,7 +146633,7 @@
 							"de-DE": "Outlaw – Herzenssucher",
 							"en-US": "Heartseeker Outlaw",
 							"es-ES": "Outlaw Heartseeker",
-							"es-MX": "Outlaw Cazacorazones",
+							"es-MX": "Outlaw Atrapacorazones",
 							"fr-FR": "Outlaw (Amoureux de l'amour)",
 							"id-ID": "Heartseeker Outlaw",
 							"it-IT": "Outlaw Cercacuore",
@@ -145828,7 +146664,7 @@
 							"de-DE": "Outlaw – Herzenssucher",
 							"en-US": "Heartseeker Outlaw",
 							"es-ES": "Outlaw Heartseeker",
-							"es-MX": "Outlaw Cazacorazones",
+							"es-MX": "Outlaw Atrapacorazones",
 							"fr-FR": "Outlaw (Amoureux de l'amour)",
 							"id-ID": "Heartseeker Outlaw",
 							"it-IT": "Outlaw Cercacuore",
@@ -145857,7 +146693,7 @@
 					"de-DE": "Outlaw – Herzenssucher",
 					"en-US": "Heartseeker Outlaw",
 					"es-ES": "Outlaw Heartseeker",
-					"es-MX": "Outlaw Cazacorazones",
+					"es-MX": "Outlaw Atrapacorazones",
 					"fr-FR": "Outlaw (Amoureux de l'amour)",
 					"id-ID": "Heartseeker Outlaw",
 					"it-IT": "Outlaw Cercacuore",
@@ -145988,7 +146824,7 @@
 							"id-ID": "Ego Outlaw",
 							"it-IT": "Outlaw Ego",
 							"ja-JP": "エゴ アウトロー",
-							"ko-KR": "원탭 아웃로",
+							"ko-KR": "에고 아웃로",
 							"pl-PL": "Outlaw Ego",
 							"pt-BR": "Outlaw Ego",
 							"ru-RU": "Outlaw \"Эго\"",
@@ -146017,7 +146853,7 @@
 							"id-ID": "Ego Outlaw\n(Varian 1 Merah)",
 							"it-IT": "Outlaw Ego\n(variante 1 Rossa)",
 							"ja-JP": "エゴ アウトロー\r\n(ヴァリアント 1 レッド)",
-							"ko-KR": "원탭 아웃로\r\n(변형 1 빨간색)",
+							"ko-KR": "에고 아웃로\r\n(변형 1 빨간색)",
 							"pl-PL": "Outlaw Ego\n(wersja 1 – czerwona)",
 							"pt-BR": "Outlaw Ego\n(Variante 1 Vermelha)",
 							"ru-RU": "Outlaw \"Эго\"\n(расцветка 1 \"Красный\")",
@@ -146046,7 +146882,7 @@
 							"id-ID": "Ego Outlaw\n(Varian 2 Tan)",
 							"it-IT": "Outlaw Ego\n(variante 2 Marroncino)",
 							"ja-JP": "エゴ アウトロー\r\n(ヴァリアント 2 タン)",
-							"ko-KR": "원탭 아웃로\r\n(변형 2 갈색)",
+							"ko-KR": "에고 아웃로\r\n(변형 2 갈색)",
 							"pl-PL": "Outlaw Ego\n(wersja 2 – jasnobrązowa)",
 							"pt-BR": "Outlaw Ego\n(Variante 2 Creme)",
 							"ru-RU": "Outlaw \"Эго\"\n(расцветка 2 \"Хаки\")",
@@ -146075,7 +146911,7 @@
 							"id-ID": "Ego Outlaw\n(Varian 3 Merah Muda)",
 							"it-IT": "Outlaw Ego\n(variante 3 Rosa)",
 							"ja-JP": "エゴ アウトロー\r\n(ヴァリアント 3 ピンク)",
-							"ko-KR": "원탭 아웃로\r\n(변형 3 분홍색)",
+							"ko-KR": "에고 아웃로\r\n(변형 3 분홍색)",
 							"pl-PL": "Outlaw Ego\n(wersja 3 – różowa)",
 							"pt-BR": "Outlaw Ego\n(Variante 3 Rosa)",
 							"ru-RU": "Outlaw \"Эго\"\n(расцветка 3 \"Розовый\")",
@@ -146106,7 +146942,7 @@
 							"id-ID": "Ego Outlaw",
 							"it-IT": "Outlaw Ego",
 							"ja-JP": "エゴ アウトロー",
-							"ko-KR": "원탭 아웃로",
+							"ko-KR": "에고 아웃로",
 							"pl-PL": "Outlaw Ego",
 							"pt-BR": "Outlaw Ego",
 							"ru-RU": "Outlaw \"Эго\"",
@@ -146135,7 +146971,7 @@
 					"id-ID": "Ego Outlaw",
 					"it-IT": "Outlaw Ego",
 					"ja-JP": "エゴ アウトロー",
-					"ko-KR": "원탭 아웃로",
+					"ko-KR": "에고 아웃로",
 					"pl-PL": "Outlaw Ego",
 					"pt-BR": "Outlaw Ego",
 					"ru-RU": "Outlaw \"Эго\"",
@@ -151311,7 +152147,7 @@
 							"tr-TR": "4. Seviye Fatih Marshal\n(Stil 1 - Yeşil)",
 							"vi-VN": "Marshal Sovereign Cấp 4\n(Dạng 1 Ánh Lục)",
 							"zh-CN": "天界神兵 飞将 等级4\r\n（炫彩1 绿色）",
-							"zh-TW": "鎏金帝王 警長 等級4\n\n（幻彩1 綠色）"
+							"zh-TW": "鎏金帝王 警長 等級4\n（幻彩1 綠色）"
 						}
 					}
 				},
@@ -167857,7 +168693,7 @@
 							"tr-TR": "4. Seviye Fatih Stinger\n(Stil 1 - Yeşil)",
 							"vi-VN": "Stinger Sovereign Cấp 4\n(Dạng 1 Ánh Lục)",
 							"zh-CN": "天界神兵 蜂刺 等级4\r\n（炫彩1 绿色）",
-							"zh-TW": "鎏金帝王 刺針 等級4\n\n（幻彩1 綠色）"
+							"zh-TW": "鎏金帝王 刺針 等級4\n（幻彩1 綠色）"
 						}
 					}
 				},
@@ -168361,7 +169197,7 @@
 							"de-DE": "Stinger – Herzenssucher",
 							"en-US": "Heartseeker Stinger",
 							"es-ES": "Stinger Heartseeker",
-							"es-MX": "Stinger Cazacorazones",
+							"es-MX": "Stinger Atrapacorazones",
 							"fr-FR": "Stinger (Amoureux de l'amour)",
 							"id-ID": "Heartseeker Stinger",
 							"it-IT": "Stinger Cercacuore",
@@ -168392,7 +169228,7 @@
 							"de-DE": "Stinger – Herzenssucher",
 							"en-US": "Heartseeker Stinger",
 							"es-ES": "Stinger Heartseeker",
-							"es-MX": "Stinger Cazacorazones",
+							"es-MX": "Stinger Atrapacorazones",
 							"fr-FR": "Stinger (Amoureux de l'amour)",
 							"id-ID": "Heartseeker Stinger",
 							"it-IT": "Stinger Cercacuore",
@@ -168421,7 +169257,7 @@
 					"de-DE": "Stinger – Herzenssucher",
 					"en-US": "Heartseeker Stinger",
 					"es-ES": "Stinger Heartseeker",
-					"es-MX": "Stinger Cazacorazones",
+					"es-MX": "Stinger Atrapacorazones",
 					"fr-FR": "Stinger (Amoureux de l'amour)",
 					"id-ID": "Heartseeker Stinger",
 					"it-IT": "Stinger Cercacuore",
@@ -169005,7 +169841,7 @@
 							"id-ID": "Ego Stinger",
 							"it-IT": "Stinger Ego",
 							"ja-JP": "エゴ スティンガー",
-							"ko-KR": "원탭 스팅어",
+							"ko-KR": "에고 스팅어",
 							"pl-PL": "Stinger Ego",
 							"pt-BR": "Stinger Ego",
 							"ru-RU": "Stinger \"Эго\"",
@@ -169034,7 +169870,7 @@
 							"id-ID": "Ego Stinger\n(Varian 1 Merah)",
 							"it-IT": "Stinger Ego\n(variante 1 Rossa)",
 							"ja-JP": "エゴ スティンガー\n(ヴァリアント 1 レッド)",
-							"ko-KR": "원탭 스팅어\n(변형 1 빨간색)",
+							"ko-KR": "에고 스팅어\n(변형 1 빨간색)",
 							"pl-PL": "Stinger Ego\n(wersja 1 – czerwona)",
 							"pt-BR": "Stinger Ego\r\n(Variante 1 Vermelha)",
 							"ru-RU": "Stinger \"Эго\"\n(расцветка 1 \"Красный\")",
@@ -169063,7 +169899,7 @@
 							"id-ID": "Ego Stinger\n(Varian 2 Cokelat Tua)",
 							"it-IT": "Stinger Ego\n(variante 2 Pelle)",
 							"ja-JP": "エゴ スティンガー\n(ヴァリアント 2 タン)",
-							"ko-KR": "원탭 스팅어\n(변형 2 갈색)",
+							"ko-KR": "에고 스팅어\n(변형 2 갈색)",
 							"pl-PL": "Stinger Ego\n(wersja 2 – jasnobrązowa)",
 							"pt-BR": "Stinger Ego\r\n(Variante 2 Creme)",
 							"ru-RU": "Stinger \"Эго\"\n(расцветка 2 \"Хаки\")",
@@ -169092,7 +169928,7 @@
 							"id-ID": "Ego Stinger\n(Varian 3 Merah Muda)",
 							"it-IT": "Stinger Ego\n(variante 3 Rosa)",
 							"ja-JP": "エゴ スティンガー\n(ヴァリアント 3 ピンク)",
-							"ko-KR": "원탭 스팅어\n(변형 3 분홍색)",
+							"ko-KR": "에고 스팅어\n(변형 3 분홍색)",
 							"pl-PL": "Stinger Ego\n(wersja 3 – różowa)",
 							"pt-BR": "Stinger Ego\r\n(Variante 3 Rosa)",
 							"ru-RU": "Stinger \"Эго\"\n(расцветка 3 \"Розовый\")",
@@ -169123,7 +169959,7 @@
 							"id-ID": "Ego Stinger",
 							"it-IT": "Stinger Ego",
 							"ja-JP": "エゴ スティンガー",
-							"ko-KR": "원탭 스팅어",
+							"ko-KR": "에고 스팅어",
 							"pl-PL": "Stinger Ego",
 							"pt-BR": "Stinger Ego",
 							"ru-RU": "Stinger \"Эго\"",
@@ -169152,7 +169988,7 @@
 					"id-ID": "Ego Stinger",
 					"it-IT": "Stinger Ego",
 					"ja-JP": "エゴ スティンガー",
-					"ko-KR": "원탭 스팅어",
+					"ko-KR": "에고 스팅어",
 					"pl-PL": "Stinger Ego",
 					"pt-BR": "Stinger Ego",
 					"ru-RU": "Stinger \"Эго\"",
@@ -170127,7 +170963,7 @@
 							"pt-BR": "Karambit RGX 11z Pro Nível 2\nAperte inspecionar duas vezes rapidamente para acionar o efeito arco-íris",
 							"ru-RU": "Керамбит \"RGX 11z Pro\" уровень 2\nБыстро нажмите кнопку выбора дважды подряд, чтобы активировать эффект радуги",
 							"th-TH": "RGX 11z Pro Karambit เลเวล 2\nกดตรวจสอบสองครั้งอย่างรวดเร็วเพื่อให้เอฟเฟกต์สีรุ้งทำงาน",
-							"tr-TR": "2. Seviye RGX 11z Pro Karambit\nGökkuşağı efektini tetiklemek için hızlıca iki defa inceleme komutuna bas.",
+							"tr-TR": "2. Seviye RGX 11z Pro Karambit\nGökkuşağı efektini tetiklemek için hızlıca iki defa inceleme düğmesine bas.",
 							"vi-VN": "Dao Karambit RGX 11z Pro Cấp 2\nNhấn chiêm ngưỡng nhanh 2 lần để kích hoạt hiệu ứng cầu vồng",
 							"zh-CN": "RGX 11z Pro//3.0 爪刀 等级2\n快速按下检视键两次，即可触发彩虹效果",
 							"zh-TW": "RGX 11z Pro 爪刀 等級2\n快速按兩下查看以觸發彩虹效果"
@@ -177407,6 +178243,157 @@
 		},
 		{
 			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
+			"defaultChromaId": "8CDC879E-4959-87E6-414D-7E924BBB566B",
+			"chromas": [
+				{
+					"id": "8CDC879E-4959-87E6-414D-7E924BBB566B",
+					"label": "8CDC879E-4959-87E6-414D-7E924BBB566B",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Knife",
+						"localizedByCulture":
+						{
+							"ar-AE": "سكين ORA by OneTap",
+							"de-DE": "Messer – ORA by OneTap",
+							"en-US": "ORA by OneTap Knife",
+							"es-ES": "Cuchillo ORA by OneTap",
+							"es-MX": "Cuchillo ORA por OneTap",
+							"fr-FR": "Couteau (ORA par OneTap)",
+							"id-ID": "ORA by OneTap Knife",
+							"it-IT": "Coltello ORA by OneTap",
+							"ja-JP": "オラ by OneTap ナイフ",
+							"ko-KR": "오라 바이 원탭 칼",
+							"pl-PL": "Nóż ORA od OneTap",
+							"pt-BR": "Faca ORA por OneTap",
+							"ru-RU": "Нож \"ORA от OneTap\"",
+							"th-TH": "ORA by OneTap Knife",
+							"tr-TR": "OneTap'ten ORA Bıçağı",
+							"vi-VN": "Dao ORA by OneTap",
+							"zh-CN": "ORA x 颗秒 军刀",
+							"zh-TW": "猛攻之境 小刀"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "31AA75DE-4708-6498-BF50-78959A39B0CB",
+					"label": "31AA75DE-4708-6498-BF50-78959A39B0CB",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Knife",
+						"localizedByCulture":
+						{
+							"ar-AE": "سكين ORA by OneTap",
+							"de-DE": "Messer – ORA by OneTap",
+							"en-US": "ORA by OneTap Knife",
+							"es-ES": "Cuchillo ORA by OneTap",
+							"es-MX": "Cuchillo ORA por OneTap",
+							"fr-FR": "Couteau (ORA par OneTap)",
+							"id-ID": "ORA by OneTap Knife",
+							"it-IT": "Coltello ORA by OneTap",
+							"ja-JP": "オラ by OneTap ナイフ",
+							"ko-KR": "오라 바이 원탭 칼",
+							"pl-PL": "Nóż ORA od OneTap",
+							"pt-BR": "Faca ORA por OneTap",
+							"ru-RU": "Нож \"ORA от OneTap\"",
+							"th-TH": "ORA by OneTap Knife",
+							"tr-TR": "OneTap'ten ORA Bıçağı",
+							"vi-VN": "Dao ORA by OneTap",
+							"zh-CN": "ORA x 颗秒 军刀",
+							"zh-TW": "猛攻之境 小刀"
+						}
+					}
+				},
+				{
+					"id": "4DD153A6-4CB7-93CF-A189-6589A931F16B",
+					"label": "4DD153A6-4CB7-93CF-A189-6589A931F16B",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Knife Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "سكين ORA by OneTap المستوى 2",
+							"de-DE": "Messer – ORA by OneTap Level 2",
+							"en-US": "ORA by OneTap Knife Level 2",
+							"es-ES": "Cuchillo ORA by OneTap de nivel 2",
+							"es-MX": "Cuchillo ORA por OneTap nivel 2",
+							"fr-FR": "Couteau (ORA par OneTap) niveau 2",
+							"id-ID": "ORA by OneTap Knife Level 2",
+							"it-IT": "Coltello ORA by OneTap livello 2",
+							"ja-JP": "オラ by OneTap ナイフ Lv.2",
+							"ko-KR": "오라 바이 원탭 칼 2레벨",
+							"pl-PL": "Nóż ORA od OneTap (poziom 2)",
+							"pt-BR": "Faca ORA por OneTap Nível 2",
+							"ru-RU": "Нож \"ORA от OneTap\" уровень 2",
+							"th-TH": "ORA by OneTap Knife เลเวล 2",
+							"tr-TR": "OneTap'ten ORA Bıçağı 2. Seviye",
+							"vi-VN": "Dao ORA by OneTap Cấp 2",
+							"zh-CN": "ORA x 颗秒 军刀 等级2",
+							"zh-TW": "猛攻之境 小刀 等級2"
+						}
+					}
+				},
+				{
+					"id": "6F305796-42CC-97C2-62DC-78831F404B8B",
+					"label": "6F305796-42CC-97C2-62DC-78831F404B8B",
+					"name":
+					{
+						"defaultText": "ORA by OneTap Knife Level 3\r\nInspect weapon pre-round to change between five songs",
+						"localizedByCulture":
+						{
+							"ar-AE": "سكين ORA by OneTap المستوى 3\r\nقم بمعاينة السلاح قبل الجولة لاختيار واحدة من بين خمس أغنيات",
+							"de-DE": "Messer – ORA by OneTap Level 3\r\nInspiziere die Waffe vor der Runde, um zwischen fünf Songs zu wechseln.",
+							"en-US": "ORA by OneTap Knife Level 3\r\nInspect weapon pre-round to change between five songs",
+							"es-ES": "Cuchillo ORA by OneTap de nivel 3\r\nInspecciona el arma en la prerronda para cambiar entre cinco canciones",
+							"es-MX": "Cuchillo ORA por OneTap nivel 3\r\nExamina el arma durante la prerronda para alternar entre cinco canciones",
+							"fr-FR": "Couteau (ORA par OneTap) niveau 3\r\nInspectez l'arme en pré-manche pour choisir une des cinq chansons.",
+							"id-ID": "ORA by OneTap Knife Level 3\r\nInspeksi senjata sebelum ronde dimulai untuk mengganti lagu dari lima pilihan",
+							"it-IT": "Coltello ORA by OneTap livello 3\r\nIspeziona l'arma in fase pre-round per scorrere tra i cinque brani",
+							"ja-JP": "オラ by OneTap ナイフ Lv.3\r\nラウンド開始前に武器を見る動作を行うことで、5つの楽曲を切り替え可能",
+							"ko-KR": "오라 바이 원탭 칼 3레벨\r\n라운드 이전에 자세히 보기를 눌러 다섯 가지 곡 중에 한 곡으로 전환해 보세요.",
+							"pl-PL": "Nóż ORA od OneTap (poziom 3)\r\nSprawdź broń przed rundą, by wybrać jedną z pięciu piosenek",
+							"pt-BR": "Faca ORA por OneTap Nível 3\r\nInspecione a arma antes da rodada para escolher entre cinco músicas",
+							"ru-RU": "Нож \"ORA от OneTap\" уровень 3\r\nОсмотрите оружие до начала раунда, чтобы выбрать одну из 5 песен",
+							"th-TH": "ORA by OneTap Knife เลเวล 3\r\nตรวจสอบอาวุธก่อนเริ่มรอบเพื่อเปลี่ยนไปมาระหว่างห้าเพลง",
+							"tr-TR": "OneTap'ten ORA Bıçağı 3. Seviye\r\nBeş şarkı arasında geçiş yapmak için tur başlamadan silahı incele.",
+							"vi-VN": "Dao ORA by OneTap Cấp 3\r\nChiêm ngưỡng vũ khí trước vòng đấu để thay đổi giữa 5 ca khúc",
+							"zh-CN": "ORA x 颗秒 军刀 等级3\r\n在回合开始前检视武器，即可在五首曲目间切换",
+							"zh-TW": "猛攻之境 小刀 等級3\r\n在回合開始前查看武器，即可在五首歌曲間切換"
+						}
+					}
+				}
+			],
+			"id": "6FB14E4E-41DF-DE2D-98BC-FCB68D27DB48",
+			"label": "6FB14E4E-41DF-DE2D-98BC-FCB68D27DB48",
+			"name":
+			{
+				"defaultText": "ORA by OneTap Knife",
+				"localizedByCulture":
+				{
+					"ar-AE": "سكين ORA by OneTap",
+					"de-DE": "Messer – ORA by OneTap",
+					"en-US": "ORA by OneTap Knife",
+					"es-ES": "Cuchillo ORA by OneTap",
+					"es-MX": "Cuchillo ORA por OneTap",
+					"fr-FR": "Couteau (ORA par OneTap)",
+					"id-ID": "ORA by OneTap Knife",
+					"it-IT": "Coltello ORA by OneTap",
+					"ja-JP": "オラ by OneTap ナイフ",
+					"ko-KR": "오라 바이 원탭 칼",
+					"pl-PL": "Nóż ORA od OneTap",
+					"pt-BR": "Faca ORA por OneTap",
+					"ru-RU": "Нож \"ORA от OneTap\"",
+					"th-TH": "ORA by OneTap Knife",
+					"tr-TR": "OneTap'ten ORA Bıçağı",
+					"vi-VN": "Dao ORA by OneTap",
+					"zh-CN": "ORA x 颗秒 军刀",
+					"zh-TW": "猛攻之境 小刀"
+				}
+			}
+		},
+		{
+			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
 			"defaultChromaId": "C540628B-41E2-1789-92AD-7084372B03EE",
 			"chromas": [
 				{
@@ -178455,7 +179442,7 @@
 							"de-DE": "Herzensspalter",
 							"en-US": "Heart Splitter",
 							"es-ES": "Rompecorazones",
-							"es-MX": "Corta Corazones",
+							"es-MX": "Arrancacorazones",
 							"fr-FR": "Fendeuse de cœurs",
 							"id-ID": "Heart Splitter",
 							"it-IT": "Spaccacuore",
@@ -178484,7 +179471,7 @@
 							"de-DE": "Herzensspalter\n(Variante 1, Schwarz)",
 							"en-US": "Heart Splitter\n(Variant 1 Black)",
 							"es-ES": "Rompecorazones\n(variante 1: negro)",
-							"es-MX": "Corta Corazones\n(Variante 1 Negra)",
+							"es-MX": "Arrancacorazones\n(Variante 1 Negra)",
 							"fr-FR": "Fendeuse de cœurs\n(Variante 1 Noir)",
 							"id-ID": "Heart Splitter\n(Varian 1 Hitam)",
 							"it-IT": "Spaccacuore\n(variante 1 Nera)",
@@ -178513,7 +179500,7 @@
 							"de-DE": "Herzensspalter\n(Variante 2, Blau)",
 							"en-US": "Heart Splitter\n(Variant 2 Blue)",
 							"es-ES": "Rompecorazones\n(variante 2: azul)",
-							"es-MX": "Corta Corazones\n(Variante 2 Azul)",
+							"es-MX": "Arrancacorazones\n(Variante 2 Azul)",
 							"fr-FR": "Fendeuse de cœurs\n(Variante 2 Bleu)",
 							"id-ID": "Heart Splitter\n(Varian 2 Biru)",
 							"it-IT": "Spaccacuore\n(variante 2 Blu)",
@@ -178544,7 +179531,7 @@
 							"de-DE": "Herzensspalter",
 							"en-US": "Heart Splitter",
 							"es-ES": "Rompecorazones",
-							"es-MX": "Corta Corazones",
+							"es-MX": "Arrancacorazones",
 							"fr-FR": "Fendeuse de cœurs",
 							"id-ID": "Heart Splitter",
 							"it-IT": "Spaccacuore",
@@ -178573,7 +179560,7 @@
 					"de-DE": "Herzensspalter",
 					"en-US": "Heart Splitter",
 					"es-ES": "Rompecorazones",
-					"es-MX": "Corta Corazones",
+					"es-MX": "Arrancacorazones",
 					"fr-FR": "Fendeuse de cœurs",
 					"id-ID": "Heart Splitter",
 					"it-IT": "Spaccacuore",
@@ -190796,7 +191783,7 @@
 							"id-ID": "Ego Knife",
 							"it-IT": "Coltello Ego",
 							"ja-JP": "エゴ ナイフ",
-							"ko-KR": "원탭 칼",
+							"ko-KR": "에고 칼",
 							"pl-PL": "Nóż Ego",
 							"pt-BR": "Faca Ego",
 							"ru-RU": "Нож \"Эго\"",
@@ -190825,7 +191812,7 @@
 							"id-ID": "Ego Knife\n(Varian 1 Merah)",
 							"it-IT": "Coltello Ego\n(variante 1 Rossa)",
 							"ja-JP": "エゴ ナイフ\n(ヴァリアント 1 レッド)",
-							"ko-KR": "원탭 칼\n(변형 1 빨간색)",
+							"ko-KR": "에고 칼\n(변형 1 빨간색)",
 							"pl-PL": "Nóż Ego\n(wersja 1 – czerwona)",
 							"pt-BR": "Faca Ego\r\n(Variante 1 Vermelha)",
 							"ru-RU": "Нож \"Эго\"\n(расцветка 1 \"Красный\")",
@@ -190854,7 +191841,7 @@
 							"id-ID": "Ego Knife\n(Varian 2 Cokelat Tua)",
 							"it-IT": "Coltello Ego\n(variante 2 Pelle)",
 							"ja-JP": "エゴ ナイフ\n(ヴァリアント 2 タン)",
-							"ko-KR": "원탭 칼\n(변형 2 갈색)",
+							"ko-KR": "에고 칼\n(변형 2 갈색)",
 							"pl-PL": "Nóż Ego\n(wersja 2 – jasnobrązowa)",
 							"pt-BR": "Faca Ego\r\n(Variante 2 Creme)",
 							"ru-RU": "Нож \"Эго\"\n(расцветка 2 \"Хаки\")",
@@ -190883,7 +191870,7 @@
 							"id-ID": "Ego Knife\n(Varian 3 Merah Muda)",
 							"it-IT": "Coltello Ego\n(variante 3 Rosa)",
 							"ja-JP": "エゴ ナイフ\n(ヴァリアント 3 ピンク)",
-							"ko-KR": "원탭 칼\n(변형 3 분홍색)",
+							"ko-KR": "에고 칼\n(변형 3 분홍색)",
 							"pl-PL": "Nóż Ego\n(wersja 3 – różowa)",
 							"pt-BR": "Faca Ego\r\n(Variante 3 Rosa)",
 							"ru-RU": "Нож \"Эго\"\n(расцветка 3 \"Розовый\")",
@@ -190914,7 +191901,7 @@
 							"id-ID": "Ego Knife",
 							"it-IT": "Coltello Ego",
 							"ja-JP": "エゴ ナイフ",
-							"ko-KR": "원탭 칼",
+							"ko-KR": "에고 칼",
 							"pl-PL": "Nóż Ego",
 							"pt-BR": "Faca Ego",
 							"ru-RU": "Нож \"Эго\"",
@@ -190943,7 +191930,7 @@
 					"id-ID": "Ego Knife",
 					"it-IT": "Coltello Ego",
 					"ja-JP": "エゴ ナイフ",
-					"ko-KR": "원탭 칼",
+					"ko-KR": "에고 칼",
 					"pl-PL": "Nóż Ego",
 					"pt-BR": "Faca Ego",
 					"ru-RU": "Нож \"Эго\"",
@@ -194254,6 +195241,64 @@
 					"vi-VN": "Thẻ Chuyền Tay Cầm",
 					"zh-CN": "手柄给我 卡面",
 					"zh-TW": "搖桿給我 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "D32E58B1-4191-7315-AD4A-9DA58B3F23DD",
+			"label": "D32E58B1-4191-7315-AD4A-9DA58B3F23DD",
+			"name":
+			{
+				"defaultText": "Dance It All Away Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة هيا نرقص",
+					"de-DE": "Banner „Tanz dir den Frust von der Seele“",
+					"en-US": "Dance It All Away Card",
+					"es-ES": "Tarjeta Bailar cura el alma",
+					"es-MX": "Tarjeta Baila y Recarga",
+					"fr-FR": "Carte Ça va cluber",
+					"id-ID": "Kartu Dance It All Away",
+					"it-IT": "Carta Balla e non pensarci",
+					"ja-JP": "踊り明かせ カード",
+					"ko-KR": "모두 다 잊고 춤을 카드",
+					"pl-PL": "Karta „Taniec lekiem na wszystko”",
+					"pt-BR": "Card Dança Que Passa",
+					"ru-RU": "Карточка \"Танцы до утра\"",
+					"th-TH": "การ์ด Dance It All Away",
+					"tr-TR": "Durma Dans Et Kartı",
+					"vi-VN": "Thẻ Nhảy Đi Bạn Ơi",
+					"zh-CN": "尽情舞动 卡面",
+					"zh-TW": "舞力全開 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "D2D3CAF9-499F-2AC8-9722-54961C3BCBF5",
+			"label": "D2D3CAF9-499F-2AC8-9722-54961C3BCBF5",
+			"name":
+			{
+				"defaultText": "V25: Prelude To Paris Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة V25: تمهيد قبل باريس",
+					"de-DE": "Banner „V25: Auftakt für Paris“",
+					"en-US": "V25: Prelude To Paris Card",
+					"es-ES": "Tarjeta V25 Antes de París",
+					"es-MX": "Tarjeta V25: Preludio de París",
+					"fr-FR": "Carte V25 : prélude à Paris",
+					"id-ID": "Kartu V25: Prelude to Paris",
+					"it-IT": "Carta V25: Preludio a Parigi",
+					"ja-JP": "V25: プレリュード・トゥー・パリ カード",
+					"ko-KR": "V25: 파리의 서막 카드",
+					"pl-PL": "Karta „V25: Preludium do Paryża”",
+					"pt-BR": "Card V25: Prelúdio de Paris",
+					"ru-RU": "Карточка \"V25: прелюдия к Парижу\"",
+					"th-TH": "การ์ด V25: Prelude To Paris",
+					"tr-TR": "V25: Paris'e Hazırlık Kartı",
+					"vi-VN": "Thẻ V25: Trước Khi Tới Paris",
+					"zh-CN": "V25：巴黎序曲 卡面",
+					"zh-TW": "V25：巴黎序幕 玩家卡面"
 				}
 			}
 		},
@@ -210614,6 +211659,35 @@
 			}
 		},
 		{
+			"id": "BB229944-4599-7065-2567-D1AD97D54A01",
+			"label": "BB229944-4599-7065-2567-D1AD97D54A01",
+			"name":
+			{
+				"defaultText": "ORA by OneTap Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة ORA by OneTap",
+					"de-DE": "Banner „ORA by OneTap“",
+					"en-US": "ORA by OneTap Card",
+					"es-ES": "Tarjeta ORA by OneTap",
+					"es-MX": "Tarjeta ORA por OneTap",
+					"fr-FR": "Carte ORA par OneTap",
+					"id-ID": "Kartu ORA by OneTap",
+					"it-IT": "Carta ORA by OneTap",
+					"ja-JP": "オラ by OneTap カード",
+					"ko-KR": "오라 바이 원탭 카드",
+					"pl-PL": "Karta „ORA od OneTap”",
+					"pt-BR": "Card ORA por OneTap",
+					"ru-RU": "Карточка \"ORA от OneTap\"",
+					"th-TH": "การ์ด ORA by OneTap",
+					"tr-TR": "OneTap'ten ORA Kartı",
+					"vi-VN": "Thẻ ORA by OneTap",
+					"zh-CN": "ORA x 颗秒 卡面",
+					"zh-TW": "猛攻之境 玩家卡面"
+				}
+			}
+		},
+		{
 			"id": "D3C65FAF-49C2-9861-CCCD-F3B5428C64DA",
 			"label": "D3C65FAF-49C2-9861-CCCD-F3B5428C64DA",
 			"name":
@@ -211563,7 +212637,7 @@
 					"pt-BR": "Card Íon",
 					"ru-RU": "Карточка \"Ион\"",
 					"th-TH": "การ์ด Ion",
-					"tr-TR": "İYON KARTI",
+					"tr-TR": "İyon Kartı",
 					"vi-VN": "Thẻ Ion",
 					"zh-CN": "离子武器 卡面",
 					"zh-TW": "離子聖芒 玩家卡面"
@@ -212225,7 +213299,7 @@
 					"id-ID": "Kartu Ego",
 					"it-IT": "Carta Ego",
 					"ja-JP": "エゴ カード",
-					"ko-KR": "원탭 카드",
+					"ko-KR": "에고 카드",
 					"pl-PL": "Karta „Ego”",
 					"pt-BR": "Card Ego",
 					"ru-RU": "Карточка \"Эго\"",
@@ -214511,7 +215585,7 @@
 					"de-DE": "Banner „Herzenssucher“",
 					"en-US": "Heartseeker Card",
 					"es-ES": "Tarjeta Heartseeker",
-					"es-MX": "Tarjeta Cazacorazones",
+					"es-MX": "Tarjeta Atrapacorazones",
 					"fr-FR": "Carte Amoureux de l'amour",
 					"id-ID": "Kartu Heartseeker",
 					"it-IT": "Carta Cercacuore",
@@ -220488,6 +221562,114 @@
 					"vi-VN": "Danh Hiệu Cặp Đôi",
 					"zh-CN": "今天双排 称号",
 					"zh-TW": "絕佳搭檔 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Red Flag",
+				"localizedByCulture":
+				{
+					"ar-AE": "الراية الحمراء",
+					"de-DE": "Red Flag",
+					"en-US": "Red Flag",
+					"es-ES": "Bandera roja",
+					"es-MX": "Bandera Roja",
+					"fr-FR": "Drapeau rouge",
+					"id-ID": "Red Flag",
+					"it-IT": "Campanello d'allarme",
+					"ja-JP": "レッドフラッグ",
+					"ko-KR": "적신호",
+					"pl-PL": "Czerwona flaga",
+					"pt-BR": "Sinal Vermelho",
+					"ru-RU": "Красный флаг",
+					"th-TH": "ธงแดง",
+					"tr-TR": "Kırmızı Bayrak",
+					"vi-VN": "Cờ Đỏ",
+					"zh-CN": "红旗",
+					"zh-TW": "紅旗"
+				}
+			},
+			"id": "D2D806A2-4117-3489-9D2E-59A30B34DDFF",
+			"label": "D2D806A2-4117-3489-9D2E-59A30B34DDFF",
+			"name":
+			{
+				"defaultText": "Red Flag Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب الراية الحمراء",
+					"de-DE": "Titel „Red Flag“",
+					"en-US": "Red Flag Title",
+					"es-ES": "Título Bandera roja",
+					"es-MX": "Título Bandera Roja",
+					"fr-FR": "Titre Drapeau rouge",
+					"id-ID": "Gelar Red Flag",
+					"it-IT": "Titolo Campanello d'allarme",
+					"ja-JP": "レッドフラッグ タイトル",
+					"ko-KR": "적신호 칭호",
+					"pl-PL": "Tytuł „Czerwona flaga”",
+					"pt-BR": "Título Sinal Vermelho",
+					"ru-RU": "Звание \"Красный флаг\"",
+					"th-TH": "ฉายาธงแดง",
+					"tr-TR": "Kırmızı Bayrak Unvanı",
+					"vi-VN": "Danh Hiệu Cờ Đỏ",
+					"zh-CN": "红旗 称号",
+					"zh-TW": "紅旗 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Green Flag",
+				"localizedByCulture":
+				{
+					"ar-AE": "الراية الخضراء",
+					"de-DE": "Green Flag",
+					"en-US": "Green Flag",
+					"es-ES": "Bandera verde",
+					"es-MX": "Bandera Verde",
+					"fr-FR": "Drapeau vert",
+					"id-ID": "Green Flag",
+					"it-IT": "Segnale positivo",
+					"ja-JP": "グリーンフラッグ",
+					"ko-KR": "청신호",
+					"pl-PL": "Zielona flaga",
+					"pt-BR": "Sinal Verde",
+					"ru-RU": "Зеленый флаг",
+					"th-TH": "ธงเขียว",
+					"tr-TR": "Yeşil Bayrak",
+					"vi-VN": "Cờ Xanh",
+					"zh-CN": "绿旗",
+					"zh-TW": "綠旗"
+				}
+			},
+			"id": "42019B6E-4DDE-6ECA-36F3-388C02E65D94",
+			"label": "42019B6E-4DDE-6ECA-36F3-388C02E65D94",
+			"name":
+			{
+				"defaultText": "Green Flag Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب الراية الخضراء",
+					"de-DE": "Titel „Green Flag“",
+					"en-US": "Green Flag Title",
+					"es-ES": "Título Bandera verde",
+					"es-MX": "Título Bandera Verde",
+					"fr-FR": "Titre Drapeau vert",
+					"id-ID": "Gelar Green Flag",
+					"it-IT": "Titolo Segnale positivo",
+					"ja-JP": "グリーンフラッグ タイトル",
+					"ko-KR": "청신호 칭호",
+					"pl-PL": "Tytuł „Zielona flaga”",
+					"pt-BR": "Título Sinal Verde",
+					"ru-RU": "Звание \"Зеленый флаг\"",
+					"th-TH": "ฉายาธงเขียว",
+					"tr-TR": "Yeşil Bayrak Unvanı",
+					"vi-VN": "Danh Hiệu Cờ Xanh",
+					"zh-CN": "绿旗 称号",
+					"zh-TW": "綠旗 稱號"
 				}
 			}
 		},
@@ -227089,7 +228271,7 @@
 					"de-DE": "Verknallt",
 					"en-US": "Melting",
 					"es-ES": "Melting",
-					"es-MX": "Fundido",
+					"es-MX": "Derretida",
 					"fr-FR": "C'est trop",
 					"id-ID": "Melting",
 					"it-IT": "Piango",
@@ -227545,7 +228727,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "لقب هيا بنا",
-					"de-DE": "Titel – Gajeua",
+					"de-DE": "Titel „Gajeua“",
 					"en-US": "Gajeua Title",
 					"es-ES": "Título Gajeua",
 					"es-MX": "Título Gajeua",
@@ -240184,7 +241366,7 @@
 					"fr-FR": "Porte-bonheur Expert des Pick'Ems : G.O.A.T.",
 					"id-ID": "Buddy Pick'Ems Master: G.O.A.T.",
 					"it-IT": "Accessorio Maestro Pick'Ems: Il migliore di sempre",
-					"ja-JP": "Pick 'Ems マスター: G.O.A.T. バディー",
+					"ja-JP": "Pick'Ems マスター: G.O.A.T. バディー",
 					"ko-KR": "승부의 신 마스터: 역대 최고 총기 장식",
 					"pl-PL": "Przywieszka „Mistrz typowania: G.O.A.T.”",
 					"pt-BR": "Chaveiro Mestre do Bolão: G.O.A.T.",
@@ -246914,6 +248096,66 @@
 					"vi-VN": "Hồi Kết: Phụ Kiện Trứng Rán Một Mặt",
 					"zh-CN": "终章：晒出笑脸 挂饰",
 					"zh-TW": "後記：荷包蛋 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "D4D7CD90-4FB7-AB4B-C560-FF96CD6AA74B",
+					"label": "D4D7CD90-4FB7-AB4B-C560-FF96CD6AA74B",
+					"name":
+					{
+						"defaultText": "Ego2",
+						"localizedByCulture":
+						{
+							"ar-AE": "Ego2",
+							"de-DE": "Ego2",
+							"en-US": "Ego2",
+							"es-ES": "Ego2",
+							"es-MX": "Ego2",
+							"fr-FR": "Ego2",
+							"id-ID": "Ego2",
+							"it-IT": "Ego2",
+							"ja-JP": "Ego2",
+							"ko-KR": "Ego2",
+							"pl-PL": "Ego2",
+							"pt-BR": "Ego2",
+							"ru-RU": "Ego2",
+							"th-TH": "Ego2",
+							"tr-TR": "Ego2",
+							"vi-VN": "Ego2",
+							"zh-CN": "Ego2",
+							"zh-TW": "Ego2"
+						}
+					}
+				}
+			],
+			"id": "DF71F416-4289-E4CC-0178-B58AFC857EE4",
+			"label": "DF71F416-4289-E4CC-0178-B58AFC857EE4",
+			"name":
+			{
+				"defaultText": "ORA by OneTap Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق ORA by OneTap",
+					"de-DE": "Talisman „ORA by OneTap“",
+					"en-US": "ORA by OneTap Buddy",
+					"es-ES": "Amuleto ORA by OneTap",
+					"es-MX": "Buddy ORA por OneTap",
+					"fr-FR": "Porte-bonheur ORA par OneTap",
+					"id-ID": "Buddy ORA by OneTap",
+					"it-IT": "Accessorio ORA by OneTap",
+					"ja-JP": "オラ by OneTap バディー",
+					"ko-KR": "오라 바이 원탭 총기 장식",
+					"pl-PL": "Przywieszka „ORA od OneTap”",
+					"pt-BR": "Chaveiro ORA por OneTap",
+					"ru-RU": "Брелок \"ORA от OneTap\"",
+					"th-TH": "ORA by OneTap Buddy",
+					"tr-TR": "OneTap'ten ORA Uğuru",
+					"vi-VN": "Phụ Kiện ORA by OneTap",
+					"zh-CN": "ORA x 颗秒 挂饰",
+					"zh-TW": "猛攻之境 吊飾"
 				}
 			}
 		},
@@ -256930,7 +258172,7 @@
 					"pt-BR": "Chaveiro Íon",
 					"ru-RU": "Брелок \"Ион\"",
 					"th-TH": "บัดดี้ Ion",
-					"tr-TR": "İYON UĞURU",
+					"tr-TR": "İyon Uğuru",
 					"vi-VN": "Phụ Kiện Ion",
 					"zh-CN": "离子武器 挂饰",
 					"zh-TW": "離子聖芒 吊飾"
@@ -258484,7 +259726,7 @@
 					"fr-FR": "Porte-bonheur Expert des Pick'Ems : Killjoy de poche",
 					"id-ID": "Buddy Pick'Ems Master: Pocket Killjoy",
 					"it-IT": "Accessorio Maestro Pick'Ems: Killjoy tascabile",
-					"ja-JP": "Pick 'Ems マスター: ポケットキルジョイ バディー",
+					"ja-JP": "Pick'Ems マスター: ポケットキルジョイ バディー",
 					"ko-KR": "승부의 신 마스터: 나만의 킬조이 총기 장식",
 					"pl-PL": "Przywieszka „Mistrz typowania: Kieszonkowa Killjoy”",
 					"pt-BR": "Chaveiro Mestre do Bolão: Killjoy de Bolso",
@@ -273900,7 +275142,7 @@
 					"de-DE": "Talisman „Herzenssucher“",
 					"en-US": "Heartseeker Buddy",
 					"es-ES": "Amuleto Heartseeker",
-					"es-MX": "Buddy Cazacorazones",
+					"es-MX": "Buddy Atrapacorazones",
 					"fr-FR": "Porte-bonheur Amoureux de l'amour",
 					"id-ID": "Buddy Heartseeker",
 					"it-IT": "Accessorio Cercacuore",
@@ -275517,7 +276759,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "ملحق الروك الصاعق",
-					"de-DE": "Talisman „Schocken und rollen“",
+					"de-DE": "Talisman „Rock ’n’ Roll“",
 					"en-US": "Shock & Roll Buddy",
 					"es-ES": "Amuleto Ritmo electrizante",
 					"es-MX": "Buddy Rayo Rockero",
@@ -276545,7 +277787,7 @@
 					"id-ID": "Buddy Ego",
 					"it-IT": "Accessorio Ego",
 					"ja-JP": "エゴ バディー",
-					"ko-KR": "원탭 총기 장식",
+					"ko-KR": "에고 총기 장식",
 					"pl-PL": "Przywieszka „Ego”",
 					"pt-BR": "Chaveiro Ego",
 					"ru-RU": "Брелок \"Эго\"",
@@ -281179,6 +282421,186 @@
 		}
 	],
 	"sprays": [
+		{
+			"levels": [
+				{
+					"id": "1A2D5672-4D65-DE65-9B7F-75B61B379DEF",
+					"label": "1A2D5672-4D65-DE65-9B7F-75B61B379DEF",
+					"name":
+					{
+						"defaultText": "AbilitiesDontKill",
+						"localizedByCulture":
+						{
+							"ar-AE": "AbilitiesDontKill",
+							"de-DE": "AbilitiesDontKill",
+							"en-US": "AbilitiesDontKill",
+							"es-ES": "AbilitiesDontKill",
+							"es-MX": "AbilitiesDontKill",
+							"fr-FR": "AbilitiesDontKill",
+							"id-ID": "AbilitiesDontKill",
+							"it-IT": "AbilitiesDontKill",
+							"ja-JP": "AbilitiesDontKill",
+							"ko-KR": "AbilitiesDontKill",
+							"pl-PL": "AbilitiesDontKill",
+							"pt-BR": "AbilitiesDontKill",
+							"ru-RU": "AbilitiesDontKill",
+							"th-TH": "AbilitiesDontKill",
+							"tr-TR": "AbilitiesDontKill",
+							"vi-VN": "AbilitiesDontKill",
+							"zh-CN": "AbilitiesDontKill",
+							"zh-TW": "AbilitiesDontKill"
+						}
+					}
+				}
+			],
+			"id": "7E2BA2E8-4597-060A-B41E-81ACEDCA414E",
+			"label": "7E2BA2E8-4597-060A-B41E-81ACEDCA414E",
+			"name":
+			{
+				"defaultText": "Abilities Don't Kill Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة القدرات لا تقتل",
+					"de-DE": "Graffiti „Fähigkeiten töten nicht“",
+					"en-US": "Abilities Don't Kill Spray",
+					"es-ES": "Grafiti Las habilidades no matan",
+					"es-MX": "Spray Las Habilidades no Matan",
+					"fr-FR": "Graffiti Les compétences ne tuent pas",
+					"id-ID": "Spray Abilities Don't Kill",
+					"it-IT": "Spray Le abilità non uccidono",
+					"ja-JP": "アビリティーなんて怖くない スプレー",
+					"ko-KR": "스킬로는 못 죽여 스프레이",
+					"pl-PL": "Graffiti „Ale jaki ból?”",
+					"pt-BR": "Spray Manda Mais Que Tá Pouco",
+					"ru-RU": "Граффити \"Умения не убивают\"",
+					"th-TH": "สเปรย์ Abilities Don't Kill",
+					"tr-TR": "Yetenekler Öldürmez Spreyi",
+					"vi-VN": "Hình Phun Sơn Kỹ Năng Không Làm Khó Được Tôi",
+					"zh-CN": "技能里面洗澡 喷漆",
+					"zh-TW": "死不了啦 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "70C3366A-44A8-1840-192D-55BADF2440D5",
+					"label": "70C3366A-44A8-1840-192D-55BADF2440D5",
+					"name":
+					{
+						"defaultText": "MarySinging",
+						"localizedByCulture":
+						{
+							"ar-AE": "MarySinging",
+							"de-DE": "MarySinging",
+							"en-US": "MarySinging",
+							"es-ES": "MarySinging",
+							"es-MX": "MarySinging",
+							"fr-FR": "MarySinging",
+							"id-ID": "MarySinging",
+							"it-IT": "MarySinging",
+							"ja-JP": "MarySinging",
+							"ko-KR": "MarySinging",
+							"pl-PL": "MarySinging",
+							"pt-BR": "MarySinging",
+							"ru-RU": "MarySinging",
+							"th-TH": "MarySinging",
+							"tr-TR": "MarySinging",
+							"vi-VN": "MarySinging",
+							"zh-CN": "MarySinging",
+							"zh-TW": "MarySinging"
+						}
+					}
+				}
+			],
+			"id": "FE86A4C5-4E92-324B-4C0D-A7A837D0D548",
+			"label": "FE86A4C5-4E92-324B-4C0D-A7A837D0D548",
+			"name":
+			{
+				"defaultText": "Cans On Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة أستمتع بالغناء",
+					"de-DE": "Graffiti „Kopfhörer auf“",
+					"en-US": "Cans On Spray",
+					"es-ES": "Grafiti Cascos puestos",
+					"es-MX": "Spray ¡Escucha esto!",
+					"fr-FR": "Graffiti À tue-tête",
+					"id-ID": "Spray Cans On",
+					"it-IT": "Spray Cuffie",
+					"ja-JP": "レコーディング中 スプレー",
+					"ko-KR": "헤드폰 착용 스프레이",
+					"pl-PL": "Graffiti „La, la, la”",
+					"pt-BR": "Spray Coloca o Fone",
+					"ru-RU": "Граффити \"В наушниках\"",
+					"th-TH": "สเปรย์ Cans On",
+					"tr-TR": "Kulaklık Keyfi Spreyi",
+					"vi-VN": "Hình Phun Sơn Đắm Chìm Vào Âm Nhạc",
+					"zh-CN": "高歌一曲 喷漆",
+					"zh-TW": "戴起耳機 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "CBE0245F-4DAC-A7F9-C5FF-63B641EBC7BC",
+					"label": "CBE0245F-4DAC-A7F9-C5FF-63B641EBC7BC",
+					"name":
+					{
+						"defaultText": "PhoenixChair",
+						"localizedByCulture":
+						{
+							"ar-AE": "PhoenixChair",
+							"de-DE": "PhoenixChair",
+							"en-US": "PhoenixChair",
+							"es-ES": "PhoenixChair",
+							"es-MX": "PhoenixChair",
+							"fr-FR": "PhoenixChair",
+							"id-ID": "PhoenixChair",
+							"it-IT": "PhoenixChair",
+							"ja-JP": "PhoenixChair",
+							"ko-KR": "PhoenixChair",
+							"pl-PL": "PhoenixChair",
+							"pt-BR": "PhoenixChair",
+							"ru-RU": "PhoenixChair",
+							"th-TH": "PhoenixChair",
+							"tr-TR": "PhoenixChair",
+							"vi-VN": "PhoenixChair",
+							"zh-CN": "PhoenixChair",
+							"zh-TW": "PhoenixChair"
+						}
+					}
+				}
+			],
+			"id": "7E85D0AB-4CC5-D869-5485-798AAE7E8656",
+			"label": "7E85D0AB-4CC5-D869-5485-798AAE7E8656",
+			"name":
+			{
+				"defaultText": "Hot Seat Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة المقعد المشتعل",
+					"de-DE": "Graffiti „Heißer Stuhl“",
+					"en-US": "Hot Seat Spray",
+					"es-ES": "Grafiti Calentando la silla",
+					"es-MX": "Spray Prisa Ardiente",
+					"fr-FR": "Graffiti Siège en flammes",
+					"id-ID": "Spray Hot Seat",
+					"it-IT": "Spray Poltrona che scotta",
+					"ja-JP": "追い詰められて スプレー",
+					"ko-KR": "좌불안석 스프레이",
+					"pl-PL": "Graffiti „Gorące krzesło”",
+					"pt-BR": "Spray Cadeira Chamuscante",
+					"ru-RU": "Граффити \"Бремя ответственности\"",
+					"th-TH": "สเปรย์ Hot Seat",
+					"tr-TR": "Hararetli Ortam Spreyi",
+					"vi-VN": "Hình Phun Sơn Ghế Nóng",
+					"zh-CN": "身负重任 喷漆",
+					"zh-TW": "坐立難安 塗鴉"
+				}
+			}
+		},
 		{
 			"levels": [
 				{
@@ -318242,7 +319664,7 @@
 					"de-DE": "Graffiti „Sichere Bucht“",
 					"en-US": "Safety Cove Spray",
 					"es-ES": "Grafiti Cala segura",
-					"es-MX": "Spray Domo de Seguridad",
+					"es-MX": "Spray Cúpula de Seguridad",
 					"fr-FR": "Graffiti Coin tranquille",
 					"id-ID": "Spray Safety Cove",
 					"it-IT": "Spray Baia sicura",
@@ -320222,7 +321644,7 @@
 					"de-DE": "Graffiti „Herzenssucher“",
 					"en-US": "Heartseeker Spray",
 					"es-ES": "Grafiti Heartseeker",
-					"es-MX": "Spray Cazacorazones",
+					"es-MX": "Spray Atrapacorazones",
 					"fr-FR": "Graffiti Amoureux de l'amour",
 					"id-ID": "Spray Heartseeker",
 					"it-IT": "Spray Cercacuore",
@@ -320282,7 +321704,7 @@
 					"de-DE": "Graffiti „Sturmschwall“",
 					"en-US": "Storm Surge Spray",
 					"es-ES": "Grafiti Descarga tormentosa",
-					"es-MX": "Spray Rayo Tormentoso",
+					"es-MX": "Spray Remolino Ciclónico",
 					"fr-FR": "Graffiti Coup d'éclair",
 					"id-ID": "Spray Storm Surge",
 					"it-IT": "Spray Impeto tempestoso",
@@ -322282,6 +323704,66 @@
 		{
 			"levels": [
 				{
+					"id": "F72CDCF1-413E-8836-FA75-4CBA3EC53615",
+					"label": "F72CDCF1-413E-8836-FA75-4CBA3EC53615",
+					"name":
+					{
+						"defaultText": "Ego2",
+						"localizedByCulture":
+						{
+							"ar-AE": "Ego2",
+							"de-DE": "Ego2",
+							"en-US": "Ego2",
+							"es-ES": "Ego2",
+							"es-MX": "Ego2",
+							"fr-FR": "Ego2",
+							"id-ID": "Ego2",
+							"it-IT": "Ego2",
+							"ja-JP": "Ego2",
+							"ko-KR": "Ego2",
+							"pl-PL": "Ego2",
+							"pt-BR": "Ego2",
+							"ru-RU": "Ego2",
+							"th-TH": "Ego2",
+							"tr-TR": "Ego2",
+							"vi-VN": "Ego2",
+							"zh-CN": "Ego2",
+							"zh-TW": "Ego2"
+						}
+					}
+				}
+			],
+			"id": "0C1C9AB3-4461-4CC6-486D-659E80E126ED",
+			"label": "0C1C9AB3-4461-4CC6-486D-659E80E126ED",
+			"name":
+			{
+				"defaultText": "ORA by OneTap Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة ORA by OneTap",
+					"de-DE": "Graffiti „ORA by OneTap“",
+					"en-US": "ORA by OneTap Spray",
+					"es-ES": "Grafiti ORA by OneTap",
+					"es-MX": "Spray ORA por OneTap",
+					"fr-FR": "Graffiti ORA par OneTap",
+					"id-ID": "Spray ORA by OneTap",
+					"it-IT": "Spray ORA by OneTap",
+					"ja-JP": "オラ by OneTap スプレー",
+					"ko-KR": "오라 바이 원탭 스프레이",
+					"pl-PL": "Graffiti „ORA od OneTap”",
+					"pt-BR": "Spray ORA por OneTap",
+					"ru-RU": "Граффити \"ORA от OneTap\"",
+					"th-TH": "สเปรย์ ORA by OneTap",
+					"tr-TR": "OneTap'ten ORA Spreyi",
+					"vi-VN": "Hình Phun Sơn ORA by OneTap",
+					"zh-CN": "ORA x 颗秒 喷漆",
+					"zh-TW": "猛攻之境 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "29FF2DB5-411E-07D1-1752-50ACDB32085E",
 					"label": "29FF2DB5-411E-07D1-1752-50ACDB32085E",
 					"name":
@@ -323083,7 +324565,7 @@
 							"pt-BR": "Spray Íon",
 							"ru-RU": "Граффити \"Ион\"",
 							"th-TH": "สเปรย์ Ion",
-							"tr-TR": "İYON SPREYİ",
+							"tr-TR": "İyon Spreyi",
 							"vi-VN": "Hình Phun Sơn Ion",
 							"zh-CN": "离子武器 喷漆",
 							"zh-TW": "離子聖芒 塗鴉"
@@ -323112,7 +324594,7 @@
 					"pt-BR": "Spray Íon",
 					"ru-RU": "Граффити \"Ион\"",
 					"th-TH": "สเปรย์ Ion",
-					"tr-TR": "İYON SPREYİ",
+					"tr-TR": "İyon Spreyi",
 					"vi-VN": "Hình Phun Sơn Ion",
 					"zh-CN": "离子武器 喷漆",
 					"zh-TW": "離子聖芒 塗鴉"
@@ -323618,7 +325100,7 @@
 							"id-ID": "Spray Ego",
 							"it-IT": "Spray Ego",
 							"ja-JP": "エゴ スプレー",
-							"ko-KR": "원탭 스프레이",
+							"ko-KR": "에고 스프레이",
 							"pl-PL": "Graffiti „Ego”",
 							"pt-BR": "Spray Ego",
 							"ru-RU": "Граффити \"Эго\"",
@@ -323647,7 +325129,7 @@
 					"id-ID": "Spray Ego",
 					"it-IT": "Spray Ego",
 					"ja-JP": "エゴ スプレー",
-					"ko-KR": "원탭 스프레이",
+					"ko-KR": "에고 스프레이",
 					"pl-PL": "Graffiti „Ego”",
 					"pt-BR": "Spray Ego",
 					"ru-RU": "Граффити \"Эго\"",
@@ -329301,6 +330783,35 @@
 		}
 	],
 	"flexes": [
+		{
+			"id": "FC33F376-4A58-687C-6961-BD8A7E529346",
+			"label": "FC33F376-4A58-687C-6961-BD8A7E529346",
+			"name":
+			{
+				"defaultText": "ORA by OneTap",
+				"localizedByCulture":
+				{
+					"ar-AE": "ORA by OneTap",
+					"de-DE": "ORA by OneTap",
+					"en-US": "ORA by OneTap",
+					"es-ES": "ORA by OneTap",
+					"es-MX": "ORA por OneTap",
+					"fr-FR": "ORA par OneTap",
+					"id-ID": "ORA by OneTap",
+					"it-IT": "ORA by OneTap",
+					"ja-JP": "オラ by OneTap",
+					"ko-KR": "오라 바이 원탭",
+					"pl-PL": "ORA od OneTap",
+					"pt-BR": "ORA por OneTap",
+					"ru-RU": "\"ORA от OneTap\"",
+					"th-TH": "ORA by OneTap",
+					"tr-TR": "OneTap'ten ORA",
+					"vi-VN": "ORA by OneTap",
+					"zh-CN": "ORA x 颗秒 喇叭",
+					"zh-TW": "猛攻之境"
+				}
+			}
+		},
 		{
 			"id": "80A11C6A-4D28-BFAD-5594-2E9369B7787A",
 			"label": "80A11C6A-4D28-BFAD-5594-2E9369B7787A",
