@@ -21,6 +21,7 @@ The list below contains all patchs from current major version. For a list of all
 
 The date in front of each patch represents the date when the patch was pushed to this repository, not the date when it was released by Riot Games. Here's a list of all patchs of current seasons included in this repository :
 
+- (December 2nd, 2025) 11.11
 - (November 11th, 2025) 11.10
 - (October 28th, 2025) 11.09
 - (October 14th, 2025) 11.08

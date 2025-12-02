@@ -1,5 +1,5 @@
 {
-	"version": "11.10.00.4002057",
+	"version": "11.11.00.4026545",
 	"characters": [
 		{
 			"description":
@@ -203,7 +203,7 @@
 							"en-US": "EQUIP Thrash. FIRE to link with Thrash’s mind and steer her through enemy territory. ACTIVATE to lunge forward and explode, Detaining any players in a small radius. When Thrash expires she reverts into a dormant globule. INTERACT to reclaim the globule and gain another Thrash charge after a short cooldown. Thrash can be reclaimed once.",
 							"es-ES": "EQUIPA a Thrash. DISPARA para vincular tu mente con la de Thrash y manejarla a través del territorio enemigo. ACTÍVALA para embestir hacia delante y explotar, lo que detendrá a cualquier jugador en un pequeño radio. Cuando Thrash desaparece, vuelve a su estado de glóbulo en reposo. INTERACTÚA para recuperar el glóbulo y obtener otra carga de Thrash tras un breve enfriamiento. Thrash se puede recuperar una vez.",
 							"es-MX": "EQUIPA a Paliza. DISPARA para vincularte con la mente de Paliza y dirigirla a través del territorio enemigo; ACTIVA para embestir hacia adelante y explotar, lo que inmoviliza a los enemigos en un pequeño radio. Cuando Paliza se agota, regresa a su forma de glóbulo en reposo; INTERACTÚA para recuperar el glóbulo y obtener otra carga de Paliza tras un breve enfriamiento. Solo se puede recuperar a Paliza una vez.",
-							"fr-FR": "ÉQUIPEZ-vous de Mordicus. TIREZ pour vous lier mentalement avec Mordicus et la diriger en territoire ennemi. ACTIVEZ pour bondir vers l'avant et exploser, ce qui retient tous les ennemis dans un petit rayon. Quand Mordicus arrive à expiration, elle redevient un globule dormant. INTERAGISSEZ avec elle pour récupérer le globule et, après un court délai, pouvoir réutiliser Mordicus. Mordicus peut être récupérée une fois.",
+							"fr-FR": "ÉQUIPEZ-vous de Mordicus. TIREZ pour vous lier mentalement avec Mordicus et la diriger en territoire ennemi. ACTIVEZ pour bondir vers l'avant et exploser, ce qui retient tous les joueurs dans un petit rayon. Quand Mordicus arrive à expiration, elle redevient un globule dormant. INTERAGISSEZ avec elle pour récupérer le globule et, après un court délai, pouvoir réutiliser Mordicus. Mordicus peut être récupérée une fois.",
 							"id-ID": "EQUIP Thrash. Tekan FIRE untuk terhubung dengan pikiran Thrash dan mengarahkannya ke wilayah musuh. AKTIFKAN untuk menerjang ke depan dan menghasilkan ledakan, serta menahan pemain dalam radius kecil. Saat Thrash menghilang, dia kembali ke globule yang tidak aktif. INTERAKSIKAN untuk mengambil globule dan memperoleh charge Thrash lagi setelah cooldown. Thrash bisa diambil kembali satu kali.",
 							"it-IT": "EQUIPAGGIA Thrash. Usa il FUOCO per connetterti alla mente di Thrash e guidarla in territorio nemico. ATTIVA per balzare in avanti ed esplodere, OSTACOLANDO i nemici entro un'area ridotta. Quando il potere di Thrash si esaurisce, torna in forma di globulo dormiente. INTERAGISCI con il globulo per raccoglierlo, ottenendo un'altra carica di Thrash dopo un breve periodo di ricarica. Thrash può essere recuperata una volta sola.",
 							"ja-JP": "スラッシュを構える。「発射」でスラッシュの精神とリンクし、スラッシュを操作して敵陣で動き回ることができる。「発動」で前方に飛んで爆発し、小範囲内のプレイヤーをすべて拘束する。スラッシュは一定時間が経過すると球体になって活動を停止する。「インタラクト」で球体を回収でき、短時間のクールダウン後に再使用可能になる。スラッシュは一度だけ回収できる。",
@@ -215,7 +215,7 @@
 							"tr-TR": "Zorba'yı KUŞAN. Zorba'nın zihnine girerek onunla düşman bölgesinde gezinmek için ATEŞ ET. Zorba'nın ileri atılıp patlayarak küçük bir alandaki tüm oyuncuları Alıkoyması için ETKİNLEŞTİR. Zorba süresi dolduğunda pasif bir küreye dönüşür. Onu geri almak ve kısa bir bekleme süresinin ardından bir Zorba yükü daha edinmek için küreyle ETKİLEŞİME GİR. Zorba yalnızca bir kere geri alınabilir.",
 							"vi-VN": "TRANG BỊ Thrash. BẮN để kết nối với tâm trí của Thrash và điều khiển nó xuyên qua lãnh địa của kẻ thù. KÍCH HOẠT để lao về phía trước và phát nổ, Giam Cầm mọi kẻ địch trong một phạm vi nhỏ. Khi Thrash hết thời gian hiệu lực, nó sẽ tiêu biến thành một tiểu thể không hoạt động. TƯƠNG TÁC để thu hồi tiểu thể và nhận thêm 1 lượt dùng Thrash sau khoảng thời gian hồi chiêu ngắn. Có thể thu hồi Thrash một lần.",
 							"zh-CN": "装备宠物“鲨鲨”。按【射击】与鲨鲨的意识进行相连，控制她穿越敌人领地。按【激活】即可让鲨鲨向前冲刺并爆炸，【束缚】小范围内的所有玩家。技能失效后，鲨鲨将变回一颗休眠的球体。与球体【互动】即可将其回收，在短暂的冷却时间后可再次获得无敌超鲨充能。鲨鲨仅可被回收一次。",
-							"zh-TW": "裝備鯊鯊。點擊「攻擊」即可與其心智連結，操控她穿越敵軍陣地。按下「啟動」可使鯊鯊向前衝並爆炸，「拘束」小範圍內所有敵人。鯊鯊的時間一到就會回復成休眠的球體。點擊「互動」即可回收球體，經過短暫的冷卻時間後便可獲得另一次鯊鯊充能。鯊鯊只能回收一次。"
+							"zh-TW": "裝備鯊鯊。點擊「攻擊」即可與其心智連結，操控她穿越敵軍陣地。按下「啟動」可使鯊鯊向前衝並爆炸，「拘束」小範圍內所有玩家。鯊鯊的時間一到就會回復成休眠的球體。點擊「互動」即可回收球體，經過短暫的冷卻時間後便可獲得另一次鯊鯊充能。鯊鯊只能回收一次。"
 						}
 					},
 					"label": "E370FA57-4757-3604-3648-499E1F642D3F_Ultimate",
@@ -1110,7 +1110,7 @@
 					"ja-JP": "テホはコロンビア出身の退役軍人であり、諜報コンサルタントだ。彼の弾道誘導システムは敵に陣地を明け渡すか、または命を差し出すかの選択を迫る。その精密な攻撃は敵を揺るがし、彼の狙いのもとに押さえ込む。",
 					"ko-KR": "콜롬비아 출신의 베테랑 정보 자문가인 테호는 탄도 유도 시스템을 이용해 적이 위치나 목숨을 포기하도록 압박합니다. 테호의 표적 공격은 상대의 균형을 무너뜨리고 완전히 통제합니다.",
 					"pl-PL": "Tejo, doświadczony konsultant wywiadowczy z Kolumbii, za pomocą swojego balistycznego systemu naprowadzania wymusza na wrogu wycofanie się z zajmowanego terenu, jeśli ten ceni sobie swoje życie. Jego namierzane ataki zaburzają szyk przeciwnika, zapewniając mu przewagę.",
-					"pt-BR": "Consultor de inteligência veterano da Colômbia, Tejo conta com um sistema de orientação balística que força o inimigo a abrir mão da posição — ou própria da vida. Os ataques precisos dele mantêm os oponentes desestabilizados e sob seu controle.",
+					"pt-BR": "Consultor de inteligência veterano da Colômbia, Tejo conta com um sistema de orientação balística que força o inimigo a abrir mão da posição — ou da própria vida. Os ataques precisos dele mantêm os oponentes desestabilizados e sob seu controle.",
 					"ru-RU": "Tejo – бывалый разведчик-эксперт из Колумбии. Используемая им система наведения огня вынуждает врагов сдавать позиции – или прощаться с жизнью. Его прицельные ракетные удары застигают противника врасплох и заставляют пластаться по земле.",
 					"th-TH": "Tejo ที่ปรึกษาข่าวกรองมากประสบการณ์จากโคลอมเบีย จะใช้ระบบนำทางขีปนาวุธกดดันให้ศัตรูต้องเลือกว่าจะทิ้งพื้นที่หรือชีวิตของตัวเอง การโจมตีแบบเจาะจงเป้าหมายของเขาจะทำให้คู่ต่อสู้ปั่นป่วนและไม่อาจขัดขืน",
 					"tr-TR": "Kolombiyalı deneyimli istihbarat danışmanı Tejo'nun balistik güdüm sistemi düşmanları oldukları yerden çıkmaya veya canlarını vermeye zorlar. İsabetli saldırıları sayesinde Tejo rakiplerinin dengesini bozar ve onlara karşı üstünlük kurar.",
@@ -1745,7 +1745,7 @@
 							"tr-TR": "Düşmanlar için etrafı tarayan bir tuzak KUŞAN. Tuzağı zemine yerleştirmek için ATEŞ ET. Görünen düşmanlar tuzağın menzili içine girdiğinde, tuzak geri sayıma başlar. Tuzak devreye girdiğinde etki alanını stabil olmayan bir hale getirerek içinde bulunan düşmanları Yavaşlatır. Tuzağı TEKRAR YERLEŞTİRMEK üzere bıraktığın yerden alabilirsin.",
 							"vi-VN": "TRANG BỊ 1 bẫy để phát hiện kẻ địch. BẮN để đặt trạm dịch chuyển trên mặt đất. Khi kẻ địch tiến vào phạm vi của bẫy, bẫy sẽ đếm ngược và sau đó khiến địa hình xung quanh rơi vào trạng thái bất ổn, tạo ra một vùng Làm Chậm những người chơi bên trong. Bẫy này có thể được nhặt lên và ĐẶT LẠI.",
 							"zh-CN": "装备一个可以扫描敌人的陷阱。按【射击】将其放置在地面上。非隐形的敌人进入扫描范围时，陷阱将开始倒计时并使周围地面陷入不稳定状态，生成一片持续存在的力场，使范围内所有的玩家【减速】。陷阱可被拾起并【重新部署】。",
-							"zh-TW": "裝備一個可偵測敵人的陷阱，點擊「攻擊」可放置在地上，非隱形的敵人進入範圍時，該陷阱倒數後會使周圍空間進入不穩定的狀態，創造一個可維持一段時間的力場，「緩速」範圍內的敵人。可撿起陷阱，然後「重新部署」。"
+							"zh-TW": "裝備一個可偵測敵人的陷阱，點擊「攻擊」可放置在地上，非隱形的敵人進入範圍時，該陷阱倒數後會使周圍空間進入不穩定的狀態，創造一個可維持一段時間的力場，「緩速」範圍內的玩家。可撿起陷阱，然後「重新部署」。"
 						}
 					},
 					"label": "22697A3D-45BF-8DD7-4FEC-84A9E28C69D7_Grenade",
@@ -1853,7 +1853,7 @@
 							"tr-TR": "Gövdeye doğrudan isabet ettiği düşmanları anında öldüren güçlü ve özel bir keskin nişancı tüfeği kuşanmak için ETKİNLEŞTİR. Nişan almak için ALT. ATIŞ kullan. Düşmanı öldürdüğün yerde, içine giren düşmanları Yavaşlatan bir etki alanı oluşur.",
 							"vi-VN": "KÍCH HOẠT để triệu hồi 1 khẩu súng bắn tỉa chuyên biệt siêu mạnh có khả năng hạ gục đối thủ ngay khi bắn trúng phần thân trên. BẮN PHỤ để ngắm ADS. Khi hạ gục kẻ địch sẽ tạo ra một khu vực khiến đối phương ở bên trong bị Làm Chậm.",
 							"zh-CN": "【激活】技能可召唤一把威力强大的定制狙击枪，命中敌人上半身任何部位均可将其击败。按【辅助射击】可使用瞄准镜。被击败的敌人会留下一片持续存在的力场，使范围内的所有玩家【减速】。",
-							"zh-TW": "按下「啟動」可取出一把強大的特製狙擊槍，直接命中上身即可擊殺敵人。點擊「輔助攻擊」即可進入開鏡瞄準模式。擊殺敵人後會創造一個可維持一段時間的力場，「緩速」範圍內的敵人。"
+							"zh-TW": "按下「啟動」可取出一把強大的特製狙擊槍，直接命中上身即可擊殺敵人。點擊「輔助攻擊」即可進入開鏡瞄準模式。擊殺敵人後會創造一個可維持一段時間的力場，「緩速」範圍內的玩家。"
 						}
 					},
 					"label": "22697A3D-45BF-8DD7-4FEC-84A9E28C69D7_Ultimate",
@@ -7391,7 +7391,7 @@
 							"ru-RU": "Паранойя",
 							"th-TH": "Paranoia",
 							"tr-TR": "PARANOYA",
-							"vi-VN": "Ảo Mộng",
+							"vi-VN": "Hoang Tưởng",
 							"zh-CN": "暗魇",
 							"zh-TW": "夢魘侵襲"
 						}
@@ -14407,7 +14407,7 @@
 							"ru-RU": "Odin \"Жнец\" уровень 4\n(расцветка 1 \"Красный\")",
 							"th-TH": "Reaver Odin เลเวล 4\n(ตัวเลือกที่ 1 สีแดง)",
 							"tr-TR": "4. Seviye Yağmacı Odin \n(Stil 1 - Kırmızı)",
-							"vi-VN": "Odin Cưỡng Đoạt Cấp 4\n\n(Dạng 1 Ánh Đỏ)",
+							"vi-VN": "Odin Cưỡng Đoạt Cấp 4\n(Dạng 1 Ánh Đỏ)",
 							"zh-CN": "掠影//2.0 奥丁 等级4\n（炫彩1 红色）",
 							"zh-TW": "掠奪印象 奧丁 等級4\n（幻彩1 紅色）"
 						}
@@ -14436,7 +14436,7 @@
 							"ru-RU": "Odin \"Жнец\" уровень 4\n(расцветка 2 \"Черный\")",
 							"th-TH": "Reaver Odin เลเวล 4\n(ตัวเลือกที่ 2 สีดำ)",
 							"tr-TR": "4. Seviye Yağmacı Odin \n(Stil 2 - Siyah)",
-							"vi-VN": "Odin Cưỡng Đoạt Cấp 4\n\n(Dạng 2 Ánh Đen)",
+							"vi-VN": "Odin Cưỡng Đoạt Cấp 4\n(Dạng 2 Ánh Đen)",
 							"zh-CN": "掠影//2.0 奥丁 等级4\n（炫彩2 黑色）",
 							"zh-TW": "掠奪印象 奧丁 等級4\n（幻彩2 黑色）"
 						}
@@ -14465,7 +14465,7 @@
 							"ru-RU": "Odin \"Жнец\" уровень 4\n(расцветка 3 \"Белый\")",
 							"th-TH": "Reaver Odin เลเวล 4\n(ตัวเลือกที่ 3 สีขาว)",
 							"tr-TR": "4. Seviye Yağmacı Odin \n(Stil 3 - Beyaz)",
-							"vi-VN": "Odin Cưỡng Đoạt Cấp 4\n\n(Dạng 3 Ánh Trắng)",
+							"vi-VN": "Odin Cưỡng Đoạt Cấp 4\n(Dạng 3 Ánh Trắng)",
 							"zh-CN": "掠影//2.0 奥丁 等级4\n（炫彩3 白色）",
 							"zh-TW": "掠奪印象 奧丁 等級4\n（幻彩3 白色）"
 						}
@@ -21311,6 +21311,273 @@
 		},
 		{
 			"weaponId": "55D8A0F4-4274-CA67-FE2C-06AB45EFDF58",
+			"defaultChromaId": "6EFC009B-4373-8B90-00C6-87B343CAC093",
+			"chromas": [
+				{
+					"id": "6EFC009B-4373-8B90-00C6-87B343CAC093",
+					"label": "6EFC009B-4373-8B90-00C6-87B343CAC093",
+					"name":
+					{
+						"defaultText": "Mystbloom Ares",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح آريز",
+							"de-DE": "Ares – Mystblüte",
+							"en-US": "Mystbloom Ares",
+							"es-ES": "Ares Mystbloom",
+							"es-MX": "Ares Flora Mística",
+							"fr-FR": "Ares (Mystyosotis)",
+							"id-ID": "Mystbloom Ares",
+							"it-IT": "Ares Fiore mistico",
+							"ja-JP": "ミストブルーム アレス",
+							"ko-KR": "미스트블룸 아레스",
+							"pl-PL": "Ares Skrytokwitu",
+							"pt-BR": "Ares Floretérea",
+							"ru-RU": "Ares \"Таинственный цветок\"",
+							"th-TH": "Mystbloom Ares",
+							"tr-TR": "Sırçiçeği Ares",
+							"vi-VN": "Ares Mystbloom",
+							"zh-CN": "千灵华绽//2.0 战神",
+							"zh-TW": "靈花初綻 戰神"
+						}
+					}
+				},
+				{
+					"id": "0B95CF9D-4F7D-655A-9A5D-10B8040F1FF5",
+					"label": "0B95CF9D-4F7D-655A-9A5D-10B8040F1FF5",
+					"name":
+					{
+						"defaultText": "Mystbloom Ares Level 4\n(Variant 1 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح آريز المستوى 4\n(بديل 1 أزرق)",
+							"de-DE": "Ares – Mystblüte Level 4\n(Variante 1, Blau)",
+							"en-US": "Mystbloom Ares Level 4\n(Variant 1 Blue)",
+							"es-ES": "Ares Mystbloom de nivel 4\n(variante 1: azul)",
+							"es-MX": "Ares Flora Mística nivel 4\n(Variante 1 Azul)",
+							"fr-FR": "Ares (Mystyosotis) niveau 4\n(Variante 1 Bleu)",
+							"id-ID": "Mystbloom Ares Level 4\n(Varian 1 Biru)",
+							"it-IT": "Ares Fiore mistico livello 4\n(variante 1 Blu)",
+							"ja-JP": "ミストブルーム アレス Lv.4\n(ヴァリアント 1 ブルー)",
+							"ko-KR": "미스트블룸 아레스 4레벨\n(변형 1 파란색)",
+							"pl-PL": "Ares Skrytokwitu (poziom 4)\n(wersja 1 – niebieska)",
+							"pt-BR": "Ares Floretérea Nível 4\n(Variante 1 Azul)",
+							"ru-RU": "Ares \"Таинственный цветок\" уровень 4\n(расцветка 1 \"Синий\")",
+							"th-TH": "Mystbloom Ares เลเวล 4\n(ตัวเลือกที่ 1 สีฟ้า)",
+							"tr-TR": "4. Seviye Sırçiçeği Ares\n(Stil 1 - Mavi)",
+							"vi-VN": "Ares Mystbloom Cấp 4\n(Dạng 1 Xanh Dương)",
+							"zh-CN": "千灵华绽//2.0 战神 等级4\n（炫彩1 蓝色）",
+							"zh-TW": "靈花初綻 戰神 等級4\n(幻彩1 藍色)"
+						}
+					}
+				},
+				{
+					"id": "5FD69B27-4D63-5813-DD16-9DA7CCA65EDD",
+					"label": "5FD69B27-4D63-5813-DD16-9DA7CCA65EDD",
+					"name":
+					{
+						"defaultText": "Mystbloom Ares Level 4\n(Variant 2 Orange)",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح آريز المستوى 4\n(بديل 2 برتقالي)",
+							"de-DE": "Ares – Mystblüte Level 4\n(Variante 2, Orange)",
+							"en-US": "Mystbloom Ares Level 4\n(Variant 2 Orange)",
+							"es-ES": "Ares Mystbloom de nivel 4\n(variante 2: naranja)",
+							"es-MX": "Ares Flora Mística nivel 4\n(Variante 2 Naranja)",
+							"fr-FR": "Ares (Mystyosotis) niveau 4\n(Variante 2 Orange)",
+							"id-ID": "Mystbloom Ares Level 4\n(Varian 2 Oranye)",
+							"it-IT": "Ares Fiore mistico livello 4\n(variante 2 Arancione)",
+							"ja-JP": "ミストブルーム アレス Lv.4\n(ヴァリアント 2 オレンジ)",
+							"ko-KR": "미스트블룸 아레스 4레벨\n(변형 2 주황색)",
+							"pl-PL": "Ares Skrytokwitu (poziom 4)\n(wersja 2 – pomarańczowa)",
+							"pt-BR": "Ares Floretérea Nível 4\n(Variante 2 Laranja)",
+							"ru-RU": "Ares \"Таинственный цветок\" уровень 4\n(расцветка 2 \"Оранжевый\")",
+							"th-TH": "Mystbloom Ares เลเวล 4\n(ตัวเลือกที่ 2 สีส้ม)",
+							"tr-TR": "4. Seviye Sırçiçeği Ares\n(Stil 2 - Turuncu)",
+							"vi-VN": "Ares Mystbloom Cấp 4\n(Dạng 2 Ánh Cam)",
+							"zh-CN": "千灵华绽//2.0 战神 等级4\n（炫彩2 橙色）",
+							"zh-TW": "靈花初綻 戰神 等級4\n(幻彩2 橘色)"
+						}
+					}
+				},
+				{
+					"id": "F4C1BDB4-4AC8-7722-0D3A-078228703459",
+					"label": "F4C1BDB4-4AC8-7722-0D3A-078228703459",
+					"name":
+					{
+						"defaultText": "Mystbloom Ares Level 4\n(Variant 3 Purple)",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح آريز المستوى 4\n(بديل 3 أرجواني)",
+							"de-DE": "Ares – Mystblüte Level 4\n(Variante 3, Violett)",
+							"en-US": "Mystbloom Ares Level 4\n(Variant 3 Purple)",
+							"es-ES": "Ares Mystbloom de nivel 4\n(variante 3: púrpura)",
+							"es-MX": "Ares Flora Mística nivel 4\n(Variante 3 Morada)",
+							"fr-FR": "Ares (Mystyosotis) niveau 4\n(Variante 3 Violet)",
+							"id-ID": "Mystbloom Ares Level 4\n(Varian 3 Ungu)",
+							"it-IT": "Ares Fiore mistico livello 4\n(variante 3 Viola)",
+							"ja-JP": "ミストブルーム アレス Lv.4\n(ヴァリアント 3 パープル)",
+							"ko-KR": "미스트블룸 아레스 4레벨\n(변형 3 보라색)",
+							"pl-PL": "Ares Skrytokwitu (poziom 4)\n(wersja 3 – fioletowa)",
+							"pt-BR": "Ares Floretérea Nível 4\n(Variante 3 Roxa)",
+							"ru-RU": "Ares \"Таинственный цветок\" уровень 4\n(расцветка 3 \"Фиолетовый\")",
+							"th-TH": "Mystbloom Ares เลเวล 4\n(ตัวเลือกที่ 3 สีม่วง)",
+							"tr-TR": "4. Seviye Sırçiçeği Ares\n(Stil 3 - Mor)",
+							"vi-VN": "Ares Mystbloom Cấp 4\n(Dạng 3 Ánh Tím)",
+							"zh-CN": "千灵华绽//2.0 战神 等级4\n（炫彩3 紫色）",
+							"zh-TW": "靈花初綻 戰神 等級4\n(幻彩3 紫色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "31A074A4-4B4F-3042-1054-C7AD29D1234F",
+					"label": "31A074A4-4B4F-3042-1054-C7AD29D1234F",
+					"name":
+					{
+						"defaultText": "Mystbloom Ares",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح آريز",
+							"de-DE": "Ares – Mystblüte",
+							"en-US": "Mystbloom Ares",
+							"es-ES": "Ares Mystbloom",
+							"es-MX": "Ares Flora Mística",
+							"fr-FR": "Ares (Mystyosotis)",
+							"id-ID": "Mystbloom Ares",
+							"it-IT": "Ares Fiore mistico",
+							"ja-JP": "ミストブルーム アレス",
+							"ko-KR": "미스트블룸 아레스",
+							"pl-PL": "Ares Skrytokwitu",
+							"pt-BR": "Ares Floretérea",
+							"ru-RU": "Ares \"Таинственный цветок\"",
+							"th-TH": "Mystbloom Ares",
+							"tr-TR": "Sırçiçeği Ares",
+							"vi-VN": "Ares Mystbloom",
+							"zh-CN": "千灵华绽//2.0 战神",
+							"zh-TW": "靈花初綻 戰神"
+						}
+					}
+				},
+				{
+					"id": "8C765E78-4A4D-3F62-226E-E99D67B1BD2D",
+					"label": "8C765E78-4A4D-3F62-226E-E99D67B1BD2D",
+					"name":
+					{
+						"defaultText": "Mystbloom Ares Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح آريز المستوى 2",
+							"de-DE": "Ares – Mystblüte Level 2",
+							"en-US": "Mystbloom Ares Level 2",
+							"es-ES": "Ares Mystbloom de nivel 2",
+							"es-MX": "Ares Flora Mística nivel 2",
+							"fr-FR": "Ares (Mystyosotis) niveau 2",
+							"id-ID": "Mystbloom Ares Level 2",
+							"it-IT": "Ares Fiore mistico livello 2",
+							"ja-JP": "ミストブルーム アレス Lv.2",
+							"ko-KR": "미스트블룸 아레스 2레벨",
+							"pl-PL": "Ares Skrytokwitu (poziom 2)",
+							"pt-BR": "Ares Floretérea Nível 2",
+							"ru-RU": "Ares \"Таинственный цветок\" уровень 2",
+							"th-TH": "Mystbloom Ares เลเวล 2",
+							"tr-TR": "2. Seviye Sırçiçeği Ares",
+							"vi-VN": "Ares Mystbloom Cấp 2",
+							"zh-CN": "千灵华绽//2.0 战神 等级2",
+							"zh-TW": "靈花初綻 戰神 等級2"
+						}
+					}
+				},
+				{
+					"id": "6B189A79-4071-01B2-74E2-909AC8BF0A27",
+					"label": "6B189A79-4071-01B2-74E2-909AC8BF0A27",
+					"name":
+					{
+						"defaultText": "Mystbloom Ares Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح آريز المستوى 3",
+							"de-DE": "Ares – Mystblüte Level 3",
+							"en-US": "Mystbloom Ares Level 3",
+							"es-ES": "Ares Mystbloom de nivel 3",
+							"es-MX": "Ares Flora Mística nivel 3",
+							"fr-FR": "Ares (Mystyosotis) niveau 3",
+							"id-ID": "Mystbloom Ares Level 3",
+							"it-IT": "Ares Fiore mistico livello 3",
+							"ja-JP": "ミストブルーム アレス Lv.3",
+							"ko-KR": "미스트블룸 아레스 3레벨",
+							"pl-PL": "Ares Skrytokwitu (poziom 3)",
+							"pt-BR": "Ares Floretérea Nível 3",
+							"ru-RU": "Ares \"Таинственный цветок\" уровень 3",
+							"th-TH": "Mystbloom Ares เลเวล 3",
+							"tr-TR": "3. Seviye Sırçiçeği Ares",
+							"vi-VN": "Ares Mystbloom Cấp 3",
+							"zh-CN": "千灵华绽//2.0 战神 等级3",
+							"zh-TW": "靈花初綻 戰神 等級3"
+						}
+					}
+				},
+				{
+					"id": "AF694A32-4032-D954-C6D8-638A62452DFF",
+					"label": "AF694A32-4032-D954-C6D8-638A62452DFF",
+					"name":
+					{
+						"defaultText": "Mystbloom Ares Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح آريز المستوى 4",
+							"de-DE": "Ares – Mystblüte Level 4",
+							"en-US": "Mystbloom Ares Level 4",
+							"es-ES": "Ares Mystbloom de nivel 4",
+							"es-MX": "Ares Flora Mística nivel 4",
+							"fr-FR": "Ares (Mystyosotis) niveau 4",
+							"id-ID": "Mystbloom Ares Level 4",
+							"it-IT": "Ares Fiore mistico livello 4",
+							"ja-JP": "ミストブルーム アレス Lv.4",
+							"ko-KR": "미스트블룸 아레스 4레벨",
+							"pl-PL": "Ares Skrytokwitu (poziom 4)",
+							"pt-BR": "Ares Floretérea Nível 4",
+							"ru-RU": "Ares \"Таинственный цветок\" уровень 4",
+							"th-TH": "Mystbloom Ares เลเวล 4",
+							"tr-TR": "4. Seviye Sırçiçeği Ares",
+							"vi-VN": "Ares Mystbloom Cấp 4",
+							"zh-CN": "千灵华绽//2.0 战神 等级4",
+							"zh-TW": "靈花初綻 戰神 等級4"
+						}
+					}
+				}
+			],
+			"id": "C976F29D-4A83-3A40-2907-8DADBB7C5940",
+			"label": "C976F29D-4A83-3A40-2907-8DADBB7C5940",
+			"name":
+			{
+				"defaultText": "Mystbloom Ares",
+				"localizedByCulture":
+				{
+					"ar-AE": "أزهار الروح آريز",
+					"de-DE": "Ares – Mystblüte",
+					"en-US": "Mystbloom Ares",
+					"es-ES": "Ares Mystbloom",
+					"es-MX": "Ares Flora Mística",
+					"fr-FR": "Ares (Mystyosotis)",
+					"id-ID": "Mystbloom Ares",
+					"it-IT": "Ares Fiore mistico",
+					"ja-JP": "ミストブルーム アレス",
+					"ko-KR": "미스트블룸 아레스",
+					"pl-PL": "Ares Skrytokwitu",
+					"pt-BR": "Ares Floretérea",
+					"ru-RU": "Ares \"Таинственный цветок\"",
+					"th-TH": "Mystbloom Ares",
+					"tr-TR": "Sırçiçeği Ares",
+					"vi-VN": "Ares Mystbloom",
+					"zh-CN": "千灵华绽//2.0 战神",
+					"zh-TW": "靈花初綻 戰神"
+				}
+			}
+		},
+		{
+			"weaponId": "55D8A0F4-4274-CA67-FE2C-06AB45EFDF58",
 			"defaultChromaId": "B33DE820-4061-8B85-31CE-808F1A2C58F5",
 			"chromas": [
 				{
@@ -23728,7 +23995,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "‏Champions 2021 فاندال المستوى 4\nيتم تفعيل الهالة فقط عند إحراز اللاعب أكبر عدد من عمليات القتل في المباراة",
-							"de-DE": "Vandal – Champions 2021 Level 4\n\nDie Aura aktiviert sich nur, wenn du die meisten Kills im Spiel hast.",
+							"de-DE": "Vandal – Champions 2021 Level 4\nDie Aura aktiviert sich nur, wenn du die meisten Kills im Spiel hast.",
 							"en-US": "Champions 2021 Vandal Level 4\r\nAura is active only when player has the most kills in the game",
 							"es-ES": "Vandal Champions 2021 de nivel 4\nEl aura solo se activa cuando el jugador tiene el mayor número de asesinatos de la partida.",
 							"es-MX": "Vandal Champions 2021 nivel 4\n\nEl aura solo se activa cuando el jugador tiene el mayor número de asesinatos en la partida.",
@@ -35080,6 +35347,273 @@
 					"vi-VN": "Vandal Chiến Giáp",
 					"zh-CN": "泰坦兵器 狂徒",
 					"zh-TW": "泰坦刺甲 暴徒"
+				}
+			}
+		},
+		{
+			"weaponId": "9C82E19D-4575-0200-1A81-3EACF00CF872",
+			"defaultChromaId": "087F02E8-4676-B272-2A16-F6BDD3612A45",
+			"chromas": [
+				{
+					"id": "087F02E8-4676-B272-2A16-F6BDD3612A45",
+					"label": "087F02E8-4676-B272-2A16-F6BDD3612A45",
+					"name":
+					{
+						"defaultText": "Mystbloom Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح فاندال",
+							"de-DE": "Vandal – Mystblüte",
+							"en-US": "Mystbloom Vandal",
+							"es-ES": "Vandal Mystbloom",
+							"es-MX": "Vandal Flora Mística",
+							"fr-FR": "Vandal (Mystyosotis)",
+							"id-ID": "Mystbloom Vandal",
+							"it-IT": "Vandal Fiore mistico",
+							"ja-JP": "ミストブルーム ヴァンダル",
+							"ko-KR": "미스트블룸 밴달",
+							"pl-PL": "Vandal Skrytokwitu",
+							"pt-BR": "Vandal Floretérea",
+							"ru-RU": "Vandal \"Таинственный цветок\"",
+							"th-TH": "Mystbloom Vandal",
+							"tr-TR": "Sırçiçeği Vandal",
+							"vi-VN": "Vandal Mystbloom",
+							"zh-CN": "千灵华绽//2.0 狂徒",
+							"zh-TW": "靈花初綻 暴徒"
+						}
+					}
+				},
+				{
+					"id": "8ED8E9D2-4747-9B53-A39C-4F9439A29DE9",
+					"label": "8ED8E9D2-4747-9B53-A39C-4F9439A29DE9",
+					"name":
+					{
+						"defaultText": "Mystbloom Vandal Level 4\n(Variant 1 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح فاندال المستوى 4\n(بديل 1 أزرق)",
+							"de-DE": "Vandal – Mystblüte Level 4\n(Variante 1, Blau)",
+							"en-US": "Mystbloom Vandal Level 4\n(Variant 1 Blue)",
+							"es-ES": "Vandal Mystbloom de nivel 4\n(variante 1: azul)",
+							"es-MX": "Vandal Flora Mística nivel 4\n(Variante 1 Azul)",
+							"fr-FR": "Vandal (Mystyosotis) niveau 4\n(Variante 1 Bleu)",
+							"id-ID": "Mystbloom Vandal Level 4\n(Varian 1 Biru)",
+							"it-IT": "Vandal Fiore mistico livello 4\n(variante 1 Blu)",
+							"ja-JP": "ミストブルーム ヴァンダル Lv.4\n(ヴァリアント 1 ブルー)",
+							"ko-KR": "미스트블룸 밴달 4레벨\n(변형 1 파란색)",
+							"pl-PL": "Vandal Skrytokwitu (poziom 4)\n(wersja 1 – niebieska)",
+							"pt-BR": "Vandal Floretérea Nível 4\n(Variante 1 Azul)",
+							"ru-RU": "Vandal \"Таинственный цветок\" уровень 4\n(расцветка 1 \"Синий\")",
+							"th-TH": "Mystbloom Vandal เลเวล 4\n(ตัวเลือกที่ 1 สีฟ้า)",
+							"tr-TR": "4. Seviye Sırçiçeği Vandal\n(Stil 1 - Mavi)",
+							"vi-VN": "Vandal Mystbloom Cấp 4\n(Dạng 1 Xanh Dương)",
+							"zh-CN": "千灵华绽//2.0 狂徒 等级4\n（炫彩1 蓝色）",
+							"zh-TW": "靈花初綻 暴徒 等級4\n(幻彩1 藍色)"
+						}
+					}
+				},
+				{
+					"id": "ADE7D74D-4F7F-23BA-AE82-A880C98ACBE7",
+					"label": "ADE7D74D-4F7F-23BA-AE82-A880C98ACBE7",
+					"name":
+					{
+						"defaultText": "Mystbloom Vandal Level 4\r\n(Variant 2 Orange)",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح فاندال المستوى 4\r\n(بديل 2 برتقالي)",
+							"de-DE": "Vandal – Mystblüte Level 4\r\n(Variante 2, Orange)",
+							"en-US": "Mystbloom Vandal Level 4\r\n(Variant 2 Orange)",
+							"es-ES": "Vandal Mystbloom de nivel 4\r\n(variante 2: naranja)",
+							"es-MX": "Vandal Flora Mística nivel 4\r\n(Variante 2 Naranja)",
+							"fr-FR": "Vandal (Mystyosotis) niveau 4\r\n(Variante 2 Orange)",
+							"id-ID": "Mystbloom Vandal Level 4\r\n(Varian 2 Oranye)",
+							"it-IT": "Vandal Fiore mistico livello 4\r\n(variante 2 Arancione)",
+							"ja-JP": "ミストブルーム ヴァンダル Lv.4\r\n(ヴァリアント 2 オレンジ)",
+							"ko-KR": "미스트블룸 밴달 4레벨\r\n(변형 2 주황색)",
+							"pl-PL": "Vandal Skrytokwitu (poziom 4)\r\n(wersja 2 – pomarańczowa)",
+							"pt-BR": "Vandal Floretérea Nível 4\r\n(Variante 2 Laranja)",
+							"ru-RU": "Vandal \"Таинственный цветок\" уровень 4\r\n(расцветка 2 \"Оранжевый\")",
+							"th-TH": "Mystbloom Vandal เลเวล 4\r\n(ตัวเลือกที่ 2 สีส้ม)",
+							"tr-TR": "4. Seviye Sırçiçeği Vandal\r\n(Stil 2 - Turuncu)",
+							"vi-VN": "Vandal Mystbloom Cấp 4\r\n(Dạng 2 Ánh Cam)",
+							"zh-CN": "千灵华绽//2.0 狂徒 等级4\r\n（炫彩2 橙色）",
+							"zh-TW": "靈花初綻 暴徒 等級4\r\n(幻彩2 橘色)"
+						}
+					}
+				},
+				{
+					"id": "9BA63F71-451F-89C4-2773-EA8804BA5184",
+					"label": "9BA63F71-451F-89C4-2773-EA8804BA5184",
+					"name":
+					{
+						"defaultText": "Mystbloom Vandal Level 4\n(Variant 3 Purple)",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح فاندال المستوى 4\n(بديل 3 أرجواني)",
+							"de-DE": "Vandal – Mystblüte Level 4\n(Variante 3, Violett)",
+							"en-US": "Mystbloom Vandal Level 4\n(Variant 3 Purple)",
+							"es-ES": "Vandal Mystbloom de nivel 4\n(variante 3: púrpura)",
+							"es-MX": "Vandal Flora Mística nivel 4\n(Variante 3 Morada)",
+							"fr-FR": "Vandal (Mystyosotis) niveau 4\n(Variante 3 Violet)",
+							"id-ID": "Mystbloom Vandal Level 4\n(Varian 3 Ungu)",
+							"it-IT": "Vandal Fiore mistico livello 4\n(variante 3 Viola)",
+							"ja-JP": "ミストブルーム ヴァンダル Lv.4\n(ヴァリアント 3 パープル)",
+							"ko-KR": "미스트블룸 밴달 4레벨\n(변형 3 보라색)",
+							"pl-PL": "Vandal Skrytokwitu (poziom 4)\n(wersja 3 – fioletowa)",
+							"pt-BR": "Vandal Floretérea Nível 4\n(Variante 3 Roxa)",
+							"ru-RU": "Vandal \"Таинственный цветок\" уровень 4\n(расцветка 3 \"Фиолетовый\")",
+							"th-TH": "Mystbloom Vandal เลเวล 4\n(ตัวเลือกที่ 3 สีม่วง)",
+							"tr-TR": "4. Seviye Sırçiçeği Vandal\n(Stil 3 - Mor)",
+							"vi-VN": "Vandal Mystbloom Cấp 4\n(Dạng 3 Ánh Tím)",
+							"zh-CN": "千灵华绽//2.0 狂徒 等级4\n（炫彩3 紫色）",
+							"zh-TW": "靈花初綻 暴徒 等級4\n(幻彩3 紫色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "16DE4787-4EB9-E407-7CB7-17B01096BE4A",
+					"label": "16DE4787-4EB9-E407-7CB7-17B01096BE4A",
+					"name":
+					{
+						"defaultText": "Mystbloom Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح فاندال",
+							"de-DE": "Vandal – Mystblüte",
+							"en-US": "Mystbloom Vandal",
+							"es-ES": "Vandal Mystbloom",
+							"es-MX": "Vandal Flora Mística",
+							"fr-FR": "Vandal (Mystyosotis)",
+							"id-ID": "Mystbloom Vandal",
+							"it-IT": "Vandal Fiore mistico",
+							"ja-JP": "ミストブルーム ヴァンダル",
+							"ko-KR": "미스트블룸 밴달",
+							"pl-PL": "Vandal Skrytokwitu",
+							"pt-BR": "Vandal Floretérea",
+							"ru-RU": "Vandal \"Таинственный цветок\"",
+							"th-TH": "Mystbloom Vandal",
+							"tr-TR": "Sırçiçeği Vandal",
+							"vi-VN": "Vandal Mystbloom",
+							"zh-CN": "千灵华绽//2.0 狂徒",
+							"zh-TW": "靈花初綻 暴徒"
+						}
+					}
+				},
+				{
+					"id": "C33189BC-458A-04D3-C8E6-429359396BA9",
+					"label": "C33189BC-458A-04D3-C8E6-429359396BA9",
+					"name":
+					{
+						"defaultText": "Mystbloom Vandal Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح فاندال المستوى 2",
+							"de-DE": "Vandal – Mystblüte Level 2",
+							"en-US": "Mystbloom Vandal Level 2",
+							"es-ES": "Vandal Mystbloom de nivel 2",
+							"es-MX": "Vandal Flora Mística nivel 2",
+							"fr-FR": "Vandal (Mystyosotis) niveau 2",
+							"id-ID": "Mystbloom Vandal Level 2",
+							"it-IT": "Vandal Fiore mistico livello 2",
+							"ja-JP": "ミストブルーム ヴァンダル Lv.2",
+							"ko-KR": "미스트블룸 밴달 2레벨",
+							"pl-PL": "Vandal Skrytokwitu (poziom 2)",
+							"pt-BR": "Vandal Floretérea Nível 2",
+							"ru-RU": "Vandal \"Таинственный цветок\" уровень 2",
+							"th-TH": "Mystbloom Vandal เลเวล 2",
+							"tr-TR": "2. Seviye Sırçiçeği Vandal",
+							"vi-VN": "Vandal Mystbloom Cấp 2",
+							"zh-CN": "千灵华绽//2.0 狂徒 等级2",
+							"zh-TW": "靈花初綻 暴徒 等級2"
+						}
+					}
+				},
+				{
+					"id": "E3EDA12D-439A-ACD3-BD68-6FBFA550FB82",
+					"label": "E3EDA12D-439A-ACD3-BD68-6FBFA550FB82",
+					"name":
+					{
+						"defaultText": "Mystbloom Vandal Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح فاندال المستوى 3",
+							"de-DE": "Vandal – Mystblüte Level 3",
+							"en-US": "Mystbloom Vandal Level 3",
+							"es-ES": "Vandal Mystbloom de nivel 3",
+							"es-MX": "Vandal Flora Mística nivel 3",
+							"fr-FR": "Vandal (Mystyosotis) niveau 3",
+							"id-ID": "Mystbloom Vandal Level 3",
+							"it-IT": "Vandal Fiore mistico livello 3",
+							"ja-JP": "ミストブルーム ヴァンダル Lv.3",
+							"ko-KR": "미스트블룸 밴달 3레벨",
+							"pl-PL": "Vandal Skrytokwitu (poziom 3)",
+							"pt-BR": "Vandal Floretérea Nível 3",
+							"ru-RU": "Vandal \"Таинственный цветок\" уровень 3",
+							"th-TH": "Mystbloom Vandal เลเวล 3",
+							"tr-TR": "3. Seviye Sırçiçeği Vandal",
+							"vi-VN": "Vandal Mystbloom Cấp 3",
+							"zh-CN": "千灵华绽//2.0 狂徒 等级3",
+							"zh-TW": "靈花初綻 暴徒 等級3"
+						}
+					}
+				},
+				{
+					"id": "D3DB2745-47C2-3977-8BFE-BC96F539225E",
+					"label": "D3DB2745-47C2-3977-8BFE-BC96F539225E",
+					"name":
+					{
+						"defaultText": "Mystbloom Vandal Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح فاندال المستوى 4",
+							"de-DE": "Vandal – Mystblüte Level 4",
+							"en-US": "Mystbloom Vandal Level 4",
+							"es-ES": "Vandal Mystbloom de nivel 4",
+							"es-MX": "Vandal Flora Mística nivel 4",
+							"fr-FR": "Vandal (Mystyosotis) niveau 4",
+							"id-ID": "Mystbloom Vandal Level 4",
+							"it-IT": "Vandal Fiore mistico livello 4",
+							"ja-JP": "ミストブルーム ヴァンダル Lv.4",
+							"ko-KR": "미스트블룸 밴달 4레벨",
+							"pl-PL": "Vandal Skrytokwitu (poziom 4)",
+							"pt-BR": "Vandal Floretérea Nível 4",
+							"ru-RU": "Vandal \"Таинственный цветок\" уровень 4",
+							"th-TH": "Mystbloom Vandal เลเวล 4",
+							"tr-TR": "4. Seviye Sırçiçeği Vandal",
+							"vi-VN": "Vandal Mystbloom Cấp 4",
+							"zh-CN": "千灵华绽//2.0 狂徒 等级4",
+							"zh-TW": "靈花初綻 暴徒 等級4"
+						}
+					}
+				}
+			],
+			"id": "4FC36214-4492-EF57-F8FB-4CAB81863545",
+			"label": "4FC36214-4492-EF57-F8FB-4CAB81863545",
+			"name":
+			{
+				"defaultText": "Mystbloom Vandal",
+				"localizedByCulture":
+				{
+					"ar-AE": "أزهار الروح فاندال",
+					"de-DE": "Vandal – Mystblüte",
+					"en-US": "Mystbloom Vandal",
+					"es-ES": "Vandal Mystbloom",
+					"es-MX": "Vandal Flora Mística",
+					"fr-FR": "Vandal (Mystyosotis)",
+					"id-ID": "Mystbloom Vandal",
+					"it-IT": "Vandal Fiore mistico",
+					"ja-JP": "ミストブルーム ヴァンダル",
+					"ko-KR": "미스트블룸 밴달",
+					"pl-PL": "Vandal Skrytokwitu",
+					"pt-BR": "Vandal Floretérea",
+					"ru-RU": "Vandal \"Таинственный цветок\"",
+					"th-TH": "Mystbloom Vandal",
+					"tr-TR": "Sırçiçeği Vandal",
+					"vi-VN": "Vandal Mystbloom",
+					"zh-CN": "千灵华绽//2.0 狂徒",
+					"zh-TW": "靈花初綻 暴徒"
 				}
 			}
 		},
@@ -48061,7 +48595,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "‏Champions 2022 فانتوم المستوى 4\nيتم تفعيل الهالة فقط عند إحراز اللاعب أكبر عدد من عمليات القتل في المباراة",
-							"de-DE": "Phantom – Champions 2022 Level 4\n\nDie Aura aktiviert sich nur, wenn du die meisten Kills im Spiel hast.",
+							"de-DE": "Phantom – Champions 2022 Level 4\nDie Aura aktiviert sich nur, wenn du die meisten Kills im Spiel hast.",
 							"en-US": "Champions 2022 Phantom Level 4\r\nAura is active only when player has the most kills in the game",
 							"es-ES": "Phantom Champions 2022 de nivel 4\nEl aura solo se activa cuando el jugador tiene el mayor número de asesinatos de la partida.",
 							"es-MX": "Phantom Champions 2022 nivel 4\n\nEl aura solo se activa cuando el jugador tiene el mayor número de asesinatos en la partida.",
@@ -73617,7 +74151,7 @@
 							"de-DE": "Frenzy – RGX 11z Pro Level 5\n(Variante 1, Rot)",
 							"en-US": "RGX 11z Pro Frenzy Level 5\r\n(Variant 1 Red)",
 							"es-ES": "Frenzy RGX 11z Pro de nivel 5\n(variante 1: rojo)",
-							"es-MX": "Frenzy RGX 11z Pro nivel 5\n\n(Variante 1 Roja)",
+							"es-MX": "Frenzy RGX 11z Pro nivel 5\r\n(Variante 1 Roja)",
 							"fr-FR": "Frenzy (RGX 11z Pro) niveau 5\n(variante 1 Rouge)",
 							"id-ID": "RGX 11z Pro Frenzy Level 5\n(Varian 1 Merah)",
 							"it-IT": "Frenzy RGX 11z Pro livello 5\n(variante 1 Rossa)",
@@ -73646,7 +74180,7 @@
 							"de-DE": "Frenzy – RGX 11z Pro Level 5\n(Variante 2, Blau)",
 							"en-US": "RGX 11z Pro Frenzy Level 5\r\n(Variant 2 Blue)",
 							"es-ES": "Frenzy RGX 11z Pro de nivel 5\n(variante 2: azul)",
-							"es-MX": "Frenzy RGX 11z Pro nivel 5\n\n(Variante 2 Azul)",
+							"es-MX": "Frenzy RGX 11z Pro nivel 5\r\n(Variante 2 Azul)",
 							"fr-FR": "Frenzy (RGX 11z Pro) niveau 5\n(variante 2 Bleu)",
 							"id-ID": "RGX 11z Pro Frenzy Level 5\n(Varian 2 Biru)",
 							"it-IT": "Frenzy RGX 11z Pro livello 5\n(variante 2 Blu)",
@@ -82608,7 +83142,7 @@
 							"de-DE": "Classic – Nocturnum Level 4\r\n(Variante 1, Schwarz)",
 							"en-US": "Nocturnum Classic Level 4\r\n(Variant 1 Black)",
 							"es-ES": "Classic Nocturnum de nivel 4\n(variante 1: negro)",
-							"es-MX": "Classic Nocturnum nivel 4\n\n(Variante 1 Negra)",
+							"es-MX": "Classic Nocturnum nivel 4\r\n(Variante 1 Negra)",
 							"fr-FR": "Classic (Nocturnum) niveau 4\n(variante 1 Noir)",
 							"id-ID": "Nocturnum Classic Level 4\n(Varian 1 Hitam)",
 							"it-IT": "Classic Nocturnum livello 4\n(variante 1 Nera)",
@@ -82637,7 +83171,7 @@
 							"de-DE": "Classic – Nocturnum Level 4\r\n(Variante 2, Blau)",
 							"en-US": "Nocturnum Classic Level 4\r\n(Variant 2 Blue)",
 							"es-ES": "Classic Nocturnum de nivel 4\n(variante 2: azul)",
-							"es-MX": "Classic Nocturnum nivel 4\n\n(Variante 2 Azul)",
+							"es-MX": "Classic Nocturnum nivel 4\r\n(Variante 2 Azul)",
 							"fr-FR": "Classic (Nocturnum) niveau 4\n(variante 2 Bleu)",
 							"id-ID": "Nocturnum Classic Level 4\n(Varian 2 Biru)",
 							"it-IT": "Classic Nocturnum livello 4\n(variante 2 Blu)",
@@ -82666,7 +83200,7 @@
 							"de-DE": "Classic – Nocturnum Level 4\r\n(Variante 3, Gelb)",
 							"en-US": "Nocturnum Classic Level 4\r\n(Variant 3 Yellow)",
 							"es-ES": "Classic Nocturnum de nivel 4\n(variante 3: amarillo)",
-							"es-MX": "Classic Nocturnum nivel 4\n\n(Variante 3 Amarilla)",
+							"es-MX": "Classic Nocturnum nivel 4\r\n(Variante 3 Amarilla)",
 							"fr-FR": "Classic (Nocturnum) niveau 4\n(variante 3 Jaune)",
 							"id-ID": "Nocturnum Classic Level 4\n(Varian 3 Kuning)",
 							"it-IT": "Classic Nocturnum livello 4\n(variante 3 Gialla)",
@@ -82784,7 +83318,7 @@
 							"de-DE": "Classic – Nocturnum Level 4\r\nTöte jeden Spieler des Gegnerteams einmal, um deinen Finisher in seine ultimative Form zu transformieren.",
 							"en-US": "Nocturnum Classic Level 4\r\nKill each player on the enemy team once to transform your Finisher into its ultimate form.",
 							"es-ES": "Classic Nocturnum de nivel 4\r\nMata a todos los jugadores del equipo enemigo al menos una vez para que tu remate adopte su forma definitiva.",
-							"es-MX": "Classic Nocturnum nivel 4\n\nMata una vez a cada jugador del equipo enemigo para transformar tu remate a su forma definitiva.",
+							"es-MX": "Classic Nocturnum nivel 4\r\nMata una vez a cada jugador del equipo enemigo para transformar tu remate a su forma definitiva.",
 							"fr-FR": "Classic (Nocturnum) niveau 4\nTuez une fois chaque adversaire pour donner sa forme ultime à votre finition.",
 							"id-ID": "Nocturnum Classic Level 4\nKill masing-masing pemain di tim musuh satu kali untuk mengubah Finisher ke bentuk pemungkasnya.",
 							"it-IT": "Classic Nocturnum livello 4\nUccidi ogni giocatore della squadra nemica una volta\r\nper portare il tuo effetto finale alla sua forma suprema.",
@@ -85229,7 +85763,7 @@
 							"de-DE": "Classic – Schwarz.Markt Level 2\n\nDas Skin-Design ändert sich, wenn du Angreifer oder Verteidiger bist.",
 							"en-US": "Black.Market Classic Level 2\r\nThe skin design changes if you are Attacker or Defender",
 							"es-ES": "Classic Black.Market de nivel 2\nDistinto diseño si atacas o defiendes.",
-							"es-MX": "Classic Mercado.Negro nivel 2\n\nLa apariencia del diseño cambia dependiendo de si eres atacante o defensor.",
+							"es-MX": "Classic Mercado.Negro nivel 2\r\nLa apariencia del diseño cambia dependiendo de si eres atacante o defensor.",
 							"fr-FR": "Classic (Marché.noir) niveau 2\nLe skin change selon que vous êtes attaquant ou défenseur.",
 							"id-ID": "Black.Market Classic Level 2\nDesain skin berubah jika kamu menjadi Attacker atau Defender",
 							"it-IT": "Classic Mercato.Nero livello 2\nL'aspetto del modello cambia da attaccante a difensore",
@@ -109607,6 +110141,273 @@
 		},
 		{
 			"weaponId": "1BAA85B4-4C70-1284-64BB-6481DFC3BB4E",
+			"defaultChromaId": "89DBE2D2-4D10-6935-3118-01AC8524EE97",
+			"chromas": [
+				{
+					"id": "89DBE2D2-4D10-6935-3118-01AC8524EE97",
+					"label": "89DBE2D2-4D10-6935-3118-01AC8524EE97",
+					"name":
+					{
+						"defaultText": "Mystbloom Ghost",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح غوست",
+							"de-DE": "Ghost – Mystblüte",
+							"en-US": "Mystbloom Ghost",
+							"es-ES": "Ghost Mystbloom",
+							"es-MX": "Ghost Flora Mística",
+							"fr-FR": "Ghost (Mystyosotis)",
+							"id-ID": "Mystbloom Ghost",
+							"it-IT": "Ghost Fiore mistico",
+							"ja-JP": "ミストブルーム ゴースト",
+							"ko-KR": "미스트블룸 고스트",
+							"pl-PL": "Ghost Skrytokwitu",
+							"pt-BR": "Ghost Floretérea",
+							"ru-RU": "Ghost \"Таинственный цветок\"",
+							"th-TH": "Mystbloom Ghost",
+							"tr-TR": "Sırçiçeği Ghost",
+							"vi-VN": "Ghost Mystbloom",
+							"zh-CN": "千灵华绽//2.0 鬼魅",
+							"zh-TW": "靈花初綻 鬼魅"
+						}
+					}
+				},
+				{
+					"id": "D8CD12FD-47B2-C0EC-935D-BABB7DED50C6",
+					"label": "D8CD12FD-47B2-C0EC-935D-BABB7DED50C6",
+					"name":
+					{
+						"defaultText": "Mystbloom Ghost Level 4\n(Variant 1 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح غوست المستوى 4\n(بديل 1 أزرق)",
+							"de-DE": "Ghost – Mystblüte Level 4\n(Variante 1, Blau)",
+							"en-US": "Mystbloom Ghost Level 4\n(Variant 1 Blue)",
+							"es-ES": "Ghost Mystbloom de nivel 4\n(variante 1: azul)",
+							"es-MX": "Ghost Flora Mística nivel 4\n(Variante 1 Azul)",
+							"fr-FR": "Ghost (Mystyosotis) niveau 4\n(Variante 1 Bleu)",
+							"id-ID": "Mystbloom Ghost Level 4\n(Varian 1 Biru)",
+							"it-IT": "Ghost Fiore mistico livello 4\n(variante 1 Blu)",
+							"ja-JP": "ミストブルーム ゴースト Lv.4\n(ヴァリアント 1 ブルー)",
+							"ko-KR": "미스트블룸 고스트 4레벨\n(변형 1 파란색)",
+							"pl-PL": "Ghost Skrytokwitu (poziom 4)\n(wersja 1 – niebieska)",
+							"pt-BR": "Ghost Floretérea Nível 4\n(Variante 1 Azul)",
+							"ru-RU": "Ghost \"Таинственный цветок\" уровень 4\n(расцветка 1 \"Синий\")",
+							"th-TH": "Mystbloom Ares เลเวล 4\n(ตัวเลือกที่ 1 สีฟ้า)",
+							"tr-TR": "4. Seviye Sırçiçeği Ghost\n(Stil 1 - Mavi)",
+							"vi-VN": "Ghost Mystbloom Cấp 4\n(Dạng 1 Xanh Dương)",
+							"zh-CN": "千灵华绽//2.0 鬼魅 等级4\n（炫彩1 蓝色）",
+							"zh-TW": "靈花初綻 鬼魅 等級4\n(幻彩1 藍色)"
+						}
+					}
+				},
+				{
+					"id": "854E7B65-482B-5982-B131-05BB7FC38F6B",
+					"label": "854E7B65-482B-5982-B131-05BB7FC38F6B",
+					"name":
+					{
+						"defaultText": "Mystbloom Ghost Level 4\n(Variant 2 Orange)",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح غوست المستوى 4\n(بديل 2 برتقالي)",
+							"de-DE": "Ghost – Mystblüte Level 4\n(Variante 2, Orange)",
+							"en-US": "Mystbloom Ghost Level 4\n(Variant 2 Orange)",
+							"es-ES": "Ghost Mystbloom de nivel 4\n(variante 2: naranja)",
+							"es-MX": "Ghost Flora Mística nivel 4\n(Variante 2 Naranja)",
+							"fr-FR": "Ghost (Mystyosotis) niveau 4\n(Variante 2 Orange)",
+							"id-ID": "Mystbloom Ghost Level 4\n(Varian 2 Oranye)",
+							"it-IT": "Ghost Fiore mistico livello 4\n(variante 2 Arancione)",
+							"ja-JP": "ミストブルーム ゴースト Lv.4\n(ヴァリアント 2 オレンジ)",
+							"ko-KR": "미스트블룸 고스트 4레벨\n(변형 2 주황색)",
+							"pl-PL": "Ghost Skrytokwitu (poziom 4)\n(wersja 2 – pomarańczowa)",
+							"pt-BR": "Ghost Floretérea Nível 4\n(Variante 2 Laranja)",
+							"ru-RU": "Ghost \"Таинственный цветок\" уровень 4\n(расцветка 2 \"Оранжевый\")",
+							"th-TH": "Mystbloom Ares เลเวล 4\n(ตัวเลือกที่ 2 สีส้ม)",
+							"tr-TR": "4. Seviye Sırçiçeği Ghost\n(Stil 2 - Turuncu)",
+							"vi-VN": "Ghost Mystbloom Cấp 4\n(Dạng 2 Ánh Cam)",
+							"zh-CN": "千灵华绽//2.0 鬼魅 等级4\n（炫彩2 橙色）",
+							"zh-TW": "靈花初綻 鬼魅 等級4\n(幻彩2 橘色)"
+						}
+					}
+				},
+				{
+					"id": "D7EF7CF8-48F4-6D1B-25DA-8CA0CCA9CAC4",
+					"label": "D7EF7CF8-48F4-6D1B-25DA-8CA0CCA9CAC4",
+					"name":
+					{
+						"defaultText": "Mystbloom Ghost Level 4\n(Variant 3 Purple)",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح غوست المستوى 4\n(بديل 3 أرجواني)",
+							"de-DE": "Ghost – Mystblüte Level 4\n(Variante 3, Violett)",
+							"en-US": "Mystbloom Ghost Level 4\n(Variant 3 Purple)",
+							"es-ES": "Ghost Mystbloom de nivel 4\n(variante 3: púrpura)",
+							"es-MX": "Ghost Flora Mística nivel 4\n(Variante 3 Morada)",
+							"fr-FR": "Ghost (Mystyosotis) niveau 4\n(Variante 3 Violet)",
+							"id-ID": "Mystbloom Ghost Level 4\n(Varian 3 Ungu)",
+							"it-IT": "Ghost Fiore mistico livello 4\n(variante 3 Viola)",
+							"ja-JP": "ミストブルーム ゴースト Lv.4\n(ヴァリアント 3 パープル)",
+							"ko-KR": "미스트블룸 고스트 4레벨\n(변형 3 보라색)",
+							"pl-PL": "Ghost Skrytokwitu (poziom 4)\n(wersja 3 – fioletowa)",
+							"pt-BR": "Ghost Floretérea Nível 4\n(Variante 3 Roxa)",
+							"ru-RU": "Ghost \"Таинственный цветок\" уровень 4\n(расцветка 3 \"Фиолетовый\")",
+							"th-TH": "Mystbloom Ares เลเวล 4\n(ตัวเลือกที่ 3 สีม่วง)",
+							"tr-TR": "4. Seviye Sırçiçeği Ghost\n(Stil 3 - Mor)",
+							"vi-VN": "Ghost Mystbloom Cấp 4\n(Dạng 3 Ánh Tím)",
+							"zh-CN": "千灵华绽//2.0 鬼魅 等级4\n（炫彩3 紫色）",
+							"zh-TW": "靈花初綻 鬼魅 等級4\n(幻彩3 紫色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "A0B30A5D-49C7-6B07-0F3F-F39ED105FC7A",
+					"label": "A0B30A5D-49C7-6B07-0F3F-F39ED105FC7A",
+					"name":
+					{
+						"defaultText": "Mystbloom Ghost",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح غوست",
+							"de-DE": "Ghost – Mystblüte",
+							"en-US": "Mystbloom Ghost",
+							"es-ES": "Ghost Mystbloom",
+							"es-MX": "Ghost Flora Mística",
+							"fr-FR": "Ghost (Mystyosotis)",
+							"id-ID": "Mystbloom Ghost",
+							"it-IT": "Ghost Fiore mistico",
+							"ja-JP": "ミストブルーム ゴースト",
+							"ko-KR": "미스트블룸 고스트",
+							"pl-PL": "Ghost Skrytokwitu",
+							"pt-BR": "Ghost Floretérea",
+							"ru-RU": "Ghost \"Таинственный цветок\"",
+							"th-TH": "Mystbloom Ghost",
+							"tr-TR": "Sırçiçeği Ghost",
+							"vi-VN": "Ghost Mystbloom",
+							"zh-CN": "千灵华绽//2.0 鬼魅",
+							"zh-TW": "靈花初綻 鬼魅"
+						}
+					}
+				},
+				{
+					"id": "1024FE65-4B8D-CF9B-020B-F99E4966554B",
+					"label": "1024FE65-4B8D-CF9B-020B-F99E4966554B",
+					"name":
+					{
+						"defaultText": "Mystbloom Ghost Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح غوست المستوى 2",
+							"de-DE": "Ghost – Mystblüte Level 2",
+							"en-US": "Mystbloom Ghost Level 2",
+							"es-ES": "Ghost Mystbloom de nivel 2",
+							"es-MX": "Ghost Flora Mística nivel 2",
+							"fr-FR": "Ghost (Mystyosotis) niveau 2",
+							"id-ID": "Mystbloom Ghost Level 2",
+							"it-IT": "Ghost Fiore mistico livello 2",
+							"ja-JP": "ミストブルーム ゴースト Lv.2",
+							"ko-KR": "미스트블룸 고스트 2레벨",
+							"pl-PL": "Ghost Skrytokwitu (poziom 2)",
+							"pt-BR": "Ghost Floretérea Nível 2",
+							"ru-RU": "Ghost \"Таинственный цветок\" уровень 2",
+							"th-TH": "Mystbloom Ares เลเวล 2",
+							"tr-TR": "2. Seviye Sırçiçeği Ghost",
+							"vi-VN": "Ghost Mystbloom Cấp 2",
+							"zh-CN": "千灵华绽//2.0 鬼魅 等级2",
+							"zh-TW": "靈花初綻 鬼魅 等級2"
+						}
+					}
+				},
+				{
+					"id": "3704F7B0-4D19-5768-F989-1E9B81EEA824",
+					"label": "3704F7B0-4D19-5768-F989-1E9B81EEA824",
+					"name":
+					{
+						"defaultText": "Mystbloom Ghost Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح غوست المستوى 3",
+							"de-DE": "Ghost – Mystblüte Level 3",
+							"en-US": "Mystbloom Ghost Level 3",
+							"es-ES": "Ghost Mystbloom de nivel 3",
+							"es-MX": "Ghost Flora Mística nivel 3",
+							"fr-FR": "Ghost (Mystyosotis) niveau 3",
+							"id-ID": "Mystbloom Ghost Level 3",
+							"it-IT": "Ghost Fiore mistico livello 3",
+							"ja-JP": "ミストブルーム ゴースト Lv.3",
+							"ko-KR": "미스트블룸 고스트 3레벨",
+							"pl-PL": "Ghost Skrytokwitu (poziom 3)",
+							"pt-BR": "Ghost Floretérea Nível 3",
+							"ru-RU": "Ghost \"Таинственный цветок\" уровень 3",
+							"th-TH": "Mystbloom Ares เลเวล 3",
+							"tr-TR": "3. Seviye Sırçiçeği Ghost",
+							"vi-VN": "Ghost Mystbloom Cấp 3",
+							"zh-CN": "千灵华绽//2.0 鬼魅 等级3",
+							"zh-TW": "靈花初綻 鬼魅 等級3"
+						}
+					}
+				},
+				{
+					"id": "B5A54DAE-4D08-D687-B268-F1B508DE9394",
+					"label": "B5A54DAE-4D08-D687-B268-F1B508DE9394",
+					"name":
+					{
+						"defaultText": "Mystbloom Ghost Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح غوست المستوى 4",
+							"de-DE": "Ghost – Mystblüte Level 4",
+							"en-US": "Mystbloom Ghost Level 4",
+							"es-ES": "Ghost Mystbloom de nivel 4",
+							"es-MX": "Ghost Flora Mística nivel 4",
+							"fr-FR": "Ghost (Mystyosotis) niveau 4",
+							"id-ID": "Mystbloom Ghost Level 4",
+							"it-IT": "Ghost Fiore mistico livello 4",
+							"ja-JP": "ミストブルーム ゴースト Lv.4",
+							"ko-KR": "미스트블룸 고스트 4레벨",
+							"pl-PL": "Ghost Skrytokwitu (poziom 4)",
+							"pt-BR": "Ghost Floretérea Nível 4",
+							"ru-RU": "Ghost \"Таинственный цветок\" уровень 4",
+							"th-TH": "Mystbloom Ares เลเวล 4",
+							"tr-TR": "4. Seviye Sırçiçeği Ghost",
+							"vi-VN": "Ghost Mystbloom Cấp 4",
+							"zh-CN": "千灵华绽//2.0 鬼魅 等级4",
+							"zh-TW": "靈花初綻 鬼魅 等級4"
+						}
+					}
+				}
+			],
+			"id": "82511942-465B-5600-76D7-778159D01BF4",
+			"label": "82511942-465B-5600-76D7-778159D01BF4",
+			"name":
+			{
+				"defaultText": "Mystbloom Ghost",
+				"localizedByCulture":
+				{
+					"ar-AE": "أزهار الروح غوست",
+					"de-DE": "Ghost – Mystblüte",
+					"en-US": "Mystbloom Ghost",
+					"es-ES": "Ghost Mystbloom",
+					"es-MX": "Ghost Flora Mística",
+					"fr-FR": "Ghost (Mystyosotis)",
+					"id-ID": "Mystbloom Ghost",
+					"it-IT": "Ghost Fiore mistico",
+					"ja-JP": "ミストブルーム ゴースト",
+					"ko-KR": "미스트블룸 고스트",
+					"pl-PL": "Ghost Skrytokwitu",
+					"pt-BR": "Ghost Floretérea",
+					"ru-RU": "Ghost \"Таинственный цветок\"",
+					"th-TH": "Mystbloom Ghost",
+					"tr-TR": "Sırçiçeği Ghost",
+					"vi-VN": "Ghost Mystbloom",
+					"zh-CN": "千灵华绽//2.0 鬼魅",
+					"zh-TW": "靈花初綻 鬼魅"
+				}
+			}
+		},
+		{
+			"weaponId": "1BAA85B4-4C70-1284-64BB-6481DFC3BB4E",
 			"defaultChromaId": "947A28B6-4E0F-61FB-E795-BC9A5E7B7129",
 			"chromas": [
 				{
@@ -124994,7 +125795,7 @@
 							"de-DE": "Shorty – Wächter des Lichts Level 4\n(Variante 1, Rosa)",
 							"en-US": "Sentinels of Light Shorty Level 4\n(Variant 1 Pink)",
 							"es-ES": "Shorty Sentinels of Light de nivel 4\n(variante 1: rosa)",
-							"es-MX": "Shorty Centinelas de la Luz nivel 4\n(Variante 1 Rosa)",
+							"es-MX": "Shorty Centinelas de la Luz nivel 4\r\n(Variante 1 Rosa)",
 							"fr-FR": "Shorty (Sentinelles de la lumière) niveau 4\n(variante 1 Rose)",
 							"id-ID": "Sentinels of Light Shorty Level 4\n(Varian 1 Merah Muda)",
 							"it-IT": "Shorty Sentinelle della Luce livello 4\n(variante 1 Rosa)",
@@ -125023,7 +125824,7 @@
 							"de-DE": "Shorty – Wächter des Lichts Level 4 \n(Variante 2, Rot/Grün)",
 							"en-US": "Sentinels of Light Shorty Level 4\r\n(Variant 2 Red/Green)",
 							"es-ES": "Shorty Sentinels of Light de nivel 4\n(variante 2: rojo/verde)",
-							"es-MX": "Shorty Centinelas de la Luz nivel 4\n\nVariante 2 (Rojo/Verde)",
+							"es-MX": "Shorty Centinelas de la Luz nivel 4\r\nVariante 2 (Rojo/Verde)",
 							"fr-FR": "Shorty (Sentinelles de la lumière) niveau 4\n(variante 2 Rouge/Vert)",
 							"id-ID": "Sentinels of Light Shorty Level 4\n(Varian 2 Merah/Hijau)",
 							"it-IT": "Shorty Sentinelle della Luce livello 4\n(variante 2 Rossa/Verde)",
@@ -125052,7 +125853,7 @@
 							"de-DE": "Shorty – Wächter des Lichts Level 4\n(Variante 3, Blau/Violett)",
 							"en-US": "Sentinels of Light Shorty Level 4\r\n(Variant 3 Blue/Purple)",
 							"es-ES": "Shorty Sentinels of Light de nivel 4\n(variante 3: azul/morado)",
-							"es-MX": "Shorty Centinelas de la Luz nivel 4\n\nVariante 3 (Azul/Morado)",
+							"es-MX": "Shorty Centinelas de la Luz nivel 4\r\nVariante 3 (Azul/Morado)",
 							"fr-FR": "Shorty (Sentinelles de la lumière) niveau 4\n(variante 3 Bleu/Violet)",
 							"id-ID": "Sentinels of Light Shorty Level 4\n(Varian 3 Biru/Ungu)",
 							"it-IT": "Shorty Sentinelle della Luce livello 4\n(variante 3 Blu/Viola)",
@@ -146521,6 +147322,273 @@
 					"vi-VN": "Outlaw Byteshift",
 					"zh-CN": "诡秘蛇影 莽侠",
 					"zh-TW": "位元轉移 逃犯"
+				}
+			}
+		},
+		{
+			"weaponId": "5F0AAF7A-4289-3998-D5FF-EB9A5CF7EF5C",
+			"defaultChromaId": "6B6A6645-4F5C-C9FC-B20C-33A025B21ECB",
+			"chromas": [
+				{
+					"id": "6B6A6645-4F5C-C9FC-B20C-33A025B21ECB",
+					"label": "6B6A6645-4F5C-C9FC-B20C-33A025B21ECB",
+					"name":
+					{
+						"defaultText": "Mystbloom Outlaw",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح آوت لو",
+							"de-DE": "Outlaw – Mystblüte",
+							"en-US": "Mystbloom Outlaw",
+							"es-ES": "Outlaw Mystbloom",
+							"es-MX": "Outlaw Flora Mística",
+							"fr-FR": "Outlaw (Mystyosotis)",
+							"id-ID": "Mystbloom Outlaw",
+							"it-IT": "Outlaw Fiore mistico",
+							"ja-JP": "ミストブルーム アウトロー",
+							"ko-KR": "미스트블룸 아웃로",
+							"pl-PL": "Outlaw Skrytokwitu",
+							"pt-BR": "Outlaw Floretérea",
+							"ru-RU": "Outlaw \"Таинственный цветок\"",
+							"th-TH": "Mystbloom Outlaw",
+							"tr-TR": "Sırçiçeği Outlaw",
+							"vi-VN": "Outlaw Mystbloom",
+							"zh-CN": "千灵华绽//2.0 莽侠",
+							"zh-TW": "靈花初綻 逃犯"
+						}
+					}
+				},
+				{
+					"id": "F6F9772F-41B4-FDC9-BCB8-40B6905082FA",
+					"label": "F6F9772F-41B4-FDC9-BCB8-40B6905082FA",
+					"name":
+					{
+						"defaultText": "Mystbloom Outlaw Level 4\n(Variant 1 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح آوت لو المستوى 4\n(بديل 1 أزرق)",
+							"de-DE": "Outlaw – Mystblüte Level 4\n(Variante 1, Blau)",
+							"en-US": "Mystbloom Outlaw Level 4\n(Variant 1 Blue)",
+							"es-ES": "Outlaw Mystbloom de nivel 4\n(variante 1: azul)",
+							"es-MX": "Outlaw Flora Mística nivel 4\n(Variante 1 Azul)",
+							"fr-FR": "Outlaw (Mystyosotis) niveau 4\n(Variante 1 Bleu)",
+							"id-ID": "Mystbloom Outlaw Level 4\n(Varian 1 Biru)",
+							"it-IT": "Outlaw Fiore mistico livello 4\n(variante 1 Blu)",
+							"ja-JP": "ミストブルーム アウトロー Lv.4\n(ヴァリアント 1 ブルー)",
+							"ko-KR": "미스트블룸 아웃로 4레벨\n(변형 1 파란색)",
+							"pl-PL": "Outlaw Skrytokwitu (poziom 4)\n(wersja 1 – niebieska)",
+							"pt-BR": "Outlaw Floretérea Nível 4\n(Variante 1 Azul)",
+							"ru-RU": "Outlaw \"Таинственный цветок\" уровень 4\n(расцветка 1 \"Синий\")",
+							"th-TH": "Mystbloom Outlaw เลเวล 4\n(ตัวเลือกที่ 1 สีฟ้า)",
+							"tr-TR": "4. Seviye Sırçiçeği Outlaw\n(Stil 1 - Mavi)",
+							"vi-VN": "Outlaw Mystbloom Cấp 4\n(Dạng 1 Xanh Dương)",
+							"zh-CN": "千灵华绽//2.0 莽侠 等级4\n（炫彩1 蓝色）",
+							"zh-TW": "靈花初綻 逃犯 等級4\n(幻彩1 藍色)"
+						}
+					}
+				},
+				{
+					"id": "E0AF5106-420E-15E9-497F-D997519CD59D",
+					"label": "E0AF5106-420E-15E9-497F-D997519CD59D",
+					"name":
+					{
+						"defaultText": "Mystbloom Outlaw Level 4\n(Variant 2 Orange)",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح آوت لو المستوى 4\n(بديل 2 برتقالي)",
+							"de-DE": "Outlaw – Mystblüte Level 4\n(Variante 2, Orange)",
+							"en-US": "Mystbloom Outlaw Level 4\n(Variant 2 Orange)",
+							"es-ES": "Outlaw Mystbloom de nivel 4\n(variante 2: naranja)",
+							"es-MX": "Outlaw Flora Mística nivel 4\n(Variante 2 Naranja)",
+							"fr-FR": "Outlaw (Mystyosotis) niveau 4\n(Variante 2 Orange)",
+							"id-ID": "Mystbloom Outlaw Level 4\n(Varian 2 Oranye)",
+							"it-IT": "Outlaw Fiore mistico livello 4\n(variante 2 Arancione)",
+							"ja-JP": "ミストブルーム アウトロー Lv.4\n(ヴァリアント 2 オレンジ)",
+							"ko-KR": "미스트블룸 아웃로 4레벨\n(변형 2 주황색)",
+							"pl-PL": "Outlaw Skrytokwitu (poziom 4)\n(wersja 2 – pomarańczowa)",
+							"pt-BR": "Outlaw Floretérea Nível 4\n(Variante 2 Laranja)",
+							"ru-RU": "Outlaw \"Таинственный цветок\" уровень 4\n(расцветка 2 \"Оранжевый\")",
+							"th-TH": "Mystbloom Outlaw เลเวล 4\n(ตัวเลือกที่ 2 สีส้ม)",
+							"tr-TR": "4. Seviye Sırçiçeği Outlaw\n(Stil 2 - Turuncu)",
+							"vi-VN": "Outlaw Mystbloom Cấp 4\n(Dạng 2 Ánh Cam)",
+							"zh-CN": "千灵华绽//2.0 莽侠 等级4\n（炫彩2 橙色）",
+							"zh-TW": "靈花初綻 逃犯 等級4\n(幻彩2 橘色)"
+						}
+					}
+				},
+				{
+					"id": "DA3C49C6-4522-BE6E-80E2-21BEAB580904",
+					"label": "DA3C49C6-4522-BE6E-80E2-21BEAB580904",
+					"name":
+					{
+						"defaultText": "Mystbloom Outlaw Level 4\n(Variant 3 Purple)",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح آوت لو المستوى 4\n(بديل 3 أرجواني)",
+							"de-DE": "Outlaw – Mystblüte Level 4\n(Variante 3, Violett)",
+							"en-US": "Mystbloom Outlaw Level 4\n(Variant 3 Purple)",
+							"es-ES": "Outlaw Mystbloom de nivel 4\n(variante 3: púrpura)",
+							"es-MX": "Outlaw Flora Mística nivel 4\n(Variante 3 Morada)",
+							"fr-FR": "Outlaw (Mystyosotis) niveau 4\n(Variante 3 Violet)",
+							"id-ID": "Mystbloom Outlaw Level 4\n(Varian 3 Ungu)",
+							"it-IT": "Outlaw Fiore mistico livello 4\n(variante 3 Viola)",
+							"ja-JP": "ミストブルーム アウトロー Lv.4\n(ヴァリアント 3 パープル)",
+							"ko-KR": "미스트블룸 아웃로 4레벨\n(변형 3 보라색)",
+							"pl-PL": "Outlaw Skrytokwitu (poziom 4)\n(wersja 3 – fioletowa)",
+							"pt-BR": "Outlaw Floretérea Nível 4\n(Variante 3 Roxa)",
+							"ru-RU": "Outlaw \"Таинственный цветок\" уровень 4\n(расцветка 3 \"Фиолетовый\")",
+							"th-TH": "Mystbloom Outlaw เลเวล 4\n(ตัวเลือกที่ 3 สีม่วง)",
+							"tr-TR": "4. Seviye Sırçiçeği Outlaw\n(Stil 3 - Mor)",
+							"vi-VN": "Outlaw Mystbloom Cấp 4\n(Dạng 3 Ánh Tím)",
+							"zh-CN": "千灵华绽//2.0 莽侠 等级4\n（炫彩3 紫色）",
+							"zh-TW": "靈花初綻 逃犯 等級4\n(幻彩3 紫色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "A5796D39-4071-3F56-0B06-0A89ABDD130B",
+					"label": "A5796D39-4071-3F56-0B06-0A89ABDD130B",
+					"name":
+					{
+						"defaultText": "Mystbloom Outlaw",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح آوت لو",
+							"de-DE": "Outlaw – Mystblüte",
+							"en-US": "Mystbloom Outlaw",
+							"es-ES": "Outlaw Mystbloom",
+							"es-MX": "Outlaw Flora Mística",
+							"fr-FR": "Outlaw (Mystyosotis)",
+							"id-ID": "Mystbloom Outlaw",
+							"it-IT": "Outlaw Fiore mistico",
+							"ja-JP": "ミストブルーム アウトロー",
+							"ko-KR": "미스트블룸 아웃로",
+							"pl-PL": "Outlaw Skrytokwitu",
+							"pt-BR": "Outlaw Floretérea",
+							"ru-RU": "Outlaw \"Таинственный цветок\"",
+							"th-TH": "Mystbloom Outlaw",
+							"tr-TR": "Sırçiçeği Outlaw",
+							"vi-VN": "Outlaw Mystbloom",
+							"zh-CN": "千灵华绽//2.0 莽侠",
+							"zh-TW": "靈花初綻 逃犯"
+						}
+					}
+				},
+				{
+					"id": "391FBADF-47E9-0FD2-CC62-9B95039747BA",
+					"label": "391FBADF-47E9-0FD2-CC62-9B95039747BA",
+					"name":
+					{
+						"defaultText": "Mystbloom Outlaw Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح آوت لو المستوى 2",
+							"de-DE": "Outlaw – Mystblüte Level 2",
+							"en-US": "Mystbloom Outlaw Level 2",
+							"es-ES": "Outlaw Mystbloom de nivel 2",
+							"es-MX": "Outlaw Flora Mística nivel 2",
+							"fr-FR": "Outlaw (Mystyosotis) niveau 2",
+							"id-ID": "Mystbloom Outlaw Level 2",
+							"it-IT": "Outlaw Fiore mistico livello 2",
+							"ja-JP": "ミストブルーム アウトロー Lv.2",
+							"ko-KR": "미스트블룸 아웃로 2레벨",
+							"pl-PL": "Outlaw Skrytokwitu (poziom 2)",
+							"pt-BR": "Outlaw Floretérea Nível 2",
+							"ru-RU": "Outlaw \"Таинственный цветок\" уровень 2",
+							"th-TH": "Mystbloom Outlaw เลเวล 2",
+							"tr-TR": "2. Seviye Sırçiçeği Outlaw",
+							"vi-VN": "Outlaw Mystbloom Cấp 2",
+							"zh-CN": "千灵华绽//2.0 莽侠 等级2",
+							"zh-TW": "靈花初綻 逃犯 等級2"
+						}
+					}
+				},
+				{
+					"id": "88C960E3-429A-2593-D7C2-AAB35810FC41",
+					"label": "88C960E3-429A-2593-D7C2-AAB35810FC41",
+					"name":
+					{
+						"defaultText": "Mystbloom Outlaw Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح آوت لو المستوى 3",
+							"de-DE": "Outlaw – Mystblüte Level 3",
+							"en-US": "Mystbloom Outlaw Level 3",
+							"es-ES": "Outlaw Mystbloom de nivel 3",
+							"es-MX": "Outlaw Flora Mística nivel 3",
+							"fr-FR": "Outlaw (Mystyosotis) niveau 3",
+							"id-ID": "Mystbloom Outlaw Level 3",
+							"it-IT": "Outlaw Fiore mistico livello 3",
+							"ja-JP": "ミストブルーム アウトロー Lv.3",
+							"ko-KR": "미스트블룸 아웃로 3레벨",
+							"pl-PL": "Outlaw Skrytokwitu (poziom 3)",
+							"pt-BR": "Outlaw Floretérea Nível 3",
+							"ru-RU": "Outlaw \"Таинственный цветок\" уровень 3",
+							"th-TH": "Mystbloom Outlaw เลเวล 3",
+							"tr-TR": "3. Seviye Sırçiçeği Outlaw",
+							"vi-VN": "Outlaw Mystbloom Cấp 3",
+							"zh-CN": "千灵华绽//2.0 莽侠 等级3",
+							"zh-TW": "靈花初綻 逃犯 等級3"
+						}
+					}
+				},
+				{
+					"id": "7763DB3D-4D44-2E7F-04E0-E2B7C5491265",
+					"label": "7763DB3D-4D44-2E7F-04E0-E2B7C5491265",
+					"name":
+					{
+						"defaultText": "Mystbloom Outlaw Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "أزهار الروح آوت لو المستوى 4",
+							"de-DE": "Outlaw – Mystblüte Level 4",
+							"en-US": "Mystbloom Outlaw Level 4",
+							"es-ES": "Outlaw Mystbloom de nivel 4",
+							"es-MX": "Outlaw Flora Mística nivel 4",
+							"fr-FR": "Outlaw (Mystyosotis) niveau 4",
+							"id-ID": "Mystbloom Outlaw Level 4",
+							"it-IT": "Outlaw Fiore mistico livello 4",
+							"ja-JP": "ミストブルーム アウトロー Lv.4",
+							"ko-KR": "미스트블룸 아웃로 4레벨",
+							"pl-PL": "Outlaw Skrytokwitu (poziom 4)",
+							"pt-BR": "Outlaw Floretérea Nível 4",
+							"ru-RU": "Outlaw \"Таинственный цветок\" уровень 4",
+							"th-TH": "Mystbloom Outlaw เลเวล 4",
+							"tr-TR": "4. Seviye Sırçiçeği Outlaw",
+							"vi-VN": "Outlaw Mystbloom Cấp 4",
+							"zh-CN": "千灵华绽//2.0 莽侠 等级4",
+							"zh-TW": "靈花初綻 逃犯 等級4"
+						}
+					}
+				}
+			],
+			"id": "1A097DB1-4778-7049-B62E-6FA071AD7193",
+			"label": "1A097DB1-4778-7049-B62E-6FA071AD7193",
+			"name":
+			{
+				"defaultText": "Mystbloom Outlaw",
+				"localizedByCulture":
+				{
+					"ar-AE": "أزهار الروح آوت لو",
+					"de-DE": "Outlaw – Mystblüte",
+					"en-US": "Mystbloom Outlaw",
+					"es-ES": "Outlaw Mystbloom",
+					"es-MX": "Outlaw Flora Mística",
+					"fr-FR": "Outlaw (Mystyosotis)",
+					"id-ID": "Mystbloom Outlaw",
+					"it-IT": "Outlaw Fiore mistico",
+					"ja-JP": "ミストブルーム アウトロー",
+					"ko-KR": "미스트블룸 아웃로",
+					"pl-PL": "Outlaw Skrytokwitu",
+					"pt-BR": "Outlaw Floretérea",
+					"ru-RU": "Outlaw \"Таинственный цветок\"",
+					"th-TH": "Mystbloom Outlaw",
+					"tr-TR": "Sırçiçeği Outlaw",
+					"vi-VN": "Outlaw Mystbloom",
+					"zh-CN": "千灵华绽//2.0 莽侠",
+					"zh-TW": "靈花初綻 逃犯"
 				}
 			}
 		},
@@ -174394,7 +175462,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "خنجر معقوف Champions 2021 المستوى 3\nيتم تفعيل الهالة فقط عند إحراز اللاعب أكبر عدد من عمليات القتل في المباراة",
-							"de-DE": "Karambit – Champions 2021 Level 3\n\nDie Aura aktiviert sich nur, wenn du die meisten Kills im Spiel hast.",
+							"de-DE": "Karambit – Champions 2021 Level 3\nDie Aura aktiviert sich nur, wenn du die meisten Kills im Spiel hast.",
 							"en-US": "Champions 2021 Karambit Level 3\r\nAura is active only when player has the most kills in the game",
 							"es-ES": "Karambit Champions 2021 de nivel 3\nEl aura solo se activa cuando el jugador tiene el mayor número de asesinatos de la partida.",
 							"es-MX": "Karambit Champions 2021 nivel 3\n\nEl aura solo se activa cuando el jugador tiene el mayor número de asesinatos en la partida.",
@@ -174545,7 +175613,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "سكين فراشة Champions 2022 المستوى 3\nيتم تفعيل الهالة فقط عند إحراز اللاعب أكبر عدد من عمليات القتل في المباراة",
-							"de-DE": "Butterfly-Messer – Champions 2022 Level 3\n\nDie Aura aktiviert sich nur, wenn du die meisten Kills im Spiel hast.",
+							"de-DE": "Butterfly-Messer – Champions 2022 Level 3\nDie Aura aktiviert sich nur, wenn du die meisten Kills im Spiel hast.",
 							"en-US": "Champions 2022 Butterfly Knife Level 3\r\nAura is active only when player has the most kills in the game",
 							"es-ES": "Cuchillo mariposa Champions 2022 de nivel 3\nEl aura solo se activa cuando el jugador tiene el mayor número de asesinatos de la partida.",
 							"es-MX": "Cuchillo mariposa Champions 2022 nivel 3\n\nEl aura solo se activa cuando el jugador tiene el mayor número de asesinatos en la partida.",
@@ -190399,6 +191467,215 @@
 		},
 		{
 			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
+			"defaultChromaId": "81931C67-4C80-6DBB-7832-759D5B193B25",
+			"chromas": [
+				{
+					"id": "81931C67-4C80-6DBB-7832-759D5B193B25",
+					"label": "81931C67-4C80-6DBB-7832-759D5B193B25",
+					"name":
+					{
+						"defaultText": "Mystbloom Fanblade",
+						"localizedByCulture":
+						{
+							"ar-AE": "مروحة نصل أزهار الروح",
+							"de-DE": "Klingenfächer – Mystblüte",
+							"en-US": "Mystbloom Fanblade",
+							"es-ES": "Abanico Mystbloom",
+							"es-MX": "Abanico Flora Mística",
+							"fr-FR": "Éventail (Mystyosotis)",
+							"id-ID": "Mystbloom Fanblade",
+							"it-IT": "Lama a ventaglio Fiore mistico",
+							"ja-JP": "ミストブルーム ファンブレイド",
+							"ko-KR": "미스트블룸 팬블레이드",
+							"pl-PL": "Wachlarz Skrytokwitu",
+							"pt-BR": "Leque Laminado Floretérea",
+							"ru-RU": "Нож-веер \"Таинственный цветок\"",
+							"th-TH": "Mystbloom Fanblade",
+							"tr-TR": "Sırçiçeği Yelpaze",
+							"vi-VN": "Dao Quạt Mystbloom",
+							"zh-CN": "流风回雪",
+							"zh-TW": "靈花初綻 扇刃"
+						}
+					}
+				},
+				{
+					"id": "B92A5DDA-4573-5B44-ACC9-F4B5E687E0E2",
+					"label": "B92A5DDA-4573-5B44-ACC9-F4B5E687E0E2",
+					"name":
+					{
+						"defaultText": "Mystbloom Fanblade Level 2\n(Variant 1 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "مروحة نصل أزهار الروح المستوى 2\n(بديل 1 أزرق)",
+							"de-DE": "Klingenfächer – Mystblüte Level 2\n(Variante 1, Blau)",
+							"en-US": "Mystbloom Fanblade Level 2\n(Variant 1 Blue)",
+							"es-ES": "Abanico Mystbloom de nivel 2\n(variante 1: azul)",
+							"es-MX": "Abanico Flora Mística nivel 2\n(Variante 1 Azul)",
+							"fr-FR": "Éventail (Mystyosotis) niveau 2\n(Variante 1 Bleu)",
+							"id-ID": "Mystbloom Fanblade Level 2\n(Varian 1 Biru)",
+							"it-IT": "Lama a ventaglio Fiore mistico livello 2\n(variante 1 Blu)",
+							"ja-JP": "ミストブルーム ファンブレイド Lv.2\n(ヴァリアント 1 ブルー)",
+							"ko-KR": "미스트블룸 팬블레이드 2레벨\n(변형 1 파란색)",
+							"pl-PL": "Wachlarz Skrytokwitu (poziom 2)\n(wersja 1 – niebieska)",
+							"pt-BR": "Leque Laminado Floretérea Nível 2\n(Variante 1 Azul)",
+							"ru-RU": "Нож-веер \"Таинственный цветок\" уровень 2\n(расцветка 1 \"Синий\")",
+							"th-TH": "Mystbloom Fanblade เลเวล 2\n(ตัวเลือกที่ 1 สีฟ้า)",
+							"tr-TR": "2. Seviye Sırçiçeği Yelpaze\n(Stil 1 - Mavi)",
+							"vi-VN": "Dao Quạt Mystbloom Cấp 2\n(Dạng 1 Xanh Dương)",
+							"zh-CN": "流风回雪 等级2\n（炫彩1 蓝色）",
+							"zh-TW": "靈花初綻 扇刃 等級2\n(幻彩1 藍色)"
+						}
+					}
+				},
+				{
+					"id": "988CF913-42AE-926B-C1C4-4492DD9BB6BB",
+					"label": "988CF913-42AE-926B-C1C4-4492DD9BB6BB",
+					"name":
+					{
+						"defaultText": "Mystbloom Fanblade Level 2\n(Variant 2 Orange)",
+						"localizedByCulture":
+						{
+							"ar-AE": "مروحة نصل أزهار الروح المستوى 2\n(بديل 2 برتقالي)",
+							"de-DE": "Klingenfächer – Mystblüte Level 2\n(Variante 2, Orange)",
+							"en-US": "Mystbloom Fanblade Level 2\n(Variant 2 Orange)",
+							"es-ES": "Abanico Mystbloom de nivel 2\n(variante 2: naranja)",
+							"es-MX": "Abanico Flora Mística nivel 2\n(Variante 2 Naranja)",
+							"fr-FR": "Éventail (Mystyosotis) niveau 2\n(Variante 2 Orange)",
+							"id-ID": "Mystbloom Fanblade Level 2\n(Varian 2 Oranye)",
+							"it-IT": "Lama a ventaglio Fiore mistico livello 2\n(variante 2 Arancione)",
+							"ja-JP": "ミストブルーム ファンブレイド Lv.2\n(ヴァリアント 2 オレンジ)",
+							"ko-KR": "미스트블룸 팬블레이드 2레벨\n(변형 2 주황색)",
+							"pl-PL": "Wachlarz Skrytokwitu (poziom 2)\n(wersja 2 – pomarańczowa)",
+							"pt-BR": "Leque Laminado Floretérea Nível 2\n(Variante 2 Laranja)",
+							"ru-RU": "Нож-веер \"Таинственный цветок\" уровень 2\n(расцветка 2 \"Оранжевый\")",
+							"th-TH": "Mystbloom Fanblade เลเวล 2\n(ตัวเลือกที่ 2 สีส้ม)",
+							"tr-TR": "2. Seviye Sırçiçeği Yelpaze\n(Stil 2 - Turuncu)",
+							"vi-VN": "Dao Quạt Mystbloom Cấp 2\n(Dạng 2 Ánh Cam)",
+							"zh-CN": "流风回雪 等级2\n（炫彩2 橙色）",
+							"zh-TW": "靈花初綻 扇刃 等級2\n(幻彩2 橘色)"
+						}
+					}
+				},
+				{
+					"id": "834B2AC0-46AD-87AE-1BED-59B358FAF3C9",
+					"label": "834B2AC0-46AD-87AE-1BED-59B358FAF3C9",
+					"name":
+					{
+						"defaultText": "Mystbloom Fanblade Level 2\r\n(Variant 3 Purple)",
+						"localizedByCulture":
+						{
+							"ar-AE": "مروحة نصل أزهار الروح المستوى 2\r\n(بديل 3 أرجواني)",
+							"de-DE": "Klingenfächer – Mystblüte Level 2\r\n(Variante 3, Violett)",
+							"en-US": "Mystbloom Fanblade Level 2\r\n(Variant 3 Purple)",
+							"es-ES": "Abanico Mystbloom de nivel 2\r\n(variante 3: púrpura)",
+							"es-MX": "Abanico Flora Mística nivel 2\r\n(Variante 3 Morada)",
+							"fr-FR": "Éventail (Mystyosotis) niveau 2\r\n(Variante 3 Violet)",
+							"id-ID": "Mystbloom Fanblade Level 2\r\n(Varian 3 Ungu)",
+							"it-IT": "Lama a ventaglio Fiore mistico livello 2\r\n(variante 3 Viola)",
+							"ja-JP": "ミストブルーム ファンブレイド Lv.2\r\n(ヴァリアント 3 パープル)",
+							"ko-KR": "미스트블룸 팬블레이드 2레벨\r\n(변형 3 보라색)",
+							"pl-PL": "Wachlarz Skrytokwitu (poziom 2)\r\n(wersja 3 – fioletowa)",
+							"pt-BR": "Leque Laminado Floretérea Nível 2\r\n(Variante 3 Roxa)",
+							"ru-RU": "Нож-веер \"Таинственный цветок\" уровень 2\r\n(расцветка 3 \"Фиолетовый\")",
+							"th-TH": "Mystbloom Fanblade เลเวล 2\r\n(ตัวเลือกที่ 3 สีม่วง)",
+							"tr-TR": "2. Seviye Sırçiçeği Yelpaze\r\n(Stil 3 - Mor)",
+							"vi-VN": "Dao Quạt Mystbloom Cấp 2\r\n(Dạng 3 Ánh Tím)",
+							"zh-CN": "流风回雪 等级2\r\n（炫彩3 紫色）",
+							"zh-TW": "靈花初綻 扇刃 等級2\r\n(幻彩3 紫色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "EE14B56F-418F-ABF1-2DCB-75846A55F91F",
+					"label": "EE14B56F-418F-ABF1-2DCB-75846A55F91F",
+					"name":
+					{
+						"defaultText": "Mystbloom Fanblade",
+						"localizedByCulture":
+						{
+							"ar-AE": "مروحة نصل أزهار الروح",
+							"de-DE": "Klingenfächer – Mystblüte",
+							"en-US": "Mystbloom Fanblade",
+							"es-ES": "Abanico Mystbloom",
+							"es-MX": "Abanico Flora Mística",
+							"fr-FR": "Éventail (Mystyosotis)",
+							"id-ID": "Mystbloom Fanblade",
+							"it-IT": "Lama a ventaglio Fiore mistico",
+							"ja-JP": "ミストブルーム ファンブレイド",
+							"ko-KR": "미스트블룸 팬블레이드",
+							"pl-PL": "Wachlarz Skrytokwitu",
+							"pt-BR": "Leque Laminado Floretérea",
+							"ru-RU": "Нож-веер \"Таинственный цветок\"",
+							"th-TH": "Mystbloom Fanblade",
+							"tr-TR": "Sırçiçeği Yelpaze",
+							"vi-VN": "Dao Quạt Mystbloom",
+							"zh-CN": "流风回雪",
+							"zh-TW": "靈花初綻 扇刃"
+						}
+					}
+				},
+				{
+					"id": "DA9567EF-4F67-8F2F-54F2-CAB46B5BE51B",
+					"label": "DA9567EF-4F67-8F2F-54F2-CAB46B5BE51B",
+					"name":
+					{
+						"defaultText": "Mystbloom Fanblade Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "مروحة نصل أزهار الروح المستوى 2",
+							"de-DE": "Klingenfächer – Mystblüte Level 2",
+							"en-US": "Mystbloom Fanblade Level 2",
+							"es-ES": "Abanico Mystbloom de nivel 2",
+							"es-MX": "Abanico Flora Mística nivel 2",
+							"fr-FR": "Éventail (Mystyosotis) niveau 2",
+							"id-ID": "Mystbloom Fanblade Level 2",
+							"it-IT": "Lama a ventaglio Fiore mistico livello 2",
+							"ja-JP": "ミストブルーム ファンブレイド Lv.2",
+							"ko-KR": "미스트블룸 팬블레이드 2레벨",
+							"pl-PL": "Wachlarz Skrytokwitu (poziom 2)",
+							"pt-BR": "Leque Laminado Floretérea Nível 2",
+							"ru-RU": "Нож-веер \"Таинственный цветок\" уровень 2",
+							"th-TH": "Mystbloom Fanblade เลเวล 2",
+							"tr-TR": "2. Seviye Sırçiçeği Yelpaze",
+							"vi-VN": "Dao Quạt Mystbloom Cấp 2",
+							"zh-CN": "流风回雪 等级2",
+							"zh-TW": "靈花初綻 扇刃 等級2"
+						}
+					}
+				}
+			],
+			"id": "A0D4AC37-416B-AE62-AA36-48803714E25F",
+			"label": "A0D4AC37-416B-AE62-AA36-48803714E25F",
+			"name":
+			{
+				"defaultText": "Mystbloom Fanblade",
+				"localizedByCulture":
+				{
+					"ar-AE": "مروحة نصل أزهار الروح",
+					"de-DE": "Klingenfächer – Mystblüte",
+					"en-US": "Mystbloom Fanblade",
+					"es-ES": "Abanico Mystbloom",
+					"es-MX": "Abanico Flora Mística",
+					"fr-FR": "Éventail (Mystyosotis)",
+					"id-ID": "Mystbloom Fanblade",
+					"it-IT": "Lama a ventaglio Fiore mistico",
+					"ja-JP": "ミストブルーム ファンブレイド",
+					"ko-KR": "미스트블룸 팬블레이드",
+					"pl-PL": "Wachlarz Skrytokwitu",
+					"pt-BR": "Leque Laminado Floretérea",
+					"ru-RU": "Нож-веер \"Таинственный цветок\"",
+					"th-TH": "Mystbloom Fanblade",
+					"tr-TR": "Sırçiçeği Yelpaze",
+					"vi-VN": "Dao Quạt Mystbloom",
+					"zh-CN": "流风回雪",
+					"zh-TW": "靈花初綻 扇刃"
+				}
+			}
+		},
+		{
+			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
 			"defaultChromaId": "5AC15739-4913-BA1C-036A-19B0751CEE3B",
 			"chromas": [
 				{
@@ -191992,7 +193269,7 @@
 							"id-ID": "BlastX Polymer KnifeTech Coated Knife Level 2\n(Varian 1 Hitam)",
 							"it-IT": "Coltello con rivestimento in polimeri KnifeTech BlastX livello 2\n(variante 1 Nera)",
 							"ja-JP": "ブラストX ポリマーナイフテックコーティング ナイフ Lv.2\n(ヴァリアント 1 ブラック)",
-							"ko-KR": "블라스트X 폴리머 나이프테크 코팅 나이프 2레벨\n\n(변형 1 검은색)",
+							"ko-KR": "블라스트X 폴리머 나이프테크 코팅 나이프 2레벨\n(변형 1 검은색)",
 							"pl-PL": "Nóż BlastX z polimerową powłoką NożoTechnologii (poziom 2)\n(wersja 1 – czarna)",
 							"pt-BR": "Faca com Polímero KnifeTech BlastX Nível 2\n(Variante 1 Preta)",
 							"ru-RU": "Полимерный нож \"BlastX\" с технологичным покрытием, уровень 2\n(расцветка 1 \"Черный\")",
@@ -192021,7 +193298,7 @@
 							"id-ID": "BlastX Polymer KnifeTech Coated Knife Level 2\n(Varian 2 Kuning)",
 							"it-IT": "Coltello con rivestimento in polimeri KnifeTech BlastX livello 2\n(variante 2 Gialla)",
 							"ja-JP": "ブラストX ポリマーナイフテックコーティング ナイフ Lv.2\n(ヴァリアント 2 イエロー)",
-							"ko-KR": "블라스트X 폴리머 나이프테크 코팅 나이프 2레벨\n\n(변형 2 노란색)",
+							"ko-KR": "블라스트X 폴리머 나이프테크 코팅 나이프 2레벨\n(변형 2 노란색)",
 							"pl-PL": "Nóż BlastX z polimerową powłoką NożoTechnologii (poziom 2)\n(wersja 2 – żółta)",
 							"pt-BR": "Faca com Polímero KnifeTech BlastX Nível 2\n(Variante 2 Amarela)",
 							"ru-RU": "Полимерный нож \"BlastX\" с технологичным покрытием, уровень 2\n(расцветка 2 \"Желтый\")",
@@ -192050,7 +193327,7 @@
 							"id-ID": "BlastX Polymer KnifeTech Coated Knife Level 2\n(Varian 3 Merah Muda)",
 							"it-IT": "Coltello con rivestimento in polimeri KnifeTech BlastX livello 2\n(variante 3 Rosa)",
 							"ja-JP": "ブラストX ポリマーナイフテックコーティング ナイフ Lv.2\n(ヴァリアント 3 ピンク)",
-							"ko-KR": "블라스트X 폴리머 나이프테크 코팅 나이프 2레벨\n\n(변형 3 분홍색)",
+							"ko-KR": "블라스트X 폴리머 나이프테크 코팅 나이프 2레벨\n(변형 3 분홍색)",
 							"pl-PL": "Nóż BlastX z polimerową powłoką NożoTechnologii (poziom 2)\n(wersja 3 – różowa)",
 							"pt-BR": "Faca com Polímero KnifeTech BlastX Nível 2\n(Variante 3 Rosa)",
 							"ru-RU": "Полимерный нож \"BlastX\" с технологичным покрытием, уровень 2\n(расцветка 3 \"Розовый\")",
@@ -198141,6 +199418,35 @@
 					"vi-VN": "Thẻ Đêm Tối",
 					"zh-CN": "至黑之夜 卡面",
 					"zh-TW": "月黑風高 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "746AF199-4127-119D-2FC2-1BAA3AC144F0",
+			"label": "746AF199-4127-119D-2FC2-1BAA3AC144F0",
+			"name":
+			{
+				"defaultText": "Sprinkle Surprise Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة مفاجأة الكعك",
+					"de-DE": "Banner „Streuselüberraschung“",
+					"en-US": "Sprinkle Surprise Card",
+					"es-ES": "Tarjeta Sorpresa de colorinchis",
+					"es-MX": "Tarjeta Chispitas Sorpresa",
+					"fr-FR": "Carte Surprise sablée",
+					"id-ID": "Kartu Sprinkle Surprise",
+					"it-IT": "Carta Sorpresa pralinata",
+					"ja-JP": "スプリンクル・サプライズ カード",
+					"ko-KR": "깜짝 스프링클 카드",
+					"pl-PL": "Karta „Posypkowa niespodzianka”",
+					"pt-BR": "Card Surpresa Granulada",
+					"ru-RU": "Карточка \"Сладкий сюрприз\"",
+					"th-TH": "การ์ด Sprinkle Surprise",
+					"tr-TR": "Şeker Sürprizi Kartı",
+					"vi-VN": "Thẻ Bất Ngờ Ngọt Ngào",
+					"zh-CN": "糖饼惊喜 卡面",
+					"zh-TW": "糖霜驚喜 玩家卡面"
 				}
 			}
 		},
@@ -207754,7 +209060,7 @@
 					"ar-AE": "بطاقة رد الجميل \\\\ V25",
 					"de-DE": "Banner „Gute Tat // V25“",
 					"en-US": "Give Back // V25 Card",
-					"es-ES": "Retribución // Tarjeta V25",
+					"es-ES": "Tarjeta Retribución // V25",
 					"es-MX": "Tarjeta Retribución // V25",
 					"fr-FR": "Carte Juste retour // V25",
 					"id-ID": "Kartu Give Back // V25",
@@ -209165,6 +210471,35 @@
 			}
 		},
 		{
+			"id": "5BA07E41-4A7A-D618-2250-FD88A2E476C0",
+			"label": "5BA07E41-4A7A-D618-2250-FD88A2E476C0",
+			"name":
+			{
+				"defaultText": "PREMIER V25A6 Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة بريمير V25م6",
+					"de-DE": "Banner „PREMIER V25A6“",
+					"en-US": "PREMIER V25A6 Card",
+					"es-ES": "Tarjeta de PREMIER V25A6",
+					"es-MX": "Tarjeta V25A6 PREMIER",
+					"fr-FR": "Carte PREMIER V25A6",
+					"id-ID": "Kartu PREMIER V25A6",
+					"it-IT": "Carta PREMIER V25A6",
+					"ja-JP": "PREMIER V25A6 カード",
+					"ko-KR": "프리미어 V25A6 카드",
+					"pl-PL": "Karta „V25A6 PREMIER”",
+					"pt-BR": "Card PREMIER V25A6",
+					"ru-RU": "Карточка \"V25A6 PREMIER\"",
+					"th-TH": "การ์ด PREMIER V25A6",
+					"tr-TR": "PREMIER V25K6 Kartı",
+					"vi-VN": "Thẻ PREMIER V25P6",
+					"zh-CN": "超级赛//V25第六幕 卡面",
+					"zh-TW": "PREMIER V25第六章 玩家卡面"
+				}
+			}
+		},
+		{
 			"id": "BB5CEDCD-4ED9-EE2E-F129-48BF60A8E540",
 			"label": "BB5CEDCD-4ED9-EE2E-F129-48BF60A8E540",
 			"name":
@@ -210217,7 +211552,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "بطاقة آيسو VALORANT",
-					"de-DE": "Banner „VALORANT Iso“",
+					"de-DE": "Banner „VALORANT: Iso“",
 					"en-US": "VALORANT Iso Card",
 					"es-ES": "Tarjeta de Iso de VALORANT",
 					"es-MX": "Tarjeta Iso de VALORANT",
@@ -213047,6 +214382,35 @@
 					"vi-VN": "Thẻ Đế Quốc - Hoang Tàn",
 					"zh-CN": "咒缚双界: 堕天遗武 卡面",
 					"zh-TW": "祕繫之域 棄王遺思 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "A0BA816F-40D1-2108-B865-44B3B319A46C",
+			"label": "A0BA816F-40D1-2108-B865-44B3B319A46C",
+			"name":
+			{
+				"defaultText": "Mystbloom, V25 Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة أزهار الروح، V25",
+					"de-DE": "Banner „Mystblüte, V25“",
+					"en-US": "Mystbloom, V25 Card",
+					"es-ES": "Tarjeta V25 Mystbloom",
+					"es-MX": "Tarjeta V25 // Flora Mística",
+					"fr-FR": "Carte Mystyosotis V25",
+					"id-ID": "Kartu Mystbloom, V25",
+					"it-IT": "Carta Fiore mistico V25",
+					"ja-JP": "ミストブルーム V25 カード",
+					"ko-KR": "미스트블룸, V25 카드",
+					"pl-PL": "Karta „Skrytokwit, V25”",
+					"pt-BR": "Card Floretérea V25",
+					"ru-RU": "Карточка \"Таинственный цветок V25\"",
+					"th-TH": "การ์ด Mystbloom, V25",
+					"tr-TR": "Sırçiçeği, V25 Kartı",
+					"vi-VN": "Thẻ Mystbloom, V25",
+					"zh-CN": "千灵华绽//2.0 卡面",
+					"zh-TW": "靈花初綻 V25 玩家卡面"
 				}
 			}
 		},
@@ -220773,7 +222137,7 @@
 					"ko-KR": "올스타",
 					"pl-PL": "Wszechgwiazda",
 					"pt-BR": "All Star",
-					"ru-RU": "Суперзвезда",
+					"ru-RU": "Настоящая звезда",
 					"th-TH": "ดาวเด่น",
 					"tr-TR": "Yıldız Oyuncu",
 					"vi-VN": "Ngôi Sao",
@@ -220800,7 +222164,7 @@
 					"ko-KR": "올스타 칭호",
 					"pl-PL": "Tytuł „Wszechgwiazda”",
 					"pt-BR": "Título All Star",
-					"ru-RU": "Звание \"Суперзвезда\"",
+					"ru-RU": "Звание \"Настоящая звезда\"",
 					"th-TH": "ฉายาดาวเด่น",
 					"tr-TR": "YILDIZ OYUNCU UNVANI",
 					"vi-VN": "Danh hiệu Ngôi Sao",
@@ -223020,6 +224384,60 @@
 					"vi-VN": "Danh Hiệu Hỏa Nhi",
 					"zh-CN": "浴火而生 称号",
 					"zh-TW": "浴火重生 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Gifted",
+				"localizedByCulture":
+				{
+					"ar-AE": "الموهوب",
+					"de-DE": "Beschenkt",
+					"en-US": "Gifted",
+					"es-ES": "Regalito",
+					"es-MX": "Talento Nato",
+					"fr-FR": "Gâté",
+					"id-ID": "Gifted",
+					"it-IT": "Dotato",
+					"ja-JP": "ギフテッド",
+					"ko-KR": "타고남",
+					"pl-PL": "Dar",
+					"pt-BR": "Presentão",
+					"ru-RU": "Талант",
+					"th-TH": "รับของขวัญ",
+					"tr-TR": "Yetenekli",
+					"vi-VN": "Thiên Phú",
+					"zh-CN": "天赋Eat饼",
+					"zh-TW": "甜蜜贈禮"
+				}
+			},
+			"id": "5CB4BD7B-4EBD-DDAC-D8D2-1FAF3CA19239",
+			"label": "5CB4BD7B-4EBD-DDAC-D8D2-1FAF3CA19239",
+			"name":
+			{
+				"defaultText": "Gifted Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب الموهوب",
+					"de-DE": "Titel „Beschenkt“",
+					"en-US": "Gifted Title",
+					"es-ES": "Título Regalito",
+					"es-MX": "Título Talento Nato",
+					"fr-FR": "Titre Gâté",
+					"id-ID": "Gelar Gifted",
+					"it-IT": "Titolo Dotato",
+					"ja-JP": "ギフテッド タイトル",
+					"ko-KR": "타고남 칭호",
+					"pl-PL": "Tytuł „Dar”",
+					"pt-BR": "Título Presentão",
+					"ru-RU": "Звание \"Талант\"",
+					"th-TH": "ฉายารับของขวัญ",
+					"tr-TR": "Yetenekli Unvanı",
+					"vi-VN": "Danh Hiệu Thiên Phú",
+					"zh-CN": "天赋Eat饼 称号",
+					"zh-TW": "甜蜜贈禮 稱號"
 				}
 			}
 		},
@@ -225691,7 +227109,7 @@
 					"th-TH": "Dimension",
 					"tr-TR": "Boyut",
 					"vi-VN": "Không Gian",
-					"zh-CN": "人体描边大师",
+					"zh-CN": "异界洞开",
 					"zh-TW": "跨次元"
 				}
 			},
@@ -225718,7 +227136,7 @@
 					"th-TH": "ฉายา Dimension",
 					"tr-TR": "Boyut Unvanı",
 					"vi-VN": "Danh Hiệu Không Gian",
-					"zh-CN": "人体描边大师 称号",
+					"zh-CN": "异界洞开 称号",
 					"zh-TW": "跨次元 稱號"
 				}
 			}
@@ -233556,6 +234974,330 @@
 		{
 			"titleText":
 			{
+				"defaultText": "PREMIER V25A6 CHAMPION // OPN",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V25م6 \\\\ مفتوح",
+					"de-DE": "PREMIER V25A6 CHAMPION // OFFN",
+					"en-US": "PREMIER V25A6 CHAMPION // OPN",
+					"es-ES": "CAMP. PREMIER V25A6 // ABRT",
+					"es-MX": "ABIERTO V25A6 // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V25A6 // OUV",
+					"id-ID": "PREMIER V25A6 CHAMPION // OPN",
+					"it-IT": "CAMPIONE PREMIER V25A6 // APR",
+					"ja-JP": "PREMIER V25A6 チャンピオン // OPN",
+					"ko-KR": "프리미어 V25A6 챔피언 // 초급",
+					"pl-PL": "BOHATER V25A6 PREMIER // OTW",
+					"pt-BR": "CAMPEÃO PREMIER V25A6 // ABR",
+					"ru-RU": "ЧЕМПИОН V25A6 PREMIER // ОТКР",
+					"th-TH": "PREMIER V25A6 CHAMPION // OPN",
+					"tr-TR": "PREMIER V25K6 ŞAMP. // AÇK",
+					"vi-VN": "VĐ PREMIER V25P6 // TD",
+					"zh-CN": "超级赛//V25第六幕冠军//初级",
+					"zh-TW": "PREMIER V25第六章冠軍 // 初階"
+				}
+			},
+			"id": "2BD15ADB-4B40-7B06-7782-1AA0648BC577",
+			"label": "2BD15ADB-4B40-7B06-7782-1AA0648BC577",
+			"name":
+			{
+				"defaultText": "PREMIER V25A6 CHAMPION // OPN Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V25م6 \\\\ مفتوح",
+					"de-DE": "Titel „PREMIER V25A6 CHAMPION // OFFN“",
+					"en-US": "PREMIER V25A6 CHAMPION // OPN Title",
+					"es-ES": "CAMP. PREMIER V25A6 // Título ABRT",
+					"es-MX": "Título ABIERTO V25A6 // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V25A6 // OUV",
+					"id-ID": "Gelar PREMIER V25A6 CHAMPION // OPN",
+					"it-IT": "Titolo CAMPIONE PREMIER V25A6 // APR",
+					"ja-JP": "PREMIER V25A6 チャンピオン // OPN タイトル",
+					"ko-KR": "프리미어 V25A6 챔피언 // 초급 칭호",
+					"pl-PL": "Tytuł „BOHATER V25A6 PREMIER // OTW”",
+					"pt-BR": "Título CAMPEÃO PREMIER V25A6 // ABR",
+					"ru-RU": "Звание \"ЧЕМПИОН V25A6 PREMIER // ОТКР\"",
+					"th-TH": "ฉายา PREMIER V25A6 CHAMPION // OPN",
+					"tr-TR": "PREMIER V25K6 ŞAMP. // AÇK Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V25P6 // TD",
+					"zh-CN": "超级赛//V25第六幕冠军//初级 称号",
+					"zh-TW": "PREMIER V25第六章冠軍 // 初階 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V25A6 CHAMPION // INT",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V25م6 \\\\ متوسط",
+					"de-DE": "PREMIER V25A6 CHAMPION // FRTG",
+					"en-US": "PREMIER V25A6 CHAMPION // INT",
+					"es-ES": "CAMP. PREMIER V25A6 // INTM",
+					"es-MX": "INT. V25A6 // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V25A6 // INT",
+					"id-ID": "PREMIER V25A6 CHAMPION // INT",
+					"it-IT": "CAMPIONE PREMIER V25A6 // INT",
+					"ja-JP": "PREMIER V25A6 チャンピオン // INT",
+					"ko-KR": "프리미어 V25A6 챔피언 // 중급",
+					"pl-PL": "BOHATER V25A6 PREMIER // ŚRD",
+					"pt-BR": "CAMPEÃO PREMIER V25A6 // INT",
+					"ru-RU": "ЧЕМПИОН V25A6 PREMIER // СРЕД",
+					"th-TH": "PREMIER V25A6 CHAMPION // INT",
+					"tr-TR": "PREMIER V25K6 ŞAMP. // ORT",
+					"vi-VN": "VĐ PREMIER V25P6 // TC",
+					"zh-CN": "超级赛//V25第六幕冠军//中级",
+					"zh-TW": "PREMIER V25第六章冠軍 // 中階"
+				}
+			},
+			"id": "E26446EE-43E6-7144-D3CF-10A2BD16E748",
+			"label": "E26446EE-43E6-7144-D3CF-10A2BD16E748",
+			"name":
+			{
+				"defaultText": "PREMIER V25A6 CHAMPION // INT Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V25م6 \\\\ متوسط",
+					"de-DE": "Titel „PREMIER V25A6 CHAMPION // FRTG“",
+					"en-US": "PREMIER V25A6 CHAMPION // INT Title",
+					"es-ES": "CAMP. PREMIER V25A6 // Título INTM",
+					"es-MX": "Título INT. V25A6 // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V25A6 // INT",
+					"id-ID": "Gelar PREMIER V25A6 CHAMPION // INT",
+					"it-IT": "Titolo CAMPIONE PREMIER V25A6 // INT",
+					"ja-JP": "PREMIER V25A6 チャンピオン // INT タイトル",
+					"ko-KR": "프리미어 V25A6 챔피언 // 중급 칭호",
+					"pl-PL": "Tytuł „BOHATER V25A6 PREMIER // ŚRD”",
+					"pt-BR": "Título CAMPEÃO PREMIER V25A6 // INT",
+					"ru-RU": "Звание \"ЧЕМПИОН V25A6 PREMIER // СРЕД\"",
+					"th-TH": "ฉายา PREMIER V25A6 CHAMPION // INT",
+					"tr-TR": "PREMIER V25K6 ŞAMP. // ORT Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V25P6 // TC",
+					"zh-CN": "超级赛//V25第六幕冠军//中级 称号",
+					"zh-TW": "PREMIER V25第六章冠軍 // 中階 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V25A6 GRAND CHAMP",
+				"localizedByCulture":
+				{
+					"ar-AE": "البطل الأعظم بريمير V25م6",
+					"de-DE": "PREMIER V25A6 GROSSMEISTER",
+					"en-US": "PREMIER V25A6 GRAND CHAMP",
+					"es-ES": "GRAN CAMP. PREMIER V25A6",
+					"es-MX": "V25A6 MEGACAMPEONES PREMIER",
+					"fr-FR": "GRAND CHAMPION DE PREMIER V25A6",
+					"id-ID": "PREMIER V25A6 GRAND CHAMP",
+					"it-IT": "CAMPIONE ASSOLUTO PREMIER V25A6",
+					"ja-JP": "PREMIER V25A6 グランドチャンピオン",
+					"ko-KR": "프리미어 V25A6 그랜드 챔피언",
+					"pl-PL": "NAJWIĘKSZY BOHATER V25A6 PREMIER",
+					"pt-BR": "GRANDE CAMPEÃO PREMIER V25A6",
+					"ru-RU": "ГРАНД-ЧЕМПИОН V25A6 PREMIER",
+					"th-TH": "PREMIER V25A6 GRAND CHAMP",
+					"tr-TR": "PREMIER V25K6 BÜYÜK ŞAMP.",
+					"vi-VN": "NHÀ VĐ PREMIER V25P6",
+					"zh-CN": "超级赛//V25第六幕总冠军",
+					"zh-TW": "PREMIER V25第六章總冠軍"
+				}
+			},
+			"id": "C3A4C3F3-4B9E-6938-B4B7-8FB2A5FA946B",
+			"label": "C3A4C3F3-4B9E-6938-B4B7-8FB2A5FA946B",
+			"name":
+			{
+				"defaultText": "PREMIER V25A6 GRAND CHAMP Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب البطل الأعظم بريمير V25م6",
+					"de-DE": "Titel „PREMIER V25A6 GROSSMEISTER“",
+					"en-US": "PREMIER V25A6 GRAND CHAMP Title",
+					"es-ES": "Título GRAN CAMP. PREMIER V25A6",
+					"es-MX": "Título V25A6 MEGACAMPEONES PREMIER",
+					"fr-FR": "Titre GRAND CHAMPION DE PREMIER V25A6",
+					"id-ID": "Gelar PREMIER V25A6 GRAND CHAMP",
+					"it-IT": "Titolo CAMPIONE ASSOLUTO PREMIER V25A6",
+					"ja-JP": "PREMIER V25A6 グランドチャンピオン タイトル",
+					"ko-KR": "프리미어 V25A6 그랜드 챔피언 칭호",
+					"pl-PL": "Tytuł „NAJWIĘKSZY BOHATER V25A6 PREMIER”",
+					"pt-BR": "Título GRANDE CAMPEÃO PREMIER V25A6",
+					"ru-RU": "Звание \"ГРАНД-ЧЕМПИОН V25A6 PREMIER\"",
+					"th-TH": "ฉายา PREMIER V25A6 GRAND CHAMP",
+					"tr-TR": "PREMIER V25K6 BÜYÜK ŞAMP. Unvanı",
+					"vi-VN": "Danh Hiệu NHÀ VĐ PREMIER V25P6",
+					"zh-CN": "超级赛//V25第六幕总冠军 称号",
+					"zh-TW": "PREMIER V25第六章總冠軍 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V25A6 CHAMPION // ELT",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V25م6 \\\\ نخبة",
+					"de-DE": "PREMIER V25A6 CHAMPION // ELT",
+					"en-US": "PREMIER V25A6 CHAMPION // ELT",
+					"es-ES": "CAMP. PREMIER V25A6 // ÉLT",
+					"es-MX": "ÉLITE V25A6 // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V25A6 // ÉLT",
+					"id-ID": "PREMIER V25A6 CHAMPION // ELT",
+					"it-IT": "CAMPIONE PREMIER V25A6 // ÉLT",
+					"ja-JP": "PREMIER V25A6 チャンピオン // ELT",
+					"ko-KR": "프리미어 V25A6 챔피언 // 상급",
+					"pl-PL": "BOHATER V25A6 PREMIER // ELT",
+					"pt-BR": "CAMPEÃO PREMIER V25A6 // ELT",
+					"ru-RU": "ЧЕМПИОН V25A6 PREMIER // ЭЛИТА",
+					"th-TH": "PREMIER V25A6 CHAMPION // ELT",
+					"tr-TR": "PREMIER V25K6 ŞAMP. // SÇKN",
+					"vi-VN": "VĐ PREMIER V25P5 // TN",
+					"zh-CN": "超级赛//V25第六幕冠军//精英",
+					"zh-TW": "PREMIER V25第六章冠軍 // 菁英"
+				}
+			},
+			"id": "E293417A-4DA5-72EF-2CDF-90B7C8473D67",
+			"label": "E293417A-4DA5-72EF-2CDF-90B7C8473D67",
+			"name":
+			{
+				"defaultText": "PREMIER V25A6 CHAMPION // ELT Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V25م6 \\\\ نخبة",
+					"de-DE": "Titel „PREMIER V25A6 CHAMPION // ELT“",
+					"en-US": "PREMIER V25A6 CHAMPION // ELT Title",
+					"es-ES": "CAMP. PREMIER V25A6 // Título ÉLT",
+					"es-MX": "Título ÉLITE V25A6 // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V25A6 // ÉLT",
+					"id-ID": "Gelar PREMIER V25A6 CHAMPION // ELT",
+					"it-IT": "Titolo CAMPIONE PREMIER V25A6 // ÉLT",
+					"ja-JP": "PREMIER V25A6 チャンピオン // ELT タイトル",
+					"ko-KR": "프리미어 V25A6 챔피언 // 상급 칭호",
+					"pl-PL": "Tytuł „BOHATER V25A6 PREMIER // ELT”",
+					"pt-BR": "Título CAMPEÃO PREMIER V25A6 // ELT",
+					"ru-RU": "Звание \"ЧЕМПИОН V25A6 PREMIER // ЭЛИТА\"",
+					"th-TH": "ฉายา PREMIER V25A6 CHAMPION // ELT",
+					"tr-TR": "PREMIER V25K6 ŞAMP. // SÇKN Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V25P6 // TN",
+					"zh-CN": "超级赛//V25第六幕冠军//精英 称号",
+					"zh-TW": "PREMIER V25第六章冠軍 // 菁英 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V25A6 CHAMPION // CTD",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V25م6 \\\\ منافس",
+					"de-DE": "PREMIER V25A6 CHAMPION // KNDT",
+					"en-US": "PREMIER V25A6 CHAMPION // CTD",
+					"es-ES": "CAMP. PREMIER V25A6 // CNTD",
+					"es-MX": "CONT. V25A6 // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V25A6 // CCR",
+					"id-ID": "PREMIER V25A6 CHAMPION // CTD",
+					"it-IT": "CAMPIONE PREMIER V25A6 // SFD",
+					"ja-JP": "PREMIER V25A6 チャンピオン // CTD",
+					"ko-KR": "프리미어 V25A6 챔피언 // 최상급",
+					"pl-PL": "BOHATER V25A6 PREMIER // ZDK",
+					"pt-BR": "CAMPEÃO PREMIER V25A6 // DES",
+					"ru-RU": "ЧЕМПИОН V25A6 PREMIER // БОЕЦ",
+					"th-TH": "PREMIER V25A6 CHAMPION // CTD",
+					"tr-TR": "PREMIER V25K6 ŞAMP. // TTKÇİ",
+					"vi-VN": "VĐ PREMIER V25P6 // UVNK",
+					"zh-CN": "超级赛//V25第六幕冠军//竞争者",
+					"zh-TW": "PREMIER V25第六章冠軍 // 競爭者"
+				}
+			},
+			"id": "674D62CF-4CFC-6B04-868E-7885ED44C02C",
+			"label": "674D62CF-4CFC-6B04-868E-7885ED44C02C",
+			"name":
+			{
+				"defaultText": "PREMIER V25A6 CHAMPION // CTD Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V25م6 \\\\ منافس",
+					"de-DE": "Titel „PREMIER V25A6 CHAMPION // KNDT“",
+					"en-US": "PREMIER V25A6 CHAMPION // CTD Title",
+					"es-ES": "CAMP. PREMIER V25A6 // Título CNTD",
+					"es-MX": "Título CONT. V25A6 // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V25A6 // CCR",
+					"id-ID": "Gelar PREMIER V25A6 CHAMPION // CTD",
+					"it-IT": "Titolo CAMPIONE PREMIER V25A6 // SFD",
+					"ja-JP": "PREMIER V25A6 チャンピオン // CTD タイトル",
+					"ko-KR": "프리미어 V25A6 챔피언 // 최상급 칭호",
+					"pl-PL": "Tytuł „BOHATER V25A6 PREMIER // ZDK”",
+					"pt-BR": "Título CAMPEÃO PREMIER V25A6 // DES",
+					"ru-RU": "Звание \"ЧЕМПИОН V25A6 PREMIER // БОЕЦ\"",
+					"th-TH": "ฉายา PREMIER V25A6 CHAMPION // CTD",
+					"tr-TR": "PREMIER V25K6 ŞAMP. // TTKÇİ Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V25P6 // UVNK",
+					"zh-CN": "超级赛//V25第六幕冠军//竞争者 称号",
+					"zh-TW": "PREMIER V25第六章冠軍 // 競爭者 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V25A6 CHAMPION // ADV",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V25م6 \\\\ متقدم",
+					"de-DE": "PREMIER V25A6 CHAMPION // PRF",
+					"en-US": "PREMIER V25A6 CHAMPION // ADV",
+					"es-ES": "CAMP. PREMIER V25A6 // AVNZ",
+					"es-MX": "AVAN. V25A6 // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V25A6 // AVN",
+					"id-ID": "PREMIER V25A6 CHAMPION // ADV",
+					"it-IT": "CAMPIONE PREMIER V25A6 // AVZ",
+					"ja-JP": "PREMIER V25A6 チャンピオン // ADV",
+					"ko-KR": "프리미어 V25A6 챔피언 // 중상급",
+					"pl-PL": "BOHATER V25A6 PREMIER // ZWN",
+					"pt-BR": "CAMPEÃO PREMIER V25A6 // AV",
+					"ru-RU": "ЧЕМПИОН V25A6 PREMIER // АС",
+					"th-TH": "PREMIER V25A6 CHAMPION // ADV",
+					"tr-TR": "PREMIER V25K6 ŞAMP. // İLR",
+					"vi-VN": "VĐ PREMIER V25P6 // CC",
+					"zh-CN": "超级赛//V25第六幕冠军//高级",
+					"zh-TW": "PREMIER V25第六章冠軍 // 高階"
+				}
+			},
+			"id": "7075127E-4579-5A9C-FEA2-A7AB37342419",
+			"label": "7075127E-4579-5A9C-FEA2-A7AB37342419",
+			"name":
+			{
+				"defaultText": "PREMIER V25A6 CHAMPION // ADV Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V25م6 \\\\ متقدم",
+					"de-DE": "Titel „PREMIER V25A6 CHAMPION // PRF“",
+					"en-US": "PREMIER V25A6 CHAMPION // ADV Title",
+					"es-ES": "CAMP. PREMIER V25A6 // Título AVNZ",
+					"es-MX": "Título AVAN. V25A6 // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V25A6 // AVN",
+					"id-ID": "Gelar PREMIER V25A6 CHAMPION // ADV",
+					"it-IT": "Titolo CAMPIONE PREMIER V25A6 // AVZ",
+					"ja-JP": "PREMIER V25A6 チャンピオン // ADV タイトル",
+					"ko-KR": "프리미어 V25A6 챔피언 // 중상급 칭호",
+					"pl-PL": "Tytuł „BOHATER V25A6 PREMIER // ZWN”",
+					"pt-BR": "Título CAMPEÃO PREMIER V25A6 // AV",
+					"ru-RU": "Звание \"ЧЕМПИОН V25A6 PREMIER // АС\"",
+					"th-TH": "ฉายา PREMIER V25A6 CHAMPION // ADV",
+					"tr-TR": "PREMIER V25K6 ŞAMP. // İLR Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V25P6 // CC",
+					"zh-CN": "超级赛//V25第六幕冠军//高级 称号",
+					"zh-TW": "PREMIER V25第六章冠軍 // 高階 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
 				"defaultText": "Proud",
 				"localizedByCulture":
 				{
@@ -234423,7 +236165,7 @@
 				"defaultText": "Electrifying",
 				"localizedByCulture":
 				{
-					"ar-AE": "مكهرب",
+					"ar-AE": "المكهرب",
 					"de-DE": "Elektroschocker",
 					"en-US": "Electrifying",
 					"es-ES": "Electrizante",
@@ -245282,6 +247024,66 @@
 		{
 			"levels": [
 				{
+					"id": "49A30406-49AF-F398-D627-2999C1D9D6E5",
+					"label": "49A30406-49AF-F398-D627-2999C1D9D6E5",
+					"name":
+					{
+						"defaultText": "Cookie",
+						"localizedByCulture":
+						{
+							"ar-AE": "Cookie",
+							"de-DE": "Cookie",
+							"en-US": "Cookie",
+							"es-ES": "Cookie",
+							"es-MX": "Cookie",
+							"fr-FR": "Cookie",
+							"id-ID": "Cookie",
+							"it-IT": "Cookie",
+							"ja-JP": "Cookie",
+							"ko-KR": "Cookie",
+							"pl-PL": "Cookie",
+							"pt-BR": "Cookie",
+							"ru-RU": "Cookie",
+							"th-TH": "Cookie",
+							"tr-TR": "Cookie",
+							"vi-VN": "Cookie",
+							"zh-CN": "Cookie",
+							"zh-TW": "Cookie"
+						}
+					}
+				}
+			],
+			"id": "4D87C6B9-4987-8560-AD87-F282CEEFC03F",
+			"label": "4D87C6B9-4987-8560-AD87-F282CEEFC03F",
+			"name":
+			{
+				"defaultText": "Mr. Sprinklebottom Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق السيد كعكي",
+					"de-DE": "Talisman „Herr Streuselich“",
+					"en-US": "Mr. Sprinklebottom Buddy",
+					"es-ES": "Amuleto Sr. Confitísimo",
+					"es-MX": "Buddy Sr. Chispitas",
+					"fr-FR": "Porte-bonheur M. Petit biscuit",
+					"id-ID": "Buddy Mr. Sprinklebottom",
+					"it-IT": "Accessorio Omino pralinato",
+					"ja-JP": "ミスター・スプリンクルボトム バディー",
+					"ko-KR": "스프링클바텀 씨 총기 장식",
+					"pl-PL": "Przywieszka „Pan Posypka”",
+					"pt-BR": "Chaveiro Sr. Granuladinho",
+					"ru-RU": "Брелок \"Мистер Печенька\"",
+					"th-TH": "บัดดี้ Mr. Sprinklebottom",
+					"tr-TR": "Bay Şekerşort Uğuru",
+					"vi-VN": "Phụ Kiện Mr. Sprinklebottom",
+					"zh-CN": "糖饼先生 挂饰",
+					"zh-TW": "糖霜先生 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "2179E882-430E-BE93-B909-BBA9568E66AF",
 					"label": "2179E882-430E-BE93-B909-BBA9568E66AF",
 					"name":
@@ -250961,7 +252763,7 @@
 					"ar-AE": "ملحق رد الجميل \\\\ V25",
 					"de-DE": "Talisman „Gute Tat // V25“",
 					"en-US": "Give Back // V25 Buddy",
-					"es-ES": "Retribución // Amuleto V25",
+					"es-ES": "Amuleto Retribución // V25",
 					"es-MX": "Buddy Retribución // V25",
 					"fr-FR": "Porte-bonheur Juste retour // V25",
 					"id-ID": "Buddy Give Back // V25",
@@ -257439,7 +259241,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "ملحق الخاتمة: مانس المومياء",
-					"de-DE": "Banner „Epilog: Mumien-Show“",
+					"de-DE": "Talisman „Epilog: Mumien-Show“",
 					"en-US": "Epilogue: Mummy Mance Buddy",
 					"es-ES": "Epílogo: Amuleto Mance momia",
 					"es-MX": "Buddy Epílogo: Mance Momia",
@@ -264722,6 +266524,366 @@
 		{
 			"levels": [
 				{
+					"id": "CCD55078-41DA-046E-0A16-34A9549E8C45",
+					"label": "CCD55078-41DA-046E-0A16-34A9549E8C45",
+					"name":
+					{
+						"defaultText": "PremierV25A6_Advanced",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV25A6_Advanced",
+							"de-DE": "PremierV25A6_Advanced",
+							"en-US": "PremierV25A6_Advanced",
+							"es-ES": "PremierV25A6_Advanced",
+							"es-MX": "PremierV25A6_Advanced",
+							"fr-FR": "PremierV25A6_Advanced",
+							"id-ID": "PremierV25A6_Advanced",
+							"it-IT": "PremierV25A6_Advanced",
+							"ja-JP": "PremierV25A6_Advanced",
+							"ko-KR": "PremierV25A6_Advanced",
+							"pl-PL": "PremierV25A6_Advanced",
+							"pt-BR": "PremierV25A6_Advanced",
+							"ru-RU": "PremierV25A6_Advanced",
+							"th-TH": "PremierV25A6_Advanced",
+							"tr-TR": "PremierV25A6_Advanced",
+							"vi-VN": "PremierV25A6_Advanced",
+							"zh-CN": "PremierV25A6_Advanced",
+							"zh-TW": "PremierV25A6_Advanced"
+						}
+					}
+				}
+			],
+			"id": "432C1724-4F32-3792-2FCD-6C899AC08761",
+			"label": "432C1724-4F32-3792-2FCD-6C899AC08761",
+			"name":
+			{
+				"defaultText": "PREMIER V25A6 CHAMPION // ADV Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V25م6 \\\\ متقدم",
+					"de-DE": "Talisman „PREMIER V25A6 CHAMPION // PRF“",
+					"en-US": "PREMIER V25A6 CHAMPION // ADV Buddy",
+					"es-ES": "CAMP. PREMIER V25A6 // Amuleto AVNZ",
+					"es-MX": "Buddy AVAN. V25A6 // CAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V25A6 // AVN",
+					"id-ID": "Buddy PREMIER V25A6 CHAMPION // ADV",
+					"it-IT": "Accessorio CAMPIONE PREMIER V25A6 // AVZ",
+					"ja-JP": "PREMIER V25A6 チャンピオン // ADV バディー",
+					"ko-KR": "프리미어 V25A6 챔피언 // 중상급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V25A6 PREMIER // ZWN”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V25A6 // AV",
+					"ru-RU": "Брелок \"ЧЕМПИОН V25A6 PREMIER // АС\"",
+					"th-TH": "บัดดี้ PREMIER V25A6 CHAMPION // ADV",
+					"tr-TR": "PREMIER V25K6 ŞAMPİYONU // İLR DZY Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V25P6 // CC",
+					"zh-CN": "超级赛//V25第六幕冠军//高级 挂饰",
+					"zh-TW": "PREMIER V25第六章冠軍 // 高階 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "D5A5D727-4391-AFE9-81EE-F9B26766CF01",
+					"label": "D5A5D727-4391-AFE9-81EE-F9B26766CF01",
+					"name":
+					{
+						"defaultText": "PremierV25A6_Contender",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV25A6_Contender",
+							"de-DE": "PremierV25A6_Contender",
+							"en-US": "PremierV25A6_Contender",
+							"es-ES": "PremierV25A6_Contender",
+							"es-MX": "PremierV25A6_Contender",
+							"fr-FR": "PremierV25A6_Contender",
+							"id-ID": "PremierV25A6_Contender",
+							"it-IT": "PremierV25A6_Contender",
+							"ja-JP": "PremierV25A6_Contender",
+							"ko-KR": "PremierV25A6_Contender",
+							"pl-PL": "PremierV25A6_Contender",
+							"pt-BR": "PremierV25A6_Contender",
+							"ru-RU": "PremierV25A6_Contender",
+							"th-TH": "PremierV25A6_Contender",
+							"tr-TR": "PremierV25A6_Contender",
+							"vi-VN": "PremierV25A6_Contender",
+							"zh-CN": "PremierV25A6_Contender",
+							"zh-TW": "PremierV25A6_Contender"
+						}
+					}
+				}
+			],
+			"id": "96E7F727-4463-56FA-2C55-2B87638B203C",
+			"label": "96E7F727-4463-56FA-2C55-2B87638B203C",
+			"name":
+			{
+				"defaultText": "PREMIER V25A6 CHAMPION // CTD Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V25م6 \\\\ منافس",
+					"de-DE": "Talisman „PREMIER V25A6 CHAMPION // KNDT“",
+					"en-US": "PREMIER V25A6 CHAMPION // CTD Buddy",
+					"es-ES": "CAMP. PREMIER V25A6 // Amuleto CNTD",
+					"es-MX": "Buddy CONT. V25A6 // CAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V25A6 // CCR",
+					"id-ID": "Buddy PREMIER V25A6 CHAMPION // CTD",
+					"it-IT": "Accessorio CAMPIONE PREMIER V25A6 // SFD",
+					"ja-JP": "PREMIER V25A6 チャンピオン // CTD バディー",
+					"ko-KR": "프리미어 V25A6 챔피언 // 최상급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V25A6 PREMIER // ZDK”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V25A6 // DES",
+					"ru-RU": "Брелок \"ЧЕМПИОН V25A6 PREMIER // БОЕЦ\"",
+					"th-TH": "บัดดี้ PREMIER V25A6 CHAMPION // CTD",
+					"tr-TR": "PREMIER V25K6 ŞAMPİYONU // TTKÇİ Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V25P6 // UVNK",
+					"zh-CN": "超级赛//V25第六幕冠军//竞争者 挂饰",
+					"zh-TW": "PREMIER V25第六章冠軍 // 競爭者 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "E0FF222D-41C3-0045-25A5-298D1609A5D7",
+					"label": "E0FF222D-41C3-0045-25A5-298D1609A5D7",
+					"name":
+					{
+						"defaultText": "PremierV25A6_Eilte",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV25A6_Eilte",
+							"de-DE": "PremierV25A6_Eilte",
+							"en-US": "PremierV25A6_Eilte",
+							"es-ES": "PremierV25A6_Eilte",
+							"es-MX": "PremierV25A6_Eilte",
+							"fr-FR": "PremierV25A6_Eilte",
+							"id-ID": "PremierV25A6_Eilte",
+							"it-IT": "PremierV25A6_Eilte",
+							"ja-JP": "PremierV25A6_Eilte",
+							"ko-KR": "PremierV25A6_Eilte",
+							"pl-PL": "PremierV25A6_Eilte",
+							"pt-BR": "PremierV25A6_Eilte",
+							"ru-RU": "PremierV25A6_Eilte",
+							"th-TH": "PremierV25A6_Eilte",
+							"tr-TR": "PremierV25A6_Eilte",
+							"vi-VN": "PremierV25A6_Eilte",
+							"zh-CN": "PremierV25A6_Eilte",
+							"zh-TW": "PremierV25A6_Eilte"
+						}
+					}
+				}
+			],
+			"id": "BFABD9D6-4C66-93A4-DE61-F2B6BAB7D828",
+			"label": "BFABD9D6-4C66-93A4-DE61-F2B6BAB7D828",
+			"name":
+			{
+				"defaultText": "PREMIER V25A6 CHAMPION // ELT Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V25م6 \\\\ نخبة",
+					"de-DE": "Talisman „PREMIER V25A6 CHAMPION // ELT“",
+					"en-US": "PREMIER V25A6 CHAMPION // ELT Buddy",
+					"es-ES": "CAMP. PREMIER V25A6 // Amuleto ÉLT",
+					"es-MX": "Buddy ÉLITE V25A6 // CAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V25A6 // ÉLT",
+					"id-ID": "Buddy PREMIER V25A6 CHAMPION // ELT",
+					"it-IT": "Accessorio CAMPIONE PREMIER V25A6 // ÉLT",
+					"ja-JP": "PREMIER V25A6 チャンピオン // ELT バディー",
+					"ko-KR": "프리미어 V25A6 챔피언 // 상급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V25A6 PREMIER // ELT”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V25A6 // ELT",
+					"ru-RU": "Брелок \"ЧЕМПИОН V25A6 PREMIER // ЭЛИТА\"",
+					"th-TH": "บัดดี้ PREMIER V25A6 CHAMPION // ELT",
+					"tr-TR": "PREMIER V25K6 ŞAMPİYONU // SÇKN DZY Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V25P6 // TN",
+					"zh-CN": "超级赛//V25第六幕冠军//精英 挂饰",
+					"zh-TW": "PREMIER V25第六章冠軍 // 菁英 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "87F46468-4C59-96B3-A5B6-EEAA00C23E9C",
+					"label": "87F46468-4C59-96B3-A5B6-EEAA00C23E9C",
+					"name":
+					{
+						"defaultText": "PremierV25A6_Intermediate",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV25A6_Intermediate",
+							"de-DE": "PremierV25A6_Intermediate",
+							"en-US": "PremierV25A6_Intermediate",
+							"es-ES": "PremierV25A6_Intermediate",
+							"es-MX": "PremierV25A6_Intermediate",
+							"fr-FR": "PremierV25A6_Intermediate",
+							"id-ID": "PremierV25A6_Intermediate",
+							"it-IT": "PremierV25A6_Intermediate",
+							"ja-JP": "PremierV25A6_Intermediate",
+							"ko-KR": "PremierV25A6_Intermediate",
+							"pl-PL": "PremierV25A6_Intermediate",
+							"pt-BR": "PremierV25A6_Intermediate",
+							"ru-RU": "PremierV25A6_Intermediate",
+							"th-TH": "PremierV25A6_Intermediate",
+							"tr-TR": "PremierV25A6_Intermediate",
+							"vi-VN": "PremierV25A6_Intermediate",
+							"zh-CN": "PremierV25A6_Intermediate",
+							"zh-TW": "PremierV25A6_Intermediate"
+						}
+					}
+				}
+			],
+			"id": "F2226421-49B8-6169-9104-58B90FA5110B",
+			"label": "F2226421-49B8-6169-9104-58B90FA5110B",
+			"name":
+			{
+				"defaultText": "PREMIER V25A6 CHAMPION // INT Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V25م6 \\\\ متوسط",
+					"de-DE": "Talisman „PREMIER V25A6 CHAMPION // FRTG“",
+					"en-US": "PREMIER V25A6 CHAMPION // INT Buddy",
+					"es-ES": "CAMP. PREMIER V25A6 // Amuleto INTM",
+					"es-MX": "Buddy INT. V25A6 // CAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V25A6 // INT",
+					"id-ID": "Buddy PREMIER V25A6 CHAMPION // INT",
+					"it-IT": "Accessorio CAMPIONE PREMIER V25A6 // INT",
+					"ja-JP": "PREMIER V25A6 チャンピオン // INT バディー",
+					"ko-KR": "프리미어 V25A6 챔피언 // 중급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V25A6 PREMIER // ŚRD”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V25A6 // INT",
+					"ru-RU": "Брелок \"ЧЕМПИОН V25A6 PREMIER // СРЕД\"",
+					"th-TH": "บัดดี้ PREMIER V25A6 CHAMPION // INT",
+					"tr-TR": "PREMIER V25K6 ŞAMPİYONU // ORT DZY Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V25P6 // TC",
+					"zh-CN": "超级赛//V25第六幕冠军//中级 挂饰",
+					"zh-TW": "PREMIER V25第六章冠軍 // 中階 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "F6925F69-47AD-2DE9-19F8-D19FEAC5482F",
+					"label": "F6925F69-47AD-2DE9-19F8-D19FEAC5482F",
+					"name":
+					{
+						"defaultText": "PremierV25A6_Invite",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV25A6_Invite",
+							"de-DE": "PremierV25A6_Invite",
+							"en-US": "PremierV25A6_Invite",
+							"es-ES": "PremierV25A6_Invite",
+							"es-MX": "PremierV25A6_Invite",
+							"fr-FR": "PremierV25A6_Invite",
+							"id-ID": "PremierV25A6_Invite",
+							"it-IT": "PremierV25A6_Invite",
+							"ja-JP": "PremierV25A6_Invite",
+							"ko-KR": "PremierV25A6_Invite",
+							"pl-PL": "PremierV25A6_Invite",
+							"pt-BR": "PremierV25A6_Invite",
+							"ru-RU": "PremierV25A6_Invite",
+							"th-TH": "PremierV25A6_Invite",
+							"tr-TR": "PremierV25A6_Invite",
+							"vi-VN": "PremierV25A6_Invite",
+							"zh-CN": "PremierV25A6_Invite",
+							"zh-TW": "PremierV25A6_Invite"
+						}
+					}
+				}
+			],
+			"id": "6F8D54B3-43F5-8E6C-BEC0-F5811F46CA76",
+			"label": "6F8D54B3-43F5-8E6C-BEC0-F5811F46CA76",
+			"name":
+			{
+				"defaultText": "PREMIER V25A6 GRAND CHAMP Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق البطل الأعظم بريمير V25م6",
+					"de-DE": "Talisman „PREMIER V25A6 GROSSMEISTER“",
+					"en-US": "PREMIER V25A6 GRAND CHAMP Buddy",
+					"es-ES": "Amuleto GRAN CAMP. PREMIER V25A6",
+					"es-MX": "Buddy V25A6 MEGACAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur GRAND CHAMPION DE PREMIER V25A6",
+					"id-ID": "Buddy PREMIER V25A6 GRAND CHAMP",
+					"it-IT": "Accessorio CAMPIONE ASSOLUTO PREMIER V25A6",
+					"ja-JP": "PREMIER V25A6 グランドチャンピオン バディー",
+					"ko-KR": "프리미어 V25A6 그랜드 챔피언 총기 장식",
+					"pl-PL": "Przywieszka „NAJWIĘKSZY BOHATER V25A6 PREMIER”",
+					"pt-BR": "Chaveiro GRANDE CAMPEÃO PREMIER V25A6",
+					"ru-RU": "Брелок \"ГРАНД-ЧЕМПИОН V25A6 PREMIER\"",
+					"th-TH": "บัดดี้ PREMIER V25A6 GRAND CHAMP",
+					"tr-TR": "PREMIER V25K6 BÜYÜK ŞAMPİYONU Uğuru",
+					"vi-VN": "Phụ Kiện NHÀ VĐ PREMIER V25P6",
+					"zh-CN": "超级赛//V25第六幕总冠军 挂饰",
+					"zh-TW": "PREMIER V25第六章總冠軍 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "387BCA70-4724-E095-BC57-5A83999E91F9",
+					"label": "387BCA70-4724-E095-BC57-5A83999E91F9",
+					"name":
+					{
+						"defaultText": "PremierV25A6_Open",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV25A6_Open",
+							"de-DE": "PremierV25A6_Open",
+							"en-US": "PremierV25A6_Open",
+							"es-ES": "PremierV25A6_Open",
+							"es-MX": "PremierV25A6_Open",
+							"fr-FR": "PremierV25A6_Open",
+							"id-ID": "PremierV25A6_Open",
+							"it-IT": "PremierV25A6_Open",
+							"ja-JP": "PremierV25A6_Open",
+							"ko-KR": "PremierV25A6_Open",
+							"pl-PL": "PremierV25A6_Open",
+							"pt-BR": "PremierV25A6_Open",
+							"ru-RU": "PremierV25A6_Open",
+							"th-TH": "PremierV25A6_Open",
+							"tr-TR": "PremierV25A6_Open",
+							"vi-VN": "PremierV25A6_Open",
+							"zh-CN": "PremierV25A6_Open",
+							"zh-TW": "PremierV25A6_Open"
+						}
+					}
+				}
+			],
+			"id": "1B09AF6C-49AA-E4F7-A684-F4B6AEBA6716",
+			"label": "1B09AF6C-49AA-E4F7-A684-F4B6AEBA6716",
+			"name":
+			{
+				"defaultText": "PREMIER V25A6 CHAMPION // OPN Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V25م6 \\\\ مفتوح",
+					"de-DE": "Talisman „PREMIER V25A6 CHAMPION // OFFN“",
+					"en-US": "PREMIER V25A6 CHAMPION // OPN Buddy",
+					"es-ES": "CAMP. PREMIER V25A6 // Amuleto ABRT",
+					"es-MX": "Buddy ABIERTO V25A6 // CAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V25A6 // OUV",
+					"id-ID": "Buddy PREMIER V25A6 CHAMPION // OPN",
+					"it-IT": "Accessorio CAMPIONE PREMIER V25A6 // APR",
+					"ja-JP": "PREMIER V25A6 チャンピオン // OPN バディー",
+					"ko-KR": "프리미어 V25A6 챔피언 // 초급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V25A6 PREMIER // OTW”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V25A6 // ABR",
+					"ru-RU": "Брелок \"ЧЕМПИОН V25A6 PREMIER // ОТКР\"",
+					"th-TH": "บัดดี้ PREMIER V25A6 CHAMPION // OPN",
+					"tr-TR": "PREMIER V25K6 ŞAMPİYONU // AÇK Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V25P6 // TD",
+					"zh-CN": "超级赛//V25第六幕冠军//初级 挂饰",
+					"zh-TW": "PREMIER V25第六章冠軍 // 初階 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "56F98991-43F8-DCC8-189E-08B7AE6C42AD",
 					"label": "56F98991-43F8-DCC8-189E-08B7AE6C42AD",
 					"name":
@@ -270275,27 +272437,27 @@
 			"label": "DE08AE9E-4405-7BC0-EB14-D3A9F2822F8F",
 			"name":
 			{
-				"defaultText": "V25A3: Ascendant Buddy",
+				"defaultText": "V25A6: Ascendant Buddy",
 				"localizedByCulture":
 				{
-					"ar-AE": "ملحق V25م3: مرتقي",
-					"de-DE": "Talisman „V25A3: Aufgestiegen“",
-					"en-US": "V25A3: Ascendant Buddy",
-					"es-ES": "V25A3: Amuleto Ascendente",
-					"es-MX": "V25A3: Buddy Ascendente",
-					"fr-FR": "Porte-bonheur V25A3 : Ascendant",
-					"id-ID": "Buddy V25A3: Ascendant",
-					"it-IT": "Accessorio V25A3: Ascendente",
-					"ja-JP": "V25A3: アセンダント バディー",
-					"ko-KR": "V25A3: 초월자 총기 장식",
-					"pl-PL": "Przywieszka „V25A3: Wschodzący”",
-					"pt-BR": "Chaveiro V25A3 // Ascendente",
-					"ru-RU": "Брелок \"V25A3: Расцвет\"",
-					"th-TH": "บัดดี้ V25A3: Ascendant",
-					"tr-TR": "V25K3: Yücelik Uğuru",
-					"vi-VN": "Phụ Kiện V25P3: Thượng Nhân",
-					"zh-CN": "V25第三幕：超凡 挂饰",
-					"zh-TW": "V25第三章：超凡入聖 吊飾"
+					"ar-AE": "ملحق V25م6: مرتقي",
+					"de-DE": "Talisman „V25A6: Aufgestiegen“",
+					"en-US": "V25A6: Ascendant Buddy",
+					"es-ES": "V25A6: Amuleto Ascendente",
+					"es-MX": "Buddy V25A6: Ascendente",
+					"fr-FR": "Porte-bonheur V25A6 : Ascendant",
+					"id-ID": "Buddy V25A6: Ascendant",
+					"it-IT": "Accessorio V25A6: Ascendente",
+					"ja-JP": "V25A6: アセンダント バディー",
+					"ko-KR": "V25A6: 초월자 총기 장식",
+					"pl-PL": "Przywieszka „V25A6: Wschodzący”",
+					"pt-BR": "Chaveiro V25A6 // Ascendente",
+					"ru-RU": "Брелок \"V25A6: Расцвет\"",
+					"th-TH": "V25A6: บัดดี้ Ascendant",
+					"tr-TR": "V25K6: Yücelik Uğuru",
+					"vi-VN": "Phụ Kiện V25P6: Thượng Nhân",
+					"zh-CN": "V25第六幕：超凡 挂饰",
+					"zh-TW": "V25第六章：超凡入聖 吊飾"
 				}
 			}
 		},
@@ -270335,27 +272497,27 @@
 			"label": "DC34E72D-48D0-40CE-53A6-A1BE42B534AB",
 			"name":
 			{
-				"defaultText": "V25A3: Bronze Buddy",
+				"defaultText": "V25A6: Bronze Buddy",
 				"localizedByCulture":
 				{
-					"ar-AE": "ملحق V25م3: برونزي",
-					"de-DE": "Talisman „V25A3: Bronze“",
-					"en-US": "V25A3: Bronze Buddy",
-					"es-ES": "V25A3: Amuleto de Bronce",
-					"es-MX": "V25A3: Buddy Bronce",
-					"fr-FR": "Porte-bonheur V25A3 : Bronze",
-					"id-ID": "Buddy V25A3: Bronze",
-					"it-IT": "Accessorio V25A3: Bronzo",
-					"ja-JP": "V25A3: ブロンズ バディー",
-					"ko-KR": "V25A3: 브론즈 총기 장식",
-					"pl-PL": "Przywieszka „V25A3: Brąz”",
-					"pt-BR": "Chaveiro V25A3 // Bronze",
-					"ru-RU": "Брелок \"V25A3: Бронза\"",
-					"th-TH": "บัดดี้ V25A3: Bronze",
-					"tr-TR": "V25K3: Bronz Uğuru",
-					"vi-VN": "Phụ Kiện V25P3: Đồng",
-					"zh-CN": "V25第三幕：青铜 挂饰",
-					"zh-TW": "V25第三章：銅牌 吊飾"
+					"ar-AE": "ملحق V25م6: برونزي",
+					"de-DE": "Talisman „V25A6: Bronze“",
+					"en-US": "V25A6: Bronze Buddy",
+					"es-ES": "V25A6: Amuleto de Bronce",
+					"es-MX": "Buddy V25A6: Bronce",
+					"fr-FR": "Porte-bonheur V25A6 : Bronze",
+					"id-ID": "Buddy V25A6: Bronze",
+					"it-IT": "Accessorio V25A6: Bronzo",
+					"ja-JP": "V25A6: ブロンズ バディー",
+					"ko-KR": "V25A6: 브론즈 총기 장식",
+					"pl-PL": "Przywieszka „V25A6: Brąz”",
+					"pt-BR": "Chaveiro V25A6 // Bronze",
+					"ru-RU": "Брелок \"V25A6: Бронза\"",
+					"th-TH": "V25A6: บัดดี้ Bronze",
+					"tr-TR": "V25K6: Bronz Uğuru",
+					"vi-VN": "Phụ Kiện V25P6: Đồng",
+					"zh-CN": "V25第六幕：青铜 挂饰",
+					"zh-TW": "V25第六章：銅牌 吊飾"
 				}
 			}
 		},
@@ -270395,27 +272557,27 @@
 			"label": "BC75BA3E-4393-1F2B-1C01-3FB47EDF1F5B",
 			"name":
 			{
-				"defaultText": "V25A3: Diamond Buddy",
+				"defaultText": "V25A6: Diamond Buddy",
 				"localizedByCulture":
 				{
-					"ar-AE": "ملحق V25م3: ألماسي",
-					"de-DE": "Talisman „V25A3: Diamant“",
-					"en-US": "V25A3: Diamond Buddy",
-					"es-ES": "V25A3: Amuleto de Diamante",
-					"es-MX": "V25A3: Buddy Diamante",
-					"fr-FR": "Porte-bonheur V25A3 : Diamant",
-					"id-ID": "Buddy V25A3: Diamond",
-					"it-IT": "Accessorio V25A3: Diamante",
-					"ja-JP": "V25A3: ダイヤモンド バディー",
-					"ko-KR": "V25A3: 다이아몬드 총기 장식",
-					"pl-PL": "Przywieszka „V25A3: Diament”",
-					"pt-BR": "Chaveiro V25A3 // Diamante",
-					"ru-RU": "Брелок \"V25A3: Алмаз\"",
-					"th-TH": "บัดดี้ V25A3: Diamond",
-					"tr-TR": "V25K3: Elmas Uğuru",
-					"vi-VN": "Phụ Kiện V25P3: Kim Cương",
-					"zh-CN": "V25第三幕：钻石 挂饰",
-					"zh-TW": "V25第三章：鑽石 吊飾"
+					"ar-AE": "ملحق V25م6: ألماسي",
+					"de-DE": "Talisman „V25A6: Diamant“",
+					"en-US": "V25A6: Diamond Buddy",
+					"es-ES": "V25A6: Amuleto de Diamante",
+					"es-MX": "Buddy V25A6: Diamante",
+					"fr-FR": "Porte-bonheur V25A6 : Diamant",
+					"id-ID": "Buddy V25A6: Diamond",
+					"it-IT": "Accessorio V25A6: Diamante",
+					"ja-JP": "V25A6: ダイヤモンド バディー",
+					"ko-KR": "V25A6: 다이아몬드 총기 장식",
+					"pl-PL": "Przywieszka „V25A6: Diament”",
+					"pt-BR": "Chaveiro V25A6 // Diamante",
+					"ru-RU": "Брелок \"V25A6: Алмаз\"",
+					"th-TH": "V25A6: บัดดี้ Diamond",
+					"tr-TR": "V25K6: Elmas Uğuru",
+					"vi-VN": "Phụ Kiện V25P6: Kim Cương",
+					"zh-CN": "V25第六幕：钻石 挂饰",
+					"zh-TW": "V25第六章：鑽石 吊飾"
 				}
 			}
 		},
@@ -270455,27 +272617,27 @@
 			"label": "D74C34ED-4E90-224B-BF6E-DBA9D0FEA145",
 			"name":
 			{
-				"defaultText": "V25A3: Gold Buddy",
+				"defaultText": "V25A6: Gold Buddy",
 				"localizedByCulture":
 				{
-					"ar-AE": "ملحق V25م3: ذهبي",
-					"de-DE": "Talisman „V25A3: Gold“",
-					"en-US": "V25A3: Gold Buddy",
-					"es-ES": "V25A3: Amuleto de Oro",
-					"es-MX": "V25A3: Buddy Oro",
-					"fr-FR": "Porte-bonheur V25A3 : Or",
-					"id-ID": "Buddy V25A3: Gold",
-					"it-IT": "Accessorio V25A3: Oro",
-					"ja-JP": "V25A3: ゴールド バディー",
-					"ko-KR": "V25A3: 골드 총기 장식",
-					"pl-PL": "Przywieszka „V25A3: Złoto”",
-					"pt-BR": "Chaveiro V25A3 // Ouro",
-					"ru-RU": "Брелок \"V25A3: Золото\"",
-					"th-TH": "บัดดี้ V25A3: Gold",
-					"tr-TR": "V25K3: Altın Uğuru",
-					"vi-VN": "Phụ Kiện V25P3: Vàng",
-					"zh-CN": "V25第三幕：黄金 挂饰",
-					"zh-TW": "V25第三章：金牌 吊飾"
+					"ar-AE": "ملحق V25م6: ذهبي",
+					"de-DE": "Talisman „V25A6: Gold“",
+					"en-US": "V25A6: Gold Buddy",
+					"es-ES": "V25A6: Amuleto de Oro",
+					"es-MX": "Buddy V25A6: Oro",
+					"fr-FR": "Porte-bonheur V25A6 : Or",
+					"id-ID": "Buddy V25A6: Gold",
+					"it-IT": "Accessorio V25A6: Oro",
+					"ja-JP": "V25A6: ゴールド バディー",
+					"ko-KR": "V25A6: 골드 총기 장식",
+					"pl-PL": "Przywieszka „V25A6: Złoto”",
+					"pt-BR": "Chaveiro V25A6 // Ouro",
+					"ru-RU": "Брелок \"V25A6: Золото\"",
+					"th-TH": "V25A6: บัดดี้ Gold",
+					"tr-TR": "V25K6: Altın Uğuru",
+					"vi-VN": "Phụ Kiện V25P6: Vàng",
+					"zh-CN": "V25第六幕：黄金 挂饰",
+					"zh-TW": "V25第六章：金牌 吊飾"
 				}
 			}
 		},
@@ -270515,27 +272677,27 @@
 			"label": "51BD423A-4EFF-23C3-1340-7D92D237B3AF",
 			"name":
 			{
-				"defaultText": "V25A3: Immortal Buddy",
+				"defaultText": "V25A6: Immortal Buddy",
 				"localizedByCulture":
 				{
-					"ar-AE": "ملحق V25م3: أبدي",
-					"de-DE": "Talisman „V25A3: Unsterblich“",
-					"en-US": "V25A3: Immortal Buddy",
-					"es-ES": "V25A3: Amuleto de Inmortal",
-					"es-MX": "V25A3: Buddy Inmortal",
-					"fr-FR": "Porte-bonheur V25A3 : Immortel",
-					"id-ID": "Buddy V25A3: Immortal",
-					"it-IT": "Accessorio V25A3: Immortale",
-					"ja-JP": "V25A3: イモータル バディー",
-					"ko-KR": "V25A3: 불멸 총기 장식",
-					"pl-PL": "Przywieszka „V25A3: Nieśmiertelny”",
-					"pt-BR": "Chaveiro V25A3 // Imortal",
-					"ru-RU": "Брелок \"V25A3: Бессмертный\"",
-					"th-TH": "บัดดี้ V25A3: Immortal",
-					"tr-TR": "V25K3: Ölümsüzlük Uğuru",
-					"vi-VN": "Phụ Kiện V25P3: Bất Tử",
-					"zh-CN": "V25第三幕：神话 挂饰",
-					"zh-TW": "V25第三章：神話 吊飾"
+					"ar-AE": "ملحق V25م6: أبدي",
+					"de-DE": "Talisman „V25A6: Unsterblich“",
+					"en-US": "V25A6: Immortal Buddy",
+					"es-ES": "V25A6: Amuleto de Inmortal",
+					"es-MX": "Buddy V25A6: Inmortal",
+					"fr-FR": "Porte-bonheur V25A6 : Immortel",
+					"id-ID": "Buddy V25A6: Immortal",
+					"it-IT": "Accessorio V25A6: Immortale",
+					"ja-JP": "V25A6: イモータル バディー",
+					"ko-KR": "V25A6: 불멸 총기 장식",
+					"pl-PL": "Przywieszka „V25A6: Nieśmiertelny”",
+					"pt-BR": "Chaveiro V25A6 // Imortal",
+					"ru-RU": "Брелок \"V25A6: Бессмертный\"",
+					"th-TH": "V25A6: บัดดี้ Immortal",
+					"tr-TR": "V25K6: Ölümsüzlük Uğuru",
+					"vi-VN": "Phụ Kiện V25P6: Bất Tử",
+					"zh-CN": "V25第六幕：神话 挂饰",
+					"zh-TW": "V25第六章：神話 吊飾"
 				}
 			}
 		},
@@ -270575,27 +272737,27 @@
 			"label": "566AEE55-4146-8309-45B6-67B76B5880E5",
 			"name":
 			{
-				"defaultText": "V25A3: Iron Buddy",
+				"defaultText": "V25A6: Iron Buddy",
 				"localizedByCulture":
 				{
-					"ar-AE": "ملحق V25م3: حديدي",
-					"de-DE": "Talisman „V25A3: Eisen“",
-					"en-US": "V25A3: Iron Buddy",
-					"es-ES": "V25A3: Amuleto de Hierro",
-					"es-MX": "V25A3: Buddy Hierro",
-					"fr-FR": "Porte-bonheur V25A3 : Fer",
-					"id-ID": "Buddy V25A3: Iron",
-					"it-IT": "Accessorio V25A3: Ferro",
-					"ja-JP": "V25A3: アイアン バディー",
-					"ko-KR": "V25A3: 아이언 총기 장식",
-					"pl-PL": "Przywieszka „V25A3: Żelazo”",
-					"pt-BR": "Chaveiro V25A3 // Ferro",
-					"ru-RU": "Брелок \"V25A3: Железо\"",
-					"th-TH": "บัดดี้ V25A3: Iron",
-					"tr-TR": "V25K3: Demir Uğuru",
-					"vi-VN": "Phụ Kiện V25P3: Sắt",
-					"zh-CN": "V25第三幕：黑铁 挂饰",
-					"zh-TW": "V25第三章：鐵牌 吊飾"
+					"ar-AE": "ملحق V25م6: حديدي",
+					"de-DE": "Talisman „V25A6: Eisen“",
+					"en-US": "V25A6: Iron Buddy",
+					"es-ES": "V25A6: Amuleto de Hierro",
+					"es-MX": "Buddy V25A6: Hierro",
+					"fr-FR": "Porte-bonheur V25A6 : Fer",
+					"id-ID": "Buddy V25A6: Iron",
+					"it-IT": "Accessorio V25A6: Ferro",
+					"ja-JP": "V25A6: アイアン バディー",
+					"ko-KR": "V25A6: 아이언 총기 장식",
+					"pl-PL": "Przywieszka „V25A6: Żelazo”",
+					"pt-BR": "Chaveiro V25A6 // Ferro",
+					"ru-RU": "Брелок \"V25A6: Железо\"",
+					"th-TH": "V25A6: บัดดี้ Iron",
+					"tr-TR": "V25K6: Demir Uğuru",
+					"vi-VN": "Phụ Kiện V25P6: Sắt",
+					"zh-CN": "V25第六幕：黑铁 挂饰",
+					"zh-TW": "V25第六章：鐵牌 吊飾"
 				}
 			}
 		},
@@ -270635,27 +272797,27 @@
 			"label": "99470112-48A2-1EC9-393F-D38A44622CFC",
 			"name":
 			{
-				"defaultText": "V25A3: Platinum Buddy",
+				"defaultText": "V25A6: Platinum Buddy",
 				"localizedByCulture":
 				{
-					"ar-AE": "ملحق V25م3: بلاتيني",
-					"de-DE": "Talisman „V25A3: Platin“",
-					"en-US": "V25A3: Platinum Buddy",
-					"es-ES": "V25A3: Amuleto de Platino",
-					"es-MX": "V25A3: Buddy Platino",
-					"fr-FR": "Porte-bonheur V25A3 : Platine",
-					"id-ID": "Buddy V25A3: Platinum",
-					"it-IT": "Accessorio V25A3: Platino",
-					"ja-JP": "V25A3: プラチナ バディー",
-					"ko-KR": "V25A3: 플래티넘 총기 장식",
-					"pl-PL": "Przywieszka „V25A3: Platyna”",
-					"pt-BR": "Chaveiro V25A3 // Platina",
-					"ru-RU": "Брелок \"V25A3: Платина\"",
-					"th-TH": "บัดดี้ V25A3: Platinum",
-					"tr-TR": "V25K3: Platin Uğuru",
-					"vi-VN": "Phụ Kiện V25P3: Bạch Kim",
-					"zh-CN": "V25第三幕：铂金 挂饰",
-					"zh-TW": "V25第三章：白金 吊飾"
+					"ar-AE": "ملحق V25م6: بلاتيني",
+					"de-DE": "Talisman „V25A6: Platin“",
+					"en-US": "V25A6: Platinum Buddy",
+					"es-ES": "V25A6: Amuleto de Platino",
+					"es-MX": "Buddy V25A6: Platino",
+					"fr-FR": "Porte-bonheur V25A6 : Platine",
+					"id-ID": "Buddy V25A6: Platinum",
+					"it-IT": "Accessorio V25A6: Platino",
+					"ja-JP": "V25A6: プラチナ バディー",
+					"ko-KR": "V25A6: 플래티넘 총기 장식",
+					"pl-PL": "Przywieszka „V25A6: Platyna”",
+					"pt-BR": "Chaveiro V25A6 // Platina",
+					"ru-RU": "Брелок \"V25A6: Платина\"",
+					"th-TH": "V25A6: บัดดี้ Platinum",
+					"tr-TR": "V25K6: Platin Uğuru",
+					"vi-VN": "Phụ Kiện V25P6: Bạch Kim",
+					"zh-CN": "V25第六幕：铂金 挂饰",
+					"zh-TW": "V25第六章：白金 吊飾"
 				}
 			}
 		},
@@ -270695,27 +272857,27 @@
 			"label": "7BA2DD21-44C1-163B-162D-6099A3412726",
 			"name":
 			{
-				"defaultText": "V25A3: Radiant Buddy",
+				"defaultText": "V25A6: Radiant Buddy",
 				"localizedByCulture":
 				{
-					"ar-AE": "ملحق V25م3: راديانت",
-					"de-DE": "Talisman „V25A3: Radiant“",
-					"en-US": "V25A3: Radiant Buddy",
-					"es-ES": "V25A3: Amuleto de Radiante",
-					"es-MX": "V25A3: Buddy Radiante",
-					"fr-FR": "Porte-bonheur V25A3 : Radiant",
-					"id-ID": "Buddy V25A3: Radiant",
-					"it-IT": "Accessorio V25A3: Radiante",
-					"ja-JP": "V25A3: レディアント バディー",
-					"ko-KR": "V25A3: 레디언트 총기 장식",
-					"pl-PL": "Przywieszka „V25A3: Promienisty”",
-					"pt-BR": "Chaveiro V25A3 // Radiante",
-					"ru-RU": "Брелок \"V25A3: Радиант\"",
-					"th-TH": "บัดดี้ V25A3: Radiant",
-					"tr-TR": "V25K3: Radyant Uğuru",
-					"vi-VN": "Phụ Kiện V25P3: Radiant",
-					"zh-CN": "V25第三幕：源能战魂 挂饰",
-					"zh-TW": "V25第三章：輻能戰魂 吊飾"
+					"ar-AE": "ملحق V25م6: راديانت",
+					"de-DE": "Talisman „V25A6: Radiant“",
+					"en-US": "V25A6: Radiant Buddy",
+					"es-ES": "V25A6: Amuleto de Radiante",
+					"es-MX": "Buddy V25A6: Radiante",
+					"fr-FR": "Porte-bonheur V25A6 : Radiant",
+					"id-ID": "Buddy V25A6: Radiant",
+					"it-IT": "Accessorio V25A6: Radiante",
+					"ja-JP": "V25A6: レディアント バディー",
+					"ko-KR": "V25A6: 레디언트 총기 장식",
+					"pl-PL": "Przywieszka „V25A6: Promienisty”",
+					"pt-BR": "Chaveiro V25A6 // Radiante",
+					"ru-RU": "Брелок \"V25A6: Радиант\"",
+					"th-TH": "V25A6: บัดดี้ Radiant",
+					"tr-TR": "V25K6: Radyant Uğuru",
+					"vi-VN": "Phụ Kiện V25P6: Radiant",
+					"zh-CN": "V25第六幕：源能战魂 挂饰",
+					"zh-TW": "V25第六章：輻能戰魂 吊飾"
 				}
 			}
 		},
@@ -270755,27 +272917,27 @@
 			"label": "4DCAA253-4C2C-56F9-9AB1-4F82B06CA110",
 			"name":
 			{
-				"defaultText": "V25A3: Silver Buddy",
+				"defaultText": "V25A6: Silver Buddy",
 				"localizedByCulture":
 				{
-					"ar-AE": "ملحق V25م3: فضي",
-					"de-DE": "Talisman „V25A3: Silber“",
-					"en-US": "V25A3: Silver Buddy",
-					"es-ES": "V25A3: Amuleto de Plata",
-					"es-MX": "V25A3: Buddy Plata",
-					"fr-FR": "Porte-bonheur V25A3 : Argent",
-					"id-ID": "Buddy V25A3: Silver",
-					"it-IT": "Accessorio V25A3: Argento",
-					"ja-JP": "V25A3: シルバー バディー",
-					"ko-KR": "V25A3: 실버 총기 장식",
-					"pl-PL": "Przywieszka „V25A3: Srebro”",
-					"pt-BR": "Chaveiro V25A3 // Prata",
-					"ru-RU": "Брелок \"V25A3: Серебро\"",
-					"th-TH": "บัดดี้ V25A3: Silver",
-					"tr-TR": "V25K3: Gümüş Uğuru",
-					"vi-VN": "Phụ Kiện V25P3: Bạc",
-					"zh-CN": "V25第三幕：白银 挂饰",
-					"zh-TW": "V25第三章：銀牌 吊飾"
+					"ar-AE": "ملحق V25م6: فضي",
+					"de-DE": "Talisman „V25A6: Silber“",
+					"en-US": "V25A6: Silver Buddy",
+					"es-ES": "V25A6: Amuleto de Plata",
+					"es-MX": "Buddy V25A6: Plata",
+					"fr-FR": "Porte-bonheur V25A6 : Argent",
+					"id-ID": "Buddy V25A6: Silver",
+					"it-IT": "Accessorio V25A6: Argento",
+					"ja-JP": "V25A6: シルバー バディー",
+					"ko-KR": "V25A6: 실버 총기 장식",
+					"pl-PL": "Przywieszka „V25A6: Srebro”",
+					"pt-BR": "Chaveiro V25A6 // Prata",
+					"ru-RU": "Брелок \"V25A6: Серебро\"",
+					"th-TH": "V25A6: บัดดี้ Silver",
+					"tr-TR": "V25K6: Gümüş Uğuru",
+					"vi-VN": "Phụ Kiện V25P6: Bạc",
+					"zh-CN": "V25第六幕：白银 挂饰",
+					"zh-TW": "V25第六章：銀牌 吊飾"
 				}
 			}
 		},
@@ -274316,6 +276478,66 @@
 					"vi-VN": "Phụ Kiện Mystbloom",
 					"zh-CN": "千灵华绽 挂饰",
 					"zh-TW": "靈花初綻 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "6BAAB51B-4E75-BF9D-B67A-628D313043DF",
+					"label": "6BAAB51B-4E75-BF9D-B67A-628D313043DF",
+					"name":
+					{
+						"defaultText": "Spirit2",
+						"localizedByCulture":
+						{
+							"ar-AE": "Spirit2",
+							"de-DE": "Spirit2",
+							"en-US": "Spirit2",
+							"es-ES": "Spirit2",
+							"es-MX": "Spirit2",
+							"fr-FR": "Spirit2",
+							"id-ID": "Spirit2",
+							"it-IT": "Spirit2",
+							"ja-JP": "Spirit2",
+							"ko-KR": "Spirit2",
+							"pl-PL": "Spirit2",
+							"pt-BR": "Spirit2",
+							"ru-RU": "Spirit2",
+							"th-TH": "Spirit2",
+							"tr-TR": "Spirit2",
+							"vi-VN": "Spirit2",
+							"zh-CN": "Spirit2",
+							"zh-TW": "Spirit2"
+						}
+					}
+				}
+			],
+			"id": "A0E0065C-47D6-907C-450D-D892C71DF858",
+			"label": "A0E0065C-47D6-907C-450D-D892C71DF858",
+			"name":
+			{
+				"defaultText": "Mystbloom, V25 Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق أزهار الروح، V25",
+					"de-DE": "Talisman „Mystblüte, V25“",
+					"en-US": "Mystbloom, V25 Buddy",
+					"es-ES": "Amuleto V25 Mystbloom",
+					"es-MX": "Buddy V25 // Flora Mística",
+					"fr-FR": "Porte-bonheur Mystyosotis V25",
+					"id-ID": "Buddy Mystbloom, V25",
+					"it-IT": "Accessorio Fiore mistico V25",
+					"ja-JP": "ミストブルーム V25 バディー",
+					"ko-KR": "미스트블룸, V25 총기 장식",
+					"pl-PL": "Przywieszka „Skrytokwit, V25”",
+					"pt-BR": "Chaveiro Floretérea V25",
+					"ru-RU": "Брелок \"Таинственный цветок V25\"",
+					"th-TH": "บัดดี้ Mystbloom, V25",
+					"tr-TR": "Sırçiçeği, V25 Uğuru",
+					"vi-VN": "Phụ Kiện Mystbloom, V25",
+					"zh-CN": "千灵华绽//2.0 挂饰",
+					"zh-TW": "靈花初綻 V25 吊飾"
 				}
 			}
 		},
@@ -310663,7 +312885,7 @@
 					"ar-AE": "رسمة رد الجميل \\\\ V25",
 					"de-DE": "Graffiti „Gute Tat // V25“",
 					"en-US": "Give Back // V25 Spray",
-					"es-ES": "Retribución // Grafiti V25",
+					"es-ES": "Grafiti Retribución // V25",
 					"es-MX": "Spray Retribución // V25",
 					"fr-FR": "Graffiti Juste retour // V25",
 					"id-ID": "Spray Give Back // V25",
@@ -325024,6 +327246,66 @@
 		{
 			"levels": [
 				{
+					"id": "8602BDD9-4EA1-E56B-44E1-EB9780692A00",
+					"label": "8602BDD9-4EA1-E56B-44E1-EB9780692A00",
+					"name":
+					{
+						"defaultText": "Spirit2",
+						"localizedByCulture":
+						{
+							"ar-AE": "Spirit2",
+							"de-DE": "Spirit2",
+							"en-US": "Spirit2",
+							"es-ES": "Spirit2",
+							"es-MX": "Spirit2",
+							"fr-FR": "Spirit2",
+							"id-ID": "Spirit2",
+							"it-IT": "Spirit2",
+							"ja-JP": "Spirit2",
+							"ko-KR": "Spirit2",
+							"pl-PL": "Spirit2",
+							"pt-BR": "Spirit2",
+							"ru-RU": "Spirit2",
+							"th-TH": "Spirit2",
+							"tr-TR": "Spirit2",
+							"vi-VN": "Spirit2",
+							"zh-CN": "Spirit2",
+							"zh-TW": "Spirit2"
+						}
+					}
+				}
+			],
+			"id": "ACCBDCCF-41DF-993A-87D2-8287556B7991",
+			"label": "ACCBDCCF-41DF-993A-87D2-8287556B7991",
+			"name":
+			{
+				"defaultText": "Mystbloom, V25 Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة أزهار الروح، V25",
+					"de-DE": "Graffiti „Mystblüte, V25“",
+					"en-US": "Mystbloom, V25 Spray",
+					"es-ES": "Grafiti V25 Mystbloom",
+					"es-MX": "Spray V25 // Flora Mística",
+					"fr-FR": "Graffiti Mystyosotis V25",
+					"id-ID": "Spray Mystbloom, V25",
+					"it-IT": "Spray Fiore mistico V25",
+					"ja-JP": "ミストブルーム V25 スプレー",
+					"ko-KR": "미스트블룸, V25 스프레이",
+					"pl-PL": "Graffiti „Skrytokwit, V25”",
+					"pt-BR": "Spray Floretérea V25",
+					"ru-RU": "Граффити \"Таинственный цветок V25\"",
+					"th-TH": "สเปรย์ Mystbloom, V25",
+					"tr-TR": "Sırçiçeği, V25 Spreyi",
+					"vi-VN": "Hình Phun Sơn Mystbloom, V25",
+					"zh-CN": "千灵华绽//2.0 喷漆",
+					"zh-TW": "靈花初綻 V25 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "B5301593-421A-9523-FF99-F7AA3A8842D8",
 					"label": "B5301593-421A-9523-FF99-F7AA3A8842D8",
 					"name":
@@ -330842,6 +333124,35 @@
 			}
 		},
 		{
+			"id": "2C270C5A-4DA2-B120-DF90-EE89F6BFC55F",
+			"label": "2C270C5A-4DA2-B120-DF90-EE89F6BFC55F",
+			"name":
+			{
+				"defaultText": "Mr. Sprinklebottom",
+				"localizedByCulture":
+				{
+					"ar-AE": "السيد كعكي",
+					"de-DE": "Herr Streuselich",
+					"en-US": "Mr. Sprinklebottom",
+					"es-ES": "Sr. Confitísimo",
+					"es-MX": "Sr. Chispitas",
+					"fr-FR": "M. Petit biscuit",
+					"id-ID": "Mr. Sprinklebottom",
+					"it-IT": "Omino pralinato",
+					"ja-JP": "ミスター・スプリンクルボトム",
+					"ko-KR": "스프링클바텀 씨",
+					"pl-PL": "Pan Posypka",
+					"pt-BR": "Sr. Granuladinho",
+					"ru-RU": "Мистер Печенька",
+					"th-TH": "Mr. Sprinklebottom",
+					"tr-TR": "Bay Şekerşort",
+					"vi-VN": "Mr. Sprinklebottom",
+					"zh-CN": "糖饼先生",
+					"zh-TW": "糖霜先生"
+				}
+			}
+		},
+		{
 			"id": "CB4BF100-4590-C564-C805-67BCF98B7BAA",
 			"label": "CB4BF100-4590-C564-C805-67BCF98B7BAA",
 			"name":
@@ -331895,6 +334206,246 @@
 		}
 	],
 	"acts": [
+		{
+			"type": "episode",
+			"id": "3737C391-497A-6E82-AEB5-CC9F701F72E2",
+			"label": "3737C391-497A-6E82-AEB5-CC9F701F72E2",
+			"name":
+			{
+				"defaultText": "V26",
+				"localizedByCulture":
+				{
+					"ar-AE": "V26",
+					"de-DE": "V26",
+					"en-US": "V26",
+					"es-ES": "V26",
+					"es-MX": "V26",
+					"fr-FR": "V26",
+					"id-ID": "V26",
+					"it-IT": "V26",
+					"ja-JP": "V26",
+					"ko-KR": "V26",
+					"pl-PL": "V26",
+					"pt-BR": "V26",
+					"ru-RU": "V26",
+					"th-TH": "V26",
+					"tr-TR": "V26",
+					"vi-VN": "V26",
+					"zh-CN": "V26",
+					"zh-TW": "V26"
+				}
+			}
+		},
+		{
+			"type": "act",
+			"id": "D816F426-48EA-F052-117F-9697A155B319",
+			"label": "D816F426-48EA-F052-117F-9697A155B319",
+			"name":
+			{
+				"defaultText": "ACT VI",
+				"localizedByCulture":
+				{
+					"ar-AE": "المشهد VI",
+					"de-DE": "AKT VI",
+					"en-US": "ACT VI",
+					"es-ES": "ACTO VI",
+					"es-MX": "ACTO VI",
+					"fr-FR": "ACTE VI",
+					"id-ID": "ACT VI",
+					"it-IT": "ATTO VI",
+					"ja-JP": "ACT VI",
+					"ko-KR": "액트 VI",
+					"pl-PL": "AKT VI",
+					"pt-BR": "ATO VI",
+					"ru-RU": "АКТ 6",
+					"th-TH": "ACT VI",
+					"tr-TR": "KISIM 06",
+					"vi-VN": "PHẦN VI",
+					"zh-CN": "第六幕",
+					"zh-TW": "第六章"
+				}
+			}
+		},
+		{
+			"type": "act",
+			"id": "8102CD81-43A0-D0D7-BD59-47B8FE9BED1B",
+			"label": "8102CD81-43A0-D0D7-BD59-47B8FE9BED1B",
+			"name":
+			{
+				"defaultText": "ACT V",
+				"localizedByCulture":
+				{
+					"ar-AE": "المشهد V",
+					"de-DE": "AKT V",
+					"en-US": "ACT V",
+					"es-ES": "ACTO V",
+					"es-MX": "ACTO V",
+					"fr-FR": "ACTE V",
+					"id-ID": "ACT V",
+					"it-IT": "ATTO V",
+					"ja-JP": "ACT V",
+					"ko-KR": "액트 V",
+					"pl-PL": "AKT V",
+					"pt-BR": "ATO V",
+					"ru-RU": "АКТ 5",
+					"th-TH": "ACT V",
+					"tr-TR": "KISIM 05",
+					"vi-VN": "PHẦN V",
+					"zh-CN": "第五幕",
+					"zh-TW": "第五章"
+				}
+			}
+		},
+		{
+			"type": "act",
+			"id": "4F0864E2-40AF-28A4-DE2C-0E9E64E75F23",
+			"label": "4F0864E2-40AF-28A4-DE2C-0E9E64E75F23",
+			"name":
+			{
+				"defaultText": "ACT IV",
+				"localizedByCulture":
+				{
+					"ar-AE": "المشهد IV",
+					"de-DE": "AKT IV",
+					"en-US": "ACT IV",
+					"es-ES": "ACTO IV",
+					"es-MX": "ACTO IV",
+					"fr-FR": "ACTE IV",
+					"id-ID": "ACT IV",
+					"it-IT": "ATTO IV",
+					"ja-JP": "ACT IV",
+					"ko-KR": "액트 IV",
+					"pl-PL": "AKT IV",
+					"pt-BR": "ATO IV",
+					"ru-RU": "АКТ 4",
+					"th-TH": "ACT IV",
+					"tr-TR": "KISIM 04",
+					"vi-VN": "PHẦN IV",
+					"zh-CN": "第四幕",
+					"zh-TW": "第四章"
+				}
+			}
+		},
+		{
+			"type": "episode",
+			"id": "15A01C8A-4637-7B7B-DE7B-9F906719C020",
+			"label": "15A01C8A-4637-7B7B-DE7B-9F906719C020",
+			"name":
+			{
+				"defaultText": "V26",
+				"localizedByCulture":
+				{
+					"ar-AE": "V26",
+					"de-DE": "V26",
+					"en-US": "V26",
+					"es-ES": "V26",
+					"es-MX": "V26",
+					"fr-FR": "V26",
+					"id-ID": "V26",
+					"it-IT": "V26",
+					"ja-JP": "V26",
+					"ko-KR": "V26",
+					"pl-PL": "V26",
+					"pt-BR": "V26",
+					"ru-RU": "V26",
+					"th-TH": "V26",
+					"tr-TR": "V26",
+					"vi-VN": "V26",
+					"zh-CN": "V26",
+					"zh-TW": "V26"
+				}
+			}
+		},
+		{
+			"type": "act",
+			"id": "CE2783E8-44FC-DD48-3DA3-33B5BA6C4A22",
+			"label": "CE2783E8-44FC-DD48-3DA3-33B5BA6C4A22",
+			"name":
+			{
+				"defaultText": "ACT III",
+				"localizedByCulture":
+				{
+					"ar-AE": "المشهد III",
+					"de-DE": "AKT III",
+					"en-US": "ACT III",
+					"es-ES": "ACTO III",
+					"es-MX": "ACTO III",
+					"fr-FR": "ACTE III",
+					"id-ID": "ACT III",
+					"it-IT": "ATTO III",
+					"ja-JP": "ACT III",
+					"ko-KR": "액트 III",
+					"pl-PL": "AKT III",
+					"pt-BR": "ATO III",
+					"ru-RU": "АКТ 3",
+					"th-TH": "ACT III",
+					"tr-TR": "KISIM 03",
+					"vi-VN": "PHẦN III",
+					"zh-CN": "第三幕",
+					"zh-TW": "第三章"
+				}
+			}
+		},
+		{
+			"type": "act",
+			"id": "9D85C932-4820-C060-09C3-668636D4DF1B",
+			"label": "9D85C932-4820-C060-09C3-668636D4DF1B",
+			"name":
+			{
+				"defaultText": "ACT II",
+				"localizedByCulture":
+				{
+					"ar-AE": "المشهد II",
+					"de-DE": "AKT II",
+					"en-US": "ACT II",
+					"es-ES": "ACTO II",
+					"es-MX": "ACTO II",
+					"fr-FR": "ACTE II",
+					"id-ID": "ACT II",
+					"it-IT": "ATTO II",
+					"ja-JP": "ACT II",
+					"ko-KR": "액트 II",
+					"pl-PL": "AKT II",
+					"pt-BR": "ATO II",
+					"ru-RU": "АКТ 2",
+					"th-TH": "ACT II",
+					"tr-TR": "KISIM 02",
+					"vi-VN": "PHẦN II",
+					"zh-CN": "第二幕",
+					"zh-TW": "第二章"
+				}
+			}
+		},
+		{
+			"type": "act",
+			"id": "3EA2B318-423B-CF86-25DA-7CBB0EEFBE2D",
+			"label": "3EA2B318-423B-CF86-25DA-7CBB0EEFBE2D",
+			"name":
+			{
+				"defaultText": "ACT I",
+				"localizedByCulture":
+				{
+					"ar-AE": "المشهد I",
+					"de-DE": "AKT I",
+					"en-US": "ACT I",
+					"es-ES": "ACTO I",
+					"es-MX": "ACTO I",
+					"fr-FR": "ACTE I",
+					"id-ID": "ACT I",
+					"it-IT": "ATTO I",
+					"ja-JP": "ACT I",
+					"ko-KR": "액트 I",
+					"pl-PL": "AKT I",
+					"pt-BR": "ATO I",
+					"ru-RU": "АКТ 1",
+					"th-TH": "ACT I",
+					"tr-TR": "KISIM 01",
+					"vi-VN": "PHẦN I",
+					"zh-CN": "第一幕",
+					"zh-TW": "第一章"
+				}
+			}
+		},
 		{
 			"type": "episode",
 			"id": "C470D964-4BF4-1261-87AA-C484252F2D66",
@@ -333638,15 +336189,15 @@
 					"en-US": "Launch snowballs, open presents, and ice skate in this fast festive 5v5 team deathmatch. No abilities, first to 50 kills wins.",
 					"es-ES": "Lanza bolas de nieve, abre regalos y patina sobre hielo en este frenético y festivo combate a muerte 5 contra 5. Sin habilidades. Gana el primero en conseguir 50 asesinatos.",
 					"es-MX": "Lanza bolas de nieve, abre regalos y patina sobre hielo en este rápido y festivo modo Deathmatch 5v5 en equipo. Sin habilidades. El primero en realizar 50 asesinatos gana.",
-					"fr-FR": "Lancez des boules de neige, ouvrez des cadeaux et faites du patin à glace dans ce combat à mort festif à 5c5. Aucune compétence. Le premier à 50 éliminations remporte la partie.",
+					"fr-FR": "Lancez des boules de neige, ouvrez des cadeaux et faites du patin à glace dans ce combat à mort festif à 5c5. Aucune compétence. La première équipe à 50 éliminations remporte la partie.",
 					"id-ID": "Lempar bola salju, buka hadiah, dan berseluncur es di deathmatch tim 5v5 yang cepat dan meriah ini. Tanpa kemampuan khusus, yang pertama meraih 50 kill jadi pemenang.",
 					"it-IT": "Lancia palle di neve, apri regali e pattina sul ghiaccio in questo rapido deathmatch a squadre 5 vs 5 a tema festivo. Niente abilità, vince chi arriva prima a 50 uccisioni.",
-					"ja-JP": "スケートで滑走し、雪玉を投げ、お楽しみのプレゼントを開ける…これは 5v5 の無慈悲なチームデスマッチ。アビリティーは無し。最もはやく 50 キルを上げたプレイヤーが勝者となる。",
+					"ja-JP": "雪玉を投げ、プレゼントを開けてスケートで駆け抜けよう。アビリティー無しのスピーディーでホリデー気分な5v5 チームデスマッチ。先に50 キルを達成したチームの勝利！",
 					"ko-KR": "빠른 속도로 신나게 진행되는 5대5 팀 데스매치에서 눈덩이를 날리고 선물을 열며 아이스 스케이트를 타세요. 스킬은 사용할 수 없으며 먼저 50킬을 달성하면 승리합니다.",
-					"pl-PL": "Strzelaj śnieżkami, otwieraj prezenty i jeździj na łyżwach w szybkich świątecznych starciach 5 na 5 typu Drużynowy Deathmatch. Żadnych umiejętności – wygrywa pierwsza osoba, która zdobędzie 50 zabójstw.",
+					"pl-PL": "Strzelaj śnieżkami, otwieraj prezenty i jeździj na łyżwach w szybkich świątecznych starciach 5 na 5 typu Drużynowy Deathmatch. Żadnych umiejętności – wygrywa pierwsza drużyna, która zdobędzie 50 zabójstw.",
 					"pt-BR": "Lance bolas de neve, abra presentes e patine no gelo neste mata-mata rápido e festivo de equipes 5x5. Sem habilidades. Vence quem fizer 50 abates primeiro.",
 					"ru-RU": "Бросайте снежки, открывайте подарки и катайтесь на коньках в веселом праздничном режиме – командном \"Бою насмерть\" 5 на 5. Никаких умений – побеждает первая команда с 50 убийствами.",
-					"th-TH": "ยิงลูกบอลหิมะ เปิดของขวัญ และเล่นไอซ์\nสเก็ตกันในเทศกาลเฉลิมฉลองสุดมันส์กับ Team Deathmatch 5v5 ไม่มีการใช้สกิลใด ๆ ทั้งนั้น คนที่ได้แต้มสังหารถึง 50 แต้มก่อนคือผู้ชนะ",
+					"th-TH": "ยิงลูกบอลหิมะ เปิดของขวัญ และเล่นไอซ์\nสเก็ตกันในเทศกาลเฉลิมฉลองสุดมันส์กับ Team Deathmatch 5v5 ไม่มีการใช้สกิลใด ๆ ทั้งนั้น ทีมที่ได้แต้มสังหารถึง 50 แต้มก่อนคือผู้ชนะ",
 					"tr-TR": "Yılbaşı coşkusuyla dolu bu 5'e 5 takımlı Ölüm Kalım Savaşı'nda kartopu fırlat, hediye paketlerini aç ve buz üzerinde patenle kay. Yetenekler yok, 50 skora ilk ulaşan kazanır.",
 					"vi-VN": "Cùng ném cầu tuyết, mở quà tặng và trượt băng trong chế độ sinh tử theo đội 5 đấu 5 tốc độ cao này. Không sử dụng kỹ năng, giành chiến thắng khi đạt 50 điểm hạ gục.",
 					"zh-CN": "在快节奏的5对5小队乱斗中发射雪球、拆礼物和溜冰。无需技能，首先达到50次击败者获胜。",
@@ -333792,54 +336343,54 @@
 		{
 			"description":
 			{
-				"defaultText": "Swiftplay. This temporary queue will only matchmake you on the new map.",
+				"defaultText": "Launch snowballs, open presents, and ice skate in this fast festive 5v5 team deathmatch. No abilities, first to 50 kills wins.",
 				"localizedByCulture":
 				{
-					"ar-AE": "سويفت بلاي. سيجري هذا الطابور الوصل التوافقي فقط على الخريطة الجديدة.",
-					"de-DE": "Schnelles Spiel. Diese temporäre Warteschlange weist dich nur der neuen Karte zu.",
-					"en-US": "Swiftplay. This temporary queue will only matchmake you on the new map.",
-					"es-ES": "Modo rápido. Esta cola temporal solo encontrará partidas en el nuevo mapa.",
-					"es-MX": "Swiftplay. Esta cola temporal solo te emparejará para jugar en el nuevo mapa.",
-					"fr-FR": "Vélocité : Le matchmaking de cette file temporaire ne vous fera jouer que sur la nouvelle carte.",
-					"id-ID": "Swiftplay. Mode sementara ini hanya akan menjalankan matchmaking di map baru.",
-					"it-IT": "Partita rapida. Questa coda temporanea ti consentirà di giocare esclusivamente alla nuova mappa.",
-					"ja-JP": "スイフトプレイ。現在は新マップにのみマッチメイクされる。",
-					"ko-KR": "신속플레이. 이 임시 대기열에서는 신규 맵만 등장합니다.",
-					"pl-PL": "Szybka Gra. Ta tymczasowa kolejka obejmuje tylko nową mapę.",
-					"pt-BR": "Frenético. Esta fila temporária fará você cair sempre no novo mapa.",
-					"ru-RU": "Быстрая игра. После подбора игроков вы присоединитесь к матчу на новой карте.",
-					"th-TH": "Swiftplay คิวชั่วคราวนี้จะจับคู่คุณเพื่อให้เล่นในแผนที่ใหม่เท่านั้น",
-					"tr-TR": "Tam Gaz. Bu geçici sıra, seni sadece yeni haritadaki karşılaşmalara dahil edecek.",
-					"vi-VN": "Siêu Tốc. Hàng chờ tạm thời này sẽ chỉ sử dụng bản đồ mới khi ghép trận.",
-					"zh-CN": "极速模式。此临时匹配队列仅会为你匹配新地图比赛。",
-					"zh-TW": "超速衝點。在這個暫時的列隊中，你只會被分配到新地圖。"
+					"ar-AE": "ارمِ كرات الثلج، وافتح الهدايا، وتزلج على الجليد في نمط مباراة موت الفرق 5v5 السريع البهيج. دون قدرات، والفوز من نصيب أول من يحقق 50 عملية قتل.",
+					"de-DE": "Wirf Schneebälle, packe Geschenke aus und schlittere durch das winterliche Team Deathmatch (5 gegen 5). Keine Fähigkeiten, erstes Team mit 50 Kills gewinnt.",
+					"en-US": "Launch snowballs, open presents, and ice skate in this fast festive 5v5 team deathmatch. No abilities, first to 50 kills wins.",
+					"es-ES": "Lanza bolas de nieve, abre regalos y patina sobre hielo en este frenético y festivo combate a muerte 5 contra 5. Sin habilidades. Gana el primero en conseguir 50 asesinatos.",
+					"es-MX": "Lanza bolas de nieve, abre regalos y patina sobre hielo en este rápido y festivo modo Deathmatch 5v5 en equipo. Sin habilidades. El primero en realizar 50 asesinatos gana.",
+					"fr-FR": "Lancez des boules de neige, ouvrez des cadeaux et faites du patin à glace dans ce combat à mort festif à 5c5. Aucune compétence. La première équipe à 50 éliminations remporte la partie.",
+					"id-ID": "Lempar bola salju, buka hadiah, dan berseluncur es di deathmatch tim 5v5 yang cepat dan meriah ini. Tanpa kemampuan khusus, yang pertama meraih 50 kill jadi pemenang.",
+					"it-IT": "Lancia palle di neve, apri regali e pattina sul ghiaccio in questo rapido deathmatch a squadre 5 vs 5 a tema festivo. Niente abilità, vince chi arriva prima a 50 uccisioni.",
+					"ja-JP": "雪玉を投げ、プレゼントを開けてスケートで駆け抜けよう。アビリティー無しのスピーディーでホリデー気分な5v5 チームデスマッチ。先に50 キルを達成したチームの勝利！",
+					"ko-KR": "빠른 속도로 신나게 진행되는 5대5 팀 데스매치에서 눈덩이를 날리고 선물을 열며 아이스 스케이트를 타세요. 스킬은 사용할 수 없으며 먼저 50킬을 달성하면 승리합니다.",
+					"pl-PL": "Strzelaj śnieżkami, otwieraj prezenty i jeździj na łyżwach w szybkich świątecznych starciach 5 na 5 typu Drużynowy Deathmatch. Żadnych umiejętności – wygrywa pierwsza drużyna, która zdobędzie 50 zabójstw.",
+					"pt-BR": "Lance bolas de neve, abra presentes e patine no gelo neste mata-mata rápido e festivo de equipes 5x5. Sem habilidades. Vence quem fizer 50 abates primeiro.",
+					"ru-RU": "Бросайте снежки, открывайте подарки и катайтесь на коньках в веселом праздничном режиме – командном \"Бою насмерть\" 5 на 5. Никаких умений – побеждает первая команда с 50 убийствами.",
+					"th-TH": "ยิงลูกบอลหิมะ เปิดของขวัญ และเล่นไอซ์\nสเก็ตกันในเทศกาลเฉลิมฉลองสุดมันส์กับ Team Deathmatch 5v5 ไม่มีการใช้สกิลใด ๆ ทั้งนั้น ทีมที่ได้แต้มสังหารถึง 50 แต้มก่อนคือผู้ชนะ",
+					"tr-TR": "Yılbaşı coşkusuyla dolu bu 5'e 5 takımlı Ölüm Kalım Savaşı'nda kartopu fırlat, hediye paketlerini aç ve buz üzerinde patenle kay. Yetenekler yok, 50 skora ilk ulaşan kazanır.",
+					"vi-VN": "Cùng ném cầu tuyết, mở quà tặng và trượt băng trong chế độ sinh tử theo đội 5 đấu 5 tốc độ cao này. Không sử dụng kỹ năng, giành chiến thắng khi đạt 50 điểm hạ gục.",
+					"zh-CN": "在快节奏的5对5小队乱斗中发射雪球、拆礼物和溜冰。无需技能，首先达到50次击败者获胜。",
+					"zh-TW": "在這個快節奏的5對5團隊死鬥模式中，狂丟雪球、打開禮物和暢快溜冰，歡慶冬日吧！不能使用技能，先奪下50殺的隊伍獲勝。"
 				}
 			},
 			"id": "6CA8AA97-413C-241B-8927-D5BD1661C1D4",
 			"label": "6CA8AA97-413C-241B-8927-D5BD1661C1D4",
 			"name":
 			{
-				"defaultText": "Corrode",
+				"defaultText": "Snowball Fight",
 				"localizedByCulture":
 				{
-					"ar-AE": "كورود",
-					"de-DE": "Corrode",
-					"en-US": "Corrode",
-					"es-ES": "Corrode",
-					"es-MX": "Corrode",
-					"fr-FR": "Corrode",
-					"id-ID": "Corrode",
-					"it-IT": "Corrode",
-					"ja-JP": "カロード",
-					"ko-KR": "코로드",
-					"pl-PL": "Corrode",
-					"pt-BR": "Corrode",
-					"ru-RU": "Corrode",
-					"th-TH": "Corrode",
-					"tr-TR": "CORRODE",
-					"vi-VN": "Corrode",
-					"zh-CN": "盐海矿镇",
-					"zh-TW": "晶蝕之地"
+					"ar-AE": "قتال كرات الثلج",
+					"de-DE": "Schneeballschlacht",
+					"en-US": "Snowball Fight",
+					"es-ES": "Pelea de bolas de nieve",
+					"es-MX": "Pelea de Bolas de Nieve",
+					"fr-FR": "Boules de neige",
+					"id-ID": "Snowball Fight",
+					"it-IT": "Battaglia a palle di neve",
+					"ja-JP": "スノーボールファイト",
+					"ko-KR": "눈싸움",
+					"pl-PL": "Bitwa na Śnieżki",
+					"pt-BR": "Batalha Nevada",
+					"ru-RU": "Игра в снежки",
+					"th-TH": "Snowball Fight",
+					"tr-TR": "KARTOPU ÇATIŞMASI",
+					"vi-VN": "Trận Chiến Cầu Tuyết",
+					"zh-CN": "雪球大战",
+					"zh-TW": "打雪仗"
 				}
 			}
 		},
@@ -334170,54 +336721,108 @@
 		{
 			"description":
 			{
-				"defaultText": "Swiftplay. This temporary queue will only matchmake you on the new map.",
+				"defaultText": "Launch snowballs, open presents, and ice skate in this fast festive 5v5 team deathmatch. No abilities, first to 50 kills wins.",
 				"localizedByCulture":
 				{
-					"ar-AE": "سويفت بلاي. سيجري هذا الطابور الوصل التوافقي فقط على الخريطة الجديدة.",
-					"de-DE": "Schnelles Spiel. Diese temporäre Warteschlange weist dich nur der neuen Karte zu.",
-					"en-US": "Swiftplay. This temporary queue will only matchmake you on the new map.",
-					"es-ES": "Modo rápido. Esta cola temporal solo encontrará partidas en el nuevo mapa.",
-					"es-MX": "Swiftplay. Esta cola temporal solo te emparejará para jugar en el nuevo mapa.",
-					"fr-FR": "Vélocité : Le matchmaking de cette file temporaire ne vous fera jouer que sur la nouvelle carte.",
-					"id-ID": "Swiftplay. Mode sementara ini hanya akan menjalankan matchmaking di map baru.",
-					"it-IT": "Partita rapida. Questa coda temporanea ti consentirà di giocare esclusivamente alla nuova mappa.",
-					"ja-JP": "スイフトプレイ。現在は新マップにのみマッチメイクされる。",
-					"ko-KR": "신속플레이. 이 임시 대기열에서는 신규 맵만 등장합니다.",
-					"pl-PL": "Szybka Gra. Ta tymczasowa kolejka obejmuje tylko nową mapę.",
-					"pt-BR": "Frenético. Esta fila temporária fará você cair sempre no novo mapa.",
-					"ru-RU": "Быстрая игра. После подбора игроков вы присоединитесь к матчу на новой карте.",
-					"th-TH": "Swiftplay คิวชั่วคราวนี้จะจับคู่คุณเพื่อให้เล่นในแผนที่ใหม่เท่านั้น",
-					"tr-TR": "Tam Gaz. Bu geçici sıra, seni sadece yeni haritadaki karşılaşmalara dahil edecek.",
-					"vi-VN": "Siêu Tốc. Hàng chờ tạm thời này sẽ chỉ sử dụng bản đồ mới khi ghép trận.",
-					"zh-CN": "极速模式。此临时匹配队列仅会为你匹配新地图比赛。",
-					"zh-TW": "超速衝點。在這個暫時的列隊中，你只會被分配到新地圖。"
+					"ar-AE": "ارمِ كرات الثلج، وافتح الهدايا، وتزلج على الجليد في نمط مباراة موت الفرق 5v5 السريع البهيج. دون قدرات، والفوز من نصيب أول من يحقق 50 عملية قتل.",
+					"de-DE": "Wirf Schneebälle, packe Geschenke aus und schlittere durch das winterliche Team Deathmatch (5 gegen 5). Keine Fähigkeiten, erstes Team mit 50 Kills gewinnt.",
+					"en-US": "Launch snowballs, open presents, and ice skate in this fast festive 5v5 team deathmatch. No abilities, first to 50 kills wins.",
+					"es-ES": "Lanza bolas de nieve, abre regalos y patina sobre hielo en este frenético y festivo combate a muerte 5 contra 5. Sin habilidades. Gana el primero en conseguir 50 asesinatos.",
+					"es-MX": "Lanza bolas de nieve, abre regalos y patina sobre hielo en este rápido y festivo modo Deathmatch 5v5 en equipo. Sin habilidades. El primero en realizar 50 asesinatos gana.",
+					"fr-FR": "Lancez des boules de neige, ouvrez des cadeaux et faites du patin à glace dans ce combat à mort festif à 5c5. Aucune compétence. La première équipe à 50 éliminations remporte la partie.",
+					"id-ID": "Lempar bola salju, buka hadiah, dan berseluncur es di deathmatch tim 5v5 yang cepat dan meriah ini. Tanpa kemampuan khusus, yang pertama meraih 50 kill jadi pemenang.",
+					"it-IT": "Lancia palle di neve, apri regali e pattina sul ghiaccio in questo rapido deathmatch a squadre 5 vs 5 a tema festivo. Niente abilità, vince chi arriva prima a 50 uccisioni.",
+					"ja-JP": "雪玉を投げ、プレゼントを開けてスケートで駆け抜けよう。アビリティー無しのスピーディーでホリデー気分な5v5 チームデスマッチ。先に50 キルを達成したチームの勝利！",
+					"ko-KR": "빠른 속도로 신나게 진행되는 5대5 팀 데스매치에서 눈덩이를 날리고 선물을 열며 아이스 스케이트를 타세요. 스킬은 사용할 수 없으며 먼저 50킬을 달성하면 승리합니다.",
+					"pl-PL": "Strzelaj śnieżkami, otwieraj prezenty i jeździj na łyżwach w szybkich świątecznych starciach 5 na 5 typu Drużynowy Deathmatch. Żadnych umiejętności – wygrywa pierwsza drużyna, która zdobędzie 50 zabójstw.",
+					"pt-BR": "Lance bolas de neve, abra presentes e patine no gelo neste mata-mata rápido e festivo de equipes 5x5. Sem habilidades. Vence quem fizer 50 abates primeiro.",
+					"ru-RU": "Бросайте снежки, открывайте подарки и катайтесь на коньках в веселом праздничном режиме – командном \"Бою насмерть\" 5 на 5. Никаких умений – побеждает первая команда с 50 убийствами.",
+					"th-TH": "ยิงลูกบอลหิมะ เปิดของขวัญ และเล่นไอซ์\nสเก็ตกันในเทศกาลเฉลิมฉลองสุดมันส์กับ Team Deathmatch 5v5 ไม่มีการใช้สกิลใด ๆ ทั้งนั้น ทีมที่ได้แต้มสังหารถึง 50 แต้มก่อนคือผู้ชนะ",
+					"tr-TR": "Yılbaşı coşkusuyla dolu bu 5'e 5 takımlı Ölüm Kalım Savaşı'nda kartopu fırlat, hediye paketlerini aç ve buz üzerinde patenle kay. Yetenekler yok, 50 skora ilk ulaşan kazanır.",
+					"vi-VN": "Cùng ném cầu tuyết, mở quà tặng và trượt băng trong chế độ sinh tử theo đội 5 đấu 5 tốc độ cao này. Không sử dụng kỹ năng, giành chiến thắng khi đạt 50 điểm hạ gục.",
+					"zh-CN": "在快节奏的5对5小队乱斗中发射雪球、拆礼物和溜冰。无需技能，首先达到50次击败者获胜。",
+					"zh-TW": "在這個快節奏的5對5團隊死鬥模式中，狂丟雪球、打開禮物和暢快溜冰，歡慶冬日吧！不能使用技能，先奪下50殺的隊伍獲勝。"
+				}
+			},
+			"id": "1246F886-4376-332D-FCFD-E0A41FF5D9F7",
+			"label": "1246F886-4376-332D-FCFD-E0A41FF5D9F7",
+			"name":
+			{
+				"defaultText": "Snowball Fight",
+				"localizedByCulture":
+				{
+					"ar-AE": "قتال كرات الثلج",
+					"de-DE": "Schneeballschlacht",
+					"en-US": "Snowball Fight",
+					"es-ES": "Pelea de bolas de nieve",
+					"es-MX": "Pelea de Bolas de Nieve",
+					"fr-FR": "Boules de neige",
+					"id-ID": "Snowball Fight",
+					"it-IT": "Battaglia a palle di neve",
+					"ja-JP": "スノーボールファイト",
+					"ko-KR": "눈싸움",
+					"pl-PL": "Bitwa na Śnieżki",
+					"pt-BR": "Batalha Nevada",
+					"ru-RU": "Игра в снежки",
+					"th-TH": "Snowball Fight",
+					"tr-TR": "KARTOPU ÇATIŞMASI",
+					"vi-VN": "Trận Chiến Cầu Tuyết",
+					"zh-CN": "雪球大战",
+					"zh-TW": "打雪仗"
+				}
+			}
+		},
+		{
+			"description":
+			{
+				"defaultText": "Launch snowballs, open presents, and ice skate in this fast festive 5v5 team deathmatch. No abilities, first to 50 kills wins.",
+				"localizedByCulture":
+				{
+					"ar-AE": "ارمِ كرات الثلج، وافتح الهدايا، وتزلج على الجليد في نمط مباراة موت الفرق 5v5 السريع البهيج. دون قدرات، والفوز من نصيب أول من يحقق 50 عملية قتل.",
+					"de-DE": "Wirf Schneebälle, packe Geschenke aus und schlittere durch das winterliche Team Deathmatch (5 gegen 5). Keine Fähigkeiten, erstes Team mit 50 Kills gewinnt.",
+					"en-US": "Launch snowballs, open presents, and ice skate in this fast festive 5v5 team deathmatch. No abilities, first to 50 kills wins.",
+					"es-ES": "Lanza bolas de nieve, abre regalos y patina sobre hielo en este frenético y festivo combate a muerte 5 contra 5. Sin habilidades. Gana el primero en conseguir 50 asesinatos.",
+					"es-MX": "Lanza bolas de nieve, abre regalos y patina sobre hielo en este rápido y festivo modo Deathmatch 5v5 en equipo. Sin habilidades. El primero en realizar 50 asesinatos gana.",
+					"fr-FR": "Lancez des boules de neige, ouvrez des cadeaux et faites du patin à glace dans ce combat à mort festif à 5c5. Aucune compétence. La première équipe à 50 éliminations remporte la partie.",
+					"id-ID": "Lempar bola salju, buka hadiah, dan berseluncur es di deathmatch tim 5v5 yang cepat dan meriah ini. Tanpa kemampuan khusus, yang pertama meraih 50 kill jadi pemenang.",
+					"it-IT": "Lancia palle di neve, apri regali e pattina sul ghiaccio in questo rapido deathmatch a squadre 5 vs 5 a tema festivo. Niente abilità, vince chi arriva prima a 50 uccisioni.",
+					"ja-JP": "雪玉を投げ、プレゼントを開けてスケートで駆け抜けよう。アビリティー無しのスピーディーでホリデー気分な5v5 チームデスマッチ。先に50 キルを達成したチームの勝利！",
+					"ko-KR": "빠른 속도로 신나게 진행되는 5대5 팀 데스매치에서 눈덩이를 날리고 선물을 열며 아이스 스케이트를 타세요. 스킬은 사용할 수 없으며 먼저 50킬을 달성하면 승리합니다.",
+					"pl-PL": "Strzelaj śnieżkami, otwieraj prezenty i jeździj na łyżwach w szybkich świątecznych starciach 5 na 5 typu Drużynowy Deathmatch. Żadnych umiejętności – wygrywa pierwsza drużyna, która zdobędzie 50 zabójstw.",
+					"pt-BR": "Lance bolas de neve, abra presentes e patine no gelo neste mata-mata rápido e festivo de equipes 5x5. Sem habilidades. Vence quem fizer 50 abates primeiro.",
+					"ru-RU": "Бросайте снежки, открывайте подарки и катайтесь на коньках в веселом праздничном режиме – командном \"Бою насмерть\" 5 на 5. Никаких умений – побеждает первая команда с 50 убийствами.",
+					"th-TH": "ยิงลูกบอลหิมะ เปิดของขวัญ และเล่นไอซ์\nสเก็ตกันในเทศกาลเฉลิมฉลองสุดมันส์กับ Team Deathmatch 5v5 ไม่มีการใช้สกิลใด ๆ ทั้งนั้น ทีมที่ได้แต้มสังหารถึง 50 แต้มก่อนคือผู้ชนะ",
+					"tr-TR": "Yılbaşı coşkusuyla dolu bu 5'e 5 takımlı Ölüm Kalım Savaşı'nda kartopu fırlat, hediye paketlerini aç ve buz üzerinde patenle kay. Yetenekler yok, 50 skora ilk ulaşan kazanır.",
+					"vi-VN": "Cùng ném cầu tuyết, mở quà tặng và trượt băng trong chế độ sinh tử theo đội 5 đấu 5 tốc độ cao này. Không sử dụng kỹ năng, giành chiến thắng khi đạt 50 điểm hạ gục.",
+					"zh-CN": "在快节奏的5对5小队乱斗中发射雪球、拆礼物和溜冰。无需技能，首先达到50次击败者获胜。",
+					"zh-TW": "在這個快節奏的5對5團隊死鬥模式中，狂丟雪球、打開禮物和暢快溜冰，歡慶冬日吧！不能使用技能，先奪下50殺的隊伍獲勝。"
 				}
 			},
 			"id": "D17FE9FD-4E3D-62C9-D49C-C1ACD35FCB12",
 			"label": "D17FE9FD-4E3D-62C9-D49C-C1ACD35FCB12",
 			"name":
 			{
-				"defaultText": "Corrode",
+				"defaultText": "Snowball Fight",
 				"localizedByCulture":
 				{
-					"ar-AE": "كورود",
-					"de-DE": "Corrode",
-					"en-US": "Corrode",
-					"es-ES": "Corrode",
-					"es-MX": "Corrode",
-					"fr-FR": "Corrode",
-					"id-ID": "Corrode",
-					"it-IT": "Corrode",
-					"ja-JP": "カロード",
-					"ko-KR": "코로드",
-					"pl-PL": "Corrode",
-					"pt-BR": "Corrode",
-					"ru-RU": "Corrode",
-					"th-TH": "Corrode",
-					"tr-TR": "CORRODE",
-					"vi-VN": "Corrode",
-					"zh-CN": "盐海矿镇",
-					"zh-TW": "晶蝕之地"
+					"ar-AE": "قتال كرات الثلج",
+					"de-DE": "Schneeballschlacht",
+					"en-US": "Snowball Fight",
+					"es-ES": "Pelea de bolas de nieve",
+					"es-MX": "Pelea de Bolas de Nieve",
+					"fr-FR": "Boules de neige",
+					"id-ID": "Snowball Fight",
+					"it-IT": "Battaglia a palle di neve",
+					"ja-JP": "スノーボールファイト",
+					"ko-KR": "눈싸움",
+					"pl-PL": "Bitwa na Śnieżki",
+					"pt-BR": "Batalha Nevada",
+					"ru-RU": "Игра в снежки",
+					"th-TH": "Snowball Fight",
+					"tr-TR": "KARTOPU ÇATIŞMASI",
+					"vi-VN": "Trận Chiến Cầu Tuyết",
+					"zh-CN": "雪球大战",
+					"zh-TW": "打雪仗"
 				}
 			}
 		},
