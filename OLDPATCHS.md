@@ -6,6 +6,18 @@ This document list all patchs from previous seasons added to this repository. Fo
 ## List of all patchs added so far
 The date in front of each patch represents the date when the patch was pushed to this repository, not the date when it was released by Riot Games. Here's a list of all patchs included in this repository so far (current major season or season excluded) :
 
+- (December 2nd, 2025) 11.11
+- (November 11th, 2025) 11.10
+- (October 28th, 2025) 11.09
+- (October 14th, 2025) 11.08
+- (October 7th, 2025) 11.07b
+- (September 30th, 2025) 11.07
+- (September 17th, 2025) 11.06
+- (September 3rd, 2025) 11.05
+- (September 3rd, 2025) 11.04
+- (July 29th, 2025) 11.02
+- (June 24th, 2025) 11.00
+
 - (June 10th, 2025) 10.11
 - (May 28th, 2025) 10.10
 - (May 13th, 2025) 10.09
@@ -109,6 +121,8 @@ The date in front of each patch represents the date when the patch was pushed to
 ### Missing patchs
 Some patchs wasn't added to this repository for various reasons :
 
+- 11.03 : Patch hasn't been released by Riot
+- 11.01 : [Patch skipped by Riot Games](https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-11-01/) to prepare the game engine switch in patch 11.02 (UE4 to UE5)
 - 8.06 : _Data Dragon_ never released by Riot Games for this patch
 - 7.11 : patch never released by Riot Games on live servers
 - 6.09 : _Data Dragon_ never released by Riot Games for this patch
