@@ -1,5 +1,5 @@
 {
-	"version": "12.01.00.4184208",
+	"version": "12.02.00.4226954",
 	"characters": [
 		{
 			"description":
@@ -423,7 +423,7 @@
 							"es-ES": "EQUIPA un Acechador. DISPARA para lanzarlo hacia adelante. MANTÉN PULSADO DISPARAR para dirigir al Acechador en la dirección de la mira. El Acechador seguirá al primer enemigo o rastro que vea y reducirá el campo de visión del enemigo al impactar.",
 							"es-MX": "EQUIPA una acechadora. DISPARA para enviar a la acechadora hacia adelante. MANTÉN PRESIONADO EL DISPARO para guiar a la acechadora hacia tu retícula. La acechadora perseguirá al primer enemigo o rastro de terror que vea y ofuscará al enemigo al impactar.",
 							"fr-FR": "ÉQUIPEZ-vous d'un rôdeur. TIREZ pour lancer le rôdeur devant vous. MAINTENEZ LE TIR pour guider le rôdeur dans la direction de votre réticule. Le rôdeur pourchasse le premier ennemi ou suit la première piste de terreur qu'il voit. S'il atteint un ennemi, il le rend myope.",
-							"id-ID": "EQUIP pemburu musuh. Tekan FIRE untuk melempar pemburu ke depan. Tekan HOLD FIRE untuk mengarahkan benda tersebut ke arah crosshair. Pemburu akan mengejar musuh atau Terror Trail pertama yang dilihatnya, lalu memberikan utilitas Nearsight pada musuh yang dikenainya.",
+							"id-ID": "EQUIP pemburu musuh. Tekan FIRE untuk melempar pemburu ke depan, HOLD FIRE untuk mengarahkan benda tersebut ke arah crosshair. Pemburu akan mengejar musuh atau Terror Trail pertama yang dilihatnya, lalu memberikan utilitas Nearsight pada musuh yang dikenainya.",
 							"it-IT": "EQUIPAGGIA un predatore. Usa il FUOCO per mandare il predatore in avanti. TIENI PREMUTO il FUOCO per far virare il predatore verso il tuo reticolo. Non appena un nemico o una scia di terrore entrano nella visuale del predatore, questo li insegue, ANNEBBIANDO il bersaglio all'impatto.",
 							"ja-JP": "プラウラーを呼び出す。「発射」でプラウラーを前方へ送り出す。「発射長押し」でプラウラーをクロスヘアの方へ方向転換させる。プラウラーは最初に見つけた敵またはテラートレイル（恐怖の爪痕）を追い、接触した敵の視界を悪化させる。",
 							"ko-KR": "추적귀를 장착합니다. 발사하면 전방으로 추적귀를 내보냅니다. 발사 버튼을 길게 누르면 추적귀를 조준점 방향으로 움직일 수 있습니다. 추적귀는 처음으로 본 적이나 공포의 흔적을 추적하며, 닿으면 적의 시야를 제한합니다.",
@@ -642,7 +642,7 @@
 							"es-ES": "EQUIPA una bomba sísmica. MANTÉN PULSADO DISPARAR para aumentar la distancia. SUELTA para liberar un seísmo que conmocionará a todos los jugadores dentro de la zona y en una línea hasta ella.",
 							"es-MX": "EQUIPA una Carga Sísmica. MANTÉN PRESIONADO EL DISPARO para aumentar la distancia. SUELTA para iniciar el temblor y conmocionar a todos los jugadores que estén en su alcance.",
 							"fr-FR": "ÉQUIPEZ-vous d'un explosif sismique. MAINTENEZ LE TIR pour augmenter la distance. RELÂCHEZ pour provoquer un séisme qui désoriente tous les joueurs dans la zone et sur une ligne menant à la zone.",
-							"id-ID": "EQUIP Ledakan Seismik. Tekan HOLD FIRE untuk menambah jarak. LEPAS untuk memulai gempa, terapkan Concuss pada semua pemain dalam zonanya dan dalam jalur menuju zona tersebut.",
+							"id-ID": "EQUIP Ledakan Seismik. HOLD FIRE untuk menambah jarak. LEPAS untuk memulai gempa, terapkan Concuss pada semua pemain dalam zonanya dan dalam jalur menuju zona tersebut.",
 							"it-IT": "EQUIPAGGIA una Carica Sismica. TIENI PREMUTO il FUOCO per aumentare la distanza. RILASCIA per innescare il terremoto, STORDENDO tutti i giocatori nel raggio d'azione e in linea retta fino all'epicentro.",
 							"ja-JP": "大地を揺るがす強力な衝撃波を構える。「発射長押し」で飛距離を伸ばすことができる。発射すると揺れが発生し、範囲内および範囲に至る直線上のすべてのプレイヤーをスタン状態にする。",
 							"ko-KR": "지진파를 장착합니다. 발사를 길게 누르면 사거리가 늘어납니다. 버튼을 떼면 지진파를 날려 경로상에 있는 적과 대상 범위 내의 모든 적에게 뇌진탕을 일으킵니다.",
@@ -703,7 +703,7 @@
 							"pl-PL": "WYPOSAŻ ładunek fuzyjny. STRZEL, by wypuścić powolny ładunek przez ścianę. Zada on duże obrażenia każdemu, kto znajdzie się na obszarze jego działania.",
 							"pt-BR": "EQUIPE uma carga de fusão. DISPARE a carga para armar um jato de ação lenta pela parede, que causa alto dano a todos que estiverem na área de efeito.",
 							"ru-RU": "Выбирает взрывной заряд. Нажмите кнопку ОГОНЬ, чтобы запустить заряд через стену и создать взрыв на другой стороне. Взрыв наносит серьезный урон всем, кто попадает в зону поражения.",
-							"th-TH": "ติดตั้ง Fusion Charge กดยิงเพื่อปล่อยระเบิดที่\nจะหน่วงเวลาในการยิงทะลุผ่านกำแพง ระเบิดจะ\nสร้างความเสียหายอันรุนแรงแก่ผู้เล่นที่อยู่ในพื้นที่นั้น",
+							"th-TH": "ติดตั้ง Fusion Charge กดยิงเพื่อปล่อยระเบิดที่จะหน่วงเวลาในการยิงทะลุผ่านกำแพง ระเบิดจะสร้างความเสียหายอันรุนแรงแก่ผู้เล่นที่อยู่ในพื้นที่นั้น",
 							"tr-TR": "Termonükleer bir yük KUŞAN. Duvarın içinden geçtikten sonra zamanla gerçekleşen patlamalar için ATEŞ ET. Patlayan yük, etki alanında kalan herkese ağır hasar verir.",
 							"vi-VN": "TRANG BỊ 1 đạn nhiệt hạch. BẮN để phóng 1 viên đạn nổ chậm xuyên qua tường. Khi phát nổ sẽ gây sát thương lớn lên bất cứ ai trong phạm vi ảnh hưởng.",
 							"zh-CN": "装备聚变炸药。按【射击】即可透过墙壁引发一次延时生效的爆破。该冲击会对作用范围内的所有人造成严重伤害。",
@@ -2280,7 +2280,7 @@
 							"es-ES": "EQUIPA un amuleto de halcón. DISPARA para lanzarlo hacia adelante. MANTÉN PULSADO DISPARAR para guiar al halcón en la dirección de la mira. VUELVE A ACTIVAR la habilidad cuando el halcón esté en el aire para transformarlo en un destello cegador. La ceguera alcanza su máxima potencia tras un breve periodo de tiempo durante el vuelo del halcón.",
 							"es-MX": "EQUIPA un artefacto de halcón. DISPARA para enviarlo hacia adelante. MANTÉN PRESIONADO EL DISPARO para guiar al halcón en la dirección de tu retícula. VUELVE A USAR mientras el halcón está en vuelo para transformarlo en un destello. El destello alcanza su máxima potencia tras un breve periodo de tiempo durante el vuelo del halcón.",
 							"fr-FR": "ÉQUIPEZ-vous d'une breloque Faucon. TIREZ pour lancer l'oiseau devant vous. MAINTENEZ LE TIR pour guider le faucon dans la direction de votre réticule. RÉUTILISEZ la compétence pendant que le faucon est dans les airs pour le transformer en lumière. La lumière atteint son intensité maximale après une courte durée de vol.",
-							"id-ID": "EQUIP hiasan elang. Tekan FIRE untuk menerbangkannya ke depan. Tekan HOLD FIRE untuk memandu elang ke arah crosshair. GUNAKAN LAGI saat elang terbang untuk mengubahnya menjadi kilat. Kilat mencapai potensi maksimum setelah durasi singkat selama elang terbang.",
+							"id-ID": "EQUIP hiasan elang. Tekan FIRE untuk menerbangkannya ke depan, HOLD FIRE untuk memandu elang ke arah crosshair. GUNAKAN LAGI saat elang terbang untuk mengubahnya menjadi kilat. Kilat mencapai potensi maksimum setelah durasi singkat selama elang terbang.",
 							"it-IT": "EQUIPAGGIA un falco cristallizzato. Usa il FUOCO per mandarlo in missione. TIENI PREMUTO IL FUOCO per guidare il falco nella direzione del tuo reticolo. ATTIVA DI NUOVO l'abilità mentre il falco è in volo per trasformarlo in un lampo accecante. Il lampo raggiunge la potenza massima qualche istante dopo che il falco ha preso il volo.",
 							"ja-JP": "鷹のトリンケットを構え、「発射」で鷹を前方に放つ。「発射長押し」でクロスヘアの方向に鷹を動かす。飛行中に「再使用」することで、鷹を閃光に変身させる。閃光は、鷹が短時間飛行したあと最大効果に達する。",
 							"ko-KR": "매 장신구를 장착합니다. 발사하면 매를 전방으로 날립니다. 발사를 길게 누르면 조준점 방향으로 매를 유도합니다. 비행 중에 다시 사용하면 매가 섬광으로 변합니다. 섬광은 매가 날아가고 잠시 후 가장 강력해집니다.",
@@ -2334,7 +2334,7 @@
 							"es-ES": "EQUIPA un amuleto de curación. MANTÉN PULSADO para canalizar la habilidad, que cura a los aliados que estén dentro del alcance y del campo de visión. Se puede volver a utilizar hasta que se quede sin curación disponible. Skye no se puede curar a sí misma.",
 							"es-MX": "EQUIPA un artefacto de curación. MANTÉN PRESIONADO EL DISPARO para canalizar, lo que cura aliados dentro del alcance y campo visual. Se puede reutilizar hasta que se agote la energía de curación. Skye no puede curarse a sí misma.",
 							"fr-FR": "ÉQUIPEZ-vous d'une breloque de soin. MAINTENEZ LE TIR pour effectuer une canalisation qui soigne les alliés à portée et dans la ligne de mire. Peut être réutilisé jusqu'à épuisement de la capacité de soin. Skye ne peut pas se soigner.",
-							"id-ID": "EQUIP hiasan untuk heal. Tekan HOLD FIRE untuk channeling, Heal sekutu dalam jangkauan dan garis pandang. Bisa digunakan lagi sampai cadangan heal habis. Skye tidak bisa heal dirinya sendiri.",
+							"id-ID": "EQUIP hiasan untuk heal. HOLD FIRE untuk channeling, Heal sekutu dalam jangkauan dan garis pandang. Bisa digunakan lagi sampai cadangan heal habis. Skye tidak bisa heal dirinya sendiri.",
 							"it-IT": "EQUIPAGGIA un cristallo di guarigione. TIENI PREMUTO il FUOCO per entrare in una canalizzazione e CURARE gli alleati a portata e nel campo visivo. Riutilizzabile finché non esaurisce la carica di guarigione. Skye non può guarirsi da sola.",
 							"ja-JP": "ヒーリングトリンケットを構える。「発射長押し」で詠唱を行い、可視範囲内にいる味方を回復する。回復可能量を使い切るまで再使用できる。自分自身を回復することはできない。",
 							"ko-KR": "회복 장신구를 장착합니다. 발사를 길게 누르면 정신 집중하며 범위 내에서 모습이 보이는 아군들을 회복시킵니다. 회복 에너지가 바닥날 때까지 재사용할 수 있습니다. 스카이 자신이 회복할 수는 없습니다.",
@@ -2772,7 +2772,7 @@
 							"es-ES": "EQUIPA un arco con una flecha explosiva. DISPARA para lanzar la flecha explosiva hacia delante. Explotará cuando impacte e infligirá daño a los enemigos cercanos. MANTÉN PULSADO para ampliar su alcance. Utiliza el DISPARO ALTERNATIVO para añadir hasta dos rebotes a la flecha.",
 							"es-MX": "EQUIPA un arco con un proyectil eléctrico. DISPARA para lanzarlo. El proyectil detonará al impactar y dañará a los jugadores cercanos. MANTÉN PRESIONADO EL DISPARO para aumentar el alcance del proyectil. Usa el DISPARO SECUNDARIO para que la flecha rebote hasta dos veces.",
 							"fr-FR": "ÉQUIPEZ-vous d'un arc et d'une flèche électrique. TIREZ pour décocher la flèche, qui explose à l'impact et blesse les joueurs proches. MAINTENEZ LE TIR pour augmenter la portée du projectile. Utilisez le TIR SECONDAIRE pour ajouter jusqu'à deux rebonds à cette flèche.",
-							"id-ID": "EQUIP busur dan shock bolt. Tekan FIRE untuk mengirim ledakan petir yang terdetonasi saat menabrak, ledakan tersebut memberikan damage pada pemain di sekitar. Tekan HOLD FIRE untuk memperluas jangkauan proyektil dan ALT FIRE untuk menambahkan maksimal dua pantulan pada anak panah ini.",
+							"id-ID": "EQUIP busur dan shock bolt. Tekan FIRE untuk mengirim ledakan petir yang terdetonasi saat menabrak, ledakan tersebut memberikan damage pada pemain di sekitar. HOLD FIRE untuk memperluas jangkauan proyektil dan ALT FIRE untuk menambahkan maksimal dua pantulan pada anak panah ini.",
 							"it-IT": "EQUIPAGGIA un arco con una freccia elettrica. Usa il FUOCO per scoccare il dardo che esplode al contatto, danneggiando i giocatori vicini. TIENI PREMUTO il FUOCO per estendere la gittata della freccia. Usa il FUOCO ALTERNATIVO per aggiungere fino a due rimbalzi a questa freccia.",
 							"ja-JP": "弓を構え、ショックボルトをつがえる。「発射」でショックボルトを前方に射出する。この矢は着弾すると爆発し、周囲のプレイヤーにダメージを与える。「発射長押し」で矢をより遠くに射ることができる。「オルト射撃」でこの矢を最大 2 回までバウンド可能にする。",
 							"ko-KR": "충격 화살과 활을 장착합니다. 발사하면 충돌 시 폭발해 주변 플레이어에게 피해를 입히는 화살을 전방에 쏩니다. 발사를 길게 누르면 화살의 사거리가 늘어납니다. 보조 공격 시 화살이 최대 두 번 더 튕깁니다.",
@@ -2826,7 +2826,7 @@
 							"es-ES": "EQUIPA un arco con un proyectil de reconocimiento. Se activará cuando impacte y revelará la posición de los enemigos que se encuentren en la línea de visión del proyectil. El proyectil puede ser destruido. MANTÉN PULSADO para ampliar su alcance. Utiliza el DISPARO ALTERNATIVO para añadir hasta dos rebotes a la flecha. ",
 							"es-MX": "EQUIPA un arco con un proyectil rastreador. DISPARA para lanzarlo. El proyectil se activará al impactar y revelará la ubicación de los enemigos cercanos que estén dentro de su alcance de visión. Los enemigos pueden destruir este proyectil. MANTÉN PRESIONADO EL DISPARO para aumentar el alcance del proyectil. Usa el DISPARO SECUNDARIO para que la flecha rebote hasta dos veces. ",
 							"fr-FR": "ÉQUIPEZ-vous d'un arc et d'une flèche de reconnaissance. TIREZ pour décocher la flèche, qui s'active à l'impact et révèle la position des ennemis proches se trouvant dans sa ligne de vue. Les ennemis peuvent détruire cette flèche. MAINTENEZ LE TIR pour augmenter la portée du projectile. Utilisez le TIR SECONDAIRE pour ajouter jusqu'à deux rebonds à cette flèche. ",
-							"id-ID": "EQUIP busur dan recon bolt. Tekan FIRE untuk menembakkan bolt ke depan, yang akan aktif saat menabrak dan mengungkap lokasi musuh selama di garis pandang bolt. Musuh bisa menghancurkan bolt ini. Tekan HOLD FIRE untuk menambahkan maksimal dua pantulan pada anak panah ini.",
+							"id-ID": "EQUIP busur dan recon bolt. Tekan FIRE untuk menembakkan bolt ke depan, yang akan aktif saat menabrak dan mengungkap lokasi musuh selama di garis pandang bolt. Musuh bisa menghancurkan bolt ini. HOLD FIRE untuk menambahkan maksimal dua pantulan pada anak panah ini.",
 							"it-IT": "EQUIPAGGIA un arco con una freccia sonar. Usa il FUOCO per scoccare la freccia sonar, che si attiva al contatto e RIVELA la posizione dei nemici entro il suo raggio visivo. I nemici possono distruggere la freccia. TIENI PREMUTO il FUOCO per estendere la gittata della freccia. Usa il FUOCO ALTERNATIVO per aggiungere fino a due rimbalzi a questa freccia. ",
 							"ja-JP": "弓を構え、リコンボルトをつがえる。「発射」でリコンボルトを前方に射出する。この矢は着弾すると起動し、矢の場所から視線が通る周囲のすべての敵の位置を特定する。敵はこのボルトを破壊可能。「発射長押し」で射程距離を伸ばすことができ、「オルト射撃」でこの矢を最大 2 回までバウンド可能にする。 ",
 							"ko-KR": "정찰 화살과 활을 장착합니다. 발사하면 정찰 화살을 전방에 쏘아 화살이 꽂힌 곳을 기준으로 모습이 드러난 주변 적의 위치를 표시합니다. 적이 이 화살을 파괴할 수 있습니다. 발사를 길게 누르면 화살의 사거리가 늘어납니다. 보조 공격 시 화살이 최대 두 번 더 튕깁니다.",
@@ -3198,27 +3198,27 @@
 				{
 					"description":
 					{
-						"defaultText": "EQUIP a Turret. FIRE to deploy a turret that fires at enemies in a 100 degree cone. ALT FIRE to swap turret direction. HOLD EQUIP to recall the deployed turret. ",
+						"defaultText": "EQUIP a Turret. FIRE to deploy a turret that fires at enemies in a 100 degree cone. ALT FIRE to swap turret direction. HOLD EQUIP to recall the deployed turret.",
 						"localizedByCulture":
 						{
-							"ar-AE": "تجهز بمدفع رشاش. أطلق لنشر مدفع رشاش يطلق النار على الأعداء ضمن مخروط بزاوية 100. استخدم الإطلاق البديل لتبديل اتجاه المدفع الرشاش. تابع الضغط على زر التجهز لسحب المدفع الرشاش المنصوب. ",
-							"de-DE": "RÜSTE einen Geschützturm AUS. FEUERE, um einen Geschützturm aufzustellen, der in einem 100-Grad-Kegel auf Gegner schießt. ALT. FEUERMODUS, um Geschützturmrichtung zu ändern. HALTE AUSRÜSTEN GEDRÜCKT, um den aufgestellten Geschützturm zurückzurufen. ",
-							"en-US": "EQUIP a Turret. FIRE to deploy a turret that fires at enemies in a 100 degree cone. ALT FIRE to swap turret direction. HOLD EQUIP to recall the deployed turret. ",
-							"es-ES": "EQUIPA una torreta. DISPARA para desplegar una torreta que ataca a los enemigos en un cono de 100 grados. Utiliza el DISPARO ALTERNATIVO para cambiar la dirección de la torreta. MANTÉN PULSADO EQUIPAR para recoger la torreta desplegada. ",
-							"es-MX": "EQUIPA una torreta. DISPARA para desplegar una torreta que les dispara a los enemigos cercanos en un cono de 100 grados. Usa el DISPARO SECUNDARIO para cambiar la dirección de la torreta. MANTÉN PRESIONADO EQUIPAR para recuperar una torreta desplegada. ",
-							"fr-FR": "ÉQUIPEZ-vous d'une tourelle. TIREZ pour déployer une tourelle qui tire sur les ennemis dans un cône de 100 degrés. Utilisez le TIR SECONDAIRE pour changer l'orientation de la tourelle. MAINTENEZ LA TOUCHE D'ÉQUIPEMENT pour rappeler la tourelle déployée. ",
-							"id-ID": "EQUIP Turret. Tekan FIRE untuk mengerahkan turret yang dapat menembak musuh dalam sudut 100 derajat. Tekan ALT FIRE untuk mengganti arah turret. Tekan TAHAN GUNAKAN untuk memanggil kembali turet yang dikerahkan.",
-							"it-IT": "EQUIPAGGIA una Torretta. Usa il FUOCO per piazzare una Torretta che apre il fuoco contro tutti i nemici che entrano nel suo cono visivo da 100°. Usa il FUOCO ALTERNATIVO per cambiare la direzione della Torretta. TIENI PREMUTO EQUIPAGGIA per richiamare la Torretta piazzata. ",
+							"ar-AE": "تجهز بمدفع رشاش. أطلق لنشر مدفع رشاش يطلق النار على الأعداء ضمن مخروط بزاوية 100. استخدم الإطلاق البديل لتبديل اتجاه المدفع الرشاش. تابع الضغط على زر التجهز لسحب المدفع الرشاش المنصوب.",
+							"de-DE": "RÜSTE einen Geschützturm AUS. FEUERE, um einen Geschützturm aufzustellen, der in einem 100-Grad-Kegel auf Gegner schießt. ALT. FEUERMODUS, um Geschützturmrichtung zu ändern. HALTE AUSRÜSTEN GEDRÜCKT, um den aufgestellten Geschützturm zurückzurufen.",
+							"en-US": "EQUIP a Turret. FIRE to deploy a turret that fires at enemies in a 100 degree cone. ALT FIRE to swap turret direction. HOLD EQUIP to recall the deployed turret.",
+							"es-ES": "EQUIPA una torreta. DISPARA para desplegar una torreta que ataca a los enemigos en un cono de 100 grados. Utiliza el DISPARO ALTERNATIVO para cambiar la dirección de la torreta. MANTÉN PULSADO EQUIPAR para recoger la torreta desplegada.",
+							"es-MX": "EQUIPA una torreta. DISPARA para desplegar una torreta que les dispara a los enemigos cercanos en un cono de 100 grados. Al apuntar, vuelve a EQUIPAR para cambiar la dirección de la torreta y MANTÉN el DISPARO SECUNDARIO para rotarla. MANTÉN PRESIONADO EQUIPAR para recuperar una torreta desplegada.",
+							"fr-FR": "ÉQUIPEZ-vous d'une tourelle. TIREZ pour déployer une tourelle qui tire sur les ennemis dans un cône de 100 degrés. Utilisez le TIR SECONDAIRE pour changer l'orientation de la tourelle. MAINTENEZ LA TOUCHE D'ÉQUIPEMENT pour rappeler la tourelle déployée.",
+							"id-ID": "EQUIP Turret. TEKAN FIRE untuk mengerahkan turret yang menembak musuh dalam sudut kerucut 100 derajat. Tekan ALT FIRE untuk mengganti arah turret. Tekan TAHAN EQUIP untuk memanggil kembali turet yang dikerahkan.",
+							"it-IT": "EQUIPAGGIA una Torretta. Usa il FUOCO per piazzare una Torretta che apre il fuoco contro tutti i nemici che entrano nel suo cono visivo da 100°. Usa il FUOCO ALTERNATIVO per cambiare la direzione della Torretta. TIENI PREMUTO EQUIPAGGIA per richiamare la Torretta piazzata.",
 							"ja-JP": "タレットを構え、「発射」で設置する。タレットは100度の扇状範囲内にいる敵を攻撃する。「オルト射撃」でタレットの向きを変える。長押しで設置したタレットを呼び戻せる。",
 							"ko-KR": "포탑을 장착합니다. 발사하면 100도 범위에 있는 적을 공격하는 포탑을 배치합니다. 보조 공격 시 포탑의 방향을 바꿉니다. 장착을 길게 누르면 배치된 포탑을 회수합니다.",
-							"pl-PL": "WYPOSAŻ działko. STRZEL, by wypuścić działko, które automatycznie ostrzeliwuje wrogów w promieniu 100 stopni. Naciśnij ALT. STRZAŁ, by zmienić kierunek działka. PRZYTRZYMAJ przycisk WYPOSAŻENIA, by odwołać wypuszczone działko. ",
-							"pt-BR": "EQUIPE uma Torreta. DISPARE para ativar uma torreta que atira em inimigos em um cone de 100°. Use o DISPARO ALTERNATIVO para alterar a direção da torreta. SEGURE EQUIPAR para retirar a torreta ativada. ",
-							"ru-RU": "Выбирает турель. Нажмите кнопку ОГОНЬ, чтобы установить турель, которая автоматически отслеживает противников в 100-градусном секторе. Нажмите кнопку АЛЬТ. ОГОНЬ, чтобы изменить направление турели. Удерживайте кнопку умения, чтобы отозвать турель. ",
-							"th-TH": "ติดตั้ง Turret กดยิงเพื่อปล่อยป้อมปืนที่จะยิงศัตรูในรูปกรวย 100 องศา กดโหมดยิงเสริมเพื่อสลับทิศทางของป้อมปืน กดปุ่มติดตั้งค้างไว้เพื่อเรียกป้อมปืนที่ถูกส่งออกไปกลับมา ",
-							"tr-TR": "Bir taret KUŞAN. 100 derecelik bir koni içindeki düşmanlara ateş eden bir taret yerleştirmek için ATEŞ ET. Taretin yönünü değiştirmek için ALT ATIŞ kullan. Yerleştirdiğin tareti kaldırmak için KUŞANMA DÜĞMESİNİ BASILI TUT. ",
-							"vi-VN": "TRANG BỊ 1 ụ súng. BẮN để đặt 1 ụ súng có khả năng bắn đối thủ trong phạm vi hình nón với góc 100 độ. BẮN PHỤ để đổi hướng ụ súng. GIỮ TRANG BỊ để gọi ụ súng về. ",
+							"pl-PL": "WYPOSAŻ działko. STRZEL, by wypuścić działko, które automatycznie ostrzeliwuje wrogów w promieniu 100 stopni. Naciśnij ALT. STRZAŁ, by zmienić kierunek działka. PRZYTRZYMAJ przycisk WYPOSAŻENIA, by odwołać wypuszczone działko.",
+							"pt-BR": "EQUIPE uma Torreta. DISPARE para ativar uma torreta que atira em inimigos em um cone de 100°. Use o DISPARO ALTERNATIVO para alterar a direção da torreta. SEGURE EQUIPAR para retirar a torreta ativada.",
+							"ru-RU": "   Выбирает турель. Нажмите кнопку ОГОНЬ, чтобы установить турель, которая автоматически отслеживает противников в 100-градусном секторе. Нажмите кнопку АЛЬТ. ОГОНЬ, чтобы изменить направление турели. Удерживайте кнопку умения, чтобы отозвать турель.",
+							"th-TH": "ติดตั้ง Turret กดยิงเพื่อปล่อยป้อมปืนที่จะยิงศัตรูในรูปกรวย 100 องศา กดโหมดยิงเสริมเพื่อสลับทิศทางของป้อมปืน กดปุ่มติดตั้งค้างเพื่อเรียกป้อมปืนที่ถูกส่งออกไปกลับมา",
+							"tr-TR": "Bir taret KUŞAN. 100 derecelik bir koni içindeki düşmanlara ateş eden bir taret yerleştirmek için ATEŞ ET. Taretin yönünü değiştirmek için ALT ATIŞ kullan. Yerleştirdiğin tareti kaldırmak için KUŞANMA DÜĞMESİNİ BASILI TUT.",
+							"vi-VN": "TRANG BỊ 1 ụ súng. BẮN để đặt 1 ụ súng có khả năng bắn đối thủ trong phạm vi hình nón với góc 100 độ. BẮN PHỤ để đổi hướng ụ súng. GIỮ TRANG BỊ để gọi ụ súng về.",
 							"zh-CN": "装备炮台，按【射击】即可部署，向100度范围内的敌人开火。按【辅助射击】可转换炮台方向。按住【装备】可召回已部署的炮台。",
-							"zh-TW": "裝備一座砲塔。點擊「攻擊」，即可部署該砲塔，對100度扇形範圍內的敵人開火。點擊「輔助攻擊」，則可調整砲塔方向。長按「裝備」即可召回已部署的砲塔。 "
+							"zh-TW": "裝備一座砲塔。點擊「攻擊」，即可部署該砲塔，對100度扇形範圍內的敵人開火。點擊「輔助攻擊」，則可調整砲塔方向。長按「裝備」即可召回已部署的砲塔。"
 						}
 					},
 					"label": "1E58DE9C-4950-5125-93E9-A0AEE9F98746_Ability2",
@@ -3268,7 +3268,7 @@
 							"pl-PL": "WYPOSAŻ urządzenie blokujące. STRZEL, by wypuścić urządzenie. Po dłuższej chwili urządzenie zatrzymuje wszystkich wrogów w promieniu swojego działania. Urządzenie może zostać zniszczone przez przeciwników.",
 							"pt-BR": "EQUIPE o dispositivo de Confinamento. DISPARE para ativá-lo. Após um longo processo de ativação, o dispositivo detém todos os inimigos no raio de alcance. O dispositivo pode ser destruído pelos inimigos.",
 							"ru-RU": "Выбирает генератор поля блокировки. Нажмите кнопку ОГОНЬ, чтобы установить генератор. Задерживает всех противников, находящихся в радиусе действия. Противники могут вывести генератор из строя.",
-							"th-TH": "ติดตั้งอุปกรณ์ Lockdown กดยิงเพื่อปล่อย\nอุปกรณ์ หลังจากเปิดใช้งานไว้สักพัก อุปกรณ์\nจะควบคุมศัตรูทุกตัวที่อยู่ในรัศมี ศัตรูสามารถ\nทำลายอุปกรณ์ได้",
+							"th-TH": "ติดตั้งอุปกรณ์ Lockdown กดยิงเพื่อปล่อยอุปกรณ์ หลังจากเปิดใช้งานไว้สักพักอุปกรณ์จะควบคุมศัตรูทุกตัวที่อยู่ในรัศมี ศัตรูสามารถทำลายอุปกรณ์ได้",
 							"tr-TR": "Tecrit cihazını KUŞAN. Cihazı yerleştirmek için ATEŞ ET. Uzun bir hazırlık süresinin ardından cihazın etki alanında kalan düşmanların hepsi Alıkoyulur. Bu cihaz düşmanlar tarafından yok edilebilir.",
 							"vi-VN": "TRANG BỊ thiết bị Cầm Chân. BẮN để sử dụng thiết bị. Sau một khoảng thời gian chờ dài, thiết bị sẽ Giam Cầm tất cả kẻ địch trong phạm vi. Thiết bị có thể bị phá hủy bởi kẻ địch.",
 							"zh-CN": "装备封锁装置。按【射击】进行部署。在长时间的启动后，束缚有效半径内的所有敌人。该装置可被敌人摧毁。",
@@ -3417,27 +3417,27 @@
 				{
 					"description":
 					{
-						"defaultText": "EQUIP Storm Surge. FIRE to throw, creating an explosive whirlpool that Slows and Nearsights enemies within it after a short duration.",
+						"defaultText": "EQUIP Storm Surge. FIRE to throw, creating an explosive whirlpool that Slows and Nearsights players within it after a short duration.",
 						"localizedByCulture":
 						{
-							"ar-AE": "تجهّز بموجة عاصفة. أطلق لرمي وإنشاء دوامة متفجرة تسبب الإبطاء وضعف البصر للأعداء في داخلها بعد مدة قصيرة.",
-							"de-DE": "RÜSTE „Sturmschwall“ AUS. FEUERE, um ihn zu werfen und einen explosiven Strudel zu erschaffen, der Gegner, die sich in ihm befinden, nach kurzer Zeit verlangsamt und ihre Sicht einschränkt.",
-							"en-US": "EQUIP Storm Surge. FIRE to throw, creating an explosive whirlpool that Slows and Nearsights enemies within it after a short duration.",
-							"es-ES": "EQUIPA Descarga tormentosa. DISPARA para lanzar, lo que crea un remolino explosivo que ralentiza y limita la visión de los enemigos en su interior tras un breve periodo de tiempo.",
-							"es-MX": "EQUIPA un Remolino Ciclónico. DISPARA para lanzar un remolino explosivo que ralentiza y ofusca temporalmente a los enemigos que se encuentran dentro de él tras un tiempo breve.",
-							"fr-FR": "ÉQUIPEZ-vous de Tempête déferlante. TIREZ pour lancer et créer un tourbillon explosif qui rend myopes et ralentit les ennemis qui se trouvent à l'intérieur après un court instant.",
-							"id-ID": "EQUIP Storm Surge. Tekan FIRE untuk melempar, menciptakan pusaran air eksplosif yang menerapkan Slow dan Nearsight pada musuh di dalamnya setelah beberapa saat.",
-							"it-IT": "EQUIPAGGIA Impeto tempestoso. Usa il FUOCO per lanciarlo, creando un turbine esplosivo che RALLENTA e ANNEBBIA i nemici al suo interno dopo un breve ritardo.",
-							"ja-JP": "ストームサージを構える。「発射」で投げ、短時間の後に爆発を引き起こして中に入った敵をスロウ状態にし、視界を悪化させる渦を発生させる。",
-							"ko-KR": "폭풍 쇄도를 장착합니다. 발사하면 던져서 폭발하는 소용돌이를 생성합니다. 소용돌이는 짧은 시간 이후 내부의 적을 둔화시키고 시야를 제한합니다.",
-							"pl-PL": "WYPOSAŻ Burzowe Przepięcie. STRZEL, aby rzucić, tworząc wybuchowy wir, który po chwili nakłada na znajdujących się w środku przeciwników spowolnienie i krótkowzroczność.",
-							"pt-BR": "EQUIPE um Temporal. DISPARE para lançar, criando um redemoinho explosivo que causa Lentidão e Visão Turva nos inimigos dentro dele após um curto período.",
-							"ru-RU": "Выбирает \"Водоворот\". Нажмите ОГОНЬ для броска, чтобы создать взрывную воронку, которая замедляет и ограничивает обзор противников вскоре после того, как те оказались в ее пределах.",
-							"th-TH": "ติดตั้ง Storm Surge กดยิงเพื่อขว้าง และสร้างน้ำวนระเบิดที่ทำให้ศัตรูที่อยู่ภายในติดสถานะถูกจำกัดการมองเห็นและ\r\nสโลว์หลังจากผ่านไประยะเวลาสั้น ๆ",
-							"tr-TR": "Fırtına Akını'nı KUŞAN. Fırlatmak için ATEŞ ET ve kısa bir sürenin ardından içindeki düşmanları Yavaşlatan ve onların Görüşlerini Kısıtlayan patlayıcı bir girdap oluştur.",
-							"vi-VN": "TRANG BỊ Bão Tố Nổi Dậy. BẮN để ném, tạo ra một xoáy nước phát nổ khiến kẻ địch đứng bên trong bị Làm Chậm và Hạn Chế Tầm Nhìn sau một khoảng thời gian ngắn.",
-							"zh-CN": "装备乱涌。按【射击】向前投掷，制造一股具有强大破坏力的漩流，短时间后使漩流内的敌人受到【减速】和【视野收缩】。",
-							"zh-TW": "裝備「驚濤湧浪」。點擊「攻擊」投出，製造一道爆炸性的漩渦，敵軍置身其中一小段時間後會遭到緩速和限制視野。"
+							"ar-AE": "تجهّز بموجة عاصفة. أطلق لرمي وإنشاء دوامة متفجرة تسبب الإبطاء وضعف البصر للاعبين في داخلها بعد مدة قصيرة.",
+							"de-DE": "RÜSTE „Sturmschwall“ AUS. FEUERE, um ihn zu werfen und einen explosiven Strudel zu erschaffen, der Spieler, die sich in ihm befinden, nach kurzer Zeit verlangsamt und ihre Sicht einschränkt.",
+							"en-US": "EQUIP Storm Surge. FIRE to throw, creating an explosive whirlpool that Slows and Nearsights players within it after a short duration.",
+							"es-ES": "EQUIPA Descarga tormentosa. DISPARA para lanzar, lo que crea un remolino explosivo que ralentiza y limita la visión de los jugadores en su interior tras un breve periodo de tiempo.",
+							"es-MX": "EQUIPA un Remolino Ciclónico. DISPARA para lanzar un remolino explosivo que ralentiza y ofusca temporalmente a los jugadores que se encuentran dentro de él tras un tiempo breve.",
+							"fr-FR": "ÉQUIPEZ-vous de Tempête déferlante. TIREZ pour lancer et créer un tourbillon explosif qui rend myopes et ralentit les joueurs qui se trouvent à l'intérieur après un court instant.",
+							"id-ID": "EQUIP Storm Surge. Tekan FIRE untuk melempar, menciptakan pusaran air eksplosif yang menerapkan Slow dan Nearsight pada pemain di dalamnya setelah beberapa saat.",
+							"it-IT": "EQUIPAGGIA Impeto tempestoso. Usa il FUOCO per lanciarlo, creando un turbine esplosivo che RALLENTA e ANNEBBIA i giocatori al suo interno dopo un breve ritardo.",
+							"ja-JP": "ストームサージを構える。「発射」で投げ、短時間の後に爆発を引き起こして中に入ったプレイヤーをスロウ状態にし、視界を悪化させる渦を発生させる。",
+							"ko-KR": "폭풍 쇄도를 장착합니다. 발사하면 던져서 폭발하는 소용돌이를 생성합니다. 소용돌이는 짧은 시간 이후 내부의 플레이어를 둔화시키고 시야를 제한합니다.",
+							"pl-PL": "WYPOSAŻ Burzowe Przepięcie. STRZEL, aby rzucić, tworząc wybuchowy wir, który po chwili nakłada na znajdujących się w środku graczy spowolnienie i krótkowzroczność.",
+							"pt-BR": "EQUIPE um Temporal. DISPARE para lançar, criando um redemoinho explosivo que causa Lentidão e Visão Turva aos jogadores dentro dele após um curto período.",
+							"ru-RU": "\nВыбирает \"Водоворот\". Нажмите ОГОНЬ для броска, чтобы создать взрывную воронку, которая замедляет и ограничивает обзор игроков вскоре после того, как те оказались в ее пределах.",
+							"th-TH": "ติดตั้ง Storm Surge กดยิงเพื่อขว้าง และสร้างน้ำวนระเบิดที่ทำให้ผู้เล่นที่อยู่ภายในติดสถานะถูกจำกัดการมองเห็นและสโลว์หลังจากผ่านไประยะเวลาสั้น ๆ",
+							"tr-TR": "Fırtına Akını'nı KUŞAN. Fırlatmak için ATEŞ ET ve kısa bir sürenin ardından içindeki oyuncuları Yavaşlatan ve onların Görüşlerini Kısıtlayan patlayıcı bir girdap oluştur.",
+							"vi-VN": "TRANG BỊ Bão Tố Nổi Dậy. BẮN để ném, tạo ra một xoáy nước phát nổ khiến người chơi đứng bên trong bị Làm Chậm và Hạn Chế Tầm Nhìn sau một khoảng thời gian ngắn.",
+							"zh-CN": "装备乱涌。按【射击】向前投掷，制造一股具有强大破坏力的漩流，短时间后使漩流内的玩家受到【减速】和【视野收缩】。",
+							"zh-TW": "裝備「驚濤湧浪」。點擊「攻擊」投出，製造一道爆炸性的漩渦，玩家置身其中一小段時間後會遭到緩速和限制視野。"
 						}
 					},
 					"label": "95B78ED7-4637-86D9-7E41-71BA8C293152_Grenade",
@@ -3538,7 +3538,7 @@
 							"it-IT": "EQUIPAGGIA la Resa dei conti. Usa il FUOCO per scatenare tutto il potere del tuo manufatto, liberando un cavallone che avanza ANNEBBIANDO e RALLENTANDO i nemici che investe.",
 							"ja-JP": "レコニングを構える。「発射」で遺物の力を解き放ち、前方に進む水の奔流を発生させる。当たった敵は視界悪化とスロウ状態を受ける。",
 							"ko-KR": "심판을 장착합니다. 발사하면 유물의 모든 힘을 해방해, 물의 파도를 방출합니다. 물의 파도는 앞으로 나아가며 맞은 적의 시야를 제한하고 둔화시킵니다.",
-							"pl-PL": "WYPOSAŻ Rozrachunek. STRZEL, aby użyć pełni mocy swego artefaktu, uwalniając wodę pędzącą w przód, by nałożyć na trafionych przeciwników efekty krótkowzroczności i spowolnienia.",
+							"pl-PL": "WYPOSAŻ Rozrachunek. STRZEL, aby użyć pełni mocy swego artefaktu, uwalniając wodę pędzącą w przód, która nakłada na trafionych przeciwników efekty krótkowzroczności i spowolnienia.",
 							"pt-BR": "EQUIPE Acerto de Contas. DISPARE para liberar todo o poder do seu artefato, lançando uma onda que avança em direção aos inimigos, causando Visão Turva e Lentidão nos inimigos atingidos.",
 							"ru-RU": "Выбирает \"Расчет курса\". Нажмите ОГОНЬ, чтобы высвободить мощь артефакта и направить в сторону врагов поток воды, который замедляет и ограничивает обзор пораженных противников.",
 							"th-TH": "ติดตั้ง Reckoning กดยิงเพื่อปลดปล่อยพลังของวัตถุโบราณอย่างเต็มรูปแบบ และส่งคลื่นน้ำพุ่งไปข้างหน้าเพื่อทำให้ศัตรูที่โดนติดสถานะถูกจำกัดการมองเห็นและสโลว์",
@@ -4245,7 +4245,7 @@
 							"es-ES": "EQUIPA una pared de llamas. DISPARA para crear una línea de llamas que avanza hacia adelante atravesando los obstáculos del terreno, lo que forma una pared de fuego que bloquea la visión e inflige daño a los jugadores enemigos que la atraviesen. El muro de fuego cura a Phoenix, en lugar de infligirle daño. MANTÉN PULSADO DISPARAR para curvar la pared en la dirección de la mira.",
 							"es-MX": "EQUIPA un muro de fuego. DISPARA para crear una hilera de llamas que avanza, traspasando todo y creando un muro que bloquea la visión y daña a los jugadores que lo atraviesan. El muro de fuego cura a Phoenix en vez de infligirle daño. MANTÉN PRESIONADO EL DISPARO para mover el muro en la dirección de tu retícula.",
 							"fr-FR": "ÉQUIPEZ-vous d'un mur de feu. TIREZ pour créer une ligne de feu qui se déplace vers l'avant et à travers les obstacles, créant un mur de feu qui bloque la vision et blesse les joueurs qui le traversent. Le mur de feu soigne Phoenix au lieu de lui infliger des dégâts. MAINTENEZ LE TIR pour courber le mur dans la direction de votre réticule.",
-							"id-ID": "EQUIP dinding api. Tekan FIRE untuk membuat garis api yang bergerak maju. Garis api ini menembus bangunan dan menciptakan dinding api yang menghalangi pandangan, juga memberikan damage pada pemain yang melewatinya. Dinding api akan memberi heal, bukan damage, ke Phoenix. Tekan HOLD FIRE untuk membelokkan dinding sesuai arah crosshair.",
+							"id-ID": "EQUIP dinding api. Tekan FIRE untuk membuat garis api yang bergerak maju. Garis api ini menembus bangunan dan menciptakan dinding api yang menghalangi pandangan, juga memberikan damage pada pemain yang melewatinya. Dinding api akan memberi heal, bukan damage, ke Phoenix. HOLD FIRE untuk membelokkan dinding sesuai arah crosshair.",
 							"it-IT": "EQUIPAGGIA un muro di fiamme. Usa il FUOCO per generare una linea di fiamme che avanza e attraversa il mondo, innalzando un muro di fuoco che blocca la visuale e danneggia i giocatori che lo attraversano. Il muro di fuoco cura Phoenix invece di danneggiarlo. TIENI PREMUTO IL FUOCO per piegare il muro nella direzione del tuo reticolo.",
 							"ja-JP": "炎の壁を用意する。「発射」で前方に向かって一直線に炎を放ち、地形を貫通して炎の壁を作り出す。この炎の壁は視線を遮ると共に、通り抜けたすべてのプレイヤーにダメージを与える。炎の壁はフェニックスにダメージを与える代わりに回復させる。「発射長押し」でクロスヘアの方向に壁をねじ曲げる。",
 							"ko-KR": "화염 장벽을 장착합니다. 발사하면 앞으로 이동하는 여러 개의 화염을 일렬로 생성합니다. 화염은 지형을 통과하며 시야를 차단하고 통과하는 플레이어에게 피해를 입히는 화염 장벽을 생성합니다. 피닉스가 화염 구역에 들어가면 체력을 회복합니다. 발사를 길게 누르면 조준점 방향으로 장벽 궤적을 바꿉니다.",
@@ -4580,7 +4580,7 @@
 							"pt-BR": "EQUIPE o Interceptador. DISPARE para posicionar o Interceptador no local determinado. Depois de posicionado, REPITA para ativar. Uma vez ativado, ele destruirá qualquer utilitário que REBATERIA em um jogador e/ou que seria destruído naturalmente por tiros. Inimigos podem destruir o Interceptador.",
 							"ru-RU": "Выбирает перехватчик. Нажмите ОГОНЬ, чтобы разместить перехватчик в выбранной точке. При повторном применении умения перехватчик активируется. После активации он уничтожает любое устройство, которое отскочило бы от агента и/или могло бы быть уничтожено выстрелами. Враги могут уничтожить перехватчик.",
 							"th-TH": "ติดตั้ง Interceptor กดยิงเพื่อวาง Interceptor ไว้ในตำแหน่งที่แสดง หลังจากวางแล้ว ให้ใช้งานอีกครั้งเพื่อเปิดใช้งาน หลังจากเปิดใช้งานแล้ว จะทำลายสกิลที่จะกระเด้งออกจากผู้เล่นและ/หรือถูกยิงทำลายได้ ศัตรูสามารถทำลาย Interceptor ได้",
-							"tr-TR": "Tehditsavar'ı KUŞAN. Tehditsavar'ı belirlenen konuma yerleştirmek için ATEŞ ET. Yerleştirdikten sonra etkinleştirmek için TEKRAR KULLAN. Etkin hâldeki Tehditsavar bir oyuncudan SEKEBİLEN veya silahla yok edilebilen bütün yetenekleri yok eder. Düşmanlar Tehditsavar'ı yok edebilir.",
+							"tr-TR": "Tehditsavar'ı KUŞAN. Tehditsavar'ı belirlenen konuma yerleştirmek için ATEŞ ET. Yerleştirdikten sonra etkinleştirmek için TEKRAR KULLAN. Etkin haldeki Tehditsavar bir oyuncudan SEKEBİLEN veya silahla yok edilebilen bütün yetenekleri yok eder. Düşmanlar Tehditsavar'ı yok edebilir.",
 							"vi-VN": "TRANG BỊ Mảnh Đánh Chặn. BẮN để đặt Mảnh Đánh Chặn tại địa điểm chỉ định. Sau khi đặt, TÁI SỬ DỤNG để kích hoạt. Sau khi kích hoạt, mảnh dị thể này sẽ phá hủy mọi tiện ích có thể NẢY khỏi người chơi hoặc bị phá hủy do trúng đạn. Kẻ địch có thể phá hủy Mảnh Đánh Chặn.",
 							"zh-CN": "装备噬源体。按【射击】将其部署至目标位置。部署后，【再次使用】技能即可激活。激活后，噬源体将摧毁一切能从玩家身上弹开或被枪火自然摧毁的装置。 噬源体可被敌人摧毁。 ",
 							"zh-TW": "裝備攔截器。點擊「攻擊」可將攔截器放置於指定地點。放置後，「重施技能」即可啟用。啟用後，它會摧毀任何會從玩家身上反彈和/或可被槍火摧毀的戰略工具。敵軍可破壞攔截器。"
@@ -5233,7 +5233,7 @@
 							"pl-PL": "WYPOSAŻ wyrzutnię granatów zapalających. STRZEL, by wystrzelić granat, który po zatrzymaniu się na ziemi wybucha, tworząc tymczasowy ognisty obszar zadający obrażenia znajdującym się na nim przeciwnikom.",
 							"pt-BR": "EQUIPE um lançador de granadas incendiárias. DISPARE para lançar uma granada que detona no chão, gerando uma zona de fogo que causa dano aos jogadores dentro dela.",
 							"ru-RU": "Выбирает зажигательный гранатомет. Нажмите кнопку ОГОНЬ, чтобы запустить гранату, которая падает и взрывается после остановки, образуя горящую область, в которой все игроки получают урон.",
-							"th-TH": "ติดตั้งเครื่องยิงระเบิดเพลิง กดยิงเพื่อปล่อย\nระเบิดที่จะระเบิดเมื่อตกสู่พื้น ก่อให้เกิดเปลว\nไฟที่จะสร้างความเสียหายแก่ผู้เล่นที่อยู่ในบริเวณนั้น",
+							"th-TH": "ติดตั้งเครื่องยิงระเบิดเพลิง กดยิงเพื่อปล่อยระเบิดที่จะระเบิดเมื่อตกสู่พื้น ก่อให้เกิดเปลวไฟที่จะสร้างความเสียหายแก่ผู้เล่นที่อยู่ในบริเวณนั้น",
 							"tr-TR": "Bir yangın bombası atar KUŞAN. Yerde durduğu anda infilak eden bir bomba fırlatmak için ATEŞ ET. Yerde bir süre kalan alev bölgesi, içindeki oyunculara hasar verir.",
 							"vi-VN": "Brim sử dụng súng phóng lựu để bắn ra một lựu đạn lửa. BẮN để phóng lựu đạn theo hướng chỉ định, khi lựu đạn chạm đất sẽ phát nổ và tạo ra một vùng lửa gây sát thương lên cho bất kỳ ai bước qua.",
 							"zh-CN": "装备燃烧弹发射器。按【射击】发射一枚榴弹，在落地停稳后引爆，生成一片持续燃烧的区域，对进入其中的玩家造成伤害。",
@@ -5729,7 +5729,7 @@
 							"tr-TR": "Clove'un öldürdüğü veya hasar vererek asist aldığı düşmanlardan yaşam enerjisi çekerek hız ve geçici can kazanmak için ETKİNLEŞTİR.",
 							"vi-VN": "KÍCH HOẠT để hấp thụ sinh lực của một kẻ địch đã hi sinh khi bị Clove gây sát thương hoặc hạ gục, được tăng tốc và nhận máu tạm thời.",
 							"zh-CN": "激活后，从被暮蝶击败或助攻的敌人身上吸收生命能量，获得加速和临时生命值。",
-							"zh-TW": "按下「啟動」可吸收珂樂芙擊殺或助攻之陣亡對手的生命能量，獲得加速與暫時生命。"
+							"zh-TW": "按下「啟動」可吸收珂樂芙擊殺或助攻之陣亡對手的生命能量，獲得加速與暫時生命值。"
 						}
 					},
 					"label": "1DBF2EDD-4729-0984-3115-DAA5EED44993_Grenade",
@@ -7074,27 +7074,27 @@
 				{
 					"description":
 					{
-						"defaultText": "Soul Harvest: Enemies that die to Reyna, or die within 3 seconds of taking damage from Reyna, leave behind Soul Orbs that last 3 seconds.\r\nDevour: INSTANTLY consume a nearby soul orb, rapidly Healing. If EMPRESS is active, this skill will automatically cast and not consume the Soul Orb.",
+						"defaultText": "Soul Harvest: Enemies that die within 3 seconds of taking damage from Reyna leave behind Soul Orbs that last 3 seconds.\r\nDevour: INSTANTLY consume a soul orb, rapidly gaining Temporary Health. If EMPRESS is active then Devour automatically casts, does not consume the Soul Orb, and Healing is permanent.",
 						"localizedByCulture":
 						{
-							"ar-AE": "حصد الأرواح: يؤدي قتل الأعداء على يد ريينا أو موتهم خلال 3 ثوانٍ من تلقي الضرر على يدها إلى ترك كرات روح وراءهم تدوم لمدة 3 ثوان.\n\nالافتراس: استهلك بصورة فورية كرة روح قريبة كي تحصل على علاج سريع. إن كانت قدرة الإمبراطورة مُفعّلة، يتم إلقاء هذه المهارة تلقائيًا من دون استهلاك كرة الروح.",
-							"de-DE": "Seelenernte: Tötet Reyna Gegner oder sterben sie binnen 3 Sekunden, nachdem sie von Reyna Schaden erlitten haben, lassen sie für 3 Sekunden Seelenkugeln zurück.\n\nVerzehren: Verbraucht SOFORT eine Seelenkugel in der Nähe, wodurch sie sich schnell heilt. Ist „KAISERIN“ aktiv, wird die Fähigkeit automatisch gewirkt und verbraucht keine Seelenkugel.",
-							"en-US": "Soul Harvest: Enemies that die to Reyna, or die within 3 seconds of taking damage from Reyna, leave behind Soul Orbs that last 3 seconds.\r\nDevour: INSTANTLY consume a nearby soul orb, rapidly Healing. If EMPRESS is active, this skill will automatically cast and not consume the Soul Orb.",
-							"es-ES": "Cosecha de almas: Los enemigos asesinados por Reyna o que mueran en los 3 segundos siguientes a recibir daño de Reyna dejan tras de sí orbes de alma que duran 3 segundos.\n\nDevorar: Consume INSTANTÁNEAMENTE un orbe de alma cercano y se cura rápidamente. Si EMPERATRIZ está activa, esta habilidad se lanzará de forma automática y no consumirá el orbe.",
-							"es-MX": "Cosecha de Almas: Los enemigos eliminados por Reyna o que hayan muerto 3 seg después de recibir daño de Reyna, dejan orbes de almas que duran 3 seg.\n\nDevorar: Consume AL INSTANTE un orbe de almas cercano y se cura rápidamente. Si LA EMPERATRIZ está activa, esta habilidad se lanzará de forma automática y no consumirá el orbe de almas.",
-							"fr-FR": "Récolte des âmes : les ennemis tués par Reyna ou qui meurent dans les 3 sec après qu'elle les a blessés laissent des orbes d'âme qui durent 3 sec.\n\nDévoration : vous consommez INSTANTANÉMENT un orbe d'âme proche pour rapidement regagner des PV. Si IMPÉRATRICE est active, cette compétence se lancera automatiquement et ne consommera pas d'orbe d'âme.",
-							"id-ID": "Soul Harvest: Musuh yang dibunuh oleh Reyna atau mati dalam 3 detik setelah menerima damage dari Reyna, meninggalkan Soul Orb yang bertahan 3 detik. Devour: SEKETIKA mengonsumsi soul orb terdekat untuk mendapatkan Heal dengan cepat. Jika EMPRESS aktif, kemampuan ini digunakan secara otomatis dan Soul Orb tidak dikonsumsi.",
-							"it-IT": "Mietitura di anime: quando un nemico danneggiato da Reyna negli ultimi 3 secondi muore, lascia una sfera dell'anima che dura 3 secondi.\n\nDivorare: consumi ALL'ISTANTE una sfera dell'anima nelle vicinanze, curandoti rapidamente. Se IMPERATRICE è attiva, questa abilità verrà lanciata automaticamente senza consumare la sfera dell'anima.",
-							"ja-JP": "ソウルハーベスト:レイナに倒されるか、レイナからダメージを受けて 3 秒以内にデスした敵は、3 秒間持続するソウルオーブを残す。\n\nデバウアー:付近にあるソウルオーブを 1 つ消費し、急速に回復する。「エンプレス」の発動中はこのスキルが自動的に使用される。その際、ソウルオーブは消費しない。",
-							"ko-KR": "영혼 수확: 레이나가 처치하거나 레이나에게 피해를 입고 3초 이내에 죽은 적은 3초 동안 유지되는 영혼 구슬을 남깁니다.\r\n포식: 즉시 근처에 있는 영혼 구슬을 흡수하여 순식간에 체력을 회복합니다. 여제 활성화 시 이 스킬이 자동으로 사용되며 영혼 구슬을 흡수하지 않습니다.",
-							"pl-PL": "Żniwa Duszy: Wrogowie zabici przez Reynę lub ci, którzy zginęli w ciągu 3 sekund od otrzymania obrażeń od Reyny, zostawiają po sobie pozostające na ziemi przez 3 sekundy Kule Duszy.\n\nPożarcie: NATYCHMIAST pochłoń pobliską Kulę Duszy, która zapewni szybkie leczenie. Jeśli CESARZOWA jest aktywna, umiejętność ta zostanie użyta automatycznie i nie pochłonie Kuli Duszy.",
-							"pt-BR": "Colheita de Almas: inimigos abatidos por Reyna ou abatidos até 3 segundos após sofrerem dano da Reyna deixam Orbes de Alma que duram 3s.\n\nDevorar: INSTANTANEAMENTE consome um Orbe de Alma próximo, curando-se de forma rápida. Se IMPERATRIZ estiver ativa, esta habilidade será conjurada automaticamente e não consumirá o Orbe de Alma.",
-							"ru-RU": "Сбор душ: когда Reyna убивает противника или когда противник умирает в течение 3 секунд после получения урона от нее, на 3 секунды появляется сфера души.\n\nПоглощение: мгновенно поглощает находящуюся поблизости сферу души и быстро восполняет здоровье. Используется автоматически и не поглощает сферу во время действия абсолютного умения.",
-							"th-TH": "Soul Harvest: ศัตรูที่ถูก Reyna ฆ่า หรือตายภายใน 3 วินาทีหลังได้รับความเสียหายจาก Reyna จะทิ้ง Soul Orb ที่คงอยู่เป็นเวลา 3 วินาที\n\nDevour: ใช้ Soul Orb ที่อยู่ใกล้เคียงในทันที และฮีลอย่างรวดเร็ว หาก EMPRESS ทำงานอยู่ สกิลนี้จะร่ายโดยอัตโนมัติและไม่ใช้ Soul Orb",
-							"tr-TR": "Ruh Hasadı: Reyna'nın öldürdüğü veya Reyna'dan hasar aldıktan sonra 3 saniye içinde ölen düşmanlar, arkalarında 3 saniyeliğine Ruh Küreleri bırakır.\n\nSömür: ANINDA yakınlardaki bir Ruh Küresi'ni tüket ve hızla İyileş. İMPARATORİÇE etkinse yetenek otomatik olarak kullanılır ve Ruh Küresi harcamaz.",
-							"vi-VN": "Tụ Linh: Kẻ địch bị hạ gục bởi Reyna, hoặc đã nhận sát thương từ Reyna trong vòng 3 giây trước khi bị tiêu diệt sẽ để lại một Linh Ngọc trong 3 giây.\n\nNuốt Chửng: LẬP TỨC hấp thụ một linh ngọc ở gần để Hồi Máu siêu tốc. Nếu NỮ HOÀNG đang kích hoạt, kỹ năng này sẽ được tự động thi triển và không hấp thụ Linh Ngọc.",
-							"zh-CN": "狩魂：被芮娜造成伤害的3秒内被击败的敌人将留下魂珠，持续3秒。\r\n噬尽：立即吞噬邻近的一颗魂珠并迅速获得【治疗】。在【女皇旨令】激活时，此技能将自动施放且不会消耗魂珠。",
-							"zh-TW": "靈魂收割：被蕾娜擊殺或被蕾娜傷害後3秒內陣亡的敵人，會留下一個維持3秒鐘的魂體。\n\n生靈吞噬：立即消耗一個附近的魂體，快速回復生命。若已在女皇狀態下，此技能會自動施放並且不消耗魂體。"
+							"ar-AE": "حصد الروح: يؤدي موت الأعداء خلال 3 ثوانٍ من تلقي الضرر على يد ريينا إلى ترك كرات روح وراءهم تدوم لمدة 3 ثوان.\r\nالافتراس: تستهلك بصورة فورية كرة روح كي تكسب بسرعة صحة مؤقتة. إن كانت قدرة الإمبراطورة مُفعّلة، يتم إلقاء الافتراس تلقائيًا من دون استهلاك كرة الروح ويصبح العلاج دائمًا.",
+							"de-DE": "Seelenernte: Gegner, die binnen 3 Sekunden sterben, nachdem sie von Reyna Schaden erlitten haben, lassen für 3 Sekunden Seelenkugeln zurück.\r\nVerzehren: Verbraucht SOFORT eine Seelenkugel, wodurch sie schnell temporäres Leben erhält. Ist „KAISERIN“ aktiv, wird „Verzehren“ automatisch gewirkt und keine Seelenkugel verbraucht. Die Heilung ist dauerhaft.",
+							"en-US": "Soul Harvest: Enemies that die within 3 seconds of taking damage from Reyna leave behind Soul Orbs that last 3 seconds.\r\nDevour: INSTANTLY consume a soul orb, rapidly gaining Temporary Health. If EMPRESS is active then Devour automatically casts, does not consume the Soul Orb, and Healing is permanent.",
+							"es-ES": "Cosecha de almas: Los enemigos asesinados que mueran en los 3 segundos siguientes a recibir daño de Reyna dejan tras de sí orbes de alma que duran 3 segundos.\r\nDevorar: Consume INSTANTÁNEAMENTE un orbe de alma, lo que otorga vida temporal rápidamente. Si EMPERATRIZ está activa, Devorar se lanzará de forma automática, no consumirá el orbe de alma y la curación será permanente.",
+							"es-MX": "Cosecha de Almas: Los enemigos que hayan muerto 3 seg después de recibir daño de Reyna, dejan orbes de almas que duran 3 seg.\r\nDevorar: Consume AL INSTANTE un orbe de alma y gana Vida Temporal rápidamente. Si LA EMPERATRIZ está activa, Devorar se lanzará de forma automática, no consumirá el orbe de almas y la curación recibida será permanente.",
+							"fr-FR": "Récolte des âmes : les ennemis qui meurent dans les 3 sec après que Reyna les a blessés laissent des orbes d'âme qui durent 3 sec.\r\nDévoration : vous consommez INSTANTANÉMENT un orbe d'âme pour rapidement regagner des PV temporaires. Si IMPÉRATRICE est active, Dévoration se lance automatiquement, ne consomme pas d'orbe d'âme et rend des PV permanents.",
+							"id-ID": "Soul Harvest: Musuh yang mati dalam 3 detik setelah menerima damage dari Reyna, meninggalkan Soul Orb yang bertahan 3 detik.\r\nDevour: SEKETIKA mengonsumsi Soul Orb di sekitar, mendapatkan Health Sementara dengan cepat. Jika EMPRESS aktif, Devour akan secara otomatis cast, tidak mengonsumsi Soul Orb, dan Healing-nya bersifat permanen.",
+							"it-IT": "Mietitura di anime: quando un nemico danneggiato da Reyna negli ultimi 3 secondi muore, lascia una sfera dell'anima che dura 3 secondi.\r\nDivorare: consumi ALL'ISTANTE una sfera dell'anima, ottenendo rapidamente salute temporanea. Se IMPERATRICE è attiva, Divorare verrà lanciata automaticamente senza consumare la sfera dell'anima, e la cura ottenuta sarà permanente.",
+							"ja-JP": "ソウルハーベスト:レイナからダメージを受けて3秒以内にデスした敵は、3秒間持続するソウルオーブを残す。\r\nデバウアー:ソウルオーブを1つ消費し、急速に一時的な増加体力を得る。「エンプレス」の発動中はデバウアーがソウルオーブを消費せずに自動的に使用され、回復の時間制限がなくなる。",
+							"ko-KR": "영혼 수확: 레이나에게 피해를 입고 3초 이내에 죽은 적은 3초 동안 유지되는 영혼 구슬을 남깁니다.\r\n포식: 즉시 영혼 구슬을 흡수하여 순식간에 일시적인 체력 증가 효과를 얻습니다. 여제 활성화 시 포식이 자동으로 사용되며 영혼 구슬을 흡수하지 않고, 영구적으로 체력이 회복됩니다.",
+							"pl-PL": "Żniwa Duszy: Wrogowie, którzy giną w ciągu 3 sek. od otrzymania obrażeń od Reyny, zostawiają po sobie pozostające na ziemi przez 3 sek. Kule Duszy.\r\nPożarcie: NATYCHMIAST pochłoń pobliską Kulę Duszy, by szybko zyskać tymczasowe zdrowie. Jeśli CESARZOWA jest aktywna, Pożarcie zostaje rzucone automatycznie, nie pochłania Kuli Duszy, a leczenie jest stałe.",
+							"pt-BR": "Colheita de Almas: inimigos abatidos até 3 segundos após sofrerem dano da Reyna deixam Orbes de Alma que duram 3s.\r\nDevorar: INSTANTANEAMENTE consome um Orbe de Alma e recebe Vida Temporária. Se IMPERATRIZ estiver ativa, Devorar é conjurada automaticamente, não consome o Orbe de Alma e a Cura é permanente.",
+							"ru-RU": "Сбор душ: когда противник умирает в течение 3 секунд после получения урона от Reyna, на 3 секунды появляется сфера души.\r\nПоглощение: мгновенно поглощает сферу души и временно увеличивает свое здоровье. Во время действия абсолютного умения поглощение срабатывает автоматически и не поглощает сферу, а прибавка к здоровью постоянна.",
+							"th-TH": "Soul Harvest: ศัตรูที่ตายภายใน 3 วินาทีหลังได้รับความเสียหายจาก Reyna จะทิ้ง Soul Orb ที่คงอยู่เป็นเวลา 3 วินาที\r\nDevour: ใช้ Soul Orb ในทันที และเพิ่มพลังชีวิตชั่วคราวอย่างรวดเร็ว หาก EMPRESS ทำงานอยู่ Devour จะร่ายอัตโนมัติโดยไม่ใช้ Soul Orb และการฮีลจะเป็นแบบถาวร",
+							"tr-TR": "Ruh Hasadı: Reyna'dan hasar aldıktan sonra 3 saniye içinde ölen düşmanlar, arkalarında 3 saniyeliğine Ruh Küreleri bırakır.\r\nSömür: ANINDA bir Ruh Küresi'ni tüket ve hızla geçici can kazan. İMPARATORİÇE etkinse Sömür otomatik olarak kullanılır, Ruh Küresi harcamaz ve iyileştirme kalıcı olur.",
+							"vi-VN": "Tụ Linh: Kẻ địch đã nhận sát thương từ Reyna trong vòng 3 giây trước khi bị tiêu diệt sẽ để lại Linh Ngọc trong 3 giây.\r\nNuốt Chửng: LẬP TỨC hấp thụ một linh ngọc ở gần để nhận siêu tốc Máu Tạm Thời. Nếu NỮ HOÀNG đang kích hoạt, Nuốt Chửng sẽ được tự động thi triển, không hấp thụ Linh Ngọc, và lượng Hồi Máu trở thành vĩnh viễn.",
+							"zh-CN": "狩魂：被芮娜造成伤害的3秒内被击败的敌人将留下魂珠，持续3秒。\r\n噬尽：立即吞噬一颗魂珠并迅速获得【临时生命值】。在【女皇旨令】激活时，噬尽将自动施放且不会消耗魂珠，治疗效果也将持续生效。",
+							"zh-TW": "靈魂收割：被蕾娜傷害後3秒內陣亡的敵人，會留下一個維持3秒鐘的魂體。\r\n生靈吞噬：立即消耗一個魂體，快速獲得暫時生命值。若已在女皇狀態下，將自動施放「生靈吞噬」、不消耗魂體，並治療效果改為永久。"
 						}
 					},
 					"label": "A3BFB853-43B2-7238-A4F1-AD90E9E46BCC_Ability1",
@@ -7410,7 +7410,7 @@
 							"es-ES": "EQUIPA un orbe sombrío y te adentras en un mundo paralelo para colocarlo y marcar el objetivo de los orbes. PULSA la tecla de la habilidad para lanzar el orbe sombrío a la ubicación señalada, lo que genera una esfera sombría de larga duración que bloquea la visión. MANTÉN PULSADO el botón de disparar al apuntar para alejar el marcador. MANTÉN PULSADO el DISPARO ALTERNATIVO al apuntar para acercarlo. PULSA RECARGAR para cambiar al modo de apuntado normal.",
 							"es-MX": "EQUIPA un orbe de sombras y entra en un mundo desfasado para colocar y apuntar los orbes. PRESIONA el botón de la habilidad para lanzarlo hacia la ubicación marcada, creando una esfera de sombras duradera que bloquea visión. MANTÉN PRESIONADO EL DISPARO mientras apuntas para alejar el marcador aún más. MANTÉN PRESIONADO EL DISPARO SECUNDARIO mientras apuntas para acercar el marcador aún más. PRESIONA RECARGAR para cambiar a la vista normal.",
 							"fr-FR": "ÉQUIPEZ-vous d'un orbe d'ombre et entrez dans un monde déphasé afin d'y lancer des orbes. APPUYEZ sur la touche de la compétence pour lancer l'orbe à l'endroit marqué, ce qui crée une sphère d'ombre durable qui bloque la vision. MAINTENEZ LE TIR tout en visant pour éloigner le marqueur. MAINTENEZ LE TIR SECONDAIRE tout en visant pour rapprocher le marqueur. APPUYEZ sur RECHARGER pour repasser en visée normale.",
-							"id-ID": "EQUIP shadow orb, masuki dunia transisi untuk menempatkan dan menarget orb. TEKAN tombol ability untuk melempar shadow orb ke lokasi yang ditandai, orb ini menciptakan area bayangan tahan lama yang menghalangi pandangan. Tekan HOLD FIRE untuk menjauhkan penanda, dan HOLD ALT FIRE untuk mendekatkan penanda. TEKAN RELOAD untuk beralih ke tampilan penargetan normal.",
+							"id-ID": "EQUIP shadow orb, masuki dunia transisi untuk menempatkan dan menarget orb. TEKAN tombol ability untuk melempar shadow orb ke lokasi yang ditandai, orb ini menciptakan area bayangan tahan lama yang menghalangi pandangan. HOLD FIRE untuk menjauhkan penanda, dan HOLD ALT FIRE untuk mendekatkan penanda. TEKAN RELOAD untuk beralih ke tampilan penargetan normal.",
 							"it-IT": "EQUIPAGGIA una sfera oscura, entrando in uno stato che ti permette di piazzare le sfere in punti precisi. PREMI l'abilità per lanciare la sfera di oscurità nella posizione indicata, creando un globo d'ombra a lunga durata che blocca la visione. TIENI PREMUTO il FUOCO mentre miri per allontanare l'indicatore. TIENI PREMUTO il FUOCO ALTERNATIVO mentre miri per avvicinare l'indicatore. PREMI RICARICA per attivare o disattivare la visuale di mira normale.",
 							"ja-JP": "闇のオーブを構え、位相空間に入ってオーブを設置する。アビリティーキーを「押す」とマーカーの位置に闇のオーブを投げ、長時間視線を遮る球形の闇を作り出す。ターゲット中は「発射長押し」でマーカーが遠くに、「オルト射撃長押し」でマーカーが近くに移動する。また「リロード」キーで通常の照準視点に切り替わる。",
 							"ko-KR": "그림자 구슬을 장착하고 다른 차원의 세계로 들어가 구슬을 조준합니다. 스킬 키를 누르면 표시한 위치에 그림자 구슬을 던져 한동안 시야를 차단하는 그림자 영역을 생성합니다. 발사를 길게 누르면 표시 위치를 더 멀리 옮깁니다. 보조 공격을 길게 누르면 표시 위치를 더 가까이 옮깁니다. 재장전을 누르면 기본 조준점을 끄고 켭니다.",
@@ -30914,6 +30914,273 @@
 					"vi-VN": "Vandal Tiểu Mộng Quái",
 					"zh-CN": "小怪兽 狂徒",
 					"zh-TW": "小小萌怪 暴徒"
+				}
+			}
+		},
+		{
+			"weaponId": "9C82E19D-4575-0200-1A81-3EACF00CF872",
+			"defaultChromaId": "7AA05464-4CD1-8143-58A7-DF8D354793A5",
+			"chromas": [
+				{
+					"id": "7AA05464-4CD1-8143-58A7-DF8D354793A5",
+					"label": "7AA05464-4CD1-8143-58A7-DF8D354793A5",
+					"name":
+					{
+						"defaultText": "Solarstride Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "الخطوة الملتهبة فاندال",
+							"de-DE": "Vandal – Solarstride",
+							"en-US": "Solarstride Vandal",
+							"es-ES": "Vandal Solarstride",
+							"es-MX": "Vandal Rocinante",
+							"fr-FR": "Vandal (Solarstride)",
+							"id-ID": "Solarstride Vandal",
+							"it-IT": "Vandal Ritmo solare",
+							"ja-JP": "ソーラーストライド ヴァンダル",
+							"ko-KR": "솔라스트라이드 밴달",
+							"pl-PL": "Vandal Słonecznego Kroku",
+							"pt-BR": "Vandal Marcha Solar",
+							"ru-RU": "Vandal \"Солнечный галоп\"",
+							"th-TH": "Solarstride Vandal",
+							"tr-TR": "Güneş Akını Vandal",
+							"vi-VN": "Vandal Solarstride",
+							"zh-CN": "赤焰铁骥 狂徒",
+							"zh-TW": "逐日炎蹄 暴徒"
+						}
+					}
+				},
+				{
+					"id": "21A4ADFB-471C-41D7-57D9-3FAB8993D998",
+					"label": "21A4ADFB-471C-41D7-57D9-3FAB8993D998",
+					"name":
+					{
+						"defaultText": "Solarstride Vandal Level 4\n(Variant 1 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الخطوة الملتهبة فاندال المستوى 4\n(بديل 1 أزرق)",
+							"de-DE": "Vandal – Solarstride Level 4\n(Variante 1, Blau)",
+							"en-US": "Solarstride Vandal Level 4\n(Variant 1 Blue)",
+							"es-ES": "Vandal Solarstride de nivel 4\n(variante 1: azul)",
+							"es-MX": "Vandal Rocinante nivel 4\n(Variante 1 Azul)",
+							"fr-FR": "Vandal (Solarstride) niveau 4\n(Variante 1 Bleu)",
+							"id-ID": "Solarstride Vandal Level 4\n(Varian 1 Biru)",
+							"it-IT": "Vandal Ritmo solare livello 4\n(variante 1 Blu)",
+							"ja-JP": "ソーラーストライド ヴァンダル Lv.4\n(ヴァリアント 1 ブルー)",
+							"ko-KR": "솔라스트라이드 밴달 4레벨\n(변형 1 파란색)",
+							"pl-PL": "Vandal Słonecznego Kroku (poziom 4)\n(wersja 1 – niebieska)",
+							"pt-BR": "Vandal Marcha Solar Nível 4\n(Variante 1 Azul)",
+							"ru-RU": "Vandal \"Солнечный галоп\" уровень 4\n(расцветка 1 \"Синий\")",
+							"th-TH": "Solarstride Vandal เลเวล 4\n(ตัวเลือกที่ 1 สีฟ้า)",
+							"tr-TR": "4. Seviye Güneş Akını Vandal\n(Stil 1 - Mavi)",
+							"vi-VN": "Vandal Solarstride Cấp 4\n(Dạng 1 Ánh Lam)",
+							"zh-CN": "赤焰铁骥 狂徒 等级4\n（炫彩1 蓝色）",
+							"zh-TW": "逐日炎蹄 暴徒 等級4\n(幻彩1 藍色)"
+						}
+					}
+				},
+				{
+					"id": "B4D2EFE7-4499-D0D9-A8F0-1EB3F089C3AE",
+					"label": "B4D2EFE7-4499-D0D9-A8F0-1EB3F089C3AE",
+					"name":
+					{
+						"defaultText": "Solarstride Vandal Level 4\n(Variant 2 White)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الخطوة الملتهبة فاندال المستوى 4\n(بديل 2 أبيض)",
+							"de-DE": "Vandal – Solarstride Level 4\n(Variante 2, Weiß)",
+							"en-US": "Solarstride Vandal Level 4\n(Variant 2 White)",
+							"es-ES": "Vandal Solarstride de nivel 4\n(variante 2: blanco)",
+							"es-MX": "Vandal Rocinante nivel 4\n(Variante 2 Blanca)",
+							"fr-FR": "Vandal (Solarstride) niveau 4\n(Variante 2 Blanc)",
+							"id-ID": "Solarstride Vandal Level 4\n(Varian 2 Putih)",
+							"it-IT": "Vandal Ritmo solare livello 4\n(variante 2 Bianca)",
+							"ja-JP": "ソーラーストライド ヴァンダル Lv.4\n(ヴァリアント 2 ホワイト)",
+							"ko-KR": "솔라스트라이드 밴달 4레벨\n(변형 2 흰색)",
+							"pl-PL": "Vandal Słonecznego Kroku (poziom 4)\n(wersja 2 – biała)",
+							"pt-BR": "Vandal Marcha Solar Nível 4\n(Variante 2 Branca)",
+							"ru-RU": "Vandal \"Солнечный галоп\" уровень 4\n(расцветка 2 \"Белый\")",
+							"th-TH": "Solarstride Vandal เลเวล 4\n(ตัวเลือกที่ 2 สีขาว)",
+							"tr-TR": "4. Seviye Güneş Akını Vandal\n(Stil 2 - Beyaz)",
+							"vi-VN": "Vandal Solarstride Cấp 4\n(Dạng 2 Ánh Trắng)",
+							"zh-CN": "赤焰铁骥 狂徒 等级4\n（炫彩2 白色）",
+							"zh-TW": "逐日炎蹄 暴徒 等級4\n(幻彩2 白色)"
+						}
+					}
+				},
+				{
+					"id": "0970E457-44CE-7AA2-BE6A-5887BF174EF9",
+					"label": "0970E457-44CE-7AA2-BE6A-5887BF174EF9",
+					"name":
+					{
+						"defaultText": "Solarstride Vandal Level 4\n(Variant 3 Black)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الخطوة الملتهبة فاندال المستوى 4\n(بديل 3 أسود)",
+							"de-DE": "Vandal – Solarstride Level 4\n(Variante 3, Schwarz)",
+							"en-US": "Solarstride Vandal Level 4\n(Variant 3 Black)",
+							"es-ES": "Vandal Solarstride de nivel 4\n(variante 3: negro)",
+							"es-MX": "Vandal Rocinante nivel 4\n(Variante 3 Negra)",
+							"fr-FR": "Vandal (Solarstride) niveau 4\n(Variante 3 Noir)",
+							"id-ID": "Solarstride Vandal Level 4\n(Varian 3 Hitam)",
+							"it-IT": "Vandal Ritmo solare livello 4\n(variante 3 Nera)",
+							"ja-JP": "ソーラーストライド ヴァンダル Lv.4\n(ヴァリアント 3 ブラック)",
+							"ko-KR": "솔라스트라이드 밴달 4레벨\n(변형 3 검은색)",
+							"pl-PL": "Vandal Słonecznego Kroku (poziom 4)\n(wersja 3 – czarna)",
+							"pt-BR": "Vandal Marcha Solar Nível 4\n(Variante 3 Preta)",
+							"ru-RU": "Vandal \"Солнечный галоп\" уровень 4\n(расцветка 3 \"Черный\")",
+							"th-TH": "Solarstride Vandal เลเวล 4\n(ตัวเลือกที่ 3 สีดำ)",
+							"tr-TR": "4. Seviye Güneş Akını Vandal\n(Stil 3 - Siyah)",
+							"vi-VN": "Vandal Solarstride Cấp 4\n(Dạng 3 Ánh Đen)",
+							"zh-CN": "赤焰铁骥 狂徒 等级4\n（炫彩3 黑色）",
+							"zh-TW": "逐日炎蹄 暴徒 等級4\n(幻彩3 黑色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "E442B948-4D85-9827-3DDB-1CB8FBEF3393",
+					"label": "E442B948-4D85-9827-3DDB-1CB8FBEF3393",
+					"name":
+					{
+						"defaultText": "Solarstride Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "الخطوة الملتهبة فاندال",
+							"de-DE": "Vandal – Solarstride",
+							"en-US": "Solarstride Vandal",
+							"es-ES": "Vandal Solarstride",
+							"es-MX": "Vandal Rocinante",
+							"fr-FR": "Vandal (Solarstride)",
+							"id-ID": "Solarstride Vandal",
+							"it-IT": "Vandal Ritmo solare",
+							"ja-JP": "ソーラーストライド ヴァンダル",
+							"ko-KR": "솔라스트라이드 밴달",
+							"pl-PL": "Vandal Słonecznego Kroku",
+							"pt-BR": "Vandal Marcha Solar",
+							"ru-RU": "Vandal \"Солнечный галоп\"",
+							"th-TH": "Solarstride Vandal",
+							"tr-TR": "Güneş Akını Vandal",
+							"vi-VN": "Vandal Solarstride",
+							"zh-CN": "赤焰铁骥 狂徒",
+							"zh-TW": "逐日炎蹄 暴徒"
+						}
+					}
+				},
+				{
+					"id": "0EA50A13-4570-1A42-938F-908EE17E7C5D",
+					"label": "0EA50A13-4570-1A42-938F-908EE17E7C5D",
+					"name":
+					{
+						"defaultText": "Solarstride Vandal Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "الخطوة الملتهبة فاندال المستوى 2",
+							"de-DE": "Vandal – Solarstride Level 2",
+							"en-US": "Solarstride Vandal Level 2",
+							"es-ES": "Vandal Solarstride de nivel 2",
+							"es-MX": "Vandal Rocinante nivel 2",
+							"fr-FR": "Vandal (Solarstride) niveau 2",
+							"id-ID": "Solarstride Vandal Level 2",
+							"it-IT": "Vandal Ritmo solare livello 2",
+							"ja-JP": "ソーラーストライド ヴァンダル Lv.2",
+							"ko-KR": "솔라스트라이드 밴달 2레벨",
+							"pl-PL": "Vandal Słonecznego Kroku (poziom 2)",
+							"pt-BR": "Vandal Marcha Solar Nível 2",
+							"ru-RU": "Vandal \"Солнечный галоп\" уровень 2",
+							"th-TH": "Solarstride Vandal เลเวล 2",
+							"tr-TR": "2. Seviye Güneş Akını Vandal",
+							"vi-VN": "Vandal Solarstride Cấp 2",
+							"zh-CN": "赤焰铁骥 狂徒 等级2",
+							"zh-TW": "逐日炎蹄 暴徒 等級2"
+						}
+					}
+				},
+				{
+					"id": "BD103151-46E2-9990-6EC2-CBA4DF18ECF4",
+					"label": "BD103151-46E2-9990-6EC2-CBA4DF18ECF4",
+					"name":
+					{
+						"defaultText": "Solarstride Vandal Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "الخطوة الملتهبة فاندال المستوى 3",
+							"de-DE": "Vandal – Solarstride Level 3",
+							"en-US": "Solarstride Vandal Level 3",
+							"es-ES": "Vandal Solarstride de nivel 3",
+							"es-MX": "Vandal Rocinante nivel 3",
+							"fr-FR": "Vandal (Solarstride) niveau 3",
+							"id-ID": "Solarstride Vandal Level 3",
+							"it-IT": "Vandal Ritmo solare livello 3",
+							"ja-JP": "ソーラーストライド ヴァンダル Lv.3",
+							"ko-KR": "솔라스트라이드 밴달 3레벨",
+							"pl-PL": "Vandal Słonecznego Kroku (poziom 3)",
+							"pt-BR": "Vandal Marcha Solar Nível 3",
+							"ru-RU": "Vandal \"Солнечный галоп\" уровень 3",
+							"th-TH": "Solarstride Vandal เลเวล 3",
+							"tr-TR": "3. Seviye Güneş Akını Vandal",
+							"vi-VN": "Vandal Solarstride Cấp 3",
+							"zh-CN": "赤焰铁骥 狂徒 等级3",
+							"zh-TW": "逐日炎蹄 暴徒 等級3"
+						}
+					}
+				},
+				{
+					"id": "E97BD74F-4EC1-A94A-540C-CFA44AB886D1",
+					"label": "E97BD74F-4EC1-A94A-540C-CFA44AB886D1",
+					"name":
+					{
+						"defaultText": "Solarstride Vandal Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "الخطوة الملتهبة فاندال المستوى 4",
+							"de-DE": "Vandal – Solarstride Level 4",
+							"en-US": "Solarstride Vandal Level 4",
+							"es-ES": "Vandal Solarstride de nivel 4",
+							"es-MX": "Vandal Rocinante nivel 4",
+							"fr-FR": "Vandal (Solarstride) niveau 4",
+							"id-ID": "Solarstride Vandal Level 4",
+							"it-IT": "Vandal Ritmo solare livello 4",
+							"ja-JP": "ソーラーストライド ヴァンダル Lv.4",
+							"ko-KR": "솔라스트라이드 밴달 4레벨",
+							"pl-PL": "Vandal Słonecznego Kroku (poziom 4)",
+							"pt-BR": "Vandal Marcha Solar Nível 4",
+							"ru-RU": "Vandal \"Солнечный галоп\" уровень 4",
+							"th-TH": "Solarstride Vandal เลเวล 4",
+							"tr-TR": "4. Seviye Güneş Akını Vandal",
+							"vi-VN": "Vandal Solarstride Cấp 4",
+							"zh-CN": "赤焰铁骥 狂徒 等级4",
+							"zh-TW": "逐日炎蹄 暴徒 等級4"
+						}
+					}
+				}
+			],
+			"id": "6D0E7907-45E1-CA59-3BD4-66A454963957",
+			"label": "6D0E7907-45E1-CA59-3BD4-66A454963957",
+			"name":
+			{
+				"defaultText": "Solarstride Vandal",
+				"localizedByCulture":
+				{
+					"ar-AE": "الخطوة الملتهبة فاندال",
+					"de-DE": "Vandal – Solarstride",
+					"en-US": "Solarstride Vandal",
+					"es-ES": "Vandal Solarstride",
+					"es-MX": "Vandal Rocinante",
+					"fr-FR": "Vandal (Solarstride)",
+					"id-ID": "Solarstride Vandal",
+					"it-IT": "Vandal Ritmo solare",
+					"ja-JP": "ソーラーストライド ヴァンダル",
+					"ko-KR": "솔라스트라이드 밴달",
+					"pl-PL": "Vandal Słonecznego Kroku",
+					"pt-BR": "Vandal Marcha Solar",
+					"ru-RU": "Vandal \"Солнечный галоп\"",
+					"th-TH": "Solarstride Vandal",
+					"tr-TR": "Güneş Akını Vandal",
+					"vi-VN": "Vandal Solarstride",
+					"zh-CN": "赤焰铁骥 狂徒",
+					"zh-TW": "逐日炎蹄 暴徒"
 				}
 			}
 		},
@@ -149265,6 +149532,273 @@
 		},
 		{
 			"weaponId": "4ADE7FAA-4CF1-8376-95EF-39884480959B",
+			"defaultChromaId": "B20ED144-49E4-D0D6-5E80-2F81451C70E2",
+			"chromas": [
+				{
+					"id": "B20ED144-49E4-D0D6-5E80-2F81451C70E2",
+					"label": "B20ED144-49E4-D0D6-5E80-2F81451C70E2",
+					"name":
+					{
+						"defaultText": "Solarstride Guardian",
+						"localizedByCulture":
+						{
+							"ar-AE": "الخطوة الملتهبة غارديان",
+							"de-DE": "Guardian – Solarstride",
+							"en-US": "Solarstride Guardian",
+							"es-ES": "Guardian Solarstride",
+							"es-MX": "Guardian Rocinante",
+							"fr-FR": "Guardian (Solarstride)",
+							"id-ID": "Solarstride Guardian",
+							"it-IT": "Guardian Ritmo solare",
+							"ja-JP": "ソーラーストライド ガーディアン",
+							"ko-KR": "솔라스트라이드 가디언",
+							"pl-PL": "Guardian Słonecznego Kroku",
+							"pt-BR": "Guardian Marcha Solar",
+							"ru-RU": "Guardian \"Солнечный галоп\"",
+							"th-TH": "Solarstride Guardian",
+							"tr-TR": "Güneş Akını Guardian",
+							"vi-VN": "Guardian Solarstride",
+							"zh-CN": "赤焰铁骥 戍卫",
+							"zh-TW": "逐日炎蹄 捍衛者"
+						}
+					}
+				},
+				{
+					"id": "546B4B7A-4897-63A1-22CF-15974DCF4562",
+					"label": "546B4B7A-4897-63A1-22CF-15974DCF4562",
+					"name":
+					{
+						"defaultText": "Solarstride Guardian Level 4\n(Variant 1 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الخطوة الملتهبة غارديان المستوى 4\n(بديل 1 أزرق)",
+							"de-DE": "Guardian – Solarstride Level 4\n(Variante 1, Blau)",
+							"en-US": "Solarstride Guardian Level 4\n(Variant 1 Blue)",
+							"es-ES": "Guardian Solarstride de nivel 4\n(variante 1: azul)",
+							"es-MX": "Guardian Rocinante nivel 4\n(Variante 1 Azul)",
+							"fr-FR": "Guardian (Solarstride) niveau 4\n(Variante 1 Bleu)",
+							"id-ID": "Solarstride Guardian Level 4\n(Varian 1 Biru)",
+							"it-IT": "Guardian Ritmo solare livello 4\n(variante 1 Blu)",
+							"ja-JP": "ソーラーストライド ガーディアン Lv.4\n(ヴァリアント 1 ブルー)",
+							"ko-KR": "솔라스트라이드 가디언 4레벨\n(변형 1 파란색)",
+							"pl-PL": "Guardian Słonecznego Kroku (poziom 4)\n(wersja 1 – niebieska)",
+							"pt-BR": "Guardian Marcha Solar Nível 4\n(Variante 1 Azul)",
+							"ru-RU": "Guardian \"Солнечный галоп\" уровень 4\n(расцветка 1 \"Синий\")",
+							"th-TH": "Solarstride Guardian เลเวล 4\n(ตัวเลือกที่ 1 สีฟ้า)",
+							"tr-TR": "4. Seviye Güneş Akını Guardian\n(Stil 1 - Mavi)",
+							"vi-VN": "Guardian Solarstride Cấp 4\n(Dạng 1 Ánh Lam)",
+							"zh-CN": "赤焰铁骥 戍卫 等级4\n（炫彩1 蓝色）",
+							"zh-TW": "逐日炎蹄 捍衛者 等級4\n(幻彩1 藍色)"
+						}
+					}
+				},
+				{
+					"id": "CD133B4E-4199-85F5-2FF5-939812376225",
+					"label": "CD133B4E-4199-85F5-2FF5-939812376225",
+					"name":
+					{
+						"defaultText": "Solarstride Guardian Level 4\n(Variant 2 White)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الخطوة الملتهبة غارديان المستوى 4\n(بديل 2 أبيض)",
+							"de-DE": "Guardian – Solarstride Level 4\n(Variante 2, Weiß)",
+							"en-US": "Solarstride Guardian Level 4\n(Variant 2 White)",
+							"es-ES": "Guardian Solarstride de nivel 4\n(variante 2: blanco)",
+							"es-MX": "Guardian Rocinante nivel 4\n(Variante 2 Blanca)",
+							"fr-FR": "Guardian (Solarstride) niveau 4\n(Variante 2 Blanc)",
+							"id-ID": "Solarstride Guardian Level 4\n(Varian 2 Putih)",
+							"it-IT": "Guardian Ritmo solare livello 4\n(variante 2 Bianca)",
+							"ja-JP": "ソーラーストライド ガーディアン Lv.4\n(ヴァリアント 2 ホワイト)",
+							"ko-KR": "솔라스트라이드 가디언 4레벨\n(변형 2 흰색)",
+							"pl-PL": "Guardian Słonecznego Kroku (poziom 4)\n(wersja 2 – biała)",
+							"pt-BR": "Guardian Marcha Solar Nível 4\n(Variante 2 Branca)",
+							"ru-RU": "Guardian \"Солнечный галоп\" уровень 4\n(расцветка 2 \"Белый\")",
+							"th-TH": "Solarstride Guardian เลเวล 4\n(ตัวเลือกที่ 2 สีขาว)",
+							"tr-TR": "4. Seviye Güneş Akını Guardian\n(Stil 2 - Beyaz)",
+							"vi-VN": "Guardian Solarstride Cấp 4\n(Dạng 2 Ánh Trắng)",
+							"zh-CN": "赤焰铁骥 戍卫 等级4\n（炫彩2 白色）",
+							"zh-TW": "逐日炎蹄 捍衛者 等級4\n(幻彩2 白色)"
+						}
+					}
+				},
+				{
+					"id": "64B97331-43CD-2C7C-D82A-77BDC39A612B",
+					"label": "64B97331-43CD-2C7C-D82A-77BDC39A612B",
+					"name":
+					{
+						"defaultText": "Solarstride Guardian Level 4\n(Variant 3 Black)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الخطوة الملتهبة غارديان المستوى 4\n(بديل 3 أسود)",
+							"de-DE": "Guardian – Solarstride Level 4\n(Variante 3, Schwarz)",
+							"en-US": "Solarstride Guardian Level 4\n(Variant 3 Black)",
+							"es-ES": "Guardian Solarstride de nivel 4\n(variante 3: negro)",
+							"es-MX": "Guardian Rocinante nivel 4\n(Variante 3 Negra)",
+							"fr-FR": "Guardian (Solarstride) niveau 4\n(Variante 3 Noir)",
+							"id-ID": "Solarstride Guardian Level 4\n(Varian 3 Hitam)",
+							"it-IT": "Guardian Ritmo solare livello 4\n(variante 3 Nera)",
+							"ja-JP": "ソーラーストライド ガーディアン Lv.4\n(ヴァリアント 3 ブラック)",
+							"ko-KR": "솔라스트라이드 가디언 4레벨\n(변형 3 검은색)",
+							"pl-PL": "Guardian Słonecznego Kroku (poziom 4)\n(wersja 3 – czarna)",
+							"pt-BR": "Guardian Marcha Solar Nível 4\n(Variante 3 Preta)",
+							"ru-RU": "Guardian \"Солнечный галоп\" уровень 4\n(расцветка 3 \"Черный\")",
+							"th-TH": "Solarstride Guardian เลเวล 4\n(ตัวเลือกที่ 3 สีดำ)",
+							"tr-TR": "4. Seviye Güneş Akını Guardian\n(Stil 3 - Siyah)",
+							"vi-VN": "Guardian Solarstride Cấp 4\n(Dạng 3 Ánh Đen)",
+							"zh-CN": "赤焰铁骥 戍卫 等级4\n（炫彩3 黑色）",
+							"zh-TW": "逐日炎蹄 捍衛者 等級4\n(幻彩3 黑色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "3F13385E-4E99-4887-5474-4087971D3378",
+					"label": "3F13385E-4E99-4887-5474-4087971D3378",
+					"name":
+					{
+						"defaultText": "Solarstride Guardian",
+						"localizedByCulture":
+						{
+							"ar-AE": "الخطوة الملتهبة غارديان",
+							"de-DE": "Guardian – Solarstride",
+							"en-US": "Solarstride Guardian",
+							"es-ES": "Guardian Solarstride",
+							"es-MX": "Guardian Rocinante",
+							"fr-FR": "Guardian (Solarstride)",
+							"id-ID": "Solarstride Guardian",
+							"it-IT": "Guardian Ritmo solare",
+							"ja-JP": "ソーラーストライド ガーディアン",
+							"ko-KR": "솔라스트라이드 가디언",
+							"pl-PL": "Guardian Słonecznego Kroku",
+							"pt-BR": "Guardian Marcha Solar",
+							"ru-RU": "Guardian \"Солнечный галоп\"",
+							"th-TH": "Solarstride Guardian",
+							"tr-TR": "Güneş Akını Guardian",
+							"vi-VN": "Guardian Solarstride",
+							"zh-CN": "赤焰铁骥 戍卫",
+							"zh-TW": "逐日炎蹄 捍衛者"
+						}
+					}
+				},
+				{
+					"id": "0C8F25E8-4324-1773-3F30-2E99F2948702",
+					"label": "0C8F25E8-4324-1773-3F30-2E99F2948702",
+					"name":
+					{
+						"defaultText": "Solarstride Guardian Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "الخطوة الملتهبة غارديان المستوى 2",
+							"de-DE": "Guardian – Solarstride Level 2",
+							"en-US": "Solarstride Guardian Level 2",
+							"es-ES": "Guardian Solarstride de nivel 2",
+							"es-MX": "Guardian Rocinante nivel 2",
+							"fr-FR": "Guardian (Solarstride) niveau 2",
+							"id-ID": "Solarstride Guardian Level 2",
+							"it-IT": "Guardian Ritmo solare livello 2",
+							"ja-JP": "ソーラーストライド ガーディアン Lv.2",
+							"ko-KR": "솔라스트라이드 가디언 2레벨",
+							"pl-PL": "Guardian Słonecznego Kroku (poziom 2)",
+							"pt-BR": "Guardian Marcha Solar Nível 2",
+							"ru-RU": "Guardian \"Солнечный галоп\" уровень 2",
+							"th-TH": "Solarstride Guardian เลเวล 2",
+							"tr-TR": "2. Seviye Güneş Akını Guardian",
+							"vi-VN": "Guardian Solarstride Cấp 2",
+							"zh-CN": "赤焰铁骥 戍卫 等级2",
+							"zh-TW": "逐日炎蹄 捍衛者 等級2"
+						}
+					}
+				},
+				{
+					"id": "04E2E675-4AAB-7CF3-D5C0-13A049766512",
+					"label": "04E2E675-4AAB-7CF3-D5C0-13A049766512",
+					"name":
+					{
+						"defaultText": "Solarstride Guardian Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "الخطوة الملتهبة غارديان المستوى 3",
+							"de-DE": "Guardian – Solarstride Level 3",
+							"en-US": "Solarstride Guardian Level 3",
+							"es-ES": "Guardian Solarstride de nivel 3",
+							"es-MX": "Guardian Rocinante nivel 3",
+							"fr-FR": "Guardian (Solarstride) niveau 3",
+							"id-ID": "Solarstride Guardian Level 3",
+							"it-IT": "Guardian Ritmo solare livello 3",
+							"ja-JP": "ソーラーストライド ガーディアン Lv.3",
+							"ko-KR": "솔라스트라이드 가디언 3레벨",
+							"pl-PL": "Guardian Słonecznego Kroku (poziom 3)",
+							"pt-BR": "Guardian Marcha Solar Nível 3",
+							"ru-RU": "Guardian \"Солнечный галоп\" уровень 3",
+							"th-TH": "Solarstride Guardian เลเวล 3",
+							"tr-TR": "3. Seviye Güneş Akını Guardian",
+							"vi-VN": "Guardian Solarstride Cấp 3",
+							"zh-CN": "赤焰铁骥 戍卫 等级3",
+							"zh-TW": "逐日炎蹄 捍衛者 等級3"
+						}
+					}
+				},
+				{
+					"id": "85997270-40E9-126B-F80D-5A9B7925C6A1",
+					"label": "85997270-40E9-126B-F80D-5A9B7925C6A1",
+					"name":
+					{
+						"defaultText": "Solarstride Guardian Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "الخطوة الملتهبة غارديان المستوى 4",
+							"de-DE": "Guardian – Solarstride Level 4",
+							"en-US": "Solarstride Guardian Level 4",
+							"es-ES": "Guardian Solarstride de nivel 4",
+							"es-MX": "Guardian Rocinante nivel 4",
+							"fr-FR": "Guardian (Solarstride) niveau 4",
+							"id-ID": "Solarstride Guardian Level 4",
+							"it-IT": "Guardian Ritmo solare livello 4",
+							"ja-JP": "ソーラーストライド ガーディアン Lv.4",
+							"ko-KR": "솔라스트라이드 가디언 4레벨",
+							"pl-PL": "Guardian Słonecznego Kroku (poziom 4)",
+							"pt-BR": "Guardian Marcha Solar Nível 4",
+							"ru-RU": "Guardian \"Солнечный галоп\" уровень 4",
+							"th-TH": "Solarstride Guardian เลเวล 4",
+							"tr-TR": "4. Seviye Güneş Akını Guardian",
+							"vi-VN": "Guardian Solarstride Cấp 4",
+							"zh-CN": "赤焰铁骥 戍卫 等级4",
+							"zh-TW": "逐日炎蹄 捍衛者 等級4"
+						}
+					}
+				}
+			],
+			"id": "41E6C204-4BA2-31DC-70B4-4D99B4AC9668",
+			"label": "41E6C204-4BA2-31DC-70B4-4D99B4AC9668",
+			"name":
+			{
+				"defaultText": "Solarstride Guardian",
+				"localizedByCulture":
+				{
+					"ar-AE": "الخطوة الملتهبة غارديان",
+					"de-DE": "Guardian – Solarstride",
+					"en-US": "Solarstride Guardian",
+					"es-ES": "Guardian Solarstride",
+					"es-MX": "Guardian Rocinante",
+					"fr-FR": "Guardian (Solarstride)",
+					"id-ID": "Solarstride Guardian",
+					"it-IT": "Guardian Ritmo solare",
+					"ja-JP": "ソーラーストライド ガーディアン",
+					"ko-KR": "솔라스트라이드 가디언",
+					"pl-PL": "Guardian Słonecznego Kroku",
+					"pt-BR": "Guardian Marcha Solar",
+					"ru-RU": "Guardian \"Солнечный галоп\"",
+					"th-TH": "Solarstride Guardian",
+					"tr-TR": "Güneş Akını Guardian",
+					"vi-VN": "Guardian Solarstride",
+					"zh-CN": "赤焰铁骥 戍卫",
+					"zh-TW": "逐日炎蹄 捍衛者"
+				}
+			}
+		},
+		{
+			"weaponId": "4ADE7FAA-4CF1-8376-95EF-39884480959B",
 			"defaultChromaId": "6415FC9E-475B-2AF7-CEE4-8586E68384F8",
 			"chromas": [
 				{
@@ -193283,6 +193817,215 @@
 		},
 		{
 			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
+			"defaultChromaId": "53490399-4EF4-DC9F-9D4F-FAB8D00AB697",
+			"chromas": [
+				{
+					"id": "53490399-4EF4-DC9F-9D4F-FAB8D00AB697",
+					"label": "53490399-4EF4-DC9F-9D4F-FAB8D00AB697",
+					"name":
+					{
+						"defaultText": "Solarstride Flamethrower",
+						"localizedByCulture":
+						{
+							"ar-AE": "قاذفة لهب الخطوة الملتهبة",
+							"de-DE": "Flammenwerfer – Solarstride",
+							"en-US": "Solarstride Flamethrower",
+							"es-ES": "Lanzallamas Solarstride",
+							"es-MX": "Lanzallamas Rocinante",
+							"fr-FR": "Lance-flammes (Solarstride)",
+							"id-ID": "Solarstride Flamethrower",
+							"it-IT": "Lanciafiamme Ritmo solare",
+							"ja-JP": "ソーラーストライド 火炎放射器",
+							"ko-KR": "솔라스트라이드 화염방사기",
+							"pl-PL": "Miotacz Ognia Słonecznego Kroku",
+							"pt-BR": "Lança-Chamas Marcha Solar",
+							"ru-RU": "Огнемет \"Солнечный галоп\"",
+							"th-TH": "Solarstride Flamethrower",
+							"tr-TR": "Güneş Akını Alev Silahı",
+							"vi-VN": "Súng Phun Lửa Solarstride",
+							"zh-CN": "脉冲焰矩",
+							"zh-TW": "逐日炎蹄 噴射炎刃"
+						}
+					}
+				},
+				{
+					"id": "04F5EBF2-4439-E210-2F68-9E9E1F333899",
+					"label": "04F5EBF2-4439-E210-2F68-9E9E1F333899",
+					"name":
+					{
+						"defaultText": "Solarstride Flamethrower Level 2\n(Variant 1 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "قاذفة لهب الخطوة الملتهبة المستوى 2\n(بديل 1 أزرق)",
+							"de-DE": "Flammenwerfer – Solarstride Level 2\n(Variante 1, Blau)",
+							"en-US": "Solarstride Flamethrower Level 2\n(Variant 1 Blue)",
+							"es-ES": "Lanzallamas Solarstride de nivel 2\n(variante 1: azul)",
+							"es-MX": "Lanzallamas Rocinante nivel 2\n(Variante 1 Azul)",
+							"fr-FR": "Lance-flammes (Solarstride) niveau 2\n(Variante 1 Bleu)",
+							"id-ID": "Solarstride Flamethrower Level 2\n(Varian 1 Biru)",
+							"it-IT": "Lanciafiamme Ritmo solare livello 2\n(variante 1 Blu)",
+							"ja-JP": "ソーラーストライド 火炎放射器 Lv.2\n(ヴァリアント 1 ブルー)",
+							"ko-KR": "솔라스트라이드 화염방사기 2레벨\n(변형 1 파란색)",
+							"pl-PL": "Miotacz Ognia Słonecznego Kroku (poziom 2)\n(wersja 1 – niebieska)",
+							"pt-BR": "Lança-Chamas Marcha Solar Nível 2\n(Variante 1 Azul)",
+							"ru-RU": "Огнемет \"Солнечный галоп\" уровень 2\n(расцветка 1 \"Синий\")",
+							"th-TH": "Solarstride Flamethrower เลเวล 2\n(ตัวเลือกที่ 1 สีฟ้า)",
+							"tr-TR": "2. Seviye Güneş Akını Alev Silahı\n(Stil 1 - Mavi)",
+							"vi-VN": "Súng Phun Lửa Solarstride Cấp 2\n(Dạng 1 Ánh Lam)",
+							"zh-CN": "脉冲焰矩 等级2\n（炫彩1 蓝色）",
+							"zh-TW": "逐日炎蹄 噴射炎刃 等級2\n(幻彩1 藍色)"
+						}
+					}
+				},
+				{
+					"id": "CC5768E7-44C5-E050-1C99-3FA235CD251B",
+					"label": "CC5768E7-44C5-E050-1C99-3FA235CD251B",
+					"name":
+					{
+						"defaultText": "Solarstride Flamethrower Level 2\n(Variant 2 White)",
+						"localizedByCulture":
+						{
+							"ar-AE": "قاذفة لهب الخطوة الملتهبة المستوى 2\n(بديل 2 أبيض)",
+							"de-DE": "Flammenwerfer – Solarstride Level 2\n(Variante 2, Weiß)",
+							"en-US": "Solarstride Flamethrower Level 2\n(Variant 2 White)",
+							"es-ES": "Lanzallamas Solarstride de nivel 2\n(variante 2: blanco)",
+							"es-MX": "Lanzallamas Rocinante nivel 2\n(Variante 2 Blanca)",
+							"fr-FR": "Lance-flammes (Solarstride) niveau 2\n(Variante 2 Blanc)",
+							"id-ID": "Solarstride Flamethrower Level 2\n(Varian 2 Putih)",
+							"it-IT": "Lanciafiamme Ritmo solare livello 2\n(variante 2 Bianca)",
+							"ja-JP": "ソーラーストライド 火炎放射器 Lv.2\n(ヴァリアント 2 ホワイト)",
+							"ko-KR": "솔라스트라이드 화염방사기 2레벨\n(변형 2 흰색)",
+							"pl-PL": "Miotacz Ognia Słonecznego Kroku (poziom 2)\n(wersja 2 – biała)",
+							"pt-BR": "Lança-Chamas Marcha Solar Nível 2\n(Variante 2 Branca)",
+							"ru-RU": "Огнемет \"Солнечный галоп\" уровень 2\n(расцветка 2 \"Белый\")",
+							"th-TH": "Solarstride Flamethrower เลเวล 2\n(ตัวเลือกที่ 2 สีขาว)",
+							"tr-TR": "2. Seviye Güneş Akını Alev Silahı\n(Stil 2 - Beyaz)",
+							"vi-VN": "Súng Phun Lửa Solarstride Cấp 2\n(Dạng 2 Ánh Trắng)",
+							"zh-CN": "脉冲焰矩 等级2\n（炫彩2 白色）",
+							"zh-TW": "逐日炎蹄 噴射炎刃 等級2\n(幻彩2 白色)"
+						}
+					}
+				},
+				{
+					"id": "EBC4A699-41EB-6F61-DAB3-02B92573F8B9",
+					"label": "EBC4A699-41EB-6F61-DAB3-02B92573F8B9",
+					"name":
+					{
+						"defaultText": "Solarstride Flamethrower Level 2\n(Variant 3 Black)",
+						"localizedByCulture":
+						{
+							"ar-AE": "قاذفة لهب الخطوة الملتهبة المستوى 2\n(بديل 3 أسود)",
+							"de-DE": "Flammenwerfer – Solarstride Level 2\n(Variante 3, Schwarz)",
+							"en-US": "Solarstride Flamethrower Level 2\n(Variant 3 Black)",
+							"es-ES": "Lanzallamas Solarstride de nivel 2\n(variante 3: negro)",
+							"es-MX": "Lanzallamas Rocinante nivel 2\n(Variante 3 Negra)",
+							"fr-FR": "Lance-flammes (Solarstride) niveau 2\n(Variante 3 Noir)",
+							"id-ID": "Solarstride Flamethrower Level 2\n(Varian 3 Hitam)",
+							"it-IT": "Lanciafiamme Ritmo solare livello 2\n(variante 3 Nera)",
+							"ja-JP": "ソーラーストライド 火炎放射器 Lv.2\n(ヴァリアント 3 ブラック)",
+							"ko-KR": "솔라스트라이드 화염방사기 2레벨\n(변형 3 검은색)",
+							"pl-PL": "Miotacz Ognia Słonecznego Kroku (poziom 2)\n(wersja 3 – czarna)",
+							"pt-BR": "Lança-Chamas Marcha Solar Nível 2\n(Variante 3 Preta)",
+							"ru-RU": "Огнемет \"Солнечный галоп\" уровень 2\n(расцветка 3 \"Черный\")",
+							"th-TH": "Solarstride Flamethrower เลเวล 2\n(ตัวเลือกที่ 3 สีดำ)",
+							"tr-TR": "2. Seviye Güneş Akını Alev Silahı\n(Stil 3 - Siyah)",
+							"vi-VN": "Súng Phun Lửa Solarstride Cấp 2\n(Dạng 3 Ánh Đen)",
+							"zh-CN": "脉冲焰矩 等级2\n（炫彩3 黑色）",
+							"zh-TW": "逐日炎蹄 噴射炎刃 等級2\n(幻彩3 黑色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "683FFF5B-4296-54D8-E3E0-2B9050FD1FE5",
+					"label": "683FFF5B-4296-54D8-E3E0-2B9050FD1FE5",
+					"name":
+					{
+						"defaultText": "Solarstride Flamethrower",
+						"localizedByCulture":
+						{
+							"ar-AE": "قاذفة لهب الخطوة الملتهبة",
+							"de-DE": "Flammenwerfer – Solarstride",
+							"en-US": "Solarstride Flamethrower",
+							"es-ES": "Lanzallamas Solarstride",
+							"es-MX": "Lanzallamas Rocinante",
+							"fr-FR": "Lance-flammes (Solarstride)",
+							"id-ID": "Solarstride Flamethrower",
+							"it-IT": "Lanciafiamme Ritmo solare",
+							"ja-JP": "ソーラーストライド 火炎放射器",
+							"ko-KR": "솔라스트라이드 화염방사기",
+							"pl-PL": "Miotacz Ognia Słonecznego Kroku",
+							"pt-BR": "Lança-Chamas Marcha Solar",
+							"ru-RU": "Огнемет \"Солнечный галоп\"",
+							"th-TH": "Solarstride Flamethrower",
+							"tr-TR": "Güneş Akını Alev Silahı",
+							"vi-VN": "Súng Phun Lửa Solarstride",
+							"zh-CN": "脉冲焰矩",
+							"zh-TW": "逐日炎蹄 噴射炎刃"
+						}
+					}
+				},
+				{
+					"id": "4011E964-48BB-1CF1-0139-C59ECD327F27",
+					"label": "4011E964-48BB-1CF1-0139-C59ECD327F27",
+					"name":
+					{
+						"defaultText": "Solarstride Flamethrower Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "قاذفة لهب الخطوة الملتهبة المستوى 2",
+							"de-DE": "Flammenwerfer – Solarstride Level 2",
+							"en-US": "Solarstride Flamethrower Level 2",
+							"es-ES": "Lanzallamas Solarstride de nivel 2",
+							"es-MX": "Lanzallamas Rocinante nivel 2",
+							"fr-FR": "Lance-flammes (Solarstride) niveau 2",
+							"id-ID": "Solarstride Flamethrower Level 2",
+							"it-IT": "Lanciafiamme Ritmo solare livello 2",
+							"ja-JP": "ソーラーストライド 火炎放射器 Lv.2",
+							"ko-KR": "솔라스트라이드 화염방사기 2레벨",
+							"pl-PL": "Miotacz Ognia Słonecznego Kroku (poziom 2)",
+							"pt-BR": "Lança-Chamas Marcha Solar Nível 2",
+							"ru-RU": "Огнемет \"Солнечный галоп\" уровень 2",
+							"th-TH": "Solarstride Flamethrower เลเวล 2",
+							"tr-TR": "2. Seviye Güneş Akını Alev Silahı",
+							"vi-VN": "Súng Phun Lửa Solarstride Cấp 2",
+							"zh-CN": "脉冲焰矩 等级2",
+							"zh-TW": "逐日炎蹄 噴射炎刃 等級2"
+						}
+					}
+				}
+			],
+			"id": "846E2477-46BF-A583-0D35-8DB82054E53A",
+			"label": "846E2477-46BF-A583-0D35-8DB82054E53A",
+			"name":
+			{
+				"defaultText": "Solarstride Flamethrower",
+				"localizedByCulture":
+				{
+					"ar-AE": "قاذفة لهب الخطوة الملتهبة",
+					"de-DE": "Flammenwerfer – Solarstride",
+					"en-US": "Solarstride Flamethrower",
+					"es-ES": "Lanzallamas Solarstride",
+					"es-MX": "Lanzallamas Rocinante",
+					"fr-FR": "Lance-flammes (Solarstride)",
+					"id-ID": "Solarstride Flamethrower",
+					"it-IT": "Lanciafiamme Ritmo solare",
+					"ja-JP": "ソーラーストライド 火炎放射器",
+					"ko-KR": "솔라스트라이드 화염방사기",
+					"pl-PL": "Miotacz Ognia Słonecznego Kroku",
+					"pt-BR": "Lança-Chamas Marcha Solar",
+					"ru-RU": "Огнемет \"Солнечный галоп\"",
+					"th-TH": "Solarstride Flamethrower",
+					"tr-TR": "Güneş Akını Alev Silahı",
+					"vi-VN": "Súng Phun Lửa Solarstride",
+					"zh-CN": "脉冲焰矩",
+					"zh-TW": "逐日炎蹄 噴射炎刃"
+				}
+			}
+		},
+		{
+			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
 			"defaultChromaId": "8BA3FE09-4DD9-D4D6-60F3-8B8C97D40C72",
 			"chromas": [
 				{
@@ -207701,7 +208444,7 @@
 					"pt-BR": "Card Loucura do Redentor",
 					"ru-RU": "Карточка \"Безумие искупителя\"",
 					"th-TH": "การ์ด Redeemer's Folly",
-					"tr-TR": "ESRARENGİZ KART",
+					"tr-TR": "Esrarengiz Kartı",
 					"vi-VN": "Thẻ Kẻ Chuộc Lỗi Điên Rồ",
 					"zh-CN": "救赎者之愚行 卡面",
 					"zh-TW": "贖罪愚行 玩家卡面"
@@ -212660,7 +213403,7 @@
 					"pt-BR": "Card Cintilação",
 					"ru-RU": "Карточка \"Блеск\"",
 					"th-TH": "การ์ด Shimmer",
-					"tr-TR": "Simli Kart",
+					"tr-TR": "Simli Kartı",
 					"vi-VN": "Thẻ Shimmer",
 					"zh-CN": "许愿星砂 卡面",
 					"zh-TW": "微光之塵 玩家卡面"
@@ -220332,7 +221075,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "بطاقة صراع V26 \\\\ مواجهة النيران",
-					"de-DE": "Banner „V26-Konflikt // Trotze den Flammen“",
+					"de-DE": "Banner „V26-Konflikt // Stell dich den Flammen“",
 					"en-US": "V26 Conflict // Face the Flames Card",
 					"es-ES": "Tarjeta Conflicto V26 // Afronta las llamas",
 					"es-MX": "Tarjeta V26: Conflicto // Enfrenta el Fuego",
@@ -222667,7 +223410,7 @@
 					"th-TH": "การ์ด VCT EMEA 2023",
 					"tr-TR": "VCT EMEA 2023 Kartı",
 					"vi-VN": "Thẻ VCT EMEA 2023",
-					"zh-CN": "VCT EMEA联赛 卡面",
+					"zh-CN": "2023 VCT EMEA联赛 卡面",
 					"zh-TW": "2023 VCT歐非洲中東聯賽 玩家卡面"
 				}
 			}
@@ -223220,6 +223963,35 @@
 					"vi-VN": "Thẻ Aemondir",
 					"zh-CN": "日冕雄师 卡面",
 					"zh-TW": "末日獄炎 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "8044D119-4183-A506-BF11-13BC359CD7A8",
+			"label": "8044D119-4183-A506-BF11-13BC359CD7A8",
+			"name":
+			{
+				"defaultText": "Solarstride Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة الخطوة الملتهبة",
+					"de-DE": "Banner „Solarstride“",
+					"en-US": "Solarstride Card",
+					"es-ES": "Tarjeta Solarstride",
+					"es-MX": "Tarjeta Rocinante",
+					"fr-FR": "Carte Solarstride",
+					"id-ID": "Kartu Solarstride",
+					"it-IT": "Carta Ritmo solare",
+					"ja-JP": "ソーラーストライド カード",
+					"ko-KR": "솔라스트라이드 카드",
+					"pl-PL": "Karta „Słoneczny Krok”",
+					"pt-BR": "Card Marcha Solar",
+					"ru-RU": "Карточка \"Солнечный галоп\"",
+					"th-TH": "การ์ด Solarstride",
+					"tr-TR": "Güneş Akını Kartı",
+					"vi-VN": "Thẻ Solarstride",
+					"zh-CN": "赤焰铁骥 卡面",
+					"zh-TW": "逐日炎蹄 玩家卡面"
 				}
 			}
 		},
@@ -235267,7 +236039,7 @@
 					"ar-AE": "100%",
 					"de-DE": "100 %",
 					"en-US": "100%",
-					"es-ES": "100 %",
+					"es-ES": "100%",
 					"es-MX": "100%",
 					"fr-FR": "100%",
 					"id-ID": "100%",
@@ -235294,7 +236066,7 @@
 					"ar-AE": "لقب %100",
 					"de-DE": "Titel „100 %“",
 					"en-US": "100% Title",
-					"es-ES": "Título 100 %",
+					"es-ES": "Título 100%",
 					"es-MX": "Título 100%",
 					"fr-FR": "Titre 100%",
 					"id-ID": "Gelar 100%",
@@ -241789,6 +242561,222 @@
 					"vi-VN": "Danh Hiệu Đỉnh Của Chóp",
 					"zh-CN": "潮流先锋 称号",
 					"zh-TW": "超有型 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Bakán",
+				"localizedByCulture":
+				{
+					"ar-AE": "رائعٌ حقًا",
+					"de-DE": "Bakán",
+					"en-US": "Bakán",
+					"es-ES": "Bakán",
+					"es-MX": "Bacán",
+					"fr-FR": "Bakán",
+					"id-ID": "Bakán",
+					"it-IT": "Bakán",
+					"ja-JP": "Bakán",
+					"ko-KR": "바칸",
+					"pl-PL": "Bakán",
+					"pt-BR": "Bakán",
+					"ru-RU": "Bakán",
+					"th-TH": "Bakán",
+					"tr-TR": "Bakán",
+					"vi-VN": "Bakán",
+					"zh-CN": "\"Bakán\"",
+					"zh-TW": "Bakán"
+				}
+			},
+			"id": "22054DAB-4C22-8C93-A196-0BBBBEBD744F",
+			"label": "22054DAB-4C22-8C93-A196-0BBBBEBD744F",
+			"name":
+			{
+				"defaultText": "Bakán Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب رائعٌ حقًا",
+					"de-DE": "Titel „Bakán“",
+					"en-US": "Bakán Title",
+					"es-ES": "Título Bakán",
+					"es-MX": "Título Bacán",
+					"fr-FR": "Titre Bakán",
+					"id-ID": "Gelar Bakán",
+					"it-IT": "Titolo Bakán",
+					"ja-JP": "Bakán タイトル",
+					"ko-KR": "바칸 칭호",
+					"pl-PL": "Tytuł „Bakán”",
+					"pt-BR": "Título Bakán",
+					"ru-RU": "Звание \"Bakán\"",
+					"th-TH": "ฉายา Bakán",
+					"tr-TR": "Bakán Unvanı",
+					"vi-VN": "Danh Hiệu Bakán",
+					"zh-CN": "\"Bakán\" 称号",
+					"zh-TW": "Bakán 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Cachando todo",
+				"localizedByCulture":
+				{
+					"ar-AE": "فهمت كل شيء",
+					"de-DE": "Cachando todo",
+					"en-US": "Cachando todo",
+					"es-ES": "Cachando todo",
+					"es-MX": "Cachando todo",
+					"fr-FR": "Cachando todo",
+					"id-ID": "Cachando todo",
+					"it-IT": "Cachando todo",
+					"ja-JP": "Cachando todo",
+					"ko-KR": "다 알아들었어",
+					"pl-PL": "Cachando todo",
+					"pt-BR": "Cachando Todo",
+					"ru-RU": "Cachando todo",
+					"th-TH": "Cachando todo",
+					"tr-TR": "Cachando todo",
+					"vi-VN": "Cachando todo",
+					"zh-CN": "看透一切",
+					"zh-TW": "Cachando todo"
+				}
+			},
+			"id": "9AA2218C-4B4C-492F-E37D-B69C1A7E8897",
+			"label": "9AA2218C-4B4C-492F-E37D-B69C1A7E8897",
+			"name":
+			{
+				"defaultText": "Cachando todo Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب فهمت كل شيء",
+					"de-DE": "Titel „Cachando todo“",
+					"en-US": "Cachando todo Title",
+					"es-ES": "Título Cachando todo",
+					"es-MX": "Título Cachando todo",
+					"fr-FR": "Titre Cachando todo",
+					"id-ID": "Gelar Cachando todo",
+					"it-IT": "Titolo Cachando todo",
+					"ja-JP": "Cachando todo タイトル",
+					"ko-KR": "다 알아들었어 칭호",
+					"pl-PL": "Tytuł „Cachando todo”",
+					"pt-BR": "Título Cachando Todo",
+					"ru-RU": "Звание \"Cachando todo\"",
+					"th-TH": "ฉายา Cachando todo",
+					"tr-TR": "Cachando todo Unvanı",
+					"vi-VN": "Danh Hiệu Cachando todo",
+					"zh-CN": "看透一切 称号",
+					"zh-TW": "Cachando todo 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Visionario",
+				"localizedByCulture":
+				{
+					"ar-AE": "صاحب الرؤية",
+					"de-DE": "Visionario",
+					"en-US": "Visionario",
+					"es-ES": "Visionario",
+					"es-MX": "Visionario",
+					"fr-FR": "Visionario",
+					"id-ID": "Visionario",
+					"it-IT": "Visionario",
+					"ja-JP": "Visionario",
+					"ko-KR": "선구자",
+					"pl-PL": "Visionario",
+					"pt-BR": "Visionario",
+					"ru-RU": "Visionario",
+					"th-TH": "Visionario",
+					"tr-TR": "Visionario",
+					"vi-VN": "Visionario",
+					"zh-CN": "有眼力见",
+					"zh-TW": "Visionario"
+				}
+			},
+			"id": "CAE2BAB6-46BC-ADDF-02FC-7D9DBE32E315",
+			"label": "CAE2BAB6-46BC-ADDF-02FC-7D9DBE32E315",
+			"name":
+			{
+				"defaultText": "Visionario Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب صاحب الرؤية",
+					"de-DE": "Titel „Visionario“",
+					"en-US": "Visionario Title",
+					"es-ES": "Título Visionario",
+					"es-MX": "Título Visionario",
+					"fr-FR": "Titre Visionario",
+					"id-ID": "Gelar Visionario",
+					"it-IT": "Titolo Visionario",
+					"ja-JP": "Visionario タイトル",
+					"ko-KR": "선구자 칭호",
+					"pl-PL": "Tytuł „Visionario”",
+					"pt-BR": "Título Visionario",
+					"ru-RU": "Звание \"Visionario\"",
+					"th-TH": "ฉายา Visionario",
+					"tr-TR": "Visionario Unvanı",
+					"vi-VN": "Danh Hiệu Visionario",
+					"zh-CN": "有眼力见 称号",
+					"zh-TW": "Visionario 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "VCT Masters Santiago Winner",
+				"localizedByCulture":
+				{
+					"ar-AE": "الفائز ببطولة VCT Masters سانتياغو",
+					"de-DE": "Sieger der VCT Masters Santiago",
+					"en-US": "VCT Masters Santiago Winner",
+					"es-ES": "Ganador del VCT Masters Santiago",
+					"es-MX": "Ganador del VCT Masters Santiago",
+					"fr-FR": "Vainqueur Masters Santiago VCT",
+					"id-ID": "VCT Masters Santiago Winner",
+					"it-IT": "Vincitore VCT Masters Santiago",
+					"ja-JP": "VCT Masters Santiago ウィナー",
+					"ko-KR": "VCT 마스터스 산티아고 우승자",
+					"pl-PL": "Zwycięzca VCT Masters Santiago",
+					"pt-BR": "Vencedor VCT Masters Santiago",
+					"ru-RU": "Победитель VCT Masters Santiago",
+					"th-TH": "ผู้ชนะ VCT Masters Santiago",
+					"tr-TR": "VCT Masters Santiago Galibi",
+					"vi-VN": "Quán Quân VCT Masters Santiago",
+					"zh-CN": "VCT圣地亚哥大师赛冠军",
+					"zh-TW": "VCT聖地牙哥大師賽贏家"
+				}
+			},
+			"id": "36313C61-4CC9-FDDF-2944-03AEC213E509",
+			"label": "36313C61-4CC9-FDDF-2944-03AEC213E509",
+			"name":
+			{
+				"defaultText": "VCT Masters Santiago Winner Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب الفائز ببطولة VCT Masters سانتياغو",
+					"de-DE": "Titel „Sieger der VCT Masters Santiago“",
+					"en-US": "VCT Masters Santiago Winner Title",
+					"es-ES": "Título de ganador del VCT Masters Santiago",
+					"es-MX": "Título Ganador del VCT Masters Santiago",
+					"fr-FR": "Titre Vainqueur Masters Santiago VCT",
+					"id-ID": "Gelar VCT Masters Santiago Winner",
+					"it-IT": "Titolo Vincitore VCT Masters Santiago",
+					"ja-JP": "VCT Masters Santiago ウィナー タイトル",
+					"ko-KR": "VCT 마스터스 산티아고 우승자 칭호",
+					"pl-PL": "Tytuł „Zwycięzca VCT Masters Santiago”",
+					"pt-BR": "Título Vencedor VCT Masters Santiago",
+					"ru-RU": "Звание \"Победитель VCT Masters Santiago\"",
+					"th-TH": "ฉายาผู้ชนะ VCT Masters Santiago",
+					"tr-TR": "VCT Masters Santiago Galibi Unvanı",
+					"vi-VN": "Danh Hiệu Quán Quân VCT Masters Santiago",
+					"zh-CN": "VCT圣地亚哥大师赛冠军 称号",
+					"zh-TW": "VCT聖地牙哥大師賽贏家 稱號"
 				}
 			}
 		},
@@ -249634,7 +250622,7 @@
 					"es-ES": "Ganador del VCT Masters Berlin",
 					"es-MX": "Ganador del VCT Masters Berlín",
 					"fr-FR": "Vainqueur Masters Berlin VCT",
-					"id-ID": "CT Masters Berlin Winner",
+					"id-ID": "VCT Masters Berlin Winner",
 					"it-IT": "Vincitore Masters VCT di Berlino",
 					"ja-JP": "VCT Masters Berlin ウィナー",
 					"ko-KR": "VCT 마스터스 베를린 우승자",
@@ -249712,7 +250700,7 @@
 					"ar-AE": "لقب الفائز ببطولة VCT Masters ريكيافيك",
 					"de-DE": "Titel „Sieger des VCT Masters Reykjavík“",
 					"en-US": "VCT Masters Reykjavik Winner Title",
-					"es-ES": "Título de ganador del VCT Masters Reykjavik",
+					"es-ES": "Título Ganador del VCT Masters Reykjavik",
 					"es-MX": "Título Ganador del VCT Masters Reikiavik",
 					"fr-FR": "Titre Vainq. Masters Reykjavik VCT",
 					"id-ID": "Gelar VCT Masters Reykjavik Winner",
@@ -254750,7 +255738,7 @@
 					"tr-TR": "Kim Alır Ustası: KOÇ BU KOÇ Uğuru",
 					"vi-VN": "Phụ Kiện Cao Thủ Pick'Ems: G.O.A.T.",
 					"zh-CN": "竞猜大师：史上最佳 挂饰",
-					"zh-TW": "預測大師：史上最棒 吊飾"
+					"zh-TW": "Pick'Ems預測大師：史上最棒 吊飾"
 				}
 			}
 		},
@@ -261777,6 +262765,126 @@
 		{
 			"levels": [
 				{
+					"id": "663901DC-4C1F-EDC9-1768-F7A2AD92A865",
+					"label": "663901DC-4C1F-EDC9-1768-F7A2AD92A865",
+					"name":
+					{
+						"defaultText": "EmpanadaDePino",
+						"localizedByCulture":
+						{
+							"ar-AE": "EmpanadaDePino",
+							"de-DE": "EmpanadaDePino",
+							"en-US": "EmpanadaDePino",
+							"es-ES": "EmpanadaDePino",
+							"es-MX": "EmpanadaDePino",
+							"fr-FR": "EmpanadaDePino",
+							"id-ID": "EmpanadaDePino",
+							"it-IT": "EmpanadaDePino",
+							"ja-JP": "EmpanadaDePino",
+							"ko-KR": "EmpanadaDePino",
+							"pl-PL": "EmpanadaDePino",
+							"pt-BR": "EmpanadaDePino",
+							"ru-RU": "EmpanadaDePino",
+							"th-TH": "EmpanadaDePino",
+							"tr-TR": "EmpanadaDePino",
+							"vi-VN": "EmpanadaDePino",
+							"zh-CN": "EmpanadaDePino",
+							"zh-TW": "EmpanadaDePino"
+						}
+					}
+				}
+			],
+			"id": "F79A3078-4C13-D7DA-CB6E-D3BB8A4DDCBE",
+			"label": "F79A3078-4C13-D7DA-CB6E-D3BB8A4DDCBE",
+			"name":
+			{
+				"defaultText": "¡Rico, po! Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق يا له من مذاق!",
+					"de-DE": "Talisman „¡Rico, po!“",
+					"en-US": "¡Rico, po! Buddy",
+					"es-ES": "Amuleto ¡Rico, po!",
+					"es-MX": "Buddy ¡Rico, po!",
+					"fr-FR": "Porte-bonheur ¡Rico, po!",
+					"id-ID": "Buddy ¡Rico, po!",
+					"it-IT": "Accessorio ¡Rico, po!",
+					"ja-JP": "¡Rico, po! バディー",
+					"ko-KR": "¡맛있어! 총기 장식",
+					"pl-PL": "Przywieszka „¡Rico, po!”",
+					"pt-BR": "Chaveiro ¡Rico, po!",
+					"ru-RU": "Брелок \"¡Rico, po!\"",
+					"th-TH": "บัดดี้ ¡Rico, po!",
+					"tr-TR": "¡Rico, po! Uğuru",
+					"vi-VN": "Phụ Kiện ¡Rico, po!",
+					"zh-CN": "可口馅饼 挂饰",
+					"zh-TW": "¡Rico, po! 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "8EFF26AD-4E69-663C-CBDD-74B4E5897C08",
+					"label": "8EFF26AD-4E69-663C-CBDD-74B4E5897C08",
+					"name":
+					{
+						"defaultText": "EmpanadaDePinoGold",
+						"localizedByCulture":
+						{
+							"ar-AE": "EmpanadaDePinoGold",
+							"de-DE": "EmpanadaDePinoGold",
+							"en-US": "EmpanadaDePinoGold",
+							"es-ES": "EmpanadaDePinoGold",
+							"es-MX": "EmpanadaDePinoGold",
+							"fr-FR": "EmpanadaDePinoGold",
+							"id-ID": "EmpanadaDePinoGold",
+							"it-IT": "EmpanadaDePinoGold",
+							"ja-JP": "EmpanadaDePinoGold",
+							"ko-KR": "EmpanadaDePinoGold",
+							"pl-PL": "EmpanadaDePinoGold",
+							"pt-BR": "EmpanadaDePinoGold",
+							"ru-RU": "EmpanadaDePinoGold",
+							"th-TH": "EmpanadaDePinoGold",
+							"tr-TR": "EmpanadaDePinoGold",
+							"vi-VN": "EmpanadaDePinoGold",
+							"zh-CN": "EmpanadaDePinoGold",
+							"zh-TW": "EmpanadaDePinoGold"
+						}
+					}
+				}
+			],
+			"id": "1F1EAECC-4897-F830-2568-91A379A86DD8",
+			"label": "1F1EAECC-4897-F830-2568-91A379A86DD8",
+			"name":
+			{
+				"defaultText": "Pick'Ems Master: ¡Rico, po! Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق خبير Pick'Ems: يا له من مذاق!",
+					"de-DE": "Talisman „Tippspielmeister: ¡Rico, po!“",
+					"en-US": "Pick'Ems Master: ¡Rico, po! Buddy",
+					"es-ES": "Maestro de la quiniela: Amuleto ¡Rico, po!",
+					"es-MX": "Especialista en Pick'ems: Buddy ¡Rico, po!",
+					"fr-FR": "Porte-bonheur Expert des Pick'Ems : ¡Rico, po!",
+					"id-ID": "Buddy Pick'Ems Master: ¡Rico, po!",
+					"it-IT": "Accessorio Maestro Pick'Ems: ¡Rico, po!",
+					"ja-JP": "Pick'Ems マスター: ¡Rico, po! バディー",
+					"ko-KR": "승부의 신 마스터: ¡맛있어! 총기 장식",
+					"pl-PL": "Przywieszka „Mistrz typowania: ¡Rico, po!”",
+					"pt-BR": "Chaveiro Mestre do Bolão: ¡Rico, po!",
+					"ru-RU": "Брелок \"Мастер конкурса прогнозов: ¡Rico, po!\"",
+					"th-TH": "บัดดี้ Pick'Ems Master: ¡Rico, po!",
+					"tr-TR": "Kim Alır Ustası: ¡Rico, po! Uğuru",
+					"vi-VN": "Phụ Kiện Cao Thủ Pick'Ems: ¡Rico, po!",
+					"zh-CN": "竞猜大师：黄金可口馅饼 挂饰",
+					"zh-TW": "Pick'Ems預測大師：¡Rico, po! 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "BA3035E0-4EEE-5059-64ED-D2943F3F624E",
 					"label": "BA3035E0-4EEE-5059-64ED-D2943F3F624E",
 					"name":
@@ -262060,7 +263168,7 @@
 					"es-MX": "Buddy Ganador del VCT Masters",
 					"fr-FR": "Porte-bonheur Vainqueur des Masters du VCT",
 					"id-ID": "Buddy VCT Masters Winner",
-					"it-IT": "Accessorio Vincitore Masters VCT",
+					"it-IT": "Accessorio Vincitore VCT Masters",
 					"ja-JP": "VCT Masters ウィナー バディー",
 					"ko-KR": "VCT 마스터스 우승자 총기 장식",
 					"pl-PL": "Przywieszka „Zwycięzca VCT Masters”",
@@ -262901,7 +264009,7 @@
 					"fr-FR": "Porte-bonheur Feu d'artifice lunaire",
 					"id-ID": "Buddy Lunar Firework",
 					"it-IT": "Accessorio Fuoco d'artificio lunare",
-					"ja-JP": "旧正月の花火 バディー",
+					"ja-JP": "新年の爆竹 バディー",
 					"ko-KR": "새해 불꽃놀이 총기 장식",
 					"pl-PL": "Przywieszka „Księżycowe fajerwerki”",
 					"pt-BR": "Chaveiro Fogos Lunares",
@@ -264879,7 +265987,7 @@
 					"es-ES": "Maestro de la quiniela: Amuleto Gonggi",
 					"es-MX": "Especialista del Pick 'Em: Buddy Gonggi",
 					"fr-FR": "Porte-bonheur Expert des Pick'Ems : gonggi",
-					"id-ID": "Buddy Pick 'Em Master: Gonggi",
+					"id-ID": "Buddy Pick'Ems Master: Gonggi",
 					"it-IT": "Accessorio Maestro Pick'Ems: Gonggi",
 					"ja-JP": "Pick'Ems マスター:コンギ バディー",
 					"ko-KR": "승부의 신 마스터: 공기 총기 장식",
@@ -264890,7 +265998,7 @@
 					"tr-TR": "Kim Alır Ustası: Gonggi Uğuru",
 					"vi-VN": "Phụ Kiện Cao Thủ Pick'Ems: Gonggi",
 					"zh-CN": "竞猜大师：抓石子 挂饰",
-					"zh-TW": "預測大師：貢吉石 吊飾"
+					"zh-TW": "Pick'Ems預測大師：貢吉石 吊飾"
 				}
 			}
 		},
@@ -268857,6 +269965,66 @@
 		{
 			"levels": [
 				{
+					"id": "A7E3C668-43F8-C55E-055E-868D6D27A8A7",
+					"label": "A7E3C668-43F8-C55E-055E-868D6D27A8A7",
+					"name":
+					{
+						"defaultText": "LNY26",
+						"localizedByCulture":
+						{
+							"ar-AE": "LNY26",
+							"de-DE": "LNY26",
+							"en-US": "LNY26",
+							"es-ES": "LNY26",
+							"es-MX": "LNY26",
+							"fr-FR": "LNY26",
+							"id-ID": "LNY26",
+							"it-IT": "LNY26",
+							"ja-JP": "LNY26",
+							"ko-KR": "LNY26",
+							"pl-PL": "LNY26",
+							"pt-BR": "LNY26",
+							"ru-RU": "LNY26",
+							"th-TH": "LNY26",
+							"tr-TR": "LNY26",
+							"vi-VN": "LNY26",
+							"zh-CN": "LNY26",
+							"zh-TW": "LNY26"
+						}
+					}
+				}
+			],
+			"id": "A658769C-4996-ACFB-A3DA-3AB8E975DFE1",
+			"label": "A658769C-4996-ACFB-A3DA-3AB8E975DFE1",
+			"name":
+			{
+				"defaultText": "Solarstride Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق الخطوة الملتهبة",
+					"de-DE": "Talisman „Solarstride“",
+					"en-US": "Solarstride Buddy",
+					"es-ES": "Amuleto Solarstride",
+					"es-MX": "Buddy Rocinante",
+					"fr-FR": "Porte-bonheur Solarstride",
+					"id-ID": "Buddy Solarstride",
+					"it-IT": "Accessorio Ritmo solare",
+					"ja-JP": "ソーラーストライド バディー",
+					"ko-KR": "솔라스트라이드 총기 장식",
+					"pl-PL": "Przywieszka „Słoneczny Krok”",
+					"pt-BR": "Chaveiro Marcha Solar",
+					"ru-RU": "Брелок \"Солнечный галоп\"",
+					"th-TH": "บัดดี้ Solarstride",
+					"tr-TR": "Güneş Akını Uğuru",
+					"vi-VN": "Phụ Kiện Solarstride",
+					"zh-CN": "赤焰铁骥 挂饰",
+					"zh-TW": "逐日炎蹄 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "8C39612B-4D7F-7CAA-6B7B-68967897E508",
 					"label": "8C39612B-4D7F-7CAA-6B7B-68967897E508",
 					"name":
@@ -269919,7 +271087,7 @@
 					"es-ES": "Maestro de la quiniela: Amuleto Dulce victoria",
 					"es-MX": "Especialista del Pick'Ems: Buddy Dulce Victoria",
 					"fr-FR": "Porte-bonheur Expert des Pick'Ems : Victoire savoureuse",
-					"id-ID": "Buddy Pick 'Em Master: Sweet Victory",
+					"id-ID": "Buddy Pick'Ems Master: Sweet Victory",
 					"it-IT": "Accessorio Maestro Pick'Ems: Dolce vittoria",
 					"ja-JP": "Pick'Ems マスター: 甘美な勝利 バディー",
 					"ko-KR": "승부의 신 마스터: 달콤한 승리 총기 장식",
@@ -269930,7 +271098,7 @@
 					"tr-TR": "Kim Alır Ustası: Tatlı Zafer Uğuru",
 					"vi-VN": "Phụ Kiện Cao Thủ Pick'Ems: Thắng Lợi Ngọt Bùi",
 					"zh-CN": "竞猜大师：胜利的滋味 挂饰",
-					"zh-TW": "預測大師：勝利甜美滋味 吊飾"
+					"zh-TW": "Pick'Ems預測大師：勝利甜美滋味 吊飾"
 				}
 			}
 		},
@@ -272807,7 +273975,7 @@
 					"pt-BR": "Chaveiro Ult Bias: Iso",
 					"ru-RU": "Брелок \"Лучший агент: Iso\"",
 					"th-TH": "บัดดี้ Ult Bias: Iso",
-					"tr-TR": "Ulti Tehlikesi: Iso Uğuru",
+					"tr-TR": "Favori Ulti: Iso Uğuru",
 					"vi-VN": "Phụ Kiện Siêu Bias: Iso",
 					"zh-CN": "本命：壹决 挂饰",
 					"zh-TW": "本命：離索 吊飾"
@@ -272867,7 +274035,7 @@
 					"pt-BR": "Chaveiro Ult Bias: Jett",
 					"ru-RU": "Брелок \"Лучший агент: Jett\"",
 					"th-TH": "บัดดี้ Ult Bias: Jett",
-					"tr-TR": "Ulti Tehlikesi: Jett Uğuru",
+					"tr-TR": "Favori Ulti: Jett Uğuru",
 					"vi-VN": "Phụ Kiện Siêu Bias: Jett",
 					"zh-CN": "本命：捷风 挂饰",
 					"zh-TW": "本命：婕提 吊飾"
@@ -272927,7 +274095,7 @@
 					"pt-BR": "Chaveiro Ult Bias: Yoru",
 					"ru-RU": "Брелок \"Лучший агент: Yoru\"",
 					"th-TH": "บัดดี้ Ult Bias: Yoru",
-					"tr-TR": "Ulti Tehlikesi: Yoru Uğuru",
+					"tr-TR": "Favori Ulti: Yoru Uğuru",
 					"vi-VN": "Phụ Kiện Siêu Bias: Yoru",
 					"zh-CN": "本命：夜露 挂饰",
 					"zh-TW": "本命：夜戮 吊飾"
@@ -273410,7 +274578,7 @@
 					"tr-TR": "Kim Alır Ustası: Cep Killjoy'u Uğuru",
 					"vi-VN": "Phụ Kiện Cao Thủ Pick'Ems: Killjoy Bỏ Túi",
 					"zh-CN": "竞猜大师：袖珍奇乐 挂饰",
-					"zh-TW": "預測大師：口袋愷宙 吊飾"
+					"zh-TW": "Pick'Ems預測大師：口袋愷宙 吊飾"
 				}
 			}
 		},
@@ -292057,7 +293225,7 @@
 					"de-DE": "Talisman „Protokolldummy“",
 					"en-US": "Protocol Dummy Buddy",
 					"es-ES": "Amuleto MUÑECO DE PROTOCOLO",
-					"es-MX": "Buddy Amiguín Protocolar",
+					"es-MX": "Buddy Bot Protocolar",
 					"fr-FR": "Porte-bonheur Cobaye de protocole",
 					"id-ID": "Buddy Protocol Dummy",
 					"it-IT": "Accessorio Fantoccio del Protocollo",
@@ -292117,7 +293285,7 @@
 					"de-DE": "Talisman „Epilog: Protokolldummy“",
 					"en-US": "Epilogue: Protocol Dummy Buddy",
 					"es-ES": "Epílogo: Amuleto muñeco de protocolo",
-					"es-MX": "Buddy Epílogo: Amiguín Protocolar",
+					"es-MX": "Buddy Epílogo: Bot Protocolar",
 					"fr-FR": "Porte-bonheur Épilogue : cobaye de protocole",
 					"id-ID": "Buddy Epilogue: Protocol Dummy",
 					"it-IT": "Accessorio Epilogo: Fantoccio del Protocollo",
@@ -328019,6 +329187,66 @@
 		{
 			"levels": [
 				{
+					"id": "A8845BF6-4952-52B3-99AD-B28865F7BEA4",
+					"label": "A8845BF6-4952-52B3-99AD-B28865F7BEA4",
+					"name":
+					{
+						"defaultText": "Masters1_2026Shotcalls",
+						"localizedByCulture":
+						{
+							"ar-AE": "Masters1_2026Shotcalls",
+							"de-DE": "Masters1_2026Shotcalls",
+							"en-US": "Masters1_2026Shotcalls",
+							"es-ES": "Masters1_2026Shotcalls",
+							"es-MX": "Masters1_2026Shotcalls",
+							"fr-FR": "Masters1_2026Shotcalls",
+							"id-ID": "Masters1_2026Shotcalls",
+							"it-IT": "Masters1_2026Shotcalls",
+							"ja-JP": "Masters1_2026Shotcalls",
+							"ko-KR": "Masters1_2026Shotcalls",
+							"pl-PL": "Masters1_2026Shotcalls",
+							"pt-BR": "Masters1_2026Shotcalls",
+							"ru-RU": "Masters1_2026Shotcalls",
+							"th-TH": "Masters1_2026Shotcalls",
+							"tr-TR": "Masters1_2026Shotcalls",
+							"vi-VN": "Masters1_2026Shotcalls",
+							"zh-CN": "Masters1_2026Shotcalls",
+							"zh-TW": "Masters1_2026Shotcalls"
+						}
+					}
+				}
+			],
+			"id": "ABDD1060-4133-C259-EB11-B19512A1853A",
+			"label": "ABDD1060-4133-C259-EB11-B19512A1853A",
+			"name":
+			{
+				"defaultText": "¡Barrida! Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة انزلاقة خاطفة!",
+					"de-DE": "Graffiti „¡Barrida!“",
+					"en-US": "¡Barrida! Spray",
+					"es-ES": "Grafiti ¡Barrida!",
+					"es-MX": "Spray ¡Barrida!",
+					"fr-FR": "Graffiti ¡Barrida!",
+					"id-ID": "Spray ¡Barrida!",
+					"it-IT": "Spray ¡Barrida!",
+					"ja-JP": "¡Barrida! スプレー",
+					"ko-KR": "¡쓸어버려! 스프레이",
+					"pl-PL": "Graffiti „¡Barrida!”",
+					"pt-BR": "Spray ¡Barrida!",
+					"ru-RU": "Граффити \"¡Barrida!\"",
+					"th-TH": "สเปรย์ ¡Barrida!",
+					"tr-TR": "¡Barrida! Spreyi",
+					"vi-VN": "Hình Phun Sơn ¡Barrida!",
+					"zh-CN": "飞铲！喷漆",
+					"zh-TW": "¡Barrida! 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "4FB29A38-4953-FD95-907A-BD8EFD1F02CD",
 					"label": "4FB29A38-4953-FD95-907A-BD8EFD1F02CD",
 					"name":
@@ -339599,6 +340827,66 @@
 		{
 			"levels": [
 				{
+					"id": "CF054171-4D11-B54F-974A-50B880F1615F",
+					"label": "CF054171-4D11-B54F-974A-50B880F1615F",
+					"name":
+					{
+						"defaultText": "LNY26_Horse",
+						"localizedByCulture":
+						{
+							"ar-AE": "LNY26_Horse",
+							"de-DE": "LNY26_Horse",
+							"en-US": "LNY26_Horse",
+							"es-ES": "LNY26_Horse",
+							"es-MX": "LNY26_Horse",
+							"fr-FR": "LNY26_Horse",
+							"id-ID": "LNY26_Horse",
+							"it-IT": "LNY26_Horse",
+							"ja-JP": "LNY26_Horse",
+							"ko-KR": "LNY26_Horse",
+							"pl-PL": "LNY26_Horse",
+							"pt-BR": "LNY26_Horse",
+							"ru-RU": "LNY26_Horse",
+							"th-TH": "LNY26_Horse",
+							"tr-TR": "LNY26_Horse",
+							"vi-VN": "LNY26_Horse",
+							"zh-CN": "LNY26_Horse",
+							"zh-TW": "LNY26_Horse"
+						}
+					}
+				}
+			],
+			"id": "1681AE15-4A81-151C-3435-90B08471D1B6",
+			"label": "1681AE15-4A81-151C-3435-90B08471D1B6",
+			"name":
+			{
+				"defaultText": "Solarstride Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة الخطوة الملتهبة",
+					"de-DE": "Graffiti „Solarstride“",
+					"en-US": "Solarstride Spray",
+					"es-ES": "Grafiti Solarstride",
+					"es-MX": "Spray Rocinante",
+					"fr-FR": "Graffiti Solarstride",
+					"id-ID": "Spray Solarstride",
+					"it-IT": "Spray Ritmo solare",
+					"ja-JP": "ソーラーストライド スプレー",
+					"ko-KR": "솔라스트라이드 스프레이",
+					"pl-PL": "Graffiti „Słoneczny Krok”",
+					"pt-BR": "Spray Marcha Solar",
+					"ru-RU": "Граффити \"Солнечный галоп\"",
+					"th-TH": "สเปรย์ Solarstride",
+					"tr-TR": "Güneş Akını Spreyi",
+					"vi-VN": "Hình Phun Sơn Solarstride",
+					"zh-CN": "赤焰铁骥 喷漆",
+					"zh-TW": "逐日炎蹄 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "68A82084-47A5-7320-79ED-AEB3646A7E6E",
 					"label": "68A82084-47A5-7320-79ED-AEB3646A7E6E",
 					"name":
@@ -347163,27 +348451,27 @@
 			"label": "FC33F376-4A58-687C-6961-BD8A7E529346",
 			"name":
 			{
-				"defaultText": "ORA by OneTap",
+				"defaultText": "ORA by OneTap Flex",
 				"localizedByCulture":
 				{
-					"ar-AE": "ORA by OneTap",
-					"de-DE": "ORA by OneTap",
-					"en-US": "ORA by OneTap",
-					"es-ES": "ORA by OneTap",
-					"es-MX": "ORA por OneTap",
-					"fr-FR": "ORA par OneTap",
-					"id-ID": "ORA by OneTap",
-					"it-IT": "ORA by OneTap",
-					"ja-JP": "オラ by OneTap",
-					"ko-KR": "오라 바이 원탭",
-					"pl-PL": "ORA od OneTap",
-					"pt-BR": "ORA por OneTap",
-					"ru-RU": "\"ORA от OneTap\"",
-					"th-TH": "ORA by OneTap",
-					"tr-TR": "OneTap'ten ORA",
-					"vi-VN": "ORA by OneTap",
-					"zh-CN": "ORA x 颗秒 喇叭",
-					"zh-TW": "猛攻之境"
+					"ar-AE": "أداة استعراض ORA by OneTap",
+					"de-DE": "Flex „ORA by OneTap“",
+					"en-US": "ORA by OneTap Flex",
+					"es-ES": "Vacile ORA by OneTap",
+					"es-MX": "Flex ORA por OneTap",
+					"fr-FR": "Flex ORA par OneTap",
+					"id-ID": "Flex ORA by OneTap",
+					"it-IT": "Flex ORA by OneTap",
+					"ja-JP": "オラ by OneTap フレックス",
+					"ko-KR": "오라 바이 원탭 플렉스",
+					"pl-PL": "Flex „ORA od OneTap”",
+					"pt-BR": "Gesto ORA por OneTap",
+					"ru-RU": "Флекс \"ORA от OneTap\"",
+					"th-TH": "ORA by OneTap Flex",
+					"tr-TR": "OneTap'ten ORA Donatısı",
+					"vi-VN": "Flex ORA by OneTap",
+					"zh-CN": "ORA x 颗秒 盘盘",
+					"zh-TW": "猛攻之境 炫技"
 				}
 			}
 		},
@@ -347192,27 +348480,27 @@
 			"label": "80A11C6A-4D28-BFAD-5594-2E9369B7787A",
 			"name":
 			{
-				"defaultText": "Bolt Prism",
+				"defaultText": "Bolt Prism Flex",
 				"localizedByCulture":
 				{
-					"ar-AE": "موشور الصاعقة",
-					"de-DE": "Prisma – Blitz",
-					"en-US": "Bolt Prism",
-					"es-ES": "Prisma Bolt",
-					"es-MX": "Prisma Voltaico",
-					"fr-FR": "Prisme Foudre",
-					"id-ID": "Bolt Prism",
-					"it-IT": "Prisma Fulmine",
-					"ja-JP": "ボルト プリズム",
-					"ko-KR": "볼트 프리즘",
-					"pl-PL": "Pryzmatyczny Grom",
-					"pt-BR": "Prisma Eletrizante",
-					"ru-RU": "Призма \"Разряд\"",
-					"th-TH": "Bolt Prism",
-					"tr-TR": "Şimşek Prizma",
-					"vi-VN": "Lăng Kính Bolt",
-					"zh-CN": "神中神罚 棱晶",
-					"zh-TW": "雷霆 稜鏡"
+					"ar-AE": "أداة استعراض موشور الصاعقة",
+					"de-DE": "Flex „Prisma – Blitz“",
+					"en-US": "Bolt Prism Flex",
+					"es-ES": "Vacile Prisma Bolt",
+					"es-MX": "Flex Prisma Voltaico",
+					"fr-FR": "Flex Prisme Foudre",
+					"id-ID": "Flex Bolt Prism",
+					"it-IT": "Flex Prisma Fulmine",
+					"ja-JP": "ボルト プリズム フレックス",
+					"ko-KR": "볼트 프리즘 플렉스",
+					"pl-PL": "Flex „Pryzmatyczny Grom”",
+					"pt-BR": "Gesto Prisma Eletrizante",
+					"ru-RU": "Флекс \"Призма \"Разряд\"",
+					"th-TH": "Bolt Prism Flex",
+					"tr-TR": "Şimşek Prizma Donatısı",
+					"vi-VN": "Flex Lăng Kính Bolt",
+					"zh-CN": "神中神罚 棱晶 盘盘",
+					"zh-TW": "雷霆 稜鏡 炫技"
 				}
 			}
 		},
@@ -347221,27 +348509,56 @@
 			"label": "2C270C5A-4DA2-B120-DF90-EE89F6BFC55F",
 			"name":
 			{
-				"defaultText": "Mr. Sprinklebottom",
+				"defaultText": "Mr. Sprinklebottom Flex",
 				"localizedByCulture":
 				{
-					"ar-AE": "السيد كعكي",
-					"de-DE": "Herr Streuselich",
-					"en-US": "Mr. Sprinklebottom",
-					"es-ES": "Sr. Confitísimo",
-					"es-MX": "Sr. Chispitas",
-					"fr-FR": "M. Petit biscuit",
-					"id-ID": "Mr. Sprinklebottom",
-					"it-IT": "Omino pralinato",
-					"ja-JP": "ミスター・スプリンクルボトム",
-					"ko-KR": "스프링클바텀 씨",
-					"pl-PL": "Pan Posypka",
-					"pt-BR": "Sr. Granuladinho",
-					"ru-RU": "Мистер Печенька",
-					"th-TH": "Mr. Sprinklebottom",
-					"tr-TR": "Bay Şekerşort",
-					"vi-VN": "Mr. Sprinklebottom",
-					"zh-CN": "糖饼先生",
-					"zh-TW": "糖霜先生"
+					"ar-AE": "أداة استعراض السيد كعكي",
+					"de-DE": "Flex „Herr Streuselich“",
+					"en-US": "Mr. Sprinklebottom Flex",
+					"es-ES": "Vacile Sr. Confitísimo",
+					"es-MX": "Flex Sr. Chispitas",
+					"fr-FR": "Flex M. Petit biscuit",
+					"id-ID": "Flex Mr. Sprinklebottom",
+					"it-IT": "Flex Omino pralinato",
+					"ja-JP": "ミスター・スプリンクルボトム フレックス",
+					"ko-KR": "스프링클바텀 씨 플렉스",
+					"pl-PL": "Flex „Pan Posypka”",
+					"pt-BR": "Gesto Sr. Granuladinho",
+					"ru-RU": "Флекс \"Мистер Печенька\"",
+					"th-TH": "Mr. Sprinklebottom Flex",
+					"tr-TR": "Bay Şekerşort Donatısı",
+					"vi-VN": "Flex Mr. Sprinklebottom",
+					"zh-CN": "糖饼先生 盘盘",
+					"zh-TW": "糖霜先生 炫技"
+				}
+			}
+		},
+		{
+			"id": "26D0A6CB-4F8C-04B8-FDB0-CC8B1ADF8B59",
+			"label": "26D0A6CB-4F8C-04B8-FDB0-CC8B1ADF8B59",
+			"name":
+			{
+				"defaultText": "FDGT // SPNR Flex",
+				"localizedByCulture":
+				{
+					"ar-AE": "أداة استعراض FDGT // SPNR",
+					"de-DE": "Flex „FDGT // SPNR“",
+					"en-US": "FDGT // SPNR Flex",
+					"es-ES": "Vacile FDGT // SPNR",
+					"es-MX": "Flex FDGT // SPNR",
+					"fr-FR": "Flex FDGT // SPNR",
+					"id-ID": "FDGT // SPNR Flex",
+					"it-IT": "Flex FDGT // SPNR",
+					"ja-JP": "FDGT // SPNR フレックス",
+					"ko-KR": "피젯 // 스피너 플렉스",
+					"pl-PL": "Flex „FDGT // SPNR”",
+					"pt-BR": "Gesto FDGT // SPNR",
+					"ru-RU": "Флекс \"ФДЖТ // СПНР\"",
+					"th-TH": "FDGT // SPNR Flex",
+					"tr-TR": "STRS // ÇRKI Donatısı",
+					"vi-VN": "Flex FDGT // SPNR",
+					"zh-CN": "指尖//陀螺 盘盘",
+					"zh-TW": "FDGT // 指尖陀螺 炫技"
 				}
 			}
 		},
@@ -347250,27 +348567,27 @@
 			"label": "CB4BF100-4590-C564-C805-67BCF98B7BAA",
 			"name":
 			{
-				"defaultText": ":D",
+				"defaultText": ":D Flex",
 				"localizedByCulture":
 				{
-					"ar-AE": "‏D:",
-					"de-DE": ":D",
-					"en-US": ":D",
-					"es-ES": ":D",
-					"es-MX": ":D",
-					"fr-FR": ":D",
-					"id-ID": ":D",
-					"it-IT": ":D",
-					"ja-JP": ":D",
-					"ko-KR": ":D",
-					"pl-PL": ":D",
-					"pt-BR": ":D",
-					"ru-RU": ":D",
-					"th-TH": ":D",
-					"tr-TR": ":D",
-					"vi-VN": ":D",
-					"zh-CN": ":D",
-					"zh-TW": ":D"
+					"ar-AE": "أداة استعراض D:",
+					"de-DE": "Flex „:D“",
+					"en-US": ":D Flex",
+					"es-ES": "Vacile :D",
+					"es-MX": "Flex :D",
+					"fr-FR": "Flex :D",
+					"id-ID": "Flex :D",
+					"it-IT": "Flex :D",
+					"ja-JP": ":D フレックス",
+					"ko-KR": ":D 플렉스",
+					"pl-PL": "Flex „:D”",
+					"pt-BR": "Gesto :D",
+					"ru-RU": "Флекс \":D\"",
+					"th-TH": ":D Flex",
+					"tr-TR": ":D Donatısı",
+					"vi-VN": "Flex :D",
+					"zh-CN": ":D 盘盘",
+					"zh-TW": ":D 炫技"
 				}
 			}
 		},
@@ -347279,27 +348596,27 @@
 			"label": "38DAFC48-4668-6F70-1E8C-BF939841CF7E",
 			"name":
 			{
-				"defaultText": "Killbanner",
+				"defaultText": "Killbanner Flex",
 				"localizedByCulture":
 				{
-					"ar-AE": "لافتة القتل",
-					"de-DE": "Killbanner",
-					"en-US": "Killbanner",
-					"es-ES": "Emblema de asesinato",
-					"es-MX": "Emblema de asesinato",
-					"fr-FR": "Bannière d'élimination",
-					"id-ID": "Banner Kill",
-					"it-IT": "Stendardo uccisione",
-					"ja-JP": "キルバナー",
-					"ko-KR": "킬 배너",
-					"pl-PL": "Baner zabójstwa",
-					"pt-BR": "Estandarte de Abate",
-					"ru-RU": "Баннер убийства",
-					"th-TH": "Killbanner",
-					"tr-TR": "Ölüm Sancağı",
-					"vi-VN": "Thông Báo Ăn Mạng",
-					"zh-CN": "击败旗帜",
-					"zh-TW": "擊殺旗幟"
+					"ar-AE": "أداة استعراض لافتة القتل",
+					"de-DE": "Flex „Killbanner“",
+					"en-US": "Killbanner Flex",
+					"es-ES": "Vacile Emblema de asesinato",
+					"es-MX": "Flex Emblema de asesinato",
+					"fr-FR": "Flex Bannière d'élimination",
+					"id-ID": "Flex Killbanner",
+					"it-IT": "Flex Stendardo uccisione",
+					"ja-JP": "キルバナー フレックス",
+					"ko-KR": "킬 배너 플렉스",
+					"pl-PL": "Flex „Baner Zabójstwa”",
+					"pt-BR": "Gesto Estandarte de Abate",
+					"ru-RU": "Флекс \"Баннер убийства\"",
+					"th-TH": "Killbanner Flex",
+					"tr-TR": "Ölüm Sancağı Donatısı",
+					"vi-VN": "Flex Thông Báo Ăn Mạng",
+					"zh-CN": "击败旗帜 盘盘",
+					"zh-TW": "擊殺旗幟 炫技"
 				}
 			}
 		},
@@ -347308,27 +348625,27 @@
 			"label": "E2207345-4FC9-6967-F800-B18E9D87921A",
 			"name":
 			{
-				"defaultText": "Champions 2025 Trophy",
+				"defaultText": "Champions 2025 Trophy Flex",
 				"localizedByCulture":
 				{
-					"ar-AE": "كأس Champions 2025",
-					"de-DE": "Trophäe „Champions 2025“",
-					"en-US": "Champions 2025 Trophy",
-					"es-ES": "Trofeo Champions 2025",
-					"es-MX": "Trofeo Champions 2025",
-					"fr-FR": "Trophée Champions 2025",
-					"id-ID": "Trofi Champions 2025",
-					"it-IT": "Trofeo Champions 2025",
-					"ja-JP": "Champions 2025 トロフィー",
-					"ko-KR": "2025 챔피언스 트로피",
-					"pl-PL": "Trofeum Champions 2025",
-					"pt-BR": "Troféu Champions 2025",
-					"ru-RU": "Трофей \"Champions 2025\"",
-					"th-TH": "ถ้วยรางวัล Champions 2025",
-					"tr-TR": "Champions 2025 Kupası",
-					"vi-VN": "Cúp Champions 2025",
-					"zh-CN": "2025全球冠军赛 奖杯",
-					"zh-TW": "Champions 2025 獎盃"
+					"ar-AE": "أداة استعراض كأس Champions 2025",
+					"de-DE": "Flex „Trophäe Champions 2025“",
+					"en-US": "Champions 2025 Trophy Flex",
+					"es-ES": "Vacile Trofeo Champions 2025",
+					"es-MX": "Flex Trofeo Champions 2025",
+					"fr-FR": "Flex Trophée Champions 2025",
+					"id-ID": "Trofi Flex Champions 2025",
+					"it-IT": "Flex Trofeo Champions 2025",
+					"ja-JP": "Champions 2025 トロフィー フレックス",
+					"ko-KR": "2025 챔피언스 트로피 플렉스",
+					"pl-PL": "Flex „Trofeum Champions 2025”",
+					"pt-BR": "Gesto Troféu Champions 2025",
+					"ru-RU": "Флекс \"Трофей Champions 2025\"",
+					"th-TH": "Champions 2025 Trophy Flex",
+					"tr-TR": "Champions 2025 Kupası Donatısı",
+					"vi-VN": "Flex Cúp Champions 2025",
+					"zh-CN": "2025全球冠军赛 奖杯 盘盘",
+					"zh-TW": "Champions 2025 獎盃 炫技"
 				}
 			}
 		},
@@ -347337,27 +348654,27 @@
 			"label": "AA283B9A-44DD-7C05-7017-28889664A848",
 			"name":
 			{
-				"defaultText": "PB&J",
+				"defaultText": "PB&J Flex",
 				"localizedByCulture":
 				{
-					"ar-AE": "الشطيرة",
-					"de-DE": "Erdnussbutter und Marmelade",
-					"en-US": "PB&J",
-					"es-ES": "SÁNDWICH MÍTICO",
-					"es-MX": "Sandwichito",
-					"fr-FR": "Cacahuète et confiture",
-					"id-ID": "PB&J",
-					"it-IT": "Marmellata e burro d'arachidi",
-					"ja-JP": "ピーナッツバター＆ジャム",
-					"ko-KR": "땅콩버터 젤리 샌드위치",
-					"pl-PL": "Masło orzechowe z dżemem",
-					"pt-BR": "Sanduíche",
-					"ru-RU": "Сладкий сэндвич",
-					"th-TH": "PB&J",
-					"tr-TR": "Fıstık Ezmesi ve Reçel",
-					"vi-VN": "PB&J",
-					"zh-CN": "花生果酱三明治",
-					"zh-TW": "花生果醬三明治"
+					"ar-AE": "أداة استعراض الشطيرة",
+					"de-DE": "Flex „Erdnussbutter und Marmelade“",
+					"en-US": "PB&J Flex",
+					"es-ES": "Vacile Sándwich mítico",
+					"es-MX": "Flex Sandwichito",
+					"fr-FR": "Flex Cacahuète et confiture",
+					"id-ID": "Flex PB&J",
+					"it-IT": "Flex Marmellata e burro d'arachidi",
+					"ja-JP": "PB&J フレックス",
+					"ko-KR": "땅콩버터 젤리 샌드위치 플렉스",
+					"pl-PL": "Flex „Masło orzechowe z dżemem”",
+					"pt-BR": "Gesto Sanduíche",
+					"ru-RU": "Флекс \"Сладкий сэндвич\"",
+					"th-TH": "PB&J Flex",
+					"tr-TR": "Fıstık Ezmesi ve Reçel Donatısı",
+					"vi-VN": "Flex PB&J",
+					"zh-CN": "花生果酱三明治 盘盘",
+					"zh-TW": "花生果醬三明治 炫技"
 				}
 			}
 		},
@@ -347366,27 +348683,27 @@
 			"label": "AF52B5A0-4A4C-03B2-C9D7-8187A08A2675",
 			"name":
 			{
-				"defaultText": "STAT-COM",
+				"defaultText": "STAT-COM Flex",
 				"localizedByCulture":
 				{
-					"ar-AE": "STAT-COM",
-					"de-DE": "STAT-KOMM",
-					"en-US": "STAT-COM",
-					"es-ES": "COMPENSADOR ESTÁTICO",
-					"es-MX": "STAT-COM",
-					"fr-FR": "STAT-COM",
-					"id-ID": "STAT-COM",
-					"it-IT": "STAT-COM",
-					"ja-JP": "STAT-COM",
-					"ko-KR": "통계 수신기",
-					"pl-PL": "KOMSTAT",
-					"pt-BR": "COM-SAT",
-					"ru-RU": "СТАТКОМ",
-					"th-TH": "STAT-COM",
-					"tr-TR": "İletişim Cihazı",
-					"vi-VN": "STAT-COM",
-					"zh-CN": "数据通讯",
-					"zh-TW": "STAT-COM"
+					"ar-AE": "أداة استعراض STAT-COM",
+					"de-DE": "Flex „STAT-KOMM“",
+					"en-US": "STAT-COM Flex",
+					"es-ES": "Vacile Compensador estático",
+					"es-MX": "Flex STAT-COM",
+					"fr-FR": "Flex STAT-COM",
+					"id-ID": "Flex STAT-COM",
+					"it-IT": "Flex STAT-COM",
+					"ja-JP": "STAT-COM フレックス",
+					"ko-KR": "통계 수신기 플렉스",
+					"pl-PL": "Flex „KOMSTAT”",
+					"pt-BR": "Gesto COM-SAT",
+					"ru-RU": "Флекс \"СТАТКОМ\"",
+					"th-TH": "STAT-COM Flex",
+					"tr-TR": "İletişim Cihazı Donatısı",
+					"vi-VN": "Flex STAT-COM",
+					"zh-CN": "数据通讯 盘盘",
+					"zh-TW": "STAT-COM 炫技"
 				}
 			}
 		},
@@ -347395,27 +348712,27 @@
 			"label": "F3D05346-4CA8-0F25-6E8E-38BBE0D5BCF0",
 			"name":
 			{
-				"defaultText": "Helix",
+				"defaultText": "Helix Flex",
 				"localizedByCulture":
 				{
-					"ar-AE": "الحراشف",
-					"de-DE": "Helix",
-					"en-US": "Helix",
-					"es-ES": "Helix",
-					"es-MX": "Áspid",
-					"fr-FR": "Helix",
-					"id-ID": "Helix",
-					"it-IT": "Spira",
-					"ja-JP": "ヘリックス",
-					"ko-KR": "나선",
-					"pl-PL": "Helix",
-					"pt-BR": "Serpentálica",
-					"ru-RU": "Спираль",
-					"th-TH": "Helix",
-					"tr-TR": "Helezon",
-					"vi-VN": "Helix",
-					"zh-CN": "绕蛇搁手",
-					"zh-TW": "螺旋"
+					"ar-AE": "أداة استعراض الحراشف",
+					"de-DE": "Flex „Helix“",
+					"en-US": "Helix Flex",
+					"es-ES": "Vacile Helix",
+					"es-MX": "Flex Áspid",
+					"fr-FR": "Flex Helix",
+					"id-ID": "Flex Helix",
+					"it-IT": "Flex Spira",
+					"ja-JP": "ヘリックス フレックス",
+					"ko-KR": "나선 플렉스",
+					"pl-PL": "Flex „Helix”",
+					"pt-BR": "Gesto Serpentálica",
+					"ru-RU": "Флекс \"Спираль\"",
+					"th-TH": "Helix Flex",
+					"tr-TR": "Helezon Donatısı",
+					"vi-VN": "Flex Helix",
+					"zh-CN": "绕蛇搁手 盘盘",
+					"zh-TW": "螺旋 炫技"
 				}
 			}
 		},
@@ -347424,27 +348741,27 @@
 			"label": "D3F8F048-4E9C-939D-7233-67892D8B925F",
 			"name":
 			{
-				"defaultText": "Stellar Dendrite",
+				"defaultText": "Stellar Dendrite Flex",
 				"localizedByCulture":
 				{
-					"ar-AE": "تفرعات نجمية",
-					"de-DE": "Sternendendrit",
-					"en-US": "Stellar Dendrite",
-					"es-ES": "Dendrita estelar",
-					"es-MX": "Dendrita Estelar",
-					"fr-FR": "Dendrite stellaire",
-					"id-ID": "Stellar Dendrite",
-					"it-IT": "Dendrite stellare",
-					"ja-JP": "雪の結晶",
-					"ko-KR": "눈꽃송이",
-					"pl-PL": "Gwiezdny dendryt",
-					"pt-BR": "Dendrito Estelar",
-					"ru-RU": "Звездчатый дендрит",
-					"th-TH": "Stellar Dendrite",
-					"tr-TR": "Kar Tanesi",
-					"vi-VN": "Bông Tuyết",
-					"zh-CN": "晶莹剔透",
-					"zh-TW": "雪花星"
+					"ar-AE": "أداة استعراض التفرعات النجمية",
+					"de-DE": "Flex „Sternendendrit“",
+					"en-US": "Stellar Dendrite Flex",
+					"es-ES": "Vacile Dendrita estelar",
+					"es-MX": "Flex Dendrita Estelar",
+					"fr-FR": "Flex Dendrite stellaire",
+					"id-ID": "Flex Stellar Dendrite",
+					"it-IT": "Flex Dendrite stellare",
+					"ja-JP": "雪の結晶 フレックス",
+					"ko-KR": "눈꽃송이 플렉스",
+					"pl-PL": "Flex „Gwiezdny dendryt”",
+					"pt-BR": "Gesto Dendrito Estelar",
+					"ru-RU": "Флекс \"Звездчатый дендрит\"",
+					"th-TH": "Stellar Dendrite Flex",
+					"tr-TR": "Kar Tanesi Donatısı",
+					"vi-VN": "Flex Bông Tuyết",
+					"zh-CN": "晶莹剔透 盘盘",
+					"zh-TW": "雪花星 炫技"
 				}
 			}
 		},
@@ -347453,27 +348770,27 @@
 			"label": "361EDF14-4AE3-3831-EEEC-5EA715097341",
 			"name":
 			{
-				"defaultText": "Spike Rush Cup",
+				"defaultText": "Spike Rush Cup Flex",
 				"localizedByCulture":
 				{
-					"ar-AE": "كأس سبايك راش",
-					"de-DE": "„Spike-Ansturm“-Becher",
-					"en-US": "Spike Rush Cup",
-					"es-ES": "Vaso de Fiebre de la Spike",
-					"es-MX": "Copa Spike Rush",
-					"fr-FR": "Gobelet Spike Rush",
-					"id-ID": "Spike Rush Cup",
-					"it-IT": "Coppa Assalto Spike",
-					"ja-JP": "スパイクラッシュ カップ",
-					"ko-KR": "스파이크 돌격 컵",
-					"pl-PL": "Kawusia Gorączki Spike’a",
-					"pt-BR": "Copo Disputa da Spike",
-					"ru-RU": "Стаканчик \"Быстрая установка Spike\"",
-					"th-TH": "Spike Rush Cup",
-					"tr-TR": "Spike'a Hücum Bardağı",
-					"vi-VN": "Ly Đặt Spike Nhanh",
-					"zh-CN": "爆能快攻杯",
-					"zh-TW": "輻能汽水杯"
+					"ar-AE": "أداة استعراض كأس سبايك راش",
+					"de-DE": "Flex „Spike-Ansturm-Pokal“",
+					"en-US": "Spike Rush Cup Flex",
+					"es-ES": "Vacile Vaso de Fiebre de la Spike",
+					"es-MX": "Flex Copa Spike Rush",
+					"fr-FR": "Flex Gobelet Spike Rush",
+					"id-ID": "Flex Spike Rush Cup",
+					"it-IT": "Flex Coppa Assalto Spike",
+					"ja-JP": "スパイクラッシュ カップ フレックス",
+					"ko-KR": "스파이크 돌격 컵 플렉스",
+					"pl-PL": "Flex „Kawusia Gorączki Spike’a”",
+					"pt-BR": "Gesto Copo Disputa da Spike",
+					"ru-RU": "Флекс \"Стаканчик \"Быстрая установка Spike\"",
+					"th-TH": "Spike Rush Cup Flex",
+					"tr-TR": "Spike'a Hücum Bardağı Donatısı",
+					"vi-VN": "Flex Ly Đặt Spike Nhanh",
+					"zh-CN": "爆能快攻杯 盘盘",
+					"zh-TW": "輻能汽水杯 炫技"
 				}
 			}
 		},
@@ -347482,27 +348799,27 @@
 			"label": "903AAFE1-4F32-D020-6150-51BF2F4888AD",
 			"name":
 			{
-				"defaultText": "Tactibear",
+				"defaultText": "Tactibear Flex",
 				"localizedByCulture":
 				{
-					"ar-AE": "الدب المسلح",
-					"de-DE": "Taktibär",
-					"en-US": "Tactibear",
-					"es-ES": "Oso tacticoso",
-					"es-MX": "TacticOso",
-					"fr-FR": "Stratégours",
-					"id-ID": "Tactibear",
-					"it-IT": "Tatticorso",
-					"ja-JP": "戦略ベア",
-					"ko-KR": "전략가 곰",
-					"pl-PL": "Taktymiś",
-					"pt-BR": "Agente Ursão",
-					"ru-RU": "Тактический мишка",
-					"th-TH": "Tactibear",
-					"tr-TR": "Taktikayı",
-					"vi-VN": "Gấu Chiến Thuật",
-					"zh-CN": "战术熊",
-					"zh-TW": "戰術熊"
+					"ar-AE": "أداة استعراض الدب المسلح",
+					"de-DE": "Flex „Taktibär“",
+					"en-US": "Tactibear Flex",
+					"es-ES": "Vacile Oso tacticoso",
+					"es-MX": "Flex TacticOso",
+					"fr-FR": "Flex Stratégours",
+					"id-ID": "Flex Tactibear",
+					"it-IT": "Flex Tatticorso",
+					"ja-JP": "戦略ベア フレックス",
+					"ko-KR": "전략가 곰 플렉스",
+					"pl-PL": "Flex „Taktymiś”",
+					"pt-BR": "Gesto Agente Ursão",
+					"ru-RU": "Флекс \"Тактический мишка\"",
+					"th-TH": "Tactibear Flex",
+					"tr-TR": "Taktikayı Donatısı",
+					"vi-VN": "Flex Gấu Chiến Thuật",
+					"zh-CN": "战术熊 盘盘",
+					"zh-TW": "戰術熊 炫技"
 				}
 			}
 		},
@@ -347540,27 +348857,27 @@
 			"label": "A348BFBA-429D-8CF3-E671-1DB93DB5F793",
 			"name":
 			{
-				"defaultText": "5 Years",
+				"defaultText": "5 Years Flex",
 				"localizedByCulture":
 				{
-					"ar-AE": "5 Years",
-					"de-DE": "5 Years",
-					"en-US": "5 Years",
-					"es-ES": "5 Years",
-					"es-MX": "5 Years",
-					"fr-FR": "5 Years",
-					"id-ID": "5 Years",
-					"it-IT": "5 Years",
-					"ja-JP": "5 Years",
-					"ko-KR": "5주년",
-					"pl-PL": "5 Years",
-					"pt-BR": "5 Years",
-					"ru-RU": "5 Years",
-					"th-TH": "5 Years",
-					"tr-TR": "5 Years",
-					"vi-VN": "5 Years",
-					"zh-CN": "5周年",
-					"zh-TW": "5 Years"
+					"ar-AE": "أداة استعراض 5‎ Years",
+					"de-DE": "FLEX „5 Jahre“",
+					"en-US": "5 Years Flex",
+					"es-ES": "Vacile 5 Years",
+					"es-MX": "Flex 5 Years",
+					"fr-FR": "Flex 5 Years",
+					"id-ID": "Flex 5 Years",
+					"it-IT": "Flex 5 Years",
+					"ja-JP": "5 Years フレックス",
+					"ko-KR": "5주년 플렉스",
+					"pl-PL": "Flex „5 Years”",
+					"pt-BR": "Gesto 5 Anos",
+					"ru-RU": "Флекс \"5 Years\"",
+					"th-TH": "5 Years Flex",
+					"tr-TR": "5 Years Donatısı",
+					"vi-VN": "Flex 5 Years ",
+					"zh-CN": "5周年 盘盘",
+					"zh-TW": "5 Years 炫技"
 				}
 			}
 		},
@@ -347569,27 +348886,27 @@
 			"label": "A99FCA6C-4943-5DCA-FAF0-53990DDDBAF6",
 			"name":
 			{
-				"defaultText": "SharkX",
+				"defaultText": "SharkX Flex",
 				"localizedByCulture":
 				{
-					"ar-AE": "القرش إكس",
-					"de-DE": "SharkX",
-					"en-US": "SharkX",
-					"es-ES": "TiburónX",
-					"es-MX": "TiburónX",
-					"fr-FR": "SharkX",
-					"id-ID": "SharkX",
-					"it-IT": "SharkX",
-					"ja-JP": "シャークX",
-					"ko-KR": "샤크X",
-					"pl-PL": "SharkX",
-					"pt-BR": "SharkX",
-					"ru-RU": "SharkX",
-					"th-TH": "SharkX",
-					"tr-TR": "SharkX",
-					"vi-VN": "SharkX",
-					"zh-CN": "转转鲨",
-					"zh-TW": "SharkX"
+					"ar-AE": "أداة استعراض القرش إكس",
+					"de-DE": "Flex „SharkX“",
+					"en-US": "SharkX Flex",
+					"es-ES": "Vacile TiburónX",
+					"es-MX": "Flex TiburónX",
+					"fr-FR": "Flex SharkX",
+					"id-ID": "Flex SharkX",
+					"it-IT": "Flex SharkX",
+					"ja-JP": "シャークX フレックス",
+					"ko-KR": "샤크X 플렉스",
+					"pl-PL": "Flex „SharkX”",
+					"pt-BR": "Gesto SharkX",
+					"ru-RU": "Флекс \"SharkX\"",
+					"th-TH": "SharkX Flex",
+					"tr-TR": "SharkX Donatısı",
+					"vi-VN": "Flex SharkX",
+					"zh-CN": "转转鲨 盘盘",
+					"zh-TW": "SharkX 炫技"
 				}
 			}
 		}
@@ -347642,7 +348959,7 @@
 					"pt-BR": "Tudo Aleatório Um Ponto",
 					"ru-RU": "Случайные агенты, одна точка",
 					"th-TH": "All Random One Site",
-					"tr-TR": "AROS (TEK BÖLGEDE HEPSİ RASGELE)",
+					"tr-TR": "AR1S (TEK BÖLGEDE HEPSİ RASGELE)",
 					"vi-VN": "Tất Cả Ngẫu Nhiên Một Khu Đặt Spike",
 					"zh-CN": "爆能大乱斗",
 					"zh-TW": "隨機單點"
@@ -351074,7 +352391,7 @@
 					"pt-BR": "Tudo Aleatório Um Ponto",
 					"ru-RU": "Случайные агенты, одна точка",
 					"th-TH": "All Random One Site",
-					"tr-TR": "AROS (TEK BÖLGEDE HEPSİ RASGELE)",
+					"tr-TR": "AR1S (TEK BÖLGEDE HEPSİ RASGELE)",
 					"vi-VN": "Tất Cả Ngẫu Nhiên Một Khu Đặt Spike",
 					"zh-CN": "爆能大乱斗",
 					"zh-TW": "隨機單點"
@@ -351182,7 +352499,7 @@
 					"pt-BR": "Tudo Aleatório Um Ponto",
 					"ru-RU": "Случайные агенты, одна точка",
 					"th-TH": "All Random One Site",
-					"tr-TR": "AROS (TEK BÖLGEDE HEPSİ RASGELE)",
+					"tr-TR": "AR1S (TEK BÖLGEDE HEPSİ RASGELE)",
 					"vi-VN": "Tất Cả Ngẫu Nhiên Một Khu Đặt Spike",
 					"zh-CN": "爆能大乱斗",
 					"zh-TW": "隨機單點"
