@@ -1,5 +1,5 @@
 {
-	"version": "12.02.00.4226954",
+	"version": "12.03.00.4261391",
 	"characters": [
 		{
 			"description":
@@ -141,27 +141,27 @@
 				{
 					"description":
 					{
-						"defaultText": "EQUIP Mosh. FIRE to throw Mosh like a grenade. ALT FIRE to lob. Upon landing Mosh duplicates across a large area that deals a small amount of damage over time then after a short delay explodes.",
+						"defaultText": "EQUIP Mosh. FIRE to throw Mosh like a grenade. ALT FIRE to lob. Upon landing Mosh duplicates across a large area that deals a small amount of damage over time then after a short delay explodes. INTERACT to reclaim the globule and gain another Mosh charge after a short cooldown.",
 						"localizedByCulture":
 						{
-							"ar-AE": "تجهّز بـ موش. أطلق لرمي موش على شكل قنبلة يدوية. استخدم الإطلاق البديل للإلقاء المقوس. عند هبوطه، تتولد نسخ جديدة عن موش في منطقة واسعة تُلحق قدرًا طفيفًا من الضرر بمرور الوقت، ثم تنفجر النسخ بعد فترة قصيرة.",
-							"de-DE": "RÜSTE Mosh AUS. FEUERE, um Mosh wie eine Granate zu werfen. ALT. FEUERMODUS für einen Unterhandwurf. Nach der Landung verteilt sich Mosh über einen großen Bereich, der geringen Schaden über Zeit verursacht, und explodiert nach einer kurzen Verzögerung.",
-							"en-US": "EQUIP Mosh. FIRE to throw Mosh like a grenade. ALT FIRE to lob. Upon landing Mosh duplicates across a large area that deals a small amount of damage over time then after a short delay explodes.",
-							"es-ES": "EQUIPA a Mosh. DISPARA para lanzar a Mosh como una granada. Utiliza el DISPARO ALTERNATIVO para tirarlo. Al caer, Mosh se divide en varias copias en un área grande, que inflige una pequeña cantidad de daño prolongado y, tras un breve lapso, explota.",
-							"es-MX": "EQUIPA a Pogo. DISPARA para lanzar a Pogo como una granada. Usa el DISPARO SECUNDARIO para lanzarla por debajo. Al aterrizar, Pogo se duplica en una zona amplia que inflige un poco de daño prolongado y luego explota después de un corto lapso de tiempo.",
-							"fr-FR": "ÉQUIPEZ-vous de Pogo. TIREZ pour lancer Pogo comme une grenade. Utilisez le TIR SECONDAIRE pour le lancer en cloche. À l'atterrissage, Pogo se multiplie dans une large zone qui inflige des dégâts mineurs sur la durée, puis il explose après un court délai.",
-							"id-ID": "EQUIP Mosh. Tekan FIRE untuk melempar Mosh seperti granat. Tekan ALT FIRE untuk melempar tinggi. Setelah mendarat, Mosh memperbanyak dirinya di area yang luas, menghasilkan sedikit damage berkelanjutan yang kemudian meledak.",
-							"it-IT": "EQUIPAGGIA Mosh. Usa il FUOCO per lanciare Mosh come una granata. Usa il FUOCO ALTERNATIVO per lanciarlo dal basso verso l'alto. All'impatto, Mosh si duplica coprendo un'ampia area ed esplode dopo qualche istante.",
-							"ja-JP": "モッシュを構える。「発射」でモッシュをグレネードのように投げる。「オルト射撃」で軽く放る。モッシュは地面に触れると広範囲に分裂し、時間経過により少量のダメージを与える地帯を作り出し、少ししてから爆発する。",
-							"ko-KR": "폭파봇을 장착합니다. 발사하면 폭파봇을 수류탄처럼 투척합니다. 보조 공격 시 가깝게 투척합니다. 폭파봇은 땅에 닿으면 넓은 구역에 복제되며 소규모의 피해량을 시간에 걸쳐 입힌 뒤 잠시 후 폭발합니다.",
-							"pl-PL": "WYPOSAŻ Mosha. STRZEL, by rzucić Moshem jak granatem. Naciśnij ALT. STRZAŁ, by cisnąć. Po wylądowaniu Mosh duplikuje się na dużym obszarze i zadaje niewielkie obrażenia rozłożone w czasie, a po krótkim opóźnieniu eksploduje.",
-							"pt-BR": "EQUIPE Mosh. DISPARE para lançá-lo como uma granada. Use o DISPARO ALTERNATIVO para arremessar a curta distância. Ao atingir uma superfície, Mosh se duplica em uma grande área, o que causa uma pequena quantidade de dano ao longo do tempo e, depois de uns instantes, explode.",
-							"ru-RU": "Выбирает Тыдыща. Нажмите ОГОНЬ, чтобы бросить Тыдыща, как гранату. Нажмите АЛЬТ. ОГОНЬ для броска снизу. Коснувшись поверхности, Тыдыщ разделяется, покрывая большую площадь, которая наносит немного урона с течением времени, и после небольшой задержки взрывается.",
-							"th-TH": "ติดตั้ง Mosh กดยิงเพื่อขว้าง Mosh ออกไปเหมือนลูกระเบิด กดโหมดยิงเสริมเพื่อโยนออกไปในระยะสั้น ๆ เมื่อตกถึงพื้น Mosh จะเพิ่มจำนวนขึ้นในพื้นที่กว้าง ซึ่งจะสร้างความเสียหายเล็กน้อยตลอดระยะเวลา แล้วจะระเบิดหลังจากผ่านไปช่วงเวลาหนึ่ง",
-							"tr-TR": "Pofu'yu KUŞAN. Pofu'yu bomba gibi fırlatmak için ATEŞ ET. Yavaşça fırlatmak için ALT. ATIŞ kullan. Pofu indiği yerde büyük bir alana yayılır, bu alandaki düşmanlara her saniye düşük miktarda hasar verir ve kısa bir gecikmenin ardından patlar.",
-							"vi-VN": "TRANG BỊ Mosh. BẮN để quăng Mosh như trái lựu đạn. BẮN PHỤ để ném cao. Sau khi đáp đất, Mosh phân tách bản thân ra một khu vực rộng hơn và gây lượng sát thương nhỏ theo thời gian, rồi phát nổ sau khoảng chờ ngắn.",
-							"zh-CN": "装备宠物“嗨宝”。按【射击】即可将其掷出。按【辅助射击】可轻抛。落地后，嗨宝会在一大片区域内复制自己，持续造成少量伤害，并在短暂的延迟后爆炸。",
-							"zh-TW": "裝備爆爆。點擊「攻擊」即可將爆爆當成手榴彈投出。點按「輔助攻擊」可低手拋出。爆爆落地後會在大範圍內複製增生，持續造成少量傷害，並在短暫延遲後爆炸。"
+							"ar-AE": "تجهّز بـ موش. أطلق لرمي موش على شكل قنبلة يدوية. استخدم الإطلاق البديل للإلقاء المقوس. عند هبوطه، تتولد نسخٌ جديدة عن موش في منطقة واسعة تُلحق قدرًا طفيفًا من الضرر بمرور الوقت، ثم تنفجر النسخ بعد فترة قصيرة. تفاعل لاستعادة الكريّة واكسب شحنة موش أخرى بعد فترة تبريد قصيرة.",
+							"de-DE": "RÜSTE Mosh AUS. FEUERE, um Mosh wie eine Granate zu werfen. ALT. FEUERMODUS für einen Unterhandwurf. Nach der Landung verteilt sich Mosh über einen großen Bereich, der geringen Schaden über Zeit verursacht, und explodiert nach einer kurzen Verzögerung. INTERAGIERE, um die Kugel einzusammeln und nach einer kurzen Abklingzeit einen weiteren Mosh zu erhalten.",
+							"en-US": "EQUIP Mosh. FIRE to throw Mosh like a grenade. ALT FIRE to lob. Upon landing Mosh duplicates across a large area that deals a small amount of damage over time then after a short delay explodes. INTERACT to reclaim the globule and gain another Mosh charge after a short cooldown.",
+							"es-ES": "EQUIPA a Mosh. DISPARA para lanzar a Mosh como una granada. Utiliza el DISPARO ALTERNATIVO para tirarlo. Al caer, Mosh se divide en varias copias en un área grande, que inflige una pequeña cantidad de daño prolongado y, tras un breve lapso, explota. INTERACTÚA para recuperar el glóbulo y obtener otra carga de Mosh tras un breve enfriamiento.",
+							"es-MX": "EQUIPA a Pogo. DISPARA para lanzar a Pogo como una granada. Usa el DISPARO SECUNDARIO para lanzarlo por debajo. Al aterrizar, Pogo se duplica en una zona amplia que inflige un poco de daño prolongado y luego explota después de un corto lapso de tiempo. INTERACTÚA para recuperar el glóbulo y obtener otra carga de Pogo tras un breve enfriamiento.",
+							"fr-FR": "ÉQUIPEZ-vous de Pogo. TIREZ pour lancer Pogo comme une grenade. Utilisez le TIR SECONDAIRE pour le lancer en cloche. À l'atterrissage, Pogo se multiplie dans une large zone qui inflige des dégâts mineurs sur la durée, puis il explose après un court délai. INTERAGISSEZ avec lui pour récupérer le globule et, après un court délai, pouvoir réutiliser Pogo.",
+							"id-ID": "EQUIP Mosh. Tekan FIRE untuk melempar Mosh seperti granat. Tekan ALT FIRE untuk melempar tinggi. Setelah mendarat, Mosh menjadi banyak di area yang luas, menghasilkan sedikit damage berkelanjutan, lalu sesaat kemudian meledak. INTERAKSIKAN untuk mengambil kembali globul dan memperoleh charge Mosh lagi setelah cooldown singkat.",
+							"it-IT": "EQUIPAGGIA Mosh. Usa il FUOCO per lanciare Mosh come una granata. Usa il FUOCO ALTERNATIVO per lanciarlo dal basso verso l'alto. All'impatto, Mosh si duplica coprendo un'ampia area, formando una zona che infligge una piccola quantità di danni nel tempo, per poi esplodere dopo qualche istante. INTERAGISCI con il globulo per raccoglierlo, ottenendo un'altra carica di Mosh dopo un breve periodo di ricarica.",
+							"ja-JP": "モッシュを構える。「発射」でモッシュをグレネードのように投げる。「オルト射撃」で軽く放る。モッシュは地面に触れると広範囲に分裂し、時間経過により少量のダメージを与える地帯を作り出し、少ししてから爆発する。「インタラクト」で球体を回収でき、短時間のクールダウン後に再使用可能になる。",
+							"ko-KR": "폭파봇을 장착합니다. 발사하면 폭파봇을 수류탄처럼 투척합니다. 보조 공격 시 가깝게 투척합니다. 폭파봇은 땅에 닿으면 넓은 구역에 복제되며 소규모의 피해량을 시간에 걸쳐 입힌 뒤 잠시 후 폭발합니다. 상호작용하면 구체를 회수하며, 짧은 재사용 대기시간 이후 폭파봇을 다시 사용할 수 있습니다.",
+							"pl-PL": "WYPOSAŻ Mosha. STRZEL, by rzucić Moshem jak granatem. Naciśnij ALT. STRZAŁ, by cisnąć. Po wylądowaniu Mosh duplikuje się na dużym obszarze i zadaje niewielkie obrażenia rozłożone w czasie, a po krótkim opóźnieniu eksploduje. Naciśnij przycisk INTERAKCJI, by podnieść kulkę i otrzymać kolejny ładunek Mosha po krótkim czasie odnowienia.",
+							"pt-BR": "EQUIPE Mosh. DISPARE para lançá-lo como uma granada. Use o DISPARO ALTERNATIVO para arremessar a curta distância. Ao atingir uma superfície, Mosh se multiplica em uma grande área, o que causa uma pequena quantidade de dano ao longo do tempo, e, depois de uns instantes, explode. INTERAJA para recuperar o glóbulo e ganhar outra carga de Mosh após um curto período.",
+							"ru-RU": "Выбирает Тыдыща. Нажмите ОГОНЬ, чтобы бросить Тыдыща, как гранату. Нажмите АЛЬТ. ОГОНЬ для броска снизу. Коснувшись поверхности, Тыдыщ разделяется, покрывая большую площадь, которая наносит немного урона с течением времени, и после небольшой задержки взрывается. Взаимодействуйте с шариком, чтобы забрать его и спустя короткое время получить еще один заряд Тыдыща.",
+							"th-TH": "ติดตั้ง Mosh กดยิงเพื่อขว้าง Mosh ออกไปเหมือนลูกระเบิด กดโหมดยิงเสริมเพื่อโยนออกไปในระยะสั้น ๆ เมื่อตกถึงพื้น Mosh จะเพิ่มจำนวนขึ้นในพื้นที่กว้าง ซึ่งจะสร้างความเสียหายเล็กน้อยตลอดระยะเวลา แล้วจะระเบิดหลังจากผ่านไปช่วงเวลาหนึ่ง กดโต้ตอบเพื่อเก็บก้อนกลมกลับมาและจะได้รับชาร์จของ Mosh คืนมาหนึ่งชาร์จหลังจากติดคูลดาวน์ชั่วขณะ",
+							"tr-TR": "Pofu'yu KUŞAN. Pofu'yu bomba gibi fırlatmak için ATEŞ ET. Yavaşça fırlatmak için ALT. ATIŞ kullan. Pofu indiği yerde büyük bir alana yayılır, bu alandaki düşmanlara her saniye düşük miktarda hasar verir ve kısa bir gecikmenin ardından patlar. Onu geri almak ve kısa bir bekleme süresinin ardından bir Pofu yükü daha edinmek için küreyle ETKİLEŞİME GİR.",
+							"vi-VN": "TRANG BỊ Mosh. BẮN để quăng Mosh như trái lựu đạn. BẮN PHỤ để ném cao. Sau khi đáp đất, Mosh phân tách bản thân ra một khu vực rộng hơn và gây lượng sát thương nhỏ theo thời gian, rồi phát nổ sau khoảng chờ ngắn. TƯƠNG TÁC để thu hồi tiểu thể và nhận thêm 1 lượt dùng Mosh sau khoảng thời gian hồi chiêu ngắn.",
+							"zh-CN": "装备宠物“嗨宝”。按【射击】即可将其掷出。按【辅助射击】可轻抛。落地后，嗨宝会在一大片区域内复制自己，持续造成少量伤害，并在短暂延迟后爆炸。与球体【互动】即可将其回收，在短暂的冷却时间后可再次获得嗨爆全场充能。",
+							"zh-TW": "裝備爆爆。點按「攻擊」即可將爆爆當成手榴彈投出。點按「輔助攻擊」，則可低手拋出。爆爆落地後會在大範圍內複製增生，持續造成少量傷害，並在短暫延遲後爆炸。點按「互動」即可回收球體，經過短暫的冷卻時間後便可獲得另一次爆爆充能。"
 						}
 					},
 					"label": "E370FA57-4757-3604-3648-499E1F642D3F_Grenade",
@@ -920,7 +920,7 @@
 							"ja-JP": "バリアメッシュを発生させるディスクを構える。「発射」で前方に投げる。地面に触れると、ディスクを中心として移動を遮るバリアが発生する。",
 							"ko-KR": "장벽망 디스크를 장착합니다. 발사하면 디스크를 앞으로 던집니다. 디스크가 지면에 닿으면 해당 지점에서 장벽이 생성되어 캐릭터가 움직이지 못하도록 억제합니다.",
 							"pl-PL": "WYPOSAŻ dysk Siatki Bariery. STRZEL, by rzucić nim naprzód. Po wylądowaniu dysk stawia barierę wzdłuż trasy lotu, która blokuje ruch postaci.",
-							"pt-BR": "EQUIPE um disco de Barreira de Contenção. DISPARE para lançar à frente. Ao atingir o chão, o disco gera barreiras a partir do ponto de origem que bloqueiam a movimentação de personagens.",
+							"pt-BR": "EQUIPE um disco de Barreira de Contenção. DISPARE para lançar à frente. Ao atingir o chão, o disco gera barreiras a partir do ponto de origem, que bloqueiam a movimentação de personagens.",
 							"ru-RU": "Выбирает диск с барьерной сетью. Нажмите кнопку ОГОНЬ, чтобы бросить диск вперед. После приземления диск создает барьеры, через которые агенты не могут пройти.",
 							"th-TH": "ติดตั้ง Barrier Mesh Disc กดยิงเพื่อขว้างไปด้านหน้า เมื่อตกพื้น Disc จะสร้างบาเรียระหว่างจุดที่เริ่มขว้างจนถึงจุดที่ตกพื้น ซึ่งจะขวางไม่ให้ตัวละครสามารถเคลื่อนที่ผ่านได้",
 							"tr-TR": "Bir Bariyer Ağı diski KUŞAN. Diski ileri fırlatmak için ATEŞ ET. Diskin indiği noktada yanlara doğru açılan ve karakterlerin hareketini engelleyen bariyerler oluşur.",
@@ -1028,7 +1028,7 @@
 							"ja-JP": "ナノワイヤーアクセラレーターを構える。「発射」でナノワイヤーを放ち、最初に命中した敵を捕らえる。コクーン化された敵はナノワイヤーを伝って手繰り寄せられ、解放されなければデスに至る。ナノワイヤーのコクーンは破壊可能。",
 							"ko-KR": "나노와이어 가속기를 장착합니다. 발사하면 처음 적중한 적을 생포하는 나노와이어 펄스를 발사합니다. 생포된 적은 나노와이어의 경로를 따라 끌려가며, 풀려나지 않으면 사망합니다. 나노와이어 고치는 파괴할 수 있습니다.",
 							"pl-PL": "WYPOSAŻ akcelerator nanoobwodów. STRZEL, aby uwolnić impuls nanoobwodów łapiący pierwszego wroga, z którym wejdzie w kontakt. Wróg zostaje otoczony kokonem i jest ciągnięty wzdłuż ścieżki nanoobwodów. Zginie, chyba że zostanie wcześniej uwolniony. Kokon nanoobwodów można zniszczyć.",
-							"pt-BR": "EQUIPE um Acelerador de Nanofios. DISPARE para liberar um pulso de nanofios que captura o primeiro inimigo que encontrar. O inimigo encasulado é puxado por uma trilha de nanofios e abatido a não ser que seja libertado. O casulo de nanofios é destrutível.",
+							"pt-BR": "EQUIPE um Acelerador de Nanofios. DISPARE para liberar um pulso de nanofios que captura o primeiro inimigo que encontrar. O inimigo encasulado é puxado por uma trilha de nanofios e abatido, a não ser que seja libertado. O casulo de nanofios é destrutível.",
 							"ru-RU": "Выбирает нанопроводниковый ускоритель. Нажмите ОГОНЬ, чтобы выпустить нанопроводники и захватить первого противника, с которым они столкнутся. Кокон с захваченным агентом перемещается по нанопроводникам. Если его не разрушить, противник умрет.",
 							"th-TH": "ติดตั้ง Nanowire Accelerator กดยิงเพื่อปล่อยกลุ่มเส้นลวดนาโนที่จะพันรัดตัวศัตรูคนแรกที่สัมผัสถูก ศัตรูที่ถูกเส้นลวดนาโนมัดรอบตัวจะถูกลากไปตามทางของเส้นลวดนาโน และจะตายเว้นแต่ว่าจะได้รับการช่วยเหลือ เส้นลวดนาโนที่พันรอบตัวศัตรูถูกทำลายได้",
 							"tr-TR": "Bir Nanobağ Hızlandırıcı KUŞAN. Yakaladığı ilk düşmanı sarıp kıskıvrak yakalayan bir nanobağ dalgası göndermek için ATEŞ ET. Kozaya yakalanan düşman, oluşan nanobağ yolu boyunca çekilir. Düşman, nanobağ kozasından kurtarılmazsa ölür. Nanobağ kozası yok edilebilir.",
@@ -1398,27 +1398,27 @@
 				{
 					"description":
 					{
-						"defaultText": "INSTANTLY throw a Blast Pack that will stick to surfaces. RE-USE the ability after deployment to detonate, damaging and moving anything hit.",
+						"defaultText": "INSTANTLY throw a Blast Pack that will stick to surfaces. RE-USE the ability after deployment to detonate, moving anything hit and dealing damage if fully armed.",
 						"localizedByCulture":
 						{
-							"ar-AE": "تقوم على الفور بإلقاء عبوة ناسفة تلتصق بالأسطح. أعد استخدام القدرة بعد النشر لتفجير العبوة مما يلحق الضرر بأي جسم تصيبه كما يتم تحريكه من مكانه.",
-							"de-DE": "Wirf SOFORT ein Sprengstoffpaket, das an Oberflächen haftet. REAKTIVIERE die Fähigkeit nach dem Einsatz, um eine Explosion auszulösen. Alle getroffenen Gegner erleiden Schaden und werden weggeschleudert.",
-							"en-US": "INSTANTLY throw a Blast Pack that will stick to surfaces. RE-USE the ability after deployment to detonate, damaging and moving anything hit.",
-							"es-ES": "Lanza AL INSTANTE un fardo explosivo que se adhiere a las superficies. VUELVE A USAR la habilidad después de que el fardo se adhiera para detonarlo y que dañe y desplace a todo aquello que alcance.",
-							"es-MX": "Lanza AL INSTANTE un paquete explosivo que se adhiere a las superficies. VUELVE A USAR la habilidad después de desplegar el paquete para detonarlo, lo que dañará y desplazará todo a su alcance.",
-							"fr-FR": "Lancez INSTANTANÉMENT un pack explosif qui se colle aux surfaces. RÉUTILISEZ la compétence pour déclencher l'explosion, ce qui blesse et déplace tous ceux pris dans le souffle.",
-							"id-ID": "SEKETIKA melempar Blast Pack yang menempel ke permukaan. GUNAKAN LAGI ability ini setelah dipakai untuk mendetonasi, memberi damage, dan menggerakkan semua yang dikenai.",
-							"it-IT": "Lancia ALL'ISTANTE un pacco esplosivo che aderisce alle superfici. Una volta piazzato, USA DI NUOVO l'abilità per farlo esplodere, danneggiando e spostando tutto quello che viene colpito.",
-							"ja-JP": "ブラストパックを投げる。このブラストパックは地形の表面に張り付けることができる。設置後アビリティーを「再使用」すると起爆して、爆風を受けたものにダメージを与え、吹き飛ばす。",
-							"ko-KR": "표면에 부착되는 폭발 팩을 던집니다. 부착 후 다시 사용하면 팩이 폭발하며 적중한 대상에게 피해를 입히고 밀어냅니다.",
-							"pl-PL": "NATYCHMIAST rzuć Bombową Paką, która przyczepia się do powierzchni. UŻYJ PONOWNIE tej umiejętności po rozmieszczeniu ładunku, by go zdetonować, zadając obrażenia i przemieszczając trafione cele.",
-							"pt-BR": "INSTANTANEAMENTE joga uma carga de explosivos que gruda em superfícies. REPITA a habilidade depois de instalar para detonar, causando dano e movendo tudo que for atingido.",
-							"ru-RU": "Мгновенно бросает взрывной ранец, прикрепляющийся к поверхностям. Используйте умение повторно, чтобы взорвать ранец, нанося урон и отталкивая находящихся рядом агентов.",
-							"th-TH": "โยน Blast Pack ที่จะยึดติดกับพื้นผิวทันที กดใช้\nงานสกิลอีกครั้งหลังจากปล่อยออกไปเพื่อจุด\nชนวนระเบิดที่จะสร้างความเสียหายและผลักทุกสิ่งที่\nถูกกระทบออกไป",
-							"tr-TR": "Zemine yapışan bir Patlayıcı Çanta'yı ANINDA fırlat. Elinden çıkan çantayı patlatmak için yeteneği TEKRAR KULLAN. Çanta isabet ettiği her şeye hasar verir ve onları yerinden oynatır.",
-							"vi-VN": "NGAY LẬP TỨC tung ra Gói Chất Nổ bám dính trên bề mặt địa hình. KÍCH HOẠT LẠI kỹ năng sau khi tung Gói Chất Nổ ra để kích nổ, gây sát thương và làm dịch chuyển bất cứ thứ gì trúng phải.",
-							"zh-CN": "投掷一个可粘在物体表面的炸药包。完成部署后，【再次按技能键】该技能即可将其引爆，对目标造成伤害和击飞。",
-							"zh-TW": "立即丟出一個會黏在表面的爆破包。部署完成後「重施技能」來引爆，對擊中的東西造成位移及傷害。"
+							"ar-AE": "تلقي على الفور عبوة ناسفة تلتصق بالأسطح. أعد استخدام القدرة بعد النشر لتفجير العبوة، مما يحرك أي جسم تصيبه ويتسبب في إلحاق ضرر إذا كانت كاملة التسليح.",
+							"de-DE": "Wirf SOFORT ein Sprengstoffpaket, das an Oberflächen haftet. REAKTIVIERE die Fähigkeit nach dem Wurf, um eine Explosion auszulösen. Bei vollständiger Aufladung werden alle getroffenen Gegner und Gegenstände weggeschleudert und sie erleiden Schaden.",
+							"en-US": "INSTANTLY throw a Blast Pack that will stick to surfaces. RE-USE the ability after deployment to detonate, moving anything hit and dealing damage if fully armed.",
+							"es-ES": "Lanza AL INSTANTE un fardo explosivo que se adhiere a las superficies. VUELVE A USAR la habilidad después de que el fardo se adhiera para detonarlo, lo que desplazará a todo aquello que alcance e infligirá daño si está totalmente armado.",
+							"es-MX": "Lanza AL INSTANTE un Paquete Explosivo que se adhiere a las superficies. VUELVE A USAR la habilidad después de desplegar el paquete para detonarlo, lo que desplazará todo lo que impacte e infligirá daño al estar totalmente cargada.",
+							"fr-FR": "Lancez INSTANTANÉMENT un pack explosif qui se colle aux surfaces. RÉUTILISEZ la compétence pour déclencher l'explosion, ce qui déplace tous ceux qui sont touchés et inflige des dégâts s'il était complètement armé.",
+							"id-ID": "SEKETIKA melempar Blast Pack yang akan menempel ke permukaan. GUNAKAN LAGI ability ini setelah dikerahkan untuk meledakkannya, memindahkan apa pun yang dikenai dan menghasilkan damage jika sepenuhnya siap.",
+							"it-IT": "Lancia ALL'ISTANTE un Pacco esplosivo che aderisce alle superfici. Una volta piazzato, USA DI NUOVO l'abilità per farlo esplodere, spostando tutto quello che viene colpito e infliggendo danni se innescato del tutto.",
+							"ja-JP": "ブラストパックを投げる。このブラストパックは地形の表面に張り付けることができる。設置後にアビリティーを「再使用」すると起爆し、爆風を受けたものを吹き飛ばす。また、設置後に完全に爆発した場合はダメージも与える。",
+							"ko-KR": "표면에 부착되는 폭발 팩을 던집니다. 부착 후 다시 사용하면 팩이 폭발하며 적중한 대상을 밀어내고, 완전히 무장되었을 경우에는 피해를 입힙니다.",
+							"pl-PL": "NATYCHMIAST rzuć Bombową Paką, która przyczepia się do powierzchni. UŻYJ PONOWNIE tej umiejętności po rozmieszczeniu ładunku, by go zdetonować, przemieszczając wszystkie trafione cele i zadając obrażenia, jeśli był w pełni uzbrojony.",
+							"pt-BR": "INSTANTANEAMENTE lança uma Carga de Explosivos que gruda em superfícies. REPITA a habilidade depois de lançar para detonar. A carga move tudo que for atingido e causa dano se estiver totalmente carregada.",
+							"ru-RU": "Мгновенно бросает взрывной ранец, прикрепляющийся к поверхностям. Используйте умение повторно, чтобы взорвать ранец – он оттолкнет находящихся рядом агентов, а также нанесет урон, если полностью готов.",
+							"th-TH": "โยน Blast Pack ที่จะยึดติดกับพื้นผิวทันที ใช้สกิลอีกครั้งหลังปาออกไปเพื่อจุดชนวนระเบิด เคลื่อนย้ายทุกสิ่งที่โดนและสร้างความเสียหายหากพร้อมทำงานเต็มที่",
+							"tr-TR": "Zemine yapışan bir Patlayıcı Çanta'yı ANINDA fırlat. Elinden çıkan çantayı patlatmak için yeteneği TEKRAR KULLAN. Çanta isabet ettiği her şeyi yerinden oynatır ve tamamen kurulduysa onlara hasar verir.",
+							"vi-VN": "NGAY LẬP TỨC tung ra Gói Chất Nổ bám dính trên bề mặt địa hình. TÁI SỬ DỤNG kỹ năng sau khi tung ra để kích nổ, làm dịch chuyển bất cứ thứ gì trúng phải và gây sát thương nếu được kích hoạt hoàn toàn.",
+							"zh-CN": "投掷一个可粘在物体表面的炸药包。完成部署后，【再次使用】该技能即可将其引爆，击飞命中的目标。如果炸药包已完全激活，则可造成伤害。",
+							"zh-TW": "立即丟出一個會黏在表面的爆破包。部署完成後「重施技能」來引爆，對擊中的東西造成位移，完全武裝則會造成傷害。"
 						}
 					},
 					"label": "F94C3B30-42BE-E959-889C-5AA313DBA261_Ability1",
@@ -3212,10 +3212,10 @@
 							"ja-JP": "タレットを構え、「発射」で設置する。タレットは100度の扇状範囲内にいる敵を攻撃する。「オルト射撃」でタレットの向きを変える。長押しで設置したタレットを呼び戻せる。",
 							"ko-KR": "포탑을 장착합니다. 발사하면 100도 범위에 있는 적을 공격하는 포탑을 배치합니다. 보조 공격 시 포탑의 방향을 바꿉니다. 장착을 길게 누르면 배치된 포탑을 회수합니다.",
 							"pl-PL": "WYPOSAŻ działko. STRZEL, by wypuścić działko, które automatycznie ostrzeliwuje wrogów w promieniu 100 stopni. Naciśnij ALT. STRZAŁ, by zmienić kierunek działka. PRZYTRZYMAJ przycisk WYPOSAŻENIA, by odwołać wypuszczone działko.",
-							"pt-BR": "EQUIPE uma Torreta. DISPARE para ativar uma torreta que atira em inimigos em um cone de 100°. Use o DISPARO ALTERNATIVO para alterar a direção da torreta. SEGURE EQUIPAR para retirar a torreta ativada.",
-							"ru-RU": "   Выбирает турель. Нажмите кнопку ОГОНЬ, чтобы установить турель, которая автоматически отслеживает противников в 100-градусном секторе. Нажмите кнопку АЛЬТ. ОГОНЬ, чтобы изменить направление турели. Удерживайте кнопку умения, чтобы отозвать турель.",
+							"pt-BR": "EQUIPE uma Torreta. DISPARE para ativar uma torreta que atira em inimigos em um cone de 100°. Use o DISPARO ALTERNATIVO para inverter a direção da torreta. SEGURE EQUIPAR para retirar a torreta ativada.",
+							"ru-RU": "Выбирает турель. Нажмите кнопку ОГОНЬ, чтобы установить турель, которая автоматически отслеживает противников в 100-градусном секторе. Нажмите кнопку АЛЬТ. ОГОНЬ, чтобы изменить направление турели. Удерживайте кнопку умения, чтобы отозвать турель.",
 							"th-TH": "ติดตั้ง Turret กดยิงเพื่อปล่อยป้อมปืนที่จะยิงศัตรูในรูปกรวย 100 องศา กดโหมดยิงเสริมเพื่อสลับทิศทางของป้อมปืน กดปุ่มติดตั้งค้างเพื่อเรียกป้อมปืนที่ถูกส่งออกไปกลับมา",
-							"tr-TR": "Bir taret KUŞAN. 100 derecelik bir koni içindeki düşmanlara ateş eden bir taret yerleştirmek için ATEŞ ET. Taretin yönünü değiştirmek için ALT ATIŞ kullan. Yerleştirdiğin tareti kaldırmak için KUŞANMA DÜĞMESİNİ BASILI TUT.",
+							"tr-TR": "Bir taret KUŞAN. 100 derecelik bir koni içindeki düşmanlara ateş eden bir taret yerleştirmek için ATEŞ ET. Taretin yönünü değiştirmek için ALT. ATIŞ kullan. Yerleştirdiğin tareti kaldırmak için KUŞANMA DÜĞMESİNİ BASILI TUT.",
 							"vi-VN": "TRANG BỊ 1 ụ súng. BẮN để đặt 1 ụ súng có khả năng bắn đối thủ trong phạm vi hình nón với góc 100 độ. BẮN PHỤ để đổi hướng ụ súng. GIỮ TRANG BỊ để gọi ụ súng về.",
 							"zh-CN": "装备炮台，按【射击】即可部署，向100度范围内的敌人开火。按【辅助射击】可转换炮台方向。按住【装备】可召回已部署的炮台。",
 							"zh-TW": "裝備一座砲塔。點擊「攻擊」，即可部署該砲塔，對100度扇形範圍內的敵人開火。點擊「輔助攻擊」，則可調整砲塔方向。長按「裝備」即可召回已部署的砲塔。"
@@ -4958,7 +4958,7 @@
 							"ja-JP": "「アストラルフォーム」(アルティメットキー) でスターを設置。\n\nスターを「発動」することで「グラビティウェル」を形成する。範囲内のプレイヤーを中心に引き寄せてから爆発して、範囲内に残っていたすべてのプレイヤーを弱体化させる。",
 							"ko-KR": "천상계 형상에서 별을 설치합니다. (궁극기 키)\n\n활성화 시 별 하나를 중력의 샘으로 변형합니다. 중력의 샘은 범위 내 플레이어들을 끌어당기다가 폭발하며, 폭발에 닿은 플레이어들은 취약 상태가 됩니다.",
 							"pl-PL": "Umieść Gwiazdki w Postaci Astral (przycisk ulta).\n\nAKTYWUJ Gwiazdkę, aby stworzyć Studnię Grawitacyjną. Studnia Grawitacyjna przyciąga do środka znajdujących się w pobliżu graczy, a następnie wybucha, wywołując podatność u wszystkich wciąż uwięzionych agentów.",
-							"pt-BR": "Posicione Estrelas na Forma Astral (tecla da Ultimate).\r\n\r\nATIVE uma Estrela para formar um Poço Gravitacional. Jogadores na área são puxados em direção ao centro antes de ele explodir, deixando Vulneráveis todos que ainda estão presos no centro.",
+							"pt-BR": "Posicione Estrelas na Forma Astral (tecla da Ultimate).\r\n\r\nATIVE uma Estrela para formar um Poço Gravitacional. Jogadores na área são puxados em direção ao centro antes dele explodir, deixando todos os jogadores ainda presos dentro dele Vulneráveis.",
 							"ru-RU": "Разместите звезды в Астральной форме (нажмите кнопку абсолютного умения).\nАктивируйте звезду, чтобы создать гравитационный колодец. Игроки в области действия умения притягиваются к центру, после чего колодец взрывается, делая игроков внутри уязвимыми.",
 							"th-TH": "จัดวางดวงดาวใน Astral Form (ปุ่มอัลติเมท)\n\nเปิดใช้งานดวงดาวเพื่อสร้าง Gravity Well ผู้เล่นที่อยู่ในบริเวณจะถูกดึงเข้าจุดศูนย์กลางก่อนที่มันจะระเบิด ส่งผลให้ผู้เล่นที่ติดอยู่ภายในได้รับสถานะเปราะบาง",
 							"tr-TR": "Astral Yolcu halindeyken yıldız yerleştir (ulti düğmesi).\n\nÇekim Alanı oluşturmak için bir yıldızı ETKİNLEŞTİR. Etki alanı içindeki oyuncular merkeze çekilir ve ardından merkez patlayarak içerideki oyuncuları Savunmasız hale getirir.",
@@ -5230,7 +5230,7 @@
 							"it-IT": "EQUIPAGGIA un lanciagranate incendiario. Usa il FUOCO per lanciare una granata che esplode quando si ferma, creando una zona di fuoco persistente che danneggia i giocatori al suo interno.",
 							"ja-JP": "焼夷グレネードランチャーを装備する。「発射」でグレネードを射出する。このグレネードは地面に落ちると破裂し、地面を継続的に炎上させて範囲内のプレイヤーにダメージを与える。 ",
 							"ko-KR": "소이탄 발사기를 장착합니다. 발사하면 바닥에 떨어졌을 때 폭발하는 소이탄을 날려 적에게 피해를 입히는 화염 구역을 생성합니다. 생성된 구역은 일정 시간 유지됩니다.",
-							"pl-PL": "WYPOSAŻ wyrzutnię granatów zapalających. STRZEL, by wystrzelić granat, który po zatrzymaniu się na ziemi wybucha, tworząc tymczasowy ognisty obszar zadający obrażenia znajdującym się na nim przeciwnikom.",
+							"pl-PL": "WYPOSAŻ wyrzutnię granatów zapalających. STRZEL, by wystrzelić granat, który po zatrzymaniu się na ziemi wybucha, tworząc tymczasowy ognisty obszar zadający obrażenia znajdującym się na nim graczom.",
 							"pt-BR": "EQUIPE um lançador de granadas incendiárias. DISPARE para lançar uma granada que detona no chão, gerando uma zona de fogo que causa dano aos jogadores dentro dela.",
 							"ru-RU": "Выбирает зажигательный гранатомет. Нажмите кнопку ОГОНЬ, чтобы запустить гранату, которая падает и взрывается после остановки, образуя горящую область, в которой все игроки получают урон.",
 							"th-TH": "ติดตั้งเครื่องยิงระเบิดเพลิง กดยิงเพื่อปล่อยระเบิดที่จะระเบิดเมื่อตกสู่พื้น ก่อให้เกิดเปลวไฟที่จะสร้างความเสียหายแก่ผู้เล่นที่อยู่ในบริเวณนั้น",
@@ -203800,6 +203800,273 @@
 		},
 		{
 			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
+			"defaultChromaId": "27262E01-4CEA-6FCB-B45A-90B95BA59625",
+			"chromas": [
+				{
+					"id": "27262E01-4CEA-6FCB-B45A-90B95BA59625",
+					"label": "27262E01-4CEA-6FCB-B45A-90B95BA59625",
+					"name":
+					{
+						"defaultText": "VCT 2026 Sigil",
+						"localizedByCulture":
+						{
+							"ar-AE": "سيجيل VCT 2026",
+							"de-DE": "Sigil – VCT 2026",
+							"en-US": "VCT 2026 Sigil",
+							"es-ES": "Sello VCT 2026",
+							"es-MX": "Sello VCT 2026",
+							"fr-FR": "Sigil (VCT 2026)",
+							"id-ID": "VCT 2026 Sigil",
+							"it-IT": "Sigillo VCT 2026",
+							"ja-JP": "VCT 2026 シジル",
+							"ko-KR": "2026 VCT 인장",
+							"pl-PL": "Sigil VCT 2026",
+							"pt-BR": "Emblemática VCT 2026",
+							"ru-RU": "Сигил \"VCT 2026\"",
+							"th-TH": "VCT 2026 Sigil",
+							"tr-TR": "VCT 2026 Mührü",
+							"vi-VN": "Biểu Tượng VCT 2026",
+							"zh-CN": "VCT 2026 篆刀",
+							"zh-TW": "2026 VCT 符印刃"
+						}
+					}
+				},
+				{
+					"id": "2ACD13C9-4D34-529A-A904-F48DCB59D7CC",
+					"label": "2ACD13C9-4D34-529A-A904-F48DCB59D7CC",
+					"name":
+					{
+						"defaultText": "VCT 2026 Sigil Level 3\r\n(Variant 1 CN)",
+						"localizedByCulture":
+						{
+							"ar-AE": "سيجيل VCT 2026 المستوى 3\r\n(بديل 1 CN)",
+							"de-DE": "Sigil – VCT 2026 Level 3\r\n(Variante 1, CN)",
+							"en-US": "VCT 2026 Sigil Level 3\r\n(Variant 1 CN)",
+							"es-ES": "Sello VCT 2026 de nivel 3\r\n(Variante 1: CN)",
+							"es-MX": "Sello VCT 2026 nivel 3\r\n(Variante 1 CN)",
+							"fr-FR": "Sigil (VCT 2026) niveau 3\r\n(Variante 1 CN)",
+							"id-ID": "VCT 2026 Sigil Level 3\r\n(Varian 1 CN)",
+							"it-IT": "Sigillo VCT 2026 livello 3\r\n(variante 1 CN)",
+							"ja-JP": "VCT 2026 シジル Lv.3\r\n(ヴァリアント 1 CN)",
+							"ko-KR": "2026 VCT 인장 3레벨\r\n(변형 1 CN)",
+							"pl-PL": "Sigil VCT 2026 (poziom 3)\r\n(Wersja 1 – CN)",
+							"pt-BR": "Emblemática VCT 2026 Nível 3\r\n(Variante 1 CN)",
+							"ru-RU": "Сигил \"VCT 2026\" уровень 3\r\n(расцветка 1 \"CN\")",
+							"th-TH": "VCT 2026 Sigil เลเวล 3\r\n(ตัวเลือกที่ 1 CN)",
+							"tr-TR": "3. Seviye VCT 2026 Mührü\r\n(Stil 1 - CN)",
+							"vi-VN": "Biểu Tượng VCT 2026 Cấp 3\r\n(Dạng 1 CN)",
+							"zh-CN": "VCT 2026 篆刀 等级3\r\n（炫彩1 CN联赛）",
+							"zh-TW": "2026 VCT 符印刃 等級3\r\n(幻彩1 CN聯賽)"
+						}
+					}
+				},
+				{
+					"id": "96180C92-481B-1540-1BCA-C98396D1A416",
+					"label": "96180C92-481B-1540-1BCA-C98396D1A416",
+					"name":
+					{
+						"defaultText": "VCT 2026 Sigil Level 3\r\n(Variant 2 Pacific)",
+						"localizedByCulture":
+						{
+							"ar-AE": "سيجيل VCT 2026 المستوى 3\r\n(بديل 2 المحيط الهادئ)",
+							"de-DE": "Sigil – VCT 2026 Level 3\r\n(Variante 2, Pacific)",
+							"en-US": "VCT 2026 Sigil Level 3\r\n(Variant 2 Pacific)",
+							"es-ES": "Sello VCT 2026 de nivel 3\r\n(Variante 2: Pacific)",
+							"es-MX": "Sello VCT 2026 nivel 3\r\n(Variante 2 Pacific)",
+							"fr-FR": "Sigil (VCT 2026) niveau 3\r\n(Variante 2 Pacific)",
+							"id-ID": "VCT 2026 Sigil Level 3\r\n(Varian 2 Pacific)",
+							"it-IT": "Sigillo VCT 2026 livello 3\r\n(variante 2 Pacific)",
+							"ja-JP": "VCT 2026 シジル Lv.3\r\n(ヴァリアント 2 Pacific)",
+							"ko-KR": "2026 VCT 인장 3레벨\r\n(변형 2 Pacific)",
+							"pl-PL": "Sigil VCT 2026 (poziom 3)\r\n(Wersja 2 – Pacific)",
+							"pt-BR": "Emblemática VCT 2026 Nível 3\r\n(Variante 2 Pacific)",
+							"ru-RU": "Сигил \"VCT 2026\" уровень 3\r\n(расцветка 2 \"Pacific\")",
+							"th-TH": "VCT 2026 Sigil เลเวล 3\r\n(ตัวเลือกที่ 2 Pacific)",
+							"tr-TR": "3. Seviye VCT 2026 Mührü\r\n(Stil 2 - Pacific)",
+							"vi-VN": "Biểu Tượng VCT 2026 Cấp 3\r\n(Dạng 2 Pacific)",
+							"zh-CN": "VCT 2026 篆刀 等级3\r\n（炫彩2 太平洋联赛）",
+							"zh-TW": "2026 VCT 符印刃 等級3\r\n(幻彩2 太平洋聯賽)"
+						}
+					}
+				},
+				{
+					"id": "5FBC662C-4177-F3CD-A8F6-11A3C71EAD8C",
+					"label": "5FBC662C-4177-F3CD-A8F6-11A3C71EAD8C",
+					"name":
+					{
+						"defaultText": "VCT 2026 Sigil Level 3\r\n(Variant 3 Americas)",
+						"localizedByCulture":
+						{
+							"ar-AE": "سيجيل VCT 2026 المستوى 3\r\n(بديل 3 الأمريكتان)",
+							"de-DE": "Sigil – VCT 2026 Level 3\r\n(Variante 3, Americas)",
+							"en-US": "VCT 2026 Sigil Level 3\r\n(Variant 3 Americas)",
+							"es-ES": "Sello VCT 2026 de nivel 3\r\n(Variante 3: Americas)",
+							"es-MX": "Sello VCT 2026 nivel 3\r\n(Variante 3 Americas)",
+							"fr-FR": "Sigil (VCT 2026) niveau 3\r\n(Variante 3 Americas)",
+							"id-ID": "VCT 2026 Sigil Level 3\r\n(Varian 3 Americas)",
+							"it-IT": "Sigillo VCT 2026 livello 3\r\n(variante 3 Americas)",
+							"ja-JP": "VCT 2026 シジル Lv.3\r\n(ヴァリアント 3 Americas)",
+							"ko-KR": "2026 VCT 인장 3레벨\r\n(변형 3 Americas)",
+							"pl-PL": "Sigil VCT 2026 (poziom 3)\r\n(Wersja 3 – Americas)",
+							"pt-BR": "Emblemática VCT 2026 Nível 3\r\n(Variante 3 Americas)",
+							"ru-RU": "Сигил \"VCT 2026\" уровень 3\r\n(расцветка 3 \"Americas\")",
+							"th-TH": "VCT 2026 Sigil เลเวล 3\r\n(ตัวเลือกที่ 3 Americas)",
+							"tr-TR": "3. Seviye VCT 2026 Mührü\r\n(Stil 3 - Americas)",
+							"vi-VN": "Biểu Tượng VCT 2026 Cấp 3\r\n(Dạng 3 Americas)",
+							"zh-CN": "VCT 2026 篆刀 等级3\r\n（炫彩3 美洲联赛）",
+							"zh-TW": "2026 VCT 符印刃 等級3\r\n(幻彩3 美洲聯賽)"
+						}
+					}
+				},
+				{
+					"id": "3D169773-4065-A572-DAEB-0A8CC18D4E1A",
+					"label": "3D169773-4065-A572-DAEB-0A8CC18D4E1A",
+					"name":
+					{
+						"defaultText": "VCT 2026 Sigil Level 3\r\n(Variant 4 EMEA)",
+						"localizedByCulture":
+						{
+							"ar-AE": "سيجيل VCT 2026 المستوى 3\r\n(بديل 4 أوروبا والشرق الأوسط وإفريقيا)",
+							"de-DE": "Sigil – VCT 2026 Level 3\r\n(Variante 4, EMEA)",
+							"en-US": "VCT 2026 Sigil Level 3\r\n(Variant 4 EMEA)",
+							"es-ES": "Sello VCT 2026 de nivel 3\r\n(Variante 4: EMEA)",
+							"es-MX": "Sello VCT 2026 nivel 3\r\n(Variante 4 EMEA)",
+							"fr-FR": "Sigil (VCT 2026) niveau 3\r\n(Variante 4 EMEA)",
+							"id-ID": "VCT 2026 Sigil Level 3\r\n(Varian 4 EMEA)",
+							"it-IT": "Sigillo VCT 2026 livello 3\r\n(variante 4 EMEA)",
+							"ja-JP": "VCT 2026 シジル Lv.3\r\n(ヴァリアント 4 EMEA)",
+							"ko-KR": "2026 VCT 인장 3레벨\r\n(변형 4 EMEA)",
+							"pl-PL": "Sigil VCT 2026 (poziom 3)\r\n(Wersja 4 – EMEA)",
+							"pt-BR": "Emblemática VCT 2026 Nível 3\r\n(Variante 4 EMEA)",
+							"ru-RU": "Сигил \"VCT 2026\" уровень 3\r\n(расцветка 4 \"EMEA\")",
+							"th-TH": "VCT 2026 Sigil เลเวล 3\r\n(ตัวเลือกที่ 4 EMEA)",
+							"tr-TR": "3. Seviye VCT 2026 Mührü\r\n(Stil 4 - EMEA)",
+							"vi-VN": "Biểu Tượng VCT 2026 Cấp 3\r\n(Dạng 4 EMEA)",
+							"zh-CN": "VCT 2026 篆刀 等级3\r\n（炫彩4 EMEA联赛）",
+							"zh-TW": "2026 VCT 符印刃 等級3\r\n(幻彩4 歐非洲中東聯賽)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "FB970DA4-4F6A-5CB6-A484-1ABF95E6F12D",
+					"label": "FB970DA4-4F6A-5CB6-A484-1ABF95E6F12D",
+					"name":
+					{
+						"defaultText": "VCT 2026 Sigil",
+						"localizedByCulture":
+						{
+							"ar-AE": "سيجيل VCT 2026",
+							"de-DE": "Sigil – VCT 2026",
+							"en-US": "VCT 2026 Sigil",
+							"es-ES": "Sello VCT 2026",
+							"es-MX": "Sello VCT 2026",
+							"fr-FR": "Sigil (VCT 2026)",
+							"id-ID": "VCT 2026 Sigil",
+							"it-IT": "Sigillo VCT 2026",
+							"ja-JP": "VCT 2026 シジル",
+							"ko-KR": "2026 VCT 인장",
+							"pl-PL": "Sigil VCT 2026",
+							"pt-BR": "Emblemática VCT 2026",
+							"ru-RU": "Сигил \"VCT 2026\"",
+							"th-TH": "VCT 2026 Sigil",
+							"tr-TR": "VCT 2026 Mührü",
+							"vi-VN": "Biểu Tượng VCT 2026",
+							"zh-CN": "VCT 2026 篆刀",
+							"zh-TW": "2026 VCT 符印刃"
+						}
+					}
+				},
+				{
+					"id": "A4595AEE-4CCA-E7DF-D74F-14A1F80E5227",
+					"label": "A4595AEE-4CCA-E7DF-D74F-14A1F80E5227",
+					"name":
+					{
+						"defaultText": "VCT 2026 Sigil Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "سيجيل VCT 2026 المستوى 2",
+							"de-DE": "Sigil – VCT 2026 Level 2",
+							"en-US": "VCT 2026 Sigil Level 2",
+							"es-ES": "Sello VCT 2026 de nivel 2",
+							"es-MX": "Sello VCT 2026 nivel 2",
+							"fr-FR": "Sigil (VCT 2026) niveau 2",
+							"id-ID": "VCT 2026 Sigil Level 2",
+							"it-IT": "Sigillo VCT 2026 livello 2",
+							"ja-JP": "VCT 2026 シジル Lv.2",
+							"ko-KR": "2026 VCT 인장 2레벨",
+							"pl-PL": "Sigil VCT 2026 (poziom 2)",
+							"pt-BR": "Emblemática VCT 2026 Nível 2",
+							"ru-RU": "Сигил \"VCT 2026\" уровень 2",
+							"th-TH": "VCT 2026 Sigil เลเวล 2",
+							"tr-TR": "2. Seviye VCT 2026 Mührü",
+							"vi-VN": "Biểu Tượng VCT 2026 Cấp 2",
+							"zh-CN": "VCT 2026 篆刀 等级2",
+							"zh-TW": "2026 VCT 符印刃 等級2"
+						}
+					}
+				},
+				{
+					"id": "4640803B-4CA0-0F1F-1693-B9AD3E64D454",
+					"label": "4640803B-4CA0-0F1F-1693-B9AD3E64D454",
+					"name":
+					{
+						"defaultText": "VCT 2026 Sigil Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "سيجيل VCT 2026 المستوى 3",
+							"de-DE": "Sigil – VCT 2026 Level 3",
+							"en-US": "VCT 2026 Sigil Level 3",
+							"es-ES": "Sello VCT 2026 de nivel 3",
+							"es-MX": "Sello VCT 2026 nivel 3",
+							"fr-FR": "Sigil (VCT 2026) niveau 3",
+							"id-ID": "VCT 2026 Sigil Level 3",
+							"it-IT": "Sigillo VCT 2026 livello 3",
+							"ja-JP": "VCT 2026 シジル Lv.3",
+							"ko-KR": "2026 VCT 인장 3레벨",
+							"pl-PL": "Sigil VCT 2026 (poziom 3)",
+							"pt-BR": "Emblemática VCT 2026 Nível 3",
+							"ru-RU": "Сигил \"VCT 2026\" уровень 3",
+							"th-TH": "VCT 2026 Sigil เลเวล 3",
+							"tr-TR": "3. Seviye VCT 2026 Mührü",
+							"vi-VN": "Biểu Tượng VCT 2026 Cấp 3",
+							"zh-CN": "VCT 2026 篆刀 等级3",
+							"zh-TW": "2026 VCT 符印刃 等級3"
+						}
+					}
+				}
+			],
+			"id": "53C003F5-41F8-F946-7310-1EBFD3509AEC",
+			"label": "53C003F5-41F8-F946-7310-1EBFD3509AEC",
+			"name":
+			{
+				"defaultText": "VCT 2026 Sigil",
+				"localizedByCulture":
+				{
+					"ar-AE": "سيجيل VCT 2026",
+					"de-DE": "Sigil – VCT 2026",
+					"en-US": "VCT 2026 Sigil",
+					"es-ES": "Sello VCT 2026",
+					"es-MX": "Sello VCT 2026",
+					"fr-FR": "Sigil (VCT 2026)",
+					"id-ID": "VCT 2026 Sigil",
+					"it-IT": "Sigillo VCT 2026",
+					"ja-JP": "VCT 2026 シジル",
+					"ko-KR": "2026 VCT 인장",
+					"pl-PL": "Sigil VCT 2026",
+					"pt-BR": "Emblemática VCT 2026",
+					"ru-RU": "Сигил \"VCT 2026\"",
+					"th-TH": "VCT 2026 Sigil",
+					"tr-TR": "VCT 2026 Mührü",
+					"vi-VN": "Biểu Tượng VCT 2026",
+					"zh-CN": "VCT 2026 篆刀",
+					"zh-TW": "2026 VCT 符印刃"
+				}
+			}
+		},
+		{
+			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
 			"defaultChromaId": "20AFC6A1-4DB1-3684-F9AF-9EADBA93FF1B",
 			"chromas": [
 				{
@@ -205075,7 +205342,7 @@
 					"ar-AE": "يمتص 66% من الضرر الكلي. يتحطم بعد امتصاص 25 ضرر.",
 					"de-DE": "Absorbiert 66 % des insgesamt erlittenen Schadens. Zerbricht nach der Absorption von 25 Schaden.",
 					"en-US": "Absorbs 66% of total damage taken. Breaks after it has absorbed 25 damage.",
-					"es-ES": "Absorbe el 66% del daño recibido total. Se rompe después de absorber 25 de daño.",
+					"es-ES": "Absorbe el 66 % del daño recibido total. Se rompe después de absorber 25 de daño.",
 					"es-MX": "Absorbe el 66% del daño total recibido. Se rompe tras absorber 25 de daño.",
 					"fr-FR": "Absorbe 66% du total des dégâts subis. Est détruite après avoir absorbé 25 pts de dégâts.",
 					"id-ID": "Menyerap 66% damage total yang diterima. Rusak setelah menyerap 25 damage.",
@@ -205129,7 +205396,7 @@
 					"ar-AE": "يمتص 66% من الضرر الكلي. يتحطم بعد امتصاص 50 ضرر.",
 					"de-DE": "Absorbiert 66 % des insgesamt erlittenen Schadens. Zerbricht nach der Absorption von 50 Schaden.",
 					"en-US": "Absorbs 66% of total damage taken. Breaks after it has absorbed 50 damage.",
-					"es-ES": "Absorbe el 66% del daño recibido total. Se rompe después de absorber 50 de daño.",
+					"es-ES": "Absorbe el 66 % del daño recibido total. Se rompe después de absorber 50 de daño.",
 					"es-MX": "Absorbe el 66% del daño total recibido. Se rompe tras absorber 50 de daño.",
 					"fr-FR": "Absorbe 66% du total des dégâts subis. Est détruite après avoir absorbé 50 pts de dégâts.",
 					"id-ID": "Menyerap 66% damage total yang diterima. Rusak setelah menyerap 50 damage.",
@@ -205183,7 +205450,7 @@
 					"ar-AE": "يمتص 100% من إجمالي الضرر المُتلقى. يتجدد بعد امتصاصه ضررًا. يتمتع بمجموعة تجديد إجمالية قدرها 50.",
 					"de-DE": "Absorbiert 100 % des insgesamt erlittenen Schadens. Regeneriert, nachdem Schaden absorbiert wurde. Hat ein Regenerationsvermögen von insgesamt 50.",
 					"en-US": "Absorbs 100% of total damage taken. Regenerates after it has absorbed damage. Has a total regeneration pool of 50.",
-					"es-ES": "Absorbe el 100% del daño recibido en total. Se regenera después de absorber daño. El total de regeneración es de 50.",
+					"es-ES": "Absorbe el 100 % del daño recibido en total. Se regenera después de absorber daño. El total de regeneración es de 50.",
 					"es-MX": "Absorbe el 100% del daño total recibido. Se regenera tras absorber daño. Tiene un total de regeneración de 50.",
 					"fr-FR": "Absorbe 100% du total des dégâts subis. Se régénère après avoir absorbé des dégâts. A 50 pts dans sa réserve de régénération.",
 					"id-ID": "Menyerap 100% total damage yang diterima. Pulih setelah menyerap damage. Memiliki total pool regenerasi sebanyak 50.",
@@ -205513,7 +205780,7 @@
 					"pt-BR": "Duelo A",
 					"ru-RU": "Столкновение A",
 					"th-TH": "Skirmish A",
-					"tr-TR": "ÇATIŞMA A",
+					"tr-TR": "ÇARPIŞMA A",
 					"vi-VN": "Skirmish A",
 					"zh-CN": "斗牛 1",
 					"zh-TW": "火線交鋒A"
@@ -205571,7 +205838,7 @@
 					"pt-BR": "Duelo B",
 					"ru-RU": "Столкновение B",
 					"th-TH": "Skirmish B",
-					"tr-TR": "ÇATIŞMA B",
+					"tr-TR": "ÇARPIŞMA B",
 					"vi-VN": "Skirmish B",
 					"zh-CN": "斗牛 2",
 					"zh-TW": "火線交鋒B"
@@ -205629,7 +205896,7 @@
 					"pt-BR": "Duelo C",
 					"ru-RU": "Столкновение C",
 					"th-TH": "Skirmish C",
-					"tr-TR": "ÇATIŞMA C",
+					"tr-TR": "ÇARPIŞMA C",
 					"vi-VN": "Skirmish C",
 					"zh-CN": "斗牛 3",
 					"zh-TW": "火線交鋒C"
@@ -219878,6 +220145,35 @@
 			}
 		},
 		{
+			"id": "33F3C143-4DA0-B595-5F70-FAA2AB7EBA3E",
+			"label": "33F3C143-4DA0-B595-5F70-FAA2AB7EBA3E",
+			"name":
+			{
+				"defaultText": "For Retribution Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة لأجل الثأر",
+					"de-DE": "Banner „Aus Rache“",
+					"en-US": "For Retribution Card",
+					"es-ES": "Tarjeta Por su merecido castigo",
+					"es-MX": "Tarjeta Por la Redención",
+					"fr-FR": "Carte Par représailles",
+					"id-ID": "Kartu For Retribution",
+					"it-IT": "Carta Castigo",
+					"ja-JP": "復讐のため カード",
+					"ko-KR": "응징을 위해 카드",
+					"pl-PL": "Karta „Dla Zemsty”",
+					"pt-BR": "Card Retaliação",
+					"ru-RU": "Карточка \"Ради возмездия\"",
+					"th-TH": "การ์ด For Retribution",
+					"tr-TR": "İntikam İçin Kartı",
+					"vi-VN": "Thẻ Để Trả Thù",
+					"zh-CN": "为了清算 卡面",
+					"zh-TW": "懲戒將臨 玩家卡面"
+				}
+			}
+		},
+		{
 			"id": "6A578461-430D-E0A9-D67E-4C967E0BDF1A",
 			"label": "6A578461-430D-E0A9-D67E-4C967E0BDF1A",
 			"name":
@@ -220748,6 +221044,35 @@
 			}
 		},
 		{
+			"id": "6A3CC137-4EAB-80CD-CA4A-CF8BBAA09467",
+			"label": "6A3CC137-4EAB-80CD-CA4A-CF8BBAA09467",
+			"name":
+			{
+				"defaultText": "PREMIER V26A1 Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة بريمير V26م1",
+					"de-DE": "Banner „PREMIER V26A1“",
+					"en-US": "PREMIER V26A1 Card",
+					"es-ES": "Tarjeta de PREMIER V26A1",
+					"es-MX": "Tarjeta V26A1: PREMIER",
+					"fr-FR": "Carte PREMIER V26A1",
+					"id-ID": "Kartu PREMIER V26A1",
+					"it-IT": "Carta PREMIER V26A1",
+					"ja-JP": "PREMIER V26A1 カード",
+					"ko-KR": "프리미어 V26A1 카드",
+					"pl-PL": "Karta „V26A1 PREMIER”",
+					"pt-BR": "Card PREMIER V26A1",
+					"ru-RU": "Карточка \"V26A1 PREMIER\"",
+					"th-TH": "การ์ด PREMIER V26A1",
+					"tr-TR": "PREMIER V26K1 Kartı",
+					"vi-VN": "Thẻ PREMIER V26P1",
+					"zh-CN": "超级赛//V26第一幕 卡面",
+					"zh-TW": "Premier V26第一章 玩家卡面"
+				}
+			}
+		},
+		{
 			"id": "BB5CEDCD-4ED9-EE2E-F129-48BF60A8E540",
 			"label": "BB5CEDCD-4ED9-EE2E-F129-48BF60A8E540",
 			"name":
@@ -221237,6 +221562,35 @@
 					"vi-VN": "Thẻ 8-bit: Pearl",
 					"zh-CN": "像素瞬间：深海明珠 卡面",
 					"zh-TW": "像素混戰：深海遺珠 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "3204A3EC-4198-2796-95BD-2F850CABD155",
+			"label": "3204A3EC-4198-2796-95BD-2F850CABD155",
+			"name":
+			{
+				"defaultText": "Hatchbudz: Quacked Series Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة سلسلة بيضة البط السعيدة",
+					"de-DE": "Banner „Brutbrudis: Gequakt-Serie“",
+					"en-US": "Hatchbudz: Quacked Series Card",
+					"es-ES": "Tarjeta Serie Eclocoleguis: Cuac cuac",
+					"es-MX": "Tarjeta Compis de Eclosión: Serie Cuac Cuac",
+					"fr-FR": "Carte Coquilles du bonheur : Série Coin-coin",
+					"id-ID": "Kartu Hatchbudz: Quacked Series",
+					"it-IT": "Carta Schiudotti: Qua qua",
+					"ja-JP": "ハッチバッズ: クワックドシリーズ カード",
+					"ko-KR": "해치버즈: 꽥꽥 시리즈 카드",
+					"pl-PL": "Karta „Jajcarze: Kacza seria”",
+					"pt-BR": "Card Coleção Cascudinhos: Quá-Quá",
+					"ru-RU": "Карточка \"Скорлупыши: Крякнутая серия\"",
+					"th-TH": "การ์ด Hatchbudz: Quacked Series",
+					"tr-TR": "Yumurdaşlar: Vakvak Serisi Kartı",
+					"vi-VN": "Thẻ Hatchbudz: Trứng Đồ Chơi",
+					"zh-CN": "孵化小能手：破壳鸭 卡面",
+					"zh-TW": "寶貝蛋：鴨鴨系列 玩家卡面"
 				}
 			}
 		},
@@ -228226,6 +228580,122 @@
 					"vi-VN": "Thẻ VCT 2025 Pacific",
 					"zh-CN": "VCT 2025 太平洋联赛 卡面",
 					"zh-TW": "2025 VCT太平洋聯賽 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "5DBCE150-4E13-9F32-06CB-9EAD45C8A258",
+			"label": "5DBCE150-4E13-9F32-06CB-9EAD45C8A258",
+			"name":
+			{
+				"defaultText": "VCT 2026 Americas Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة VCT 2026 الأمريكتان",
+					"de-DE": "Banner „VCT 2026 Americas“",
+					"en-US": "VCT 2026 Americas Card",
+					"es-ES": "Tarjeta VCT 2026 Americas",
+					"es-MX": "Tarjeta VCT Americas 2026",
+					"fr-FR": "Carte VCT 2026 Americas",
+					"id-ID": "Kartu VCT 2026 Americas",
+					"it-IT": "Carta VCT Americas 2026",
+					"ja-JP": "VCT 2026 Americas カード",
+					"ko-KR": "2026 VCT Americas 카드",
+					"pl-PL": "Karta „VCT 2026 Americas”",
+					"pt-BR": "Card VCT 2026 // Americas",
+					"ru-RU": "Карточка \"VCT 2026 Americas\"",
+					"th-TH": "การ์ด VCT 2026 Americas",
+					"tr-TR": "VCT 2026 Americas Kartı",
+					"vi-VN": "Thẻ VCT 2026 Americas",
+					"zh-CN": "VCT 2026 美洲联赛 卡面",
+					"zh-TW": "2026 VCT美洲聯賽 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "16590C2B-4CD8-A70B-D801-85A1349B8DF3",
+			"label": "16590C2B-4CD8-A70B-D801-85A1349B8DF3",
+			"name":
+			{
+				"defaultText": "VCT 2026 CN Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة VCT 2026 CN",
+					"de-DE": "Banner „VCT 2026 CN“",
+					"en-US": "VCT 2026 CN Card",
+					"es-ES": "Tarjeta VCT 2026 CN",
+					"es-MX": "Tarjeta VCT CN 2026",
+					"fr-FR": "Carte VCT 2026 CN",
+					"id-ID": "Kartu VCT 2026 CN",
+					"it-IT": "Carta VCT CN 2026",
+					"ja-JP": "VCT 2026 CN カード",
+					"ko-KR": "2026 VCT CN 카드",
+					"pl-PL": "Karta „VCT 2026 CN”",
+					"pt-BR": "Card VCT 2026 // CN",
+					"ru-RU": "Карточка \"VCT 2026 CN\"",
+					"th-TH": "การ์ด VCT 2026 CN",
+					"tr-TR": "VCT 2026 CN Kartı",
+					"vi-VN": "Thẻ VCT 2026 CN",
+					"zh-CN": "VCT 2026 CN联赛 卡面",
+					"zh-TW": "2026 VCT CN聯賽 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "C82AAADE-4B61-36D7-CC1F-11B1F9CD6F85",
+			"label": "C82AAADE-4B61-36D7-CC1F-11B1F9CD6F85",
+			"name":
+			{
+				"defaultText": "VCT 2026 EMEA Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة VCT 2026 أوروبا والشرق الأوسط وإفريقيا",
+					"de-DE": "Banner „VCT 2026 EMEA“",
+					"en-US": "VCT 2026 EMEA Card",
+					"es-ES": "Tarjeta VCT 2026 EMEA",
+					"es-MX": "Tarjeta VCT EMEA 2026",
+					"fr-FR": "Carte VCT 2026 EMEA",
+					"id-ID": "Kartu VCT 2026 EMEA",
+					"it-IT": "Carta VCT EMEA 2026",
+					"ja-JP": "VCT 2026 EMEA カード",
+					"ko-KR": "2026 VCT EMEA 카드",
+					"pl-PL": "Karta „VCT 2026 EMEA”",
+					"pt-BR": "Card VCT 2026 // EMEA",
+					"ru-RU": "Карточка \"VCT 2026 EMEA\"",
+					"th-TH": "การ์ด VCT 2026 EMEA",
+					"tr-TR": "VCT 2026 EMEA Kartı",
+					"vi-VN": "Thẻ VCT 2026 EMEA",
+					"zh-CN": "VCT 2026 EMEA联赛 卡面",
+					"zh-TW": "2026 VCT歐非洲中東聯賽 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "A7E78A56-4557-383E-72A1-95AE97BCF2C1",
+			"label": "A7E78A56-4557-383E-72A1-95AE97BCF2C1",
+			"name":
+			{
+				"defaultText": "VCT 2026 Pacific Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة VCT 2026 المحيط الهادئ",
+					"de-DE": "Banner „VCT 2026 Pacific“",
+					"en-US": "VCT 2026 Pacific Card",
+					"es-ES": "Tarjeta VCT 2026 Pacific",
+					"es-MX": "Tarjeta VCT Pacific 2026",
+					"fr-FR": "Carte VCT 2026 Pacific",
+					"id-ID": "Kartu VCT 2026 Pacific",
+					"it-IT": "Carta VCT Pacific 2026",
+					"ja-JP": "VCT 2026 Pacific カード",
+					"ko-KR": "2026 VCT Pacific 카드",
+					"pl-PL": "Karta „VCT 2026 Pacific”",
+					"pt-BR": "Card VCT 2026 // Pacific",
+					"ru-RU": "Карточка \"VCT 2026 Pacific\"",
+					"th-TH": "การ์ด VCT 2026 Pacific",
+					"tr-TR": "VCT 2026 Pacific Kartı",
+					"vi-VN": "Thẻ VCT 2026 Pacific",
+					"zh-CN": "VCT 2026 太平洋联赛 卡面",
+					"zh-TW": "2026 VCT太平洋聯賽 玩家卡面"
 				}
 			}
 		},
@@ -242574,7 +243044,7 @@
 					"de-DE": "Bakán",
 					"en-US": "Bakán",
 					"es-ES": "Bakán",
-					"es-MX": "Bacán",
+					"es-MX": "Bakán",
 					"fr-FR": "Bakán",
 					"id-ID": "Bakán",
 					"it-IT": "Bakán",
@@ -242601,7 +243071,7 @@
 					"de-DE": "Titel „Bakán“",
 					"en-US": "Bakán Title",
 					"es-ES": "Título Bakán",
-					"es-MX": "Título Bacán",
+					"es-MX": "Título Bakán",
 					"fr-FR": "Titre Bakán",
 					"id-ID": "Gelar Bakán",
 					"it-IT": "Titolo Bakán",
@@ -242762,7 +243232,7 @@
 					"ar-AE": "لقب الفائز ببطولة VCT Masters سانتياغو",
 					"de-DE": "Titel „Sieger der VCT Masters Santiago“",
 					"en-US": "VCT Masters Santiago Winner Title",
-					"es-ES": "Título de ganador del VCT Masters Santiago",
+					"es-ES": "Título Ganador del VCT Masters Santiago",
 					"es-MX": "Título Ganador del VCT Masters Santiago",
 					"fr-FR": "Titre Vainqueur Masters Santiago VCT",
 					"id-ID": "Gelar VCT Masters Santiago Winner",
@@ -247691,6 +248161,330 @@
 					"vi-VN": "Danh Hiệu VĐ PREMIER V25P6 // CC",
 					"zh-CN": "超级赛//V25第六幕冠军//高级 称号",
 					"zh-TW": "Premier V25第六章冠軍 // 高階 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V26A1 CHAMPION // ADV",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V26م1 \\\\ متقدم",
+					"de-DE": "PREMIER V26A1 CHAMPION // PRF",
+					"en-US": "PREMIER V26A1 CHAMPION // ADV",
+					"es-ES": "CAMP. PREMIER V26A1 // AVNZ",
+					"es-MX": "V26A1: AVAN. // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V26A1 // AVN",
+					"id-ID": "PREMIER V26A1 CHAMPION // ADV",
+					"it-IT": "CAMPIONE PREMIER V26A1 // AVZ",
+					"ja-JP": "PREMIER V26A1 チャンピオン // ADV",
+					"ko-KR": "프리미어 V26A1 챔피언 // 중상급",
+					"pl-PL": "BOHATER V26A1 PREMIER // ZWN",
+					"pt-BR": "CAMPEÃO PREMIER V26A1 // AV",
+					"ru-RU": "ЧЕМПИОН V26A1 PREMIER // АС",
+					"th-TH": "PREMIER V26A1 CHAMPION // ADV",
+					"tr-TR": "PREMIER V26K1 ŞAMP. // İLR",
+					"vi-VN": "VĐ PREMIER V26P1 // CC",
+					"zh-CN": "超级赛//V26第一幕冠军//高级",
+					"zh-TW": "Premier V26第一章冠軍 // 高階"
+				}
+			},
+			"id": "0E05038E-4C72-BFF1-75DD-BF8561AC1A1B",
+			"label": "0E05038E-4C72-BFF1-75DD-BF8561AC1A1B",
+			"name":
+			{
+				"defaultText": "PREMIER V26A1 CHAMPION // ADV Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V26م1 \\\\ متقدم",
+					"de-DE": "Titel „PREMIER V26A1 CHAMPION // PRF“",
+					"en-US": "PREMIER V26A1 CHAMPION // ADV Title",
+					"es-ES": "Título CAMP. PREMIER V26A1 // AVNZ",
+					"es-MX": "Título V26A1: AVAN. // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V26A1 // AVN",
+					"id-ID": "Gelar PREMIER V26A1 CHAMPION // ADV",
+					"it-IT": "Titolo CAMPIONE PREMIER V26A1 // AVZ",
+					"ja-JP": "PREMIER V26A1 チャンピオン // ADV タイトル",
+					"ko-KR": "프리미어 V26A1 챔피언 // 중상급 칭호",
+					"pl-PL": "Tytuł „BOHATER V26A1 PREMIER // ZWN”",
+					"pt-BR": "Título CAMPEÃO PREMIER V26A1 // AV",
+					"ru-RU": "Звание \"ЧЕМПИОН V26A1 PREMIER // АС\"",
+					"th-TH": "ฉายา PREMIER V26A1 CHAMPION // ADV",
+					"tr-TR": "PREMIER V26K1 ŞAMP. // İLR Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V26P1 // CC",
+					"zh-CN": "超级赛//V26第一幕冠军//高级 称号",
+					"zh-TW": "Premier V26第一章冠軍 // 高階 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V26A1 CHAMPION // CTD",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V26م1 \\\\ منافس",
+					"de-DE": "PREMIER V26A1 CHAMPION // KNDT",
+					"en-US": "PREMIER V26A1 CHAMPION // CTD",
+					"es-ES": "CAMP. PREMIER V26A1 // CNTD",
+					"es-MX": "V26A1: CONT. // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V26A1 // CCR",
+					"id-ID": "PREMIER V26A1 CHAMPION // CTD",
+					"it-IT": "CAMPIONE PREMIER V26A1 // SFD",
+					"ja-JP": "PREMIER V26A1 チャンピオン // CTD",
+					"ko-KR": "프리미어 V26A1 챔피언 // 최상급",
+					"pl-PL": "BOHATER V26A1 PREMIER // ZDK",
+					"pt-BR": "CAMPEÃO PREMIER V26A1 // DES",
+					"ru-RU": "ЧЕМПИОН V26A1 PREMIER // БОЕЦ",
+					"th-TH": "PREMIER V26A1 CHAMPION // CTD",
+					"tr-TR": "PREMIER V26K1 ŞAMP. // TTKÇİ",
+					"vi-VN": "VĐ PREMIER V26P1 // UVNK",
+					"zh-CN": "超级赛//V26第一幕冠军//竞争者",
+					"zh-TW": "Premier V26第一章冠軍 // 競爭者"
+				}
+			},
+			"id": "E1289B90-408F-0E47-CD8A-F48842FEDF46",
+			"label": "E1289B90-408F-0E47-CD8A-F48842FEDF46",
+			"name":
+			{
+				"defaultText": "PREMIER V26A1 CHAMPION // CTD Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V26م1 \\\\ منافس",
+					"de-DE": "Titel „PREMIER V26A1 CHAMPION // KNDT“",
+					"en-US": "PREMIER V26A1 CHAMPION // CTD Title",
+					"es-ES": "Título CAMP. PREMIER V26A1 // CNTD",
+					"es-MX": "Título V26A1: CONT. // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V26A1 // CCR",
+					"id-ID": "Gelar PREMIER V26A1 CHAMPION // CTD",
+					"it-IT": "Titolo CAMPIONE PREMIER V26A1 // SFD",
+					"ja-JP": "PREMIER V26A1 チャンピオン // CTD タイトル",
+					"ko-KR": "프리미어 V26A1 챔피언 // 최상급 칭호",
+					"pl-PL": "Tytuł „BOHATER V26A1 PREMIER // ZDK”",
+					"pt-BR": "Título CAMPEÃO PREMIER V26A1 // DES",
+					"ru-RU": "Звание \"ЧЕМПИОН V26A1 PREMIER // БОЕЦ\"",
+					"th-TH": "ฉายา PREMIER V26A1 CHAMPION // CTD",
+					"tr-TR": "PREMIER V26K1 ŞAMP. // TTKÇİ Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V26P1 // UVNK",
+					"zh-CN": "超级赛//V26第一幕冠军//竞争者 称号",
+					"zh-TW": "Premier V26第一章冠軍 // 競爭者 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V26A1 CHAMPION // ELT",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V26م1 \\\\ نخبة",
+					"de-DE": "PREMIER V26A1 CHAMPION // ELT",
+					"en-US": "PREMIER V26A1 CHAMPION // ELT",
+					"es-ES": "CAMP. PREMIER V26A1 // ÉLT",
+					"es-MX": "V26A1: ÉLITE // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V26A1 // ÉLT",
+					"id-ID": "PREMIER V26A1 CHAMPION // ELT",
+					"it-IT": "CAMPIONE PREMIER V26A1 // ÉLT",
+					"ja-JP": "PREMIER V26A1 チャンピオン // ELT",
+					"ko-KR": "프리미어 V26A1 챔피언 // 상급",
+					"pl-PL": "BOHATER V26A1 PREMIER // ELT",
+					"pt-BR": "CAMPEÃO PREMIER V26A1 // ELT",
+					"ru-RU": "ЧЕМПИОН V26A1 PREMIER // ЭЛИТА",
+					"th-TH": "PREMIER V26A1 CHAMPION // ELT",
+					"tr-TR": "PREMIER V26K1 ŞAMP. // SÇKN",
+					"vi-VN": "VĐ PREMIER V26P1 // TN",
+					"zh-CN": "超级赛//V26第一幕冠军//精英",
+					"zh-TW": "Premier V26第一章冠軍 // 菁英"
+				}
+			},
+			"id": "35C3673A-4BD5-C110-128A-669A7105775C",
+			"label": "35C3673A-4BD5-C110-128A-669A7105775C",
+			"name":
+			{
+				"defaultText": "PREMIER V26A1 CHAMPION // ELT Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V26م1 \\\\ نخبة",
+					"de-DE": "Titel „PREMIER V26A1 CHAMPION // ELT“",
+					"en-US": "PREMIER V26A1 CHAMPION // ELT Title",
+					"es-ES": "Título CAMP. PREMIER V26A1 // ÉLT",
+					"es-MX": "Título V26A1: ÉLITE // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V26A1 // ÉLT",
+					"id-ID": "Gelar PREMIER V26A1 CHAMPION // ELT",
+					"it-IT": "Titolo CAMPIONE PREMIER V26A1 // ÉLT",
+					"ja-JP": "PREMIER V26A1 チャンピオン // ELT タイトル",
+					"ko-KR": "프리미어 V26A1 챔피언 // 상급 칭호",
+					"pl-PL": "Tytuł „BOHATER V26A1 PREMIER // ELT”",
+					"pt-BR": "Título CAMPEÃO PREMIER V26A1 // ELT",
+					"ru-RU": "Звание \"ЧЕМПИОН V26A1 PREMIER // ЭЛИТА\"",
+					"th-TH": "ฉายา PREMIER V26A1 CHAMPION // ELT",
+					"tr-TR": "PREMIER V26K1 ŞAMP. // SÇKN Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V26P1 // TN",
+					"zh-CN": "超级赛//V26第一幕冠军//精英 称号",
+					"zh-TW": "Premier V26第一章冠軍 // 菁英 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V26A1 GRAND CHAMP",
+				"localizedByCulture":
+				{
+					"ar-AE": "البطل الأعظم بريمير V26م1",
+					"de-DE": "PREMIER V26A1 GROSSMEISTER",
+					"en-US": "PREMIER V26A1 GRAND CHAMP",
+					"es-ES": "GRAN CAMP. PREMIER V26A1",
+					"es-MX": "V26A1: MEGACAMPEONES PREMIER",
+					"fr-FR": "GRAND CHAMPION DE PREMIER V26A1",
+					"id-ID": "PREMIER V26A1 GRAND CHAMP",
+					"it-IT": "CAMPIONE ASSOLUTO PREMIER V26A1",
+					"ja-JP": "PREMIER V26A1 グランドチャンピオン",
+					"ko-KR": "프리미어 V26A1 그랜드 챔피언",
+					"pl-PL": "NAJWIĘKSZY BOHATER V26A1 PREMIER",
+					"pt-BR": "GRANDE CAMPEÃO PREMIER V26A1",
+					"ru-RU": "ГРАНД-ЧЕМПИОН V26A1 PREMIER",
+					"th-TH": "PREMIER V26A1 GRAND CHAMP",
+					"tr-TR": "PREMIER V26K1 BÜYÜK ŞAMP.",
+					"vi-VN": "NHÀ VĐ PREMIER V26P1",
+					"zh-CN": "超级赛//V26第一幕总冠军",
+					"zh-TW": "Premier V26第一章總冠軍"
+				}
+			},
+			"id": "A8F89CA4-44E9-6C4F-9B3A-CF8190206F16",
+			"label": "A8F89CA4-44E9-6C4F-9B3A-CF8190206F16",
+			"name":
+			{
+				"defaultText": "PREMIER V26A1 GRAND CHAMP Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب البطل الأعظم بريمير V26م1",
+					"de-DE": "Titel „PREMIER V26A1 GROSSMEISTER“",
+					"en-US": "PREMIER V26A1 GRAND CHAMP Title",
+					"es-ES": "Título GRAN CAMP. PREMIER V26A1",
+					"es-MX": "Título V26A1: MEGACAMPEONES PREMIER",
+					"fr-FR": "Titre GRAND CHAMPION DE PREMIER V26A1",
+					"id-ID": "Gelar PREMIER V26A1 GRAND CHAMP",
+					"it-IT": "Titolo CAMPIONE ASSOLUTO PREMIER V26A1",
+					"ja-JP": "PREMIER V26A1 グランドチャンピオン タイトル",
+					"ko-KR": "프리미어 V26A1 그랜드 챔피언 칭호",
+					"pl-PL": "Tytuł „NAJWIĘKSZY BOHATER V26A1 PREMIER”",
+					"pt-BR": "Título GRANDE CAMPEÃO PREMIER V26A1",
+					"ru-RU": "Звание \"ГРАНД-ЧЕМПИОН V26A1 PREMIER\"",
+					"th-TH": "ฉายา PREMIER V26A1 GRAND CHAMP",
+					"tr-TR": "PREMIER V26K1 BÜYÜK ŞAMP. Unvanı",
+					"vi-VN": "Danh Hiệu NHÀ VĐ PREMIER V26P1",
+					"zh-CN": "超级赛//V26第一幕总冠军 称号",
+					"zh-TW": "Premier V26第一章總冠軍 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V26A1 CHAMPION // INT",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V26م1 \\\\ متوسط",
+					"de-DE": "PREMIER V26A1 CHAMPION // FRTG",
+					"en-US": "PREMIER V26A1 CHAMPION // INT",
+					"es-ES": "CAMP. PREMIER V26A1 // INTM",
+					"es-MX": "V26A1: INT. // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V26A1 // INT",
+					"id-ID": "PREMIER V26A1 CHAMPION // INT",
+					"it-IT": "CAMPIONE PREMIER V26A1 // INT",
+					"ja-JP": "PREMIER V26A1 チャンピオン // INT",
+					"ko-KR": "프리미어 V26A1 챔피언 // 중급",
+					"pl-PL": "BOHATER V26A1 PREMIER // ŚRD",
+					"pt-BR": "CAMPEÃO PREMIER V26A1 // INT",
+					"ru-RU": "ЧЕМПИОН V26A1 PREMIER // СРЕД",
+					"th-TH": "PREMIER V26A1 CHAMPION // INT",
+					"tr-TR": "PREMIER V26K1 ŞAMP. // ORT",
+					"vi-VN": "VĐ PREMIER V26P1 // TC",
+					"zh-CN": "超级赛//V26第一幕冠军//中级",
+					"zh-TW": "Premier V26第一章冠軍 // 中階"
+				}
+			},
+			"id": "9E68FB44-4269-EAD6-3DC4-B89BCB63B5EA",
+			"label": "9E68FB44-4269-EAD6-3DC4-B89BCB63B5EA",
+			"name":
+			{
+				"defaultText": "PREMIER V26A1 CHAMPION // INT Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V26م1 \\\\ متوسط",
+					"de-DE": "Titel „PREMIER V26A1 CHAMPION // FRTG“",
+					"en-US": "PREMIER V26A1 CHAMPION // INT Title",
+					"es-ES": "Título CAMP. PREMIER V26A1 // INTM",
+					"es-MX": "Título V26A1: INT. // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V26A1 // INT",
+					"id-ID": "Gelar PREMIER V26A1 CHAMPION // INT",
+					"it-IT": "Titolo CAMPIONE PREMIER V26A1 // INT",
+					"ja-JP": "PREMIER V26A1 チャンピオン // INT タイトル",
+					"ko-KR": "프리미어 V26A1 챔피언 // 중급 칭호",
+					"pl-PL": "Tytuł „BOHATER V26A1 PREMIER // ŚRD”",
+					"pt-BR": "Título CAMPEÃO PREMIER V26A1 // INT",
+					"ru-RU": "Звание \"ЧЕМПИОН V26A1 PREMIER // СРЕД\"",
+					"th-TH": "ฉายา PREMIER V26A1 CHAMPION // INT",
+					"tr-TR": "PREMIER V26K1 ŞAMP. // ORT Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V26P1 // TC",
+					"zh-CN": "超级赛//V26第一幕冠军//中级 称号",
+					"zh-TW": "Premier V26第一章冠軍 // 中階 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V26A1 CHAMPION // OPN",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V26م1 \\\\ مفتوح",
+					"de-DE": "PREMIER V26A1 CHAMPION // OFFN",
+					"en-US": "PREMIER V26A1 CHAMPION // OPN",
+					"es-ES": "CAMP. PREMIER V26A1 // ABRT",
+					"es-MX": "V26A1: ABIERTO // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V26A1 // OUV",
+					"id-ID": "PREMIER V26A1 CHAMPION // OPN",
+					"it-IT": "CAMPIONE PREMIER V26A1 // APR",
+					"ja-JP": "PREMIER V26A1 チャンピオン // OPN",
+					"ko-KR": "프리미어 V26A1 챔피언 // 초급",
+					"pl-PL": "BOHATER V26A1 PREMIER // OTW",
+					"pt-BR": "CAMPEÃO PREMIER V26A1 // ABR",
+					"ru-RU": "ЧЕМПИОН V26A1 PREMIER // ОТКР",
+					"th-TH": "PREMIER V26A1 CHAMPION // OPN",
+					"tr-TR": "PREMIER V26K1 ŞAMP. // AÇK",
+					"vi-VN": "VĐ PREMIER V26P1 // TD",
+					"zh-CN": "超级赛//V26第一幕冠军//初级",
+					"zh-TW": "Premier V26第一章冠軍 // 初階"
+				}
+			},
+			"id": "C081B3F0-419A-653D-6B6B-E89C7EDBAC84",
+			"label": "C081B3F0-419A-653D-6B6B-E89C7EDBAC84",
+			"name":
+			{
+				"defaultText": "PREMIER V26A1 CHAMPION // OPN Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V26م1 \\\\ مفتوح",
+					"de-DE": "Titel „PREMIER V26A1 CHAMPION // OFFN“",
+					"en-US": "PREMIER V26A1 CHAMPION // OPN Title",
+					"es-ES": "Título CAMP. PREMIER V26A1 // ABRT",
+					"es-MX": "Título V26A1: ABIERTO // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V26A1 // OUV",
+					"id-ID": "Gelar PREMIER V26A1 CHAMPION // OPN",
+					"it-IT": "Titolo CAMPIONE PREMIER V26A1 // APR",
+					"ja-JP": "PREMIER V26A1 チャンピオン // OPN タイトル",
+					"ko-KR": "프리미어 V26A1 챔피언 // 초급 칭호",
+					"pl-PL": "Tytuł „BOHATER V26A1 PREMIER // OTW”",
+					"pt-BR": "Título CAMPEÃO PREMIER V26A1 // ABR",
+					"ru-RU": "Звание \"ЧЕМПИОН V26A1 PREMIER // ОТКР\"",
+					"th-TH": "ฉายา PREMIER V26A1 CHAMPION // OPN",
+					"tr-TR": "PREMIER V26K1 ŞAMP. // AÇK Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V26P1 // TD",
+					"zh-CN": "超级赛//V26第一幕冠军//初级 称号",
+					"zh-TW": "Premier V26第一章冠軍 // 初階 稱號"
 				}
 			}
 		},
@@ -264366,7 +265160,7 @@
 					"en-US": "FRGMT x WNGMN+ Buddy",
 					"es-ES": "Amuleto FRGMT x WNGMN+",
 					"es-MX": "Buddy FRGMT x CRNLT+",
-					"fr-FR": "Porte-bonneur FRGMT X ALTG+",
+					"fr-FR": "Porte-bonheur FRGMT X ALTG+",
 					"id-ID": "Buddy FRGMT x WNGMN+",
 					"it-IT": "Accessorio FRGMT x WNGMN+",
 					"ja-JP": "FRGMT x WNGMN+ バディー",
@@ -275065,6 +275859,66 @@
 		{
 			"levels": [
 				{
+					"id": "0E4637AD-4DDE-9E56-5248-779E083C36BB",
+					"label": "0E4637AD-4DDE-9E56-5248-779E083C36BB",
+					"name":
+					{
+						"defaultText": "Poptoy",
+						"localizedByCulture":
+						{
+							"ar-AE": "Poptoy",
+							"de-DE": "Poptoy",
+							"en-US": "Poptoy",
+							"es-ES": "Poptoy",
+							"es-MX": "Poptoy",
+							"fr-FR": "Poptoy",
+							"id-ID": "Poptoy",
+							"it-IT": "Poptoy",
+							"ja-JP": "Poptoy",
+							"ko-KR": "Poptoy",
+							"pl-PL": "Poptoy",
+							"pt-BR": "Poptoy",
+							"ru-RU": "Poptoy",
+							"th-TH": "Poptoy",
+							"tr-TR": "Poptoy",
+							"vi-VN": "Poptoy",
+							"zh-CN": "Poptoy",
+							"zh-TW": "Poptoy"
+						}
+					}
+				}
+			],
+			"id": "7581A1BE-4C37-1149-3C01-AE941D674005",
+			"label": "7581A1BE-4C37-1149-3C01-AE941D674005",
+			"name":
+			{
+				"defaultText": "Hatchbudz: Quacked Series Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق سلسلة بيضة البط السعيدة",
+					"de-DE": "Talisman „Brutbrudis: Gequakt-Serie“",
+					"en-US": "Hatchbudz: Quacked Series Buddy",
+					"es-ES": "Amuleto Serie Eclocoleguis: Cuac cuac",
+					"es-MX": "Buddy Compis de Eclosión: Serie Cuac Cuac",
+					"fr-FR": "Porte-bonheur Coquilles du bonheur : Série Coin-coin",
+					"id-ID": "Buddy Hatchbudz: Quacked Series",
+					"it-IT": "Accessorio Schiudotti: Qua qua",
+					"ja-JP": "ハッチバッズ: クワックドシリーズ バディー",
+					"ko-KR": "해치버즈: 꽥꽥 시리즈 총기 장식",
+					"pl-PL": "Przywieszka „Jajcarze: Kacza seria”",
+					"pt-BR": "Chaveiro Coleção Cascudinhos: Quá-Quá",
+					"ru-RU": "Брелок \"Скорлупыши: Крякнутая серия\"",
+					"th-TH": "บัดดี้ Hatchbudz: Quacked Series",
+					"tr-TR": "Yumurdaşlar: Vakvak Serisi Uğuru",
+					"vi-VN": "Phụ Kiện Hatchbudz: Trứng Đồ Chơi",
+					"zh-CN": "孵化小能手：破壳鸭 挂饰",
+					"zh-TW": "寶貝蛋：鴨鴨系列 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "7EC4E63C-43C9-3077-A8A4-A09B2DAED21F",
 					"label": "7EC4E63C-43C9-3077-A8A4-A09B2DAED21F",
 					"name":
@@ -279919,6 +280773,366 @@
 					"vi-VN": "Phụ Kiện VĐ PREMIER V25P6 // TD",
 					"zh-CN": "超级赛//V25第六幕冠军//初级 挂饰",
 					"zh-TW": "Premier V25第六章冠軍 // 初階 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "371776E1-40D9-7AD8-3659-59A2E00F1227",
+					"label": "371776E1-40D9-7AD8-3659-59A2E00F1227",
+					"name":
+					{
+						"defaultText": "PremierV26A1_Advanced",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A1_Advanced",
+							"de-DE": "PremierV26A1_Advanced",
+							"en-US": "PremierV26A1_Advanced",
+							"es-ES": "PremierV26A1_Advanced",
+							"es-MX": "PremierV26A1_Advanced",
+							"fr-FR": "PremierV26A1_Advanced",
+							"id-ID": "PremierV26A1_Advanced",
+							"it-IT": "PremierV26A1_Advanced",
+							"ja-JP": "PremierV26A1_Advanced",
+							"ko-KR": "PremierV26A1_Advanced",
+							"pl-PL": "PremierV26A1_Advanced",
+							"pt-BR": "PremierV26A1_Advanced",
+							"ru-RU": "PremierV26A1_Advanced",
+							"th-TH": "PremierV26A1_Advanced",
+							"tr-TR": "PremierV26A1_Advanced",
+							"vi-VN": "PremierV26A1_Advanced",
+							"zh-CN": "PremierV26A1_Advanced",
+							"zh-TW": "PremierV26A1_Advanced"
+						}
+					}
+				}
+			],
+			"id": "036BFDDA-4DFC-C145-0D23-6091667A3CAA",
+			"label": "036BFDDA-4DFC-C145-0D23-6091667A3CAA",
+			"name":
+			{
+				"defaultText": "PREMIER V26A1 CHAMPION // ADV Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V26م1 \\\\ متقدم",
+					"de-DE": "Talisman „PREMIER V26A1 CHAMPION // PRF“",
+					"en-US": "PREMIER V26A1 CHAMPION // ADV Buddy",
+					"es-ES": "Amuleto CAMP. PREMIER V26A1 // AVNZ",
+					"es-MX": "Buddy V26A1: AVAN. // CAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V26A1 // AVN",
+					"id-ID": "Buddy PREMIER V26A1 CHAMPION // ADV",
+					"it-IT": "Accessorio CAMPIONE PREMIER V26A1 // AVZ",
+					"ja-JP": "PREMIER V26A1 チャンピオン // ADV バディー",
+					"ko-KR": "프리미어 V26A1 챔피언 // 중상급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V26A1 PREMIER // ZWN”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V26A1 // AV",
+					"ru-RU": "Брелок \"ЧЕМПИОН V26A1 PREMIER // АС\"",
+					"th-TH": "บัดดี้ PREMIER V26A1 CHAMPION // ADV",
+					"tr-TR": "PREMIER V26K1 ŞAMPİYONU // İLR DZY Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V26P1 // CC",
+					"zh-CN": "超级赛//V26第一幕冠军//高级 挂饰",
+					"zh-TW": "Premier V26第一章冠軍 // 高階 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "08F9CE7E-4A45-932A-AA39-209395FC5AE1",
+					"label": "08F9CE7E-4A45-932A-AA39-209395FC5AE1",
+					"name":
+					{
+						"defaultText": "PremierV26A1_Contender",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A1_Contender",
+							"de-DE": "PremierV26A1_Contender",
+							"en-US": "PremierV26A1_Contender",
+							"es-ES": "PremierV26A1_Contender",
+							"es-MX": "PremierV26A1_Contender",
+							"fr-FR": "PremierV26A1_Contender",
+							"id-ID": "PremierV26A1_Contender",
+							"it-IT": "PremierV26A1_Contender",
+							"ja-JP": "PremierV26A1_Contender",
+							"ko-KR": "PremierV26A1_Contender",
+							"pl-PL": "PremierV26A1_Contender",
+							"pt-BR": "PremierV26A1_Contender",
+							"ru-RU": "PremierV26A1_Contender",
+							"th-TH": "PremierV26A1_Contender",
+							"tr-TR": "PremierV26A1_Contender",
+							"vi-VN": "PremierV26A1_Contender",
+							"zh-CN": "PremierV26A1_Contender",
+							"zh-TW": "PremierV26A1_Contender"
+						}
+					}
+				}
+			],
+			"id": "FF2F62B5-46E8-D838-A78F-3782722B33EB",
+			"label": "FF2F62B5-46E8-D838-A78F-3782722B33EB",
+			"name":
+			{
+				"defaultText": "PREMIER V26A1 CHAMPION // CTD Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V26م1 \\\\ منافس",
+					"de-DE": "Talisman „PREMIER V26A1 CHAMPION // KNDT“",
+					"en-US": "PREMIER V26A1 CHAMPION // CTD Buddy",
+					"es-ES": "Amuleto CAMP. PREMIER V26A1 // CNTD",
+					"es-MX": "Buddy V26A1: CONT. // CAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V26A1 // CCR",
+					"id-ID": "Buddy PREMIER V26A1 CHAMPION // CTD",
+					"it-IT": "Accessorio CAMPIONE PREMIER V26A1 // SFD",
+					"ja-JP": "PREMIER V26A1 チャンピオン // CTD バディー",
+					"ko-KR": "프리미어 V26A1 챔피언 // 최상급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V26A1 PREMIER // ZDK”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V26A1 // DES",
+					"ru-RU": "Брелок \"ЧЕМПИОН V26A1 PREMIER // БОЕЦ\"",
+					"th-TH": "บัดดี้ PREMIER V26A1 CHAMPION // CTD",
+					"tr-TR": "PREMIER V26K1 ŞAMPİYONU // TTKÇİ Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V26P1 // UVNK",
+					"zh-CN": "超级赛//V26第一幕冠军//竞争者 挂饰",
+					"zh-TW": "Premier V26第一章冠軍 // 競爭者 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "4A32CEDE-472D-8194-65C7-FCBC4765EC75",
+					"label": "4A32CEDE-472D-8194-65C7-FCBC4765EC75",
+					"name":
+					{
+						"defaultText": "PremierV26A1_Elite",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A1_Elite",
+							"de-DE": "PremierV26A1_Elite",
+							"en-US": "PremierV26A1_Elite",
+							"es-ES": "PremierV26A1_Elite",
+							"es-MX": "PremierV26A1_Elite",
+							"fr-FR": "PremierV26A1_Elite",
+							"id-ID": "PremierV26A1_Elite",
+							"it-IT": "PremierV26A1_Elite",
+							"ja-JP": "PremierV26A1_Elite",
+							"ko-KR": "PremierV26A1_Elite",
+							"pl-PL": "PremierV26A1_Elite",
+							"pt-BR": "PremierV26A1_Elite",
+							"ru-RU": "PremierV26A1_Elite",
+							"th-TH": "PremierV26A1_Elite",
+							"tr-TR": "PremierV26A1_Elite",
+							"vi-VN": "PremierV26A1_Elite",
+							"zh-CN": "PremierV26A1_Elite",
+							"zh-TW": "PremierV26A1_Elite"
+						}
+					}
+				}
+			],
+			"id": "14BA9708-48AB-E0BD-4AA0-568F10BC53F1",
+			"label": "14BA9708-48AB-E0BD-4AA0-568F10BC53F1",
+			"name":
+			{
+				"defaultText": "PREMIER V26A1 CHAMPION // ELT Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V26م1 \\\\ نخبة",
+					"de-DE": "Talisman „PREMIER V26A1 CHAMPION // ELT“",
+					"en-US": "PREMIER V26A1 CHAMPION // ELT Buddy",
+					"es-ES": "Amuleto CAMP. PREMIER V26A1 // ÉLT",
+					"es-MX": "Buddy V26A1: ÉLITE // CAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V26A1 // ÉLT",
+					"id-ID": "Buddy PREMIER V26A1 CHAMPION // ELT",
+					"it-IT": "Accessorio CAMPIONE PREMIER V26A1 // ÉLT",
+					"ja-JP": "PREMIER V26A1 チャンピオン // ELT バディー",
+					"ko-KR": "프리미어 V26A1 챔피언 // 상급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V26A1 PREMIER // ELT”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V26A1 // ELT",
+					"ru-RU": "Брелок \"ЧЕМПИОН V26A1 PREMIER // ЭЛИТА\"",
+					"th-TH": "บัดดี้ PREMIER V26A1 CHAMPION // ELT",
+					"tr-TR": "PREMIER V26K1 ŞAMPİYONU // SÇKN DZY Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V26P1 // TN",
+					"zh-CN": "超级赛//V26第一幕冠军//精英 挂饰",
+					"zh-TW": "Premier V26第一章冠軍 // 菁英 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "0C82BF52-457C-8116-B6A7-F9ACF9BEA09E",
+					"label": "0C82BF52-457C-8116-B6A7-F9ACF9BEA09E",
+					"name":
+					{
+						"defaultText": "PremierV26A1_Intermediate",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A1_Intermediate",
+							"de-DE": "PremierV26A1_Intermediate",
+							"en-US": "PremierV26A1_Intermediate",
+							"es-ES": "PremierV26A1_Intermediate",
+							"es-MX": "PremierV26A1_Intermediate",
+							"fr-FR": "PremierV26A1_Intermediate",
+							"id-ID": "PremierV26A1_Intermediate",
+							"it-IT": "PremierV26A1_Intermediate",
+							"ja-JP": "PremierV26A1_Intermediate",
+							"ko-KR": "PremierV26A1_Intermediate",
+							"pl-PL": "PremierV26A1_Intermediate",
+							"pt-BR": "PremierV26A1_Intermediate",
+							"ru-RU": "PremierV26A1_Intermediate",
+							"th-TH": "PremierV26A1_Intermediate",
+							"tr-TR": "PremierV26A1_Intermediate",
+							"vi-VN": "PremierV26A1_Intermediate",
+							"zh-CN": "PremierV26A1_Intermediate",
+							"zh-TW": "PremierV26A1_Intermediate"
+						}
+					}
+				}
+			],
+			"id": "58E66117-43C2-7AF7-A809-6380A299261D",
+			"label": "58E66117-43C2-7AF7-A809-6380A299261D",
+			"name":
+			{
+				"defaultText": "PREMIER V26A1 CHAMPION // INT Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V26م1 \\\\ متوسط",
+					"de-DE": "Talisman „PREMIER V26A1 CHAMPION // FRTG“",
+					"en-US": "PREMIER V26A1 CHAMPION // INT Buddy",
+					"es-ES": "Amuleto CAMP. PREMIER V26A1 // INTM",
+					"es-MX": "Buddy V26A1: INT. // CAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V26A1 // INT",
+					"id-ID": "Buddy PREMIER V26A1 CHAMPION // INT",
+					"it-IT": "Accessorio CAMPIONE PREMIER V26A1 // INT",
+					"ja-JP": "PREMIER V26A1 チャンピオン // INT バディー",
+					"ko-KR": "프리미어 V26A1 챔피언 // 중급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V26A1 PREMIER // ŚRD”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V26A1 // INT",
+					"ru-RU": "Брелок \"ЧЕМПИОН V26A1 PREMIER // СРЕД\"",
+					"th-TH": "บัดดี้ PREMIER V26A1 CHAMPION // INT",
+					"tr-TR": "PREMIER V26K1 ŞAMPİYONU // ORT DZY Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V26P1 // TC",
+					"zh-CN": "超级赛//V26第一幕冠军//中级 挂饰",
+					"zh-TW": "Premier V26第一章冠軍 // 中階 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "F4627D07-4CEE-AF37-BD66-45BB7F5478E7",
+					"label": "F4627D07-4CEE-AF37-BD66-45BB7F5478E7",
+					"name":
+					{
+						"defaultText": "PremierV26A1_Invite",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A1_Invite",
+							"de-DE": "PremierV26A1_Invite",
+							"en-US": "PremierV26A1_Invite",
+							"es-ES": "PremierV26A1_Invite",
+							"es-MX": "PremierV26A1_Invite",
+							"fr-FR": "PremierV26A1_Invite",
+							"id-ID": "PremierV26A1_Invite",
+							"it-IT": "PremierV26A1_Invite",
+							"ja-JP": "PremierV26A1_Invite",
+							"ko-KR": "PremierV26A1_Invite",
+							"pl-PL": "PremierV26A1_Invite",
+							"pt-BR": "PremierV26A1_Invite",
+							"ru-RU": "PremierV26A1_Invite",
+							"th-TH": "PremierV26A1_Invite",
+							"tr-TR": "PremierV26A1_Invite",
+							"vi-VN": "PremierV26A1_Invite",
+							"zh-CN": "PremierV26A1_Invite",
+							"zh-TW": "PremierV26A1_Invite"
+						}
+					}
+				}
+			],
+			"id": "A9396BD8-415A-7B42-D151-19BADE765A9C",
+			"label": "A9396BD8-415A-7B42-D151-19BADE765A9C",
+			"name":
+			{
+				"defaultText": "PREMIER V26A1 GRAND CHAMP Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق البطل الأعظم بريمير V26م1",
+					"de-DE": "Talisman „PREMIER V26A1 GROSSMEISTER“",
+					"en-US": "PREMIER V26A1 GRAND CHAMP Buddy",
+					"es-ES": "Amuleto GRAN CAMP. PREMIER V26A1",
+					"es-MX": "Buddy V26A1: MEGACAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur GRAND CHAMPION DE PREMIER V26A1",
+					"id-ID": "Buddy PREMIER V26A1 GRAND CHAMP",
+					"it-IT": "Accessorio CAMPIONE ASSOLUTO PREMIER V26A1",
+					"ja-JP": "PREMIER V26A1 グランドチャンピオン バディー",
+					"ko-KR": "프리미어 V26A1 그랜드 챔피언 총기 장식",
+					"pl-PL": "Przywieszka „NAJWIĘKSZY BOHATER V26A1 PREMIER”",
+					"pt-BR": "Chaveiro GRANDE CAMPEÃO PREMIER V26A1",
+					"ru-RU": "Брелок \"ГРАНД-ЧЕМПИОН V26A1 PREMIER\"",
+					"th-TH": "บัดดี้ PREMIER V26A1 GRAND CHAMP",
+					"tr-TR": "PREMIER V26K1 BÜYÜK ŞAMPİYONU Uğuru",
+					"vi-VN": "Phụ Kiện NHÀ VĐ PREMIER V26P1",
+					"zh-CN": "超级赛//V26第一幕总冠军 挂饰",
+					"zh-TW": "Premier V26第一章總冠軍 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "BD2E8BF9-4B23-5C78-DE74-EE94D019F050",
+					"label": "BD2E8BF9-4B23-5C78-DE74-EE94D019F050",
+					"name":
+					{
+						"defaultText": "PremierV26A1_Open",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A1_Open",
+							"de-DE": "PremierV26A1_Open",
+							"en-US": "PremierV26A1_Open",
+							"es-ES": "PremierV26A1_Open",
+							"es-MX": "PremierV26A1_Open",
+							"fr-FR": "PremierV26A1_Open",
+							"id-ID": "PremierV26A1_Open",
+							"it-IT": "PremierV26A1_Open",
+							"ja-JP": "PremierV26A1_Open",
+							"ko-KR": "PremierV26A1_Open",
+							"pl-PL": "PremierV26A1_Open",
+							"pt-BR": "PremierV26A1_Open",
+							"ru-RU": "PremierV26A1_Open",
+							"th-TH": "PremierV26A1_Open",
+							"tr-TR": "PremierV26A1_Open",
+							"vi-VN": "PremierV26A1_Open",
+							"zh-CN": "PremierV26A1_Open",
+							"zh-TW": "PremierV26A1_Open"
+						}
+					}
+				}
+			],
+			"id": "563F3209-44B8-729B-96ED-3DB88A3C9ED3",
+			"label": "563F3209-44B8-729B-96ED-3DB88A3C9ED3",
+			"name":
+			{
+				"defaultText": "PREMIER V26A1 CHAMPION // OPN Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V26م1 \\\\ مفتوح",
+					"de-DE": "Talisman „PREMIER V26A1 CHAMPION // OFFN“",
+					"en-US": "PREMIER V26A1 CHAMPION // OPN Buddy",
+					"es-ES": "Amuleto CAMP. PREMIER V26A1 // ABRT",
+					"es-MX": "Buddy V26A1: ABIERTO // CAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V26A1 // OUV",
+					"id-ID": "Buddy PREMIER V26A1 CHAMPION // OPN",
+					"it-IT": "Accessorio CAMPIONE PREMIER V26A1 // APR",
+					"ja-JP": "PREMIER V26A1 チャンピオン // OPN バディー",
+					"ko-KR": "프리미어 V26A1 챔피언 // 초급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V26A1 PREMIER // OTW”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V26A1 // ABR",
+					"ru-RU": "Брелок \"ЧЕМПИОН V26A1 PREMIER // ОТКР\"",
+					"th-TH": "บัดดี้ PREMIER V26A1 CHAMPION // OPN",
+					"tr-TR": "PREMIER V26K1 ŞAMPİYONU // AÇK Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V26P1 // TD",
+					"zh-CN": "超级赛//V26第一幕冠军//初级 挂饰",
+					"zh-TW": "Premier V26第一章冠軍 // 初階 吊飾"
 				}
 			}
 		},
@@ -332727,6 +333941,66 @@
 		{
 			"levels": [
 				{
+					"id": "B5A32869-4F8E-C606-7747-4FAE42A5FBC9",
+					"label": "B5A32869-4F8E-C606-7747-4FAE42A5FBC9",
+					"name":
+					{
+						"defaultText": "Poptoy",
+						"localizedByCulture":
+						{
+							"ar-AE": "Poptoy",
+							"de-DE": "Poptoy",
+							"en-US": "Poptoy",
+							"es-ES": "Poptoy",
+							"es-MX": "Poptoy",
+							"fr-FR": "Poptoy",
+							"id-ID": "Poptoy",
+							"it-IT": "Poptoy",
+							"ja-JP": "Poptoy",
+							"ko-KR": "Poptoy",
+							"pl-PL": "Poptoy",
+							"pt-BR": "Poptoy",
+							"ru-RU": "Poptoy",
+							"th-TH": "Poptoy",
+							"tr-TR": "Poptoy",
+							"vi-VN": "Poptoy",
+							"zh-CN": "Poptoy",
+							"zh-TW": "Poptoy"
+						}
+					}
+				}
+			],
+			"id": "924FA67D-4846-441D-CF15-FC8BA11499F3",
+			"label": "924FA67D-4846-441D-CF15-FC8BA11499F3",
+			"name":
+			{
+				"defaultText": "Hatchbudz: Quacked Series Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة سلسلة بيضة البط السعيدة",
+					"de-DE": "Graffiti „Brutbrudis: Gequakt-Serie“",
+					"en-US": "Hatchbudz: Quacked Series Spray",
+					"es-ES": "Grafiti Serie Eclocoleguis: Cuac cuac",
+					"es-MX": "Spray Compis de Eclosión: Serie Cuac Cuac",
+					"fr-FR": "Graffiti Coquilles du bonheur : Série Coin-coin",
+					"id-ID": "Spray Hatchbudz: Quacked Series",
+					"it-IT": "Spray Schiudotti: Qua qua",
+					"ja-JP": "ハッチバッズ: クワックドシリーズ スプレー",
+					"ko-KR": "해치버즈: 꽥꽥 시리즈 스프레이",
+					"pl-PL": "Graffiti „Jajcarze: Kacza seria”",
+					"pt-BR": "Spray Coleção Cascudinhos: Quá-Quá",
+					"ru-RU": "Граффити \"Скорлупыши: Крякнутая серия\"",
+					"th-TH": "สเปรย์ Hatchbudz: Quacked Series",
+					"tr-TR": "Yumurdaşlar: Vakvak Serisi Spreyi",
+					"vi-VN": "Hình Phun Sơn Hatchbudz: Trứng Đồ Chơi",
+					"zh-CN": "孵化小能手：破壳鸭 喷漆",
+					"zh-TW": "寶貝蛋：鴨鴨系列 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "519573AE-4AF3-54F8-1563-2CB6035F2E01",
 					"label": "519573AE-4AF3-54F8-1563-2CB6035F2E01",
 					"name":
@@ -348882,6 +350156,35 @@
 			}
 		},
 		{
+			"id": "1E55C382-4A00-0E7B-38F8-E8B148FB2E78",
+			"label": "1E55C382-4A00-0E7B-38F8-E8B148FB2E78",
+			"name":
+			{
+				"defaultText": "VCT 2026 Flex",
+				"localizedByCulture":
+				{
+					"ar-AE": "أداة استعراض VCT 2026",
+					"de-DE": "Flex „VCT 2026“",
+					"en-US": "VCT 2026 Flex",
+					"es-ES": "Vacile VCT 2026",
+					"es-MX": "Flex VCT 2026",
+					"fr-FR": "Flex VCT 2026",
+					"id-ID": "Flex VCT 2026",
+					"it-IT": "Flex VCT 2026",
+					"ja-JP": "VCT 2026 フレックス",
+					"ko-KR": "2026 VCT 플렉스",
+					"pl-PL": "Flex VCT 2026",
+					"pt-BR": "Gesto VCT 2026",
+					"ru-RU": "Флекс \"VCT 2026\"",
+					"th-TH": "VCT 2026 Flex",
+					"tr-TR": "VCT 2026 Donatısı",
+					"vi-VN": "Flex VCT 2026",
+					"zh-CN": "VCT 2026 盘盘",
+					"zh-TW": "2026 VCT 炫技"
+				}
+			}
+		},
+		{
 			"id": "A99FCA6C-4943-5DCA-FAF0-53990DDDBAF6",
 			"label": "A99FCA6C-4943-5DCA-FAF0-53990DDDBAF6",
 			"name":
@@ -349216,7 +350519,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "مباراة الموت للفرق",
-					"de-DE": "Teambasiertes Deathmatch",
+					"de-DE": "Team-Deathmatch",
 					"en-US": "Team Deathmatch",
 					"es-ES": "Combate a muerte por equipos",
 					"es-MX": "Deathmatch Definitivo",
@@ -349553,7 +350856,7 @@
 					"pt-BR": "Duelo",
 					"ru-RU": "Столкновение",
 					"th-TH": "Skirmish",
-					"tr-TR": "ÇATIŞMA",
+					"tr-TR": "ÇARPIŞMA",
 					"vi-VN": "Skirmish",
 					"zh-CN": "斗牛",
 					"zh-TW": "火線交鋒"
@@ -351649,7 +352952,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "ارمِ كرات الثلج، وافتح الهدايا، وتزلج على الجليد في نمط مباراة موت الفرق 5v5 السريع البهيج. دون قدرات، والفوز من نصيب أول من يحقق 50 عملية قتل.",
-					"de-DE": "Wirf Schneebälle, packe Geschenke aus und schlittere durch das winterliche Team Deathmatch (5 gegen 5). Keine Fähigkeiten, erstes Team mit 50 Kills gewinnt.",
+					"de-DE": "Wirf Schneebälle, packe Geschenke aus und schlittere durch das winterliche Team-Deathmatch (5 gegen 5). Keine Fähigkeiten, erstes Team mit 50 Kills gewinnt.",
 					"en-US": "Launch snowballs, open presents, and ice skate in this fast festive 5v5 team deathmatch. No abilities, first to 50 kills wins.",
 					"es-ES": "Lanza bolas de nieve, abre regalos y patina sobre hielo en este frenético y festivo combate a muerte 5 contra 5. Sin habilidades. Gana el primero en conseguir 50 asesinatos.",
 					"es-MX": "Lanza bolas de nieve, abre regalos y patina sobre hielo en este rápido y festivo modo Deathmatch 5v5 en equipo. Sin habilidades. El primero en realizar 50 asesinatos gana.",
@@ -351693,6 +352996,60 @@
 					"vi-VN": "Trận Chiến Cầu Tuyết",
 					"zh-CN": "雪球大战",
 					"zh-TW": "打雪仗"
+				}
+			}
+		},
+		{
+			"description":
+			{
+				"defaultText": "LIMITED TIME: Small-scale duels, 2v2 format, no abilities, pure gunplay. First to 10 rounds wins.",
+				"localizedByCulture":
+				{
+					"ar-AE": "لفترة محدودة: مبارزات محدودة النطاق بنظام 2 ضد 2 دون أي قدرات، مع اعتمادٍ كاملٍ على مهارات استخدام الأسلحة. الفائز هو أول من يربح 10 جولات.",
+					"de-DE": "BEGRENZTE ZEIT: Kleine Duelle, 2-gegen-2-Format, keine Fähigkeiten, reines Gameplay. Das erste Team mit zehn Siegen gewinnt.",
+					"en-US": "LIMITED TIME: Small-scale duels, 2v2 format, no abilities, pure gunplay. First to 10 rounds wins.",
+					"es-ES": "TIEMPO LIMITADO: Duelos a pequeña escala, 2v2, sin habilidades, solo disparos. El equipo que gane 10 rondas se hace con la victoria.",
+					"es-MX": "TIEMPO LIMITADO: Duelos en mapas pequeños, en formato 2v2, sin habilidades y a puros disparos. El primer equipo en llegar a 10 rondas gana.",
+					"fr-FR": "DURÉE LIMITÉE : duels à petite échelle, format 2c2, pas de compétences, que du tir. Le premier qui remporte 10 manches gagne la partie.",
+					"id-ID": "BERBATAS WAKTU: Duel skala kecil, format 2v2, tanpa ability, adu tembak murni. Yang pertama mencapai 10 ronde, menang.",
+					"it-IT": "TEMPO LIMITATO: duelli su scala limitata, formato 2 vs 2, nessuna abilità, puri scontri a fuoco. Vince chi arriva prima a 10 round.",
+					"ja-JP": "期間限定：小規模戦闘、2v2方式、アビリティーなし、ガンプレイ勝負。10ラウンド先取で勝利。",
+					"ko-KR": "기간 한정: 작은 규모의 전투, 2대2 진행 방식, 스킬이 없는 순수한 총격전. 먼저 10라운드를 이기는 팀이 승리합니다.",
+					"pl-PL": "OGRANICZONE CZASOWO: Pojedynki na małą skalę, 2 na 2, żadnych umiejętności, czysta strzelanka. Zwycięża ten, kto pierwszy wygra 10 rund.",
+					"pt-BR": "TEMPO LIMITADO: duelos em pequena escala, formato 2x2, sem habilidades, pura mecânica de tiro. Vence quem ganhar 10 rodadas primeiro.",
+					"ru-RU": "ВРЕМЕННЫЙ РЕЖИМ: небольшие дуэли, формат 2x2, без умений, только стрельба. Матчи до 10 побед.",
+					"th-TH": "จำกัดเวลา: การดวลขนาดเล็กในรูปแบบ 2v2 ที่ไม่มีสกิลและอาศัยการยิงปืนเพียงอย่างเดียว ทีมแรกที่ชนะ 10 รอบจะเป็นฝ่ายชนะ",
+					"tr-TR": "SINIRLI SÜRELİ: Küçük ölçekli düellolar, 2'ye 2 formatı, yetenekler yok, sadece silah kullanımı. 10 turu ilk kazanan galibiyeti alır.",
+					"vi-VN": "THỜI GIAN GIỚI HẠN: Những pha đọ súng quy mô nhỏ, thể thức 2v2, không kỹ năng, chỉ đấu thuần súng. Đội thắng 10 vòng trước sẽ giành chiến thắng.",
+					"zh-CN": "限时：小型决斗，2v2模式，不用技能，纯拼枪法。率先赢得10回合即可获胜。",
+					"zh-TW": "限時：小規模決鬥、2v2賽制、無技能、純對槍。率先贏得10回合的一方獲勝。"
+				}
+			},
+			"id": "8EC78517-4837-2987-63CF-ABA1A18BB7DD",
+			"label": "8EC78517-4837-2987-63CF-ABA1A18BB7DD",
+			"name":
+			{
+				"defaultText": "Skirmish: 2v2",
+				"localizedByCulture":
+				{
+					"ar-AE": "المناوشة: 2 ضد 2",
+					"de-DE": "Geplänkel: 2 gegen 2",
+					"en-US": "Skirmish: 2v2",
+					"es-ES": "Escaramuza: 2v2",
+					"es-MX": "Escaramuza: 2v2",
+					"fr-FR": "Escarmouche : 2c2",
+					"id-ID": "Skirmish: 2v2",
+					"it-IT": "Schermaglia: 2 vs 2",
+					"ja-JP": "スカーミッシュ：2v2",
+					"ko-KR": "난투: 2대2",
+					"pl-PL": "Potyczka: 2 na 2",
+					"pt-BR": "Duelo: 2x2",
+					"ru-RU": "Столкновение: 2x2",
+					"th-TH": "Skirmish: 2v2",
+					"tr-TR": "ÇARPIŞMA: 2'YE 2",
+					"vi-VN": "Skirmish: 2v2",
+					"zh-CN": "斗牛：2v2",
+					"zh-TW": "火線交鋒：2v2"
 				}
 			}
 		},
@@ -351838,7 +353195,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "مباراة الموت للفرق",
-					"de-DE": "Teambasiertes Deathmatch",
+					"de-DE": "Team-Deathmatch",
 					"en-US": "Team Deathmatch",
 					"es-ES": "Combate a muerte por equipos",
 					"es-MX": "Deathmatch Definitivo",
@@ -352135,7 +353492,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "ارمِ كرات الثلج، وافتح الهدايا، وتزلج على الجليد في نمط مباراة موت الفرق 5v5 السريع البهيج. دون قدرات، والفوز من نصيب أول من يحقق 50 عملية قتل.",
-					"de-DE": "Wirf Schneebälle, packe Geschenke aus und schlittere durch das winterliche Team Deathmatch (5 gegen 5). Keine Fähigkeiten, erstes Team mit 50 Kills gewinnt.",
+					"de-DE": "Wirf Schneebälle, packe Geschenke aus und schlittere durch das winterliche Team-Deathmatch (5 gegen 5). Keine Fähigkeiten, erstes Team mit 50 Kills gewinnt.",
 					"en-US": "Launch snowballs, open presents, and ice skate in this fast festive 5v5 team deathmatch. No abilities, first to 50 kills wins.",
 					"es-ES": "Lanza bolas de nieve, abre regalos y patina sobre hielo en este frenético y festivo combate a muerte 5 contra 5. Sin habilidades. Gana el primero en conseguir 50 asesinatos.",
 					"es-MX": "Lanza bolas de nieve, abre regalos y patina sobre hielo en este rápido y festivo modo Deathmatch 5v5 en equipo. Sin habilidades. El primero en realizar 50 asesinatos gana.",
@@ -352185,6 +353542,60 @@
 		{
 			"description":
 			{
+				"defaultText": "LIMITED TIME: Small-scale duels, 2v2 format, no abilities, pure gunplay. First to 10 rounds wins.",
+				"localizedByCulture":
+				{
+					"ar-AE": "لفترة محدودة: مبارزات محدودة النطاق بنظام 2 ضد 2 دون أي قدرات، مع اعتمادٍ كاملٍ على مهارات استخدام الأسلحة. الفائز هو أول من يربح 10 جولات.",
+					"de-DE": "BEGRENZTE ZEIT: Kleine Duelle, 2-gegen-2-Format, keine Fähigkeiten, reines Gameplay. Das erste Team mit zehn Siegen gewinnt.",
+					"en-US": "LIMITED TIME: Small-scale duels, 2v2 format, no abilities, pure gunplay. First to 10 rounds wins.",
+					"es-ES": "TIEMPO LIMITADO: Duelos a pequeña escala, 2v2, sin habilidades, solo disparos. El equipo que gane 10 rondas se hace con la victoria.",
+					"es-MX": "TIEMPO LIMITADO: Duelos en mapas pequeños, en formato 2v2, sin habilidades y a puros disparos. El primer equipo en llegar a 10 rondas gana.",
+					"fr-FR": "DURÉE LIMITÉE : duels à petite échelle, format 2c2, pas de compétences, que du tir. Le premier qui remporte 10 manches gagne la partie.",
+					"id-ID": "BERBATAS WAKTU: Duel skala kecil, format 2v2, tanpa ability, adu tembak murni. Yang pertama mencapai 10 ronde, menang.",
+					"it-IT": "TEMPO LIMITATO: duelli su scala limitata, formato 2 vs 2, nessuna abilità, puri scontri a fuoco. Vince chi arriva prima a 10 round.",
+					"ja-JP": "期間限定：小規模戦闘、2v2方式、アビリティーなし、ガンプレイ勝負。10ラウンド先取で勝利。",
+					"ko-KR": "기간 한정: 작은 규모의 전투, 2대2 진행 방식, 스킬이 없는 순수한 총격전. 먼저 10라운드를 이기는 팀이 승리합니다.",
+					"pl-PL": "OGRANICZONE CZASOWO: Pojedynki na małą skalę, 2 na 2, żadnych umiejętności, czysta strzelanka. Zwycięża ten, kto pierwszy wygra 10 rund.",
+					"pt-BR": "TEMPO LIMITADO: duelos em pequena escala, formato 2x2, sem habilidades, pura mecânica de tiro. Vence quem ganhar 10 rodadas primeiro.",
+					"ru-RU": "ВРЕМЕННЫЙ РЕЖИМ: небольшие дуэли, формат 2x2, без умений, только стрельба. Матчи до 10 побед.",
+					"th-TH": "จำกัดเวลา: การดวลขนาดเล็กในรูปแบบ 2v2 ที่ไม่มีสกิลและอาศัยการยิงปืนเพียงอย่างเดียว ทีมแรกที่ชนะ 10 รอบจะเป็นฝ่ายชนะ",
+					"tr-TR": "SINIRLI SÜRELİ: Küçük ölçekli düellolar, 2'ye 2 formatı, yetenekler yok, sadece silah kullanımı. 10 turu ilk kazanan galibiyeti alır.",
+					"vi-VN": "THỜI GIAN GIỚI HẠN: Những pha đọ súng quy mô nhỏ, thể thức 2v2, không kỹ năng, chỉ đấu thuần súng. Đội thắng 10 vòng trước sẽ giành chiến thắng.",
+					"zh-CN": "限时：小型决斗，2v2模式，不用技能，纯拼枪法。率先赢得10回合即可获胜。",
+					"zh-TW": "限時：小規模決鬥、2v2賽制、無技能、純對槍。率先贏得10回合的一方獲勝。"
+				}
+			},
+			"id": "248DBF5A-44DB-362A-397A-2B8616AD225A",
+			"label": "248DBF5A-44DB-362A-397A-2B8616AD225A",
+			"name":
+			{
+				"defaultText": "Skirmish: 2v2",
+				"localizedByCulture":
+				{
+					"ar-AE": "المناوشة: 2 ضد 2",
+					"de-DE": "Geplänkel: 2 gegen 2",
+					"en-US": "Skirmish: 2v2",
+					"es-ES": "Escaramuza: 2v2",
+					"es-MX": "Escaramuza: 2v2",
+					"fr-FR": "Escarmouche : 2c2",
+					"id-ID": "Skirmish: 2v2",
+					"it-IT": "Schermaglia: 2 vs 2",
+					"ja-JP": "スカーミッシュ：2v2",
+					"ko-KR": "난투: 2대2",
+					"pl-PL": "Potyczka: 2 na 2",
+					"pt-BR": "Duelo: 2x2",
+					"ru-RU": "Столкновение: 2x2",
+					"th-TH": "Skirmish: 2v2",
+					"tr-TR": "ÇARPIŞMA: 2'YE 2",
+					"vi-VN": "Skirmish: 2v2",
+					"zh-CN": "斗牛：2v2",
+					"zh-TW": "火線交鋒：2v2"
+				}
+			}
+		},
+		{
+			"description":
+			{
 				"defaultText": "Elimination mode. Two teams, unique maps, recharging abilities, constant action. First to 100 kills wins.",
 				"localizedByCulture":
 				{
@@ -352216,7 +353627,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "مباراة الموت للفرق",
-					"de-DE": "Teambasiertes Deathmatch",
+					"de-DE": "Team-Deathmatch",
 					"en-US": "Team Deathmatch",
 					"es-ES": "Combate a muerte por equipos",
 					"es-MX": "Deathmatch Definitivo",
