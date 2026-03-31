@@ -1,5 +1,5 @@
 {
-	"version": "12.05.00.4360629",
+	"version": "12.06.00.4440219",
 	"characters": [
 		{
 			"description":
@@ -3080,7 +3080,7 @@
 					"th-TH": "Miks ที่ส่งตรงจากโครเอเชีย พร้อมระเบิดพลังเสียงล้วน ๆ เพื่อขึ้นครองเวทีแล้ว ด้วยความมุ่งมั่นอันเร่าร้อนและพลังคลื่นเสียง เขาจะรวมทั้งทีมให้ลงมืออย่างพร้อมเพรียง คุมจังหวะในสนามรบไปด้วยกัน",
 					"tr-TR": "Hırvatistan'dan gelen Miks, saf ses enerjisini sahneye taşıyor. Bulaşıcı tutkusu ve ses dalgalarını kontrol eden güçleriyle ekibini birlikte hareket etmeye teşvik edebilir ve savaş alanının temposunu birlikte değiştirirler.",
 					"vi-VN": "Thẳng tiến từ Croatia, Miks bước lên sân khấu, dẫn dắt nguồn năng lượng âm thanh thuần khiết. Với đam mê lan tỏa và sức mạnh sóng âm của mình, anh hiệu triệu đồng đội hòa nhịp như một thể thống nhất, cùng nhau thiết lập nhịp điệu trên chiến trường.",
-					"zh-CN": "来自欧洲中南部的迷核能够操控纯粹的声波能量。凭借极具感染力的激情和独特的音波力量，他率领全队协同作战，定下战场的主导节奏。",
+					"zh-CN": "来自欧洲中南部的“迷核”能够操控纯粹的声波能量。凭借极具感染力的激情和独特的音波力量，他率领全队协同作战，定下战场的主导节奏。",
 					"zh-TW": "來自克羅埃西亞的米克什登上舞台，釋放純粹的音浪能量。他憑藉充滿感染力的熱情和音樂的力量，帶領隊伍協同一心，主宰戰場節奏。"
 				}
 			},
@@ -3096,8 +3096,8 @@
 							"ar-AE": "تجهّز بقدرة النبضة المدوّية. اضغط على زر الإطلاق البديل للتبديل بين تأثيري الارتجاج والعلاج. أطلق لرمي الجهاز. عند الهبوط، يرسل جهاز النبضة المدوّية موجات صوتية تُصيب اللاعبين إما بالارتجاج أو العلاج.",
 							"de-DE": "RÜSTE M-Impuls AUS. ALT. FEUERMODUS, um zwischen „Betäuben“ und „Heilung“ umzuschalten. FEUERE, um das Gerät zu werfen. Beim Landen sendet M-Impuls Schallwellen aus, die Spieler entweder betäuben oder heilen.",
 							"en-US": "EQUIP M-pulse. ALT-FIRE to toggle between Concuss and Healing outputs. FIRE to throw the device. Upon landing, M-pulse sends out sound waves, either Concussing or Healing players.",
-							"es-ES": "EQUIPA Pulso disonante. Utiliza el DISPARO SECUNDARIO para cambiar entre el modo de conmoción y el de curación. DISPARA para lanzar el dispositivo. Al impactar, Pulso disonante emite ondas sonoras que aturden o curan a los jugadores.",
-							"es-MX": "EQUIPA la habilidad Pulso M. Presiona DISPARO SECUNDARIO para alternar entre el modo de conmoción y el de curación. DISPARA para lanzar la granada. Al impactar, Pulso M emite ondas sonoras que aturden o curan a los agentes.",
+							"es-ES": "EQUIPA Pulso disonante. Utiliza el DISPARO ALTERNATIVO para cambiar entre el modo de conmoción y el de curación. DISPARA para lanzar el dispositivo. Al impactar, Pulso disonante emite ondas sonoras que conmocionan o curan a los jugadores.",
+							"es-MX": "EQUIPA la habilidad Pulso M. Presiona DISPARO SECUNDARIO para alternar entre el modo de conmoción y el de curación. DISPARA para lanzar el dispositivo. Al impactar, Pulso M emite ondas sonoras que conmocionan o curan a los agentes.",
 							"fr-FR": "ÉQUIPEZ M-pulsion. Utilisez le TIR SECONDAIRE pour basculer entre les modes Désorientation et Soin. TIREZ pour lancer l'objet. À l'atterrissage, M-pulsion émet des ondes sonores, qui désorientent ou soignent les joueurs.",
 							"id-ID": "EQUIP M-pulse. Tekan ALT FIRE untuk mengganti output antara Concuss dan Healing. Tekan FIRE untuk melempar alat. Saat mendarat, M-pulse memancarkan gelombang suara yang akan memberikan efek Concuss atau Heal pada pemain yang terkena.",
 							"it-IT": "EQUIPAGGIA un Impulso. Usa il FUOCO ALTERNATIVO per alternare tra STORDIMENTO e CURE. Usa il FUOCO per lanciare il dispositivo. All'atterraggio, l'Impulso emette onde sonore che STORDISCONO o CURANO i giocatori.",
@@ -3150,8 +3150,8 @@
 							"ar-AE": "تجهّز بأداة استهداف خريطة. أطلق لتحديد الأماكن. اضغط على زر الإطلاق البديل لتوليد الدخان في الأماكن المحددة.",
 							"de-DE": "RÜSTE eine Kartenzielauswahl AUS. FEUERE, um Zielorte festzulegen. ALT. FEUERMODUS, um an den ausgewählten Orten Rauch erscheinen zu lassen.",
 							"en-US": "EQUIP a Map Targeter. FIRE to set locations. ALT-FIRE to spawn Smokes at selected locations.",
-							"es-ES": "EQUIPA un selector de mapa. DISPARA para fijar ubicaciones. Utiliza el DISPARO SECUNDARIO para generar humo en las ubicaciones seleccionadas.",
-							"es-MX": "EQUIPA un mapa de apuntado. DISPARA para fijar ubicaciones en el mapa. Presiona DISPARO SECUNDARIO para desplegar humos en las ubicaciones objetivo.",
+							"es-ES": "EQUIPA un selector de mapa. DISPARA para fijar ubicaciones. Utiliza el DISPARO ALTERNATIVO para generar humo en las ubicaciones seleccionadas.",
+							"es-MX": "EQUIPA un mapa de apuntado. DISPARA para fijar ubicaciones. Presiona DISPARO SECUNDARIO para desplegar humos en las ubicaciones objetivo.",
 							"fr-FR": "ÉQUIPEZ-vous d'une carte tactique. TIREZ pour définir les positions. Utilisez le TIR SECONDAIRE pour déployer des fumigènes aux positions sélectionnées.",
 							"id-ID": "EQUIP Map Targeter. Tekan FIRE untuk menentukan lokasi. Tekan ALT FIRE untuk memunculkan Asap di lokasi yang dipilih.",
 							"it-IT": "EQUIPAGGIA un sistema di puntamento. Usa il FUOCO per impostare le posizioni sulla mappa. Usa il FUOCO ALTERNATIVO per generare fumogeni nelle posizioni selezionate.",
@@ -6855,27 +6855,27 @@
 				{
 					"description":
 					{
-						"defaultText": "INSTANTLY throw a cluster of light that explodes upon contact with the ground, Hindering nearby players with a powerful movement and weapon slow.",
+						"defaultText": "EQUIP a cluster of light. FIRE to throw the cluster, which upon contact with the ground explodes, Hindering nearby players with a powerful movement and weapon slow.",
 						"localizedByCulture":
 						{
-							"ar-AE": "قم بإلقاء عناقيد ضوئية فوريًا تنفجر عند ملامستها للأرض، مما يؤدي إلى عرقلة اللاعبين في الجوار بفعل تأثير إبطاء قوي لحركتهم وأسلحتهم.",
-							"de-DE": "Wirf SOFORT eine Lichtgranate, die beim Aufprall auf dem Boden explodiert und Spieler in der Nähe mit einer effektiven Bewegungs- und Waffenverlangsamung hemmt.",
-							"en-US": "INSTANTLY throw a cluster of light that explodes upon contact with the ground, Hindering nearby players with a powerful movement and weapon slow.",
-							"es-ES": "Lanza AL INSTANTE un cúmulo de luz que explota al entrar en contacto con el suelo, lo que entorpece a los jugadores cercanos con una poderosa ralentización de movimiento y de arma.",
-							"es-MX": "Lanza un cúmulo de luz AL INSTANTE que explota al entrar en contacto con el suelo, obstaculizando a los jugadores cercanos con una potente ralentización de movimientos y armas.",
-							"fr-FR": "Lance INSTANTANÉMENT une masse de lumière qui explose au contact du sol, ce qui entrave les joueurs proches avec un puissant ralentissement de déplacement et d'arme.",
-							"id-ID": "SEKETIKA melemparkan sekumpulan cahaya yang meledak saat menyentuh tanah. Cahaya lalu menerapkan Hinder ke pemain di sekitar, memperlambat gerakan dan senjata mereka secara drastis.",
-							"it-IT": "Lancia ISTANTANEAMENTE un ammasso di luce che esplode a contatto con il suolo, INTRALCIANDO i giocatori vicini con un potente rallentamento ai movimenti e alle armi.",
-							"ja-JP": "光の塊を投げる。光の塊は地面に接触すると爆発して、付近のプレイヤーの移動速度と武器操作速度を大きく下げて妨害する。",
-							"ko-KR": "지면에 닿으면 폭발하는 빛의 덩어리를 즉시 던져 이동 속도와 무기를 둔화하는 강력한 효과로 주변 플레이어를 방해합니다.",
-							"pl-PL": "NATYCHMIAST rzuć skupisko światła, które eksploduje po kontakcie z ziemią i ogranicza pobliskich graczy potężnym spowolnieniem ruchu i broni.",
-							"pt-BR": "Lança INSTANTANEAMENTE um aglomerado de luz que explode ao tocar no chão e Retém jogadores próximos com uma poderosa desaceleração de movimento e armas.",
-							"ru-RU": "Мгновенно бросает световой сгусток, который взрывается при контакте с землей и сдерживает ближайших игроков, заметно снижая их скорость использования оружия и передвижения.",
-							"th-TH": "ขว้างก้อนแสงทันที ซึ่งจะระเบิดเมื่อสัมผัสกับพื้น ขัดขวางการเคลื่อนที่และอาวุธของผู้เล่นในบริเวณใกล้เคียงให้ช้าลงอย่างมาก",
-							"tr-TR": "ANINDA yere değer değmez patlayan bir ışık kümesi fırlat. Işık kümesi yakındaki oyunculara Ağırlaştırma uygulayarak onları güçlü bir hareket ve silah yavaşlatmasına maruz bırakır.",
-							"vi-VN": "NGAY LẬP TỨC phóng ra một chùm sáng phát nổ khi tiếp xúc với mặt đất, Cản Trở những người chơi xung quanh với hiệu ứng siêu làm chậm chuyển động và vũ khí của họ.",
-							"zh-CN": "立即投出一道光簇，与地面接触时爆炸，【干扰】附近的玩家，使其受到大幅的移动和武器减速。",
-							"zh-TW": "立刻丟出一枚聚合光彈，在接觸地面後爆炸，阻礙附近的玩家，大幅減緩其移動速度與武器射速。"
+							"ar-AE": "تجهّز بعنقود ضوئي أطلق لرمي العنقود، والذي ينفجر عند ملامسة الأرض، مما يعيق اللاعبين القريبين بإبطاء قوي للحركة والسلاح.",
+							"de-DE": "RÜSTE eine Lichtgranate AUS. FEUERE, um die Granate zu werfen. Sie explodiert beim Aufprall auf dem Boden und hindert Spieler in der Nähe mit einer erheblichen Bewegungs- und Waffenverlangsamung.",
+							"en-US": "EQUIP a cluster of light. FIRE to throw the cluster, which upon contact with the ground explodes, Hindering nearby players with a powerful movement and weapon slow.",
+							"es-ES": "EQUIPA un cúmulo de luz. DISPARA para lanzar el cúmulo de luz, que explota al entrar en contacto con el suelo, lo que entorpece a los jugadores cercanos con una poderosa ralentización de movimiento y de arma.",
+							"es-MX": "EQUIPA un cúmulo de luz. DISPARA para lanzar el cúmulo, que al entrar en contacto con el suelo explota y Obstaculiza a los jugadores cercanos con una potente ralentización de movimientos y armas.",
+							"fr-FR": "ÉQUIPEZ une masse de lumière. TIREZ pour lancer la masse, qui explose au contact du sol, entravant les joueurs à proximité avec un puissant ralentissement des déplacements et des armes.",
+							"id-ID": "EQUIP sekumpulan cahaya. Tekan FIRE untuk melemparkan sekumpulan cahaya yang akan meledak saat menyentuh tanah. Cahaya itu akan memberikan efek Hinder pada pemain di sekitar, memperlambat gerakan dan senjata mereka secara drastis.",
+							"it-IT": "EQUIPAGGIA un ammasso di luce. Usa il FUOCO per lanciare l'ammasso che esplode a contatto con il suolo, INTRALCIANDO i giocatori vicini con un potente rallentamento ai movimenti e alle armi.",
+							"ja-JP": "光の塊を構える。「発射」で光の塊を投げる。光の塊は地面に接触すると爆発して、付近のプレイヤーの移動速度と武器操作速度を大きく下げて妨害する。",
+							"ko-KR": "빛의 덩어리를 장착합니다. 발사하면 빛의 덩어리를 던집니다. 빛의 덩어리는 지면에 닿으면 폭발하여 이동 속도와 무기를 둔화하는 강력한 효과로 주변 플레이어를 방해합니다.",
+							"pl-PL": "WYPOSAŻ skupisko światła. STRZEL, by rzuć skupisko, które eksploduje po kontakcie z ziemią i ogranicza pobliskich graczy potężnym spowolnieniem ruchu i broni.",
+							"pt-BR": "EQUIPE um aglomerado de luz. DISPARE para lançar o aglomerado, que explode ao tocar no chão e Retém jogadores próximos com uma poderosa desaceleração de movimento e de armas.",
+							"ru-RU": "Выбирает сгусток света. Нажмите ОГОНЬ, чтобы бросить сгусток, который взрывается при контакте с землей и сдерживает ближайших игроков, заметно снижая их скорость использования оружия и передвижения.",
+							"th-TH": "ติดตั้งก้อนแสง กดยิงเพื่อขว้างก้อนแสง ซึ่งจะระเบิดเมื่อสัมผัสกับพื้น ขัดขวางการเคลื่อนที่และอาวุธของผู้เล่นในบริเวณใกล้เคียงให้ช้าลงอย่างมาก",
+							"tr-TR": "Bir ışık kümesi KUŞAN. Kümeyi fırlatmak için ATEŞ ET. Işık kümesi yere temas ettiği anda patlar ve yakındaki oyunculara Ağırlaştırma uygulayarak onları güçlü bir hareket ve silah yavaşlatmasına maruz bırakır.",
+							"vi-VN": "TRANG BỊ một chùm sáng. BẮN để phóng chùm sáng, phát nổ khi tiếp xúc với mặt đất, Cản Trở những người chơi xung quanh với hiệu ứng siêu làm chậm chuyển động và vũ khí của họ.",
+							"zh-CN": "装备一道光簇。按下【射击】投掷光簇，与地面接触时爆炸，【干扰】附近的玩家，使其受到大幅的移动和武器减速。",
+							"zh-TW": "裝備一枚聚合光彈。點擊「攻擊」即可拋出，光彈在接觸地面後爆炸，阻礙附近的玩家，大幅減緩其移動速度與武器射速。"
 						}
 					},
 					"label": "DF1CB487-4902-002E-5C17-D28E83E78588_Grenade",
@@ -9949,7 +9949,7 @@
 				"aDSStats":
 				{
 					"zoomMultiplier": 1.1499999761581421,
-					"fireRate": 8.4705886840820313,
+					"fireRate": 8.4705886840820312,
 					"runSpeedMultiplier": 0.75999999046325684,
 					"burstCount": 4,
 					"firstBulletAccuracy": 0.34999999403953552
@@ -24605,7 +24605,7 @@
 							"id-ID": "Champions 2021 Vandal Level 4\nAura aktif hanya saat pemain memiliki kill terbanyak di game",
 							"it-IT": "Vandal Champions 2021 livello 4\nL'aura è attiva solo quando il giocatore ha il più alto numero di uccisioni della partita",
 							"ja-JP": "Champions 2021 ヴァンダル Lv.4\nオーラは試合中に最多キルを獲得している間のみ発動",
-							"ko-KR": "2021 챔피언스 밴달 4레벨\r\n오오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
+							"ko-KR": "2021 챔피언스 밴달 4레벨\r\n오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
 							"pl-PL": "Vandal Champions 2021 (poziom 4)\nAura jest aktywna tylko wtedy, gdy gracz ma najwięcej zabójstw w grze",
 							"pt-BR": "Vandal Champions 2021 Nível 4\nAura ativada apenas quando a pessoa tem a maior quantidade de abates na partida",
 							"ru-RU": "Vandal \"Champions 2021\" уровень 4\nАура активна, когда у игрока больше всего убийств в матче",
@@ -24785,7 +24785,7 @@
 							"id-ID": "Champions 2023 Vandal Level 4\nAura aktif hanya saat pemain memiliki kill terbanyak di game",
 							"it-IT": "Vandal Champions 2023 livello 4\nL'aura è attiva solo quando il giocatore ha il più alto numero di uccisioni della partita",
 							"ja-JP": "Champions 2023 ヴァンダル Lv.4\nオーラは試合中に最多キルを獲得している間のみ発動",
-							"ko-KR": "2023 챔피언스 밴달 4레벨\r\n오오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
+							"ko-KR": "2023 챔피언스 밴달 4레벨\r\n오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
 							"pl-PL": "Vandal Champions 2023 (poziom 4)\nAura jest aktywna tylko wtedy, gdy gracz ma najwięcej zabójstw w grze",
 							"pt-BR": "Vandal Champions 2023 Nível 4\nAura ativada apenas quando a pessoa tem a maior quantidade de abates na partida",
 							"ru-RU": "Vandal \"Champions 2023\" уровень 4\nАура активна, когда у игрока больше всего убийств в матче",
@@ -32380,7 +32380,7 @@
 							"id-ID": "Champions 2025 Vandal Level 4\nAura aktif hanya saat pemain memiliki kill terbanyak di game",
 							"it-IT": "Vandal Champions 2025 livello 4\nL'aura è attiva solo quando il giocatore ha il più alto numero di uccisioni della partita",
 							"ja-JP": "Champions 2025 ヴァンダル Lv.4\nオーラは試合中に最多キルを獲得している間のみ発動",
-							"ko-KR": "2025 챔피언스 밴달 4레벨\n오오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
+							"ko-KR": "2025 챔피언스 밴달 4레벨\n오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
 							"pl-PL": "Vandal Champions 2025 (poziom 4)\nAura jest aktywna tylko wtedy, gdy gracz ma najwięcej zabójstw w grze",
 							"pt-BR": "Vandal Champions 2025 Nível 4\nAura ativada apenas quando a pessoa tem a maior quantidade de abates na partida",
 							"ru-RU": "Vandal \"Champions 2025\" уровень 4\nАура активна, когда у игрока больше всего убийств в матче",
@@ -50198,7 +50198,7 @@
 							"id-ID": "Champions 2022 Phantom Level 4\nAura aktif hanya saat pemain memiliki kill terbanyak di game",
 							"it-IT": "Phantom Champions 2022 livello 4\nL'aura è attiva solo quando il giocatore ha il più alto numero di uccisioni della partita",
 							"ja-JP": "Champions 2022 ファントム Lv.4\nオーラは試合中に最多キルを獲得している間のみ発動",
-							"ko-KR": "2022 챔피언스 팬텀 4레벨\r\n오오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
+							"ko-KR": "2022 챔피언스 팬텀 4레벨\r\n오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
 							"pl-PL": "Phantom Champions 2022 (poziom 4)\nAura jest aktywna tylko wtedy, gdy gracz ma najwięcej zabójstw w grze",
 							"pt-BR": "Phantom Champions 2022 Nível 4\nAura ativada apenas quando a pessoa tem a maior quantidade de abates na partida",
 							"ru-RU": "Phantom \"Champions 2022\" уровень 4\nАура активна, когда у игрока больше всего убийств в матче",
@@ -50378,7 +50378,7 @@
 							"id-ID": "Champions 2024 Phantom Level 4\nAura aktif hanya saat pemain memiliki kill terbanyak di game",
 							"it-IT": "Phantom Champions 2024 livello 4\nL'aura è attiva solo quando il giocatore ha il più alto numero di uccisioni della partita",
 							"ja-JP": "Champions 2024 ファントム Lv.4\nオーラは試合中に最多キルを獲得している間のみ発動",
-							"ko-KR": "2024 챔피언스 팬텀 4레벨\n오오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
+							"ko-KR": "2024 챔피언스 팬텀 4레벨\n오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
 							"pl-PL": "Phantom Champions 2024 (poziom 4)\nAura jest aktywna tylko wtedy, gdy gracz ma najwięcej zabójstw w grze",
 							"pt-BR": "Phantom Champions 2024 Nível 4\nAura ativada apenas quando a pessoa tem a maior quantidade de abates na partida",
 							"ru-RU": "Phantom \"Champions 2024\" уровень 4\nАура активна, когда у игрока больше всего убийств в матче",
@@ -54307,6 +54307,99 @@
 					"vi-VN": "Phantom Nanobreak",
 					"zh-CN": "纳米打击 幻影",
 					"zh-TW": "奈米微晶 幻象"
+				}
+			}
+		},
+		{
+			"weaponId": "EE8E8D15-496B-07AC-E5F6-8FAE5D4C7B1A",
+			"defaultChromaId": "C0DBECA3-4AFC-7ACB-8B39-108424E53ABA",
+			"chromas": [
+				{
+					"id": "C0DBECA3-4AFC-7ACB-8B39-108424E53ABA",
+					"label": "C0DBECA3-4AFC-7ACB-8B39-108424E53ABA",
+					"name":
+					{
+						"defaultText": "Jellybeam Phantom",
+						"localizedByCulture":
+						{
+							"ar-AE": "شعاع الهلام فانتوم",
+							"de-DE": "Phantom – Gummibärchen",
+							"en-US": "Jellybeam Phantom",
+							"es-ES": "Phantom Jellybeam",
+							"es-MX": "Phantom Carameloso",
+							"fr-FR": "Phantom (Gelée fatale)",
+							"id-ID": "Jellybeam Phantom",
+							"it-IT": "Phantom Gelatina",
+							"ja-JP": "ジェリービーム ファントム",
+							"ko-KR": "젤리빔 팬텀",
+							"pl-PL": "Phantom Żelkowy",
+							"pt-BR": "Phantom Gominhas",
+							"ru-RU": "Phantom \"Мармеладки\"",
+							"th-TH": "Jellybeam Phantom",
+							"tr-TR": "Ayıcık Şeker Phantom",
+							"vi-VN": "Phantom Jellybeam",
+							"zh-CN": "小熊之家 幻影",
+							"zh-TW": "星際熊熊 幻象"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "B3EA12BF-459A-CE0D-4884-DCBD43729E0E",
+					"label": "B3EA12BF-459A-CE0D-4884-DCBD43729E0E",
+					"name":
+					{
+						"defaultText": "Jellybeam Phantom",
+						"localizedByCulture":
+						{
+							"ar-AE": "شعاع الهلام فانتوم",
+							"de-DE": "Phantom – Gummibärchen",
+							"en-US": "Jellybeam Phantom",
+							"es-ES": "Phantom Jellybeam",
+							"es-MX": "Phantom Carameloso",
+							"fr-FR": "Phantom (Gelée fatale)",
+							"id-ID": "Jellybeam Phantom",
+							"it-IT": "Phantom Gelatina",
+							"ja-JP": "ジェリービーム ファントム",
+							"ko-KR": "젤리빔 팬텀",
+							"pl-PL": "Phantom Żelkowy",
+							"pt-BR": "Phantom Gominhas",
+							"ru-RU": "Phantom \"Мармеладки\"",
+							"th-TH": "Jellybeam Phantom",
+							"tr-TR": "Ayıcık Şeker Phantom",
+							"vi-VN": "Phantom Jellybeam",
+							"zh-CN": "小熊之家 幻影",
+							"zh-TW": "星際熊熊 幻象"
+						}
+					}
+				}
+			],
+			"id": "4DAFF9CB-46B4-734B-8352-B29108095864",
+			"label": "4DAFF9CB-46B4-734B-8352-B29108095864",
+			"name":
+			{
+				"defaultText": "Jellybeam Phantom",
+				"localizedByCulture":
+				{
+					"ar-AE": "شعاع الهلام فانتوم",
+					"de-DE": "Phantom – Gummibärchen",
+					"en-US": "Jellybeam Phantom",
+					"es-ES": "Phantom Jellybeam",
+					"es-MX": "Phantom Carameloso",
+					"fr-FR": "Phantom (Gelée fatale)",
+					"id-ID": "Jellybeam Phantom",
+					"it-IT": "Phantom Gelatina",
+					"ja-JP": "ジェリービーム ファントム",
+					"ko-KR": "젤리빔 팬텀",
+					"pl-PL": "Phantom Żelkowy",
+					"pt-BR": "Phantom Gominhas",
+					"ru-RU": "Phantom \"Мармеладки\"",
+					"th-TH": "Jellybeam Phantom",
+					"tr-TR": "Ayıcık Şeker Phantom",
+					"vi-VN": "Phantom Jellybeam",
+					"zh-CN": "小熊之家 幻影",
+					"zh-TW": "星際熊熊 幻象"
 				}
 			}
 		},
@@ -66328,6 +66421,99 @@
 					"vi-VN": "Judge .EXE",
 					"zh-CN": "判官.EXE",
 					"zh-TW": ".EXE 判官"
+				}
+			}
+		},
+		{
+			"weaponId": "EC845BF4-4F79-DDDA-A3DA-0DB3774B2794",
+			"defaultChromaId": "09BBB8AF-49F1-AE8F-6704-6CB554050D22",
+			"chromas": [
+				{
+					"id": "09BBB8AF-49F1-AE8F-6704-6CB554050D22",
+					"label": "09BBB8AF-49F1-AE8F-6704-6CB554050D22",
+					"name":
+					{
+						"defaultText": "Jellybeam Judge",
+						"localizedByCulture":
+						{
+							"ar-AE": "شعاع الهلام جادج",
+							"de-DE": "Judge – Gummibärchen",
+							"en-US": "Jellybeam Judge",
+							"es-ES": "Judge Jellybeam",
+							"es-MX": "Judge Carameloso",
+							"fr-FR": "Judge (Gelée fatale)",
+							"id-ID": "Jellybeam Judge",
+							"it-IT": "Judge Gelatina",
+							"ja-JP": "ジェリービーム ジャッジ",
+							"ko-KR": "젤리빔 저지",
+							"pl-PL": "Judge Żelkowy",
+							"pt-BR": "Judge Gominhas",
+							"ru-RU": "Judge \"Мармеладки\"",
+							"th-TH": "Jellybeam Judge",
+							"tr-TR": "Ayıcık Şeker Judge",
+							"vi-VN": "Judge Jellybeam",
+							"zh-CN": "小熊之家 判官",
+							"zh-TW": "星際熊熊 判官"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "B88EA37E-4082-9109-D65F-31837599FA27",
+					"label": "B88EA37E-4082-9109-D65F-31837599FA27",
+					"name":
+					{
+						"defaultText": "Jellybeam Judge",
+						"localizedByCulture":
+						{
+							"ar-AE": "شعاع الهلام جادج",
+							"de-DE": "Judge – Gummibärchen",
+							"en-US": "Jellybeam Judge",
+							"es-ES": "Judge Jellybeam",
+							"es-MX": "Judge Carameloso",
+							"fr-FR": "Judge (Gelée fatale)",
+							"id-ID": "Jellybeam Judge",
+							"it-IT": "Judge Gelatina",
+							"ja-JP": "ジェリービーム ジャッジ",
+							"ko-KR": "젤리빔 저지",
+							"pl-PL": "Judge Żelkowy",
+							"pt-BR": "Judge Gominhas",
+							"ru-RU": "Judge \"Мармеладки\"",
+							"th-TH": "Jellybeam Judge",
+							"tr-TR": "Ayıcık Şeker Judge",
+							"vi-VN": "Judge Jellybeam",
+							"zh-CN": "小熊之家 判官",
+							"zh-TW": "星際熊熊 判官"
+						}
+					}
+				}
+			],
+			"id": "D0121236-46BC-C797-42F2-DBB41093D8FB",
+			"label": "D0121236-46BC-C797-42F2-DBB41093D8FB",
+			"name":
+			{
+				"defaultText": "Jellybeam Judge",
+				"localizedByCulture":
+				{
+					"ar-AE": "شعاع الهلام جادج",
+					"de-DE": "Judge – Gummibärchen",
+					"en-US": "Jellybeam Judge",
+					"es-ES": "Judge Jellybeam",
+					"es-MX": "Judge Carameloso",
+					"fr-FR": "Judge (Gelée fatale)",
+					"id-ID": "Jellybeam Judge",
+					"it-IT": "Judge Gelatina",
+					"ja-JP": "ジェリービーム ジャッジ",
+					"ko-KR": "젤리빔 저지",
+					"pl-PL": "Judge Żelkowy",
+					"pt-BR": "Judge Gominhas",
+					"ru-RU": "Judge \"Мармеладки\"",
+					"th-TH": "Jellybeam Judge",
+					"tr-TR": "Ayıcık Şeker Judge",
+					"vi-VN": "Judge Jellybeam",
+					"zh-CN": "小熊之家 判官",
+					"zh-TW": "星際熊熊 判官"
 				}
 			}
 		},
@@ -83756,7 +83942,7 @@
 							"de-DE": "Classic – Headbanger",
 							"en-US": "Headbanger Classic",
 							"es-ES": "Classic Headbanger",
-							"es-MX": "Classic Melódica",
+							"es-MX": "Classic Bumstep",
 							"fr-FR": "Classic (Tonitruant)",
 							"id-ID": "Headbanger Classic",
 							"it-IT": "Classic Headbanger",
@@ -83787,7 +83973,7 @@
 							"de-DE": "Classic – Headbanger",
 							"en-US": "Headbanger Classic",
 							"es-ES": "Classic Headbanger",
-							"es-MX": "Classic Melódica",
+							"es-MX": "Classic Bumstep",
 							"fr-FR": "Classic (Tonitruant)",
 							"id-ID": "Headbanger Classic",
 							"it-IT": "Classic Headbanger",
@@ -83816,7 +84002,7 @@
 					"de-DE": "Classic – Headbanger",
 					"en-US": "Headbanger Classic",
 					"es-ES": "Classic Headbanger",
-					"es-MX": "Classic Melódica",
+					"es-MX": "Classic Bumstep",
 					"fr-FR": "Classic (Tonitruant)",
 					"id-ID": "Headbanger Classic",
 					"it-IT": "Classic Headbanger",
@@ -107467,6 +107653,157 @@
 		},
 		{
 			"weaponId": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
+			"defaultChromaId": "1560E6F3-4324-5F3D-B1C5-EEBFE0AD32A9",
+			"chromas": [
+				{
+					"id": "1560E6F3-4324-5F3D-B1C5-EEBFE0AD32A9",
+					"label": "1560E6F3-4324-5F3D-B1C5-EEBFE0AD32A9",
+					"name":
+					{
+						"defaultText": "VCT26 x FS Classic",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCT26 x FS كلاسيك",
+							"de-DE": "Classic – VCT26 x FS",
+							"en-US": "VCT26 x FS Classic",
+							"es-ES": "Classic VCT26 x FS",
+							"es-MX": "Classic VCT26 x FS",
+							"fr-FR": "Classic (VCT26 x FS)",
+							"id-ID": "VCT26 x FS Classic",
+							"it-IT": "Classic VCT26 x FS",
+							"ja-JP": "VCT26 x FS クラシック",
+							"ko-KR": "VCT26 x FS 클래식",
+							"pl-PL": "Classic VCT26 x FS",
+							"pt-BR": "Classic VCT26 x FS",
+							"ru-RU": "Classic \"VCT26 x FS\"",
+							"th-TH": "VCT26 x FS Classic",
+							"tr-TR": "VCT26 x FS Classic",
+							"vi-VN": "Classic VCT26 x FS",
+							"zh-CN": "VCT26 x FS 标配",
+							"zh-TW": "VCT26 x FS 制式手槍"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "7358B2BB-4CA0-16BA-6738-6E8F5115BEEA",
+					"label": "7358B2BB-4CA0-16BA-6738-6E8F5115BEEA",
+					"name":
+					{
+						"defaultText": "VCT26 x FS Classic",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCT26 x FS كلاسيك",
+							"de-DE": "Classic – VCT26 x FS",
+							"en-US": "VCT26 x FS Classic",
+							"es-ES": "Classic VCT26 x FS",
+							"es-MX": "Classic VCT26 x FS",
+							"fr-FR": "Classic (VCT26 x FS)",
+							"id-ID": "VCT26 x FS Classic",
+							"it-IT": "Classic VCT26 x FS",
+							"ja-JP": "VCT26 x FS クラシック",
+							"ko-KR": "VCT26 x FS 클래식",
+							"pl-PL": "Classic VCT26 x FS",
+							"pt-BR": "Classic VCT26 x FS",
+							"ru-RU": "Classic \"VCT26 x FS\"",
+							"th-TH": "VCT26 x FS Classic",
+							"tr-TR": "VCT26 x FS Classic",
+							"vi-VN": "Classic VCT26 x FS",
+							"zh-CN": "VCT26 x FS 标配",
+							"zh-TW": "VCT26 x FS 制式手槍"
+						}
+					}
+				},
+				{
+					"id": "AC7A04FC-404F-0B1B-45C2-2CB061A86AAB",
+					"label": "AC7A04FC-404F-0B1B-45C2-2CB061A86AAB",
+					"name":
+					{
+						"defaultText": "VCT26 x FS Classic Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCT26 x FS كلاسيك المستوى 2",
+							"de-DE": "Classic – VCT26 x FS Level 2",
+							"en-US": "VCT26 x FS Classic Level 2",
+							"es-ES": "Classic VCT26 x FS de nivel 2",
+							"es-MX": "Classic VCT26 x FS nivel 2",
+							"fr-FR": "Classic (VCT26 x FS) niveau 2",
+							"id-ID": "VCT26 x FS Classic Level 2",
+							"it-IT": "CLASSIC VCT26 x FS livello 2",
+							"ja-JP": "VCT26 x FS クラシック Lv.2",
+							"ko-KR": "VCT26 x FS 클래식 2레벨",
+							"pl-PL": "Classic VCT26 x FS (poziom 2)",
+							"pt-BR": "Classic VCT26 x FS Nível 2",
+							"ru-RU": "Classic \"VCT26 x FS\" уровень 2",
+							"th-TH": "VCT26 x FS Classic เลเวล 2",
+							"tr-TR": "2. Seviye VCT26 x FS Classic",
+							"vi-VN": "Classic VCT26 x FS Cấp 2",
+							"zh-CN": "VCT26 x FS 标配 等级2",
+							"zh-TW": "VCT26 x FS 制式手槍 等級2"
+						}
+					}
+				},
+				{
+					"id": "4B0AA445-429A-ED48-7D99-D283006BF350",
+					"label": "4B0AA445-429A-ED48-7D99-D283006BF350",
+					"name":
+					{
+						"defaultText": "VCT26 x FS Classic Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCT26 x FS كلاسيك المستوى 3",
+							"de-DE": "Classic – VCT26 x FS Level 3",
+							"en-US": "VCT26 x FS Classic Level 3",
+							"es-ES": "Classic VCT26 x FS de nivel 3",
+							"es-MX": "Classic VCT26 x FS nivel 3",
+							"fr-FR": "Classic (VCT26 x FS) niveau 3",
+							"id-ID": "VCT26 x FS Classic Level 3",
+							"it-IT": "CLASSIC VCT26 x FS livello 3",
+							"ja-JP": "VCT26 x FS クラシック Lv.3",
+							"ko-KR": "VCT26 x FS 클래식 3레벨",
+							"pl-PL": "Classic VCT26 x FS (poziom 3)",
+							"pt-BR": "Classic VCT26 x FS Nível 3",
+							"ru-RU": "Classic \"VCT26 x FS\" уровень 3",
+							"th-TH": "VCT26 x FS Classic เลเวล 3",
+							"tr-TR": "3. Seviye VCT26 x FS Classic",
+							"vi-VN": "Classic VCT26 x FS Cấp 3",
+							"zh-CN": "VCT26 x FS 标配 等级3",
+							"zh-TW": "VCT26 x FS 制式手槍 等級3"
+						}
+					}
+				}
+			],
+			"id": "C0B2D534-43B2-3617-0C71-D8904CF3C2D7",
+			"label": "C0B2D534-43B2-3617-0C71-D8904CF3C2D7",
+			"name":
+			{
+				"defaultText": "VCT26 x FS Classic",
+				"localizedByCulture":
+				{
+					"ar-AE": "VCT26 x FS كلاسيك",
+					"de-DE": "Classic – VCT26 x FS",
+					"en-US": "VCT26 x FS Classic",
+					"es-ES": "Classic VCT26 x FS",
+					"es-MX": "Classic VCT26 x FS",
+					"fr-FR": "Classic (VCT26 x FS)",
+					"id-ID": "VCT26 x FS Classic",
+					"it-IT": "Classic VCT26 x FS",
+					"ja-JP": "VCT26 x FS クラシック",
+					"ko-KR": "VCT26 x FS 클래식",
+					"pl-PL": "Classic VCT26 x FS",
+					"pt-BR": "Classic VCT26 x FS",
+					"ru-RU": "Classic \"VCT26 x FS\"",
+					"th-TH": "VCT26 x FS Classic",
+					"tr-TR": "VCT26 x FS Classic",
+					"vi-VN": "Classic VCT26 x FS",
+					"zh-CN": "VCT26 x FS 标配",
+					"zh-TW": "VCT26 x FS 制式手槍"
+				}
+			}
+		},
+		{
+			"weaponId": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
 			"defaultChromaId": "E162669E-4868-00F7-549F-759087295B79",
 			"chromas": [
 				{
@@ -110034,6 +110371,308 @@
 		},
 		{
 			"weaponId": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
+			"defaultChromaId": "2FC3625D-4B67-3D68-5457-71B29E29B6B0",
+			"chromas": [
+				{
+					"id": "2FC3625D-4B67-3D68-5457-71B29E29B6B0",
+					"label": "2FC3625D-4B67-3D68-5457-71B29E29B6B0",
+					"name":
+					{
+						"defaultText": "VCT26 x NV Classic",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCT26 x NV كلاسيك",
+							"de-DE": "Classic – VCT26 x NV",
+							"en-US": "VCT26 x NV Classic",
+							"es-ES": "Classic VCT26 x NV",
+							"es-MX": "Classic VCT26 x NV",
+							"fr-FR": "Classic (VCT26 x NV)",
+							"id-ID": "VCT26 x NV Classic",
+							"it-IT": "Classic VCT26 x NV",
+							"ja-JP": "VCT26 x NV クラシック",
+							"ko-KR": "VCT26 x NV 클래식",
+							"pl-PL": "Classic VCT26 x NV",
+							"pt-BR": "Classic VCT26 x NV",
+							"ru-RU": "Classic \"VCT26 x NV\"",
+							"th-TH": "VCT26 x NV Classic",
+							"tr-TR": "VCT26 x NV Classic",
+							"vi-VN": "Classic VCT26 x NV",
+							"zh-CN": "VCT26 x NV 标配",
+							"zh-TW": "VCT26 x NV 制式手槍"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "C6A57096-427D-A051-9DC2-4082806573C3",
+					"label": "C6A57096-427D-A051-9DC2-4082806573C3",
+					"name":
+					{
+						"defaultText": "VCT26 x NV Classic",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCT26 x NV كلاسيك",
+							"de-DE": "Classic – VCT26 x NV",
+							"en-US": "VCT26 x NV Classic",
+							"es-ES": "Classic VCT26 x NV",
+							"es-MX": "Classic VCT26 x NV",
+							"fr-FR": "Classic (VCT26 x NV)",
+							"id-ID": "VCT26 x NV Classic",
+							"it-IT": "Classic VCT26 x NV",
+							"ja-JP": "VCT26 x NV クラシック",
+							"ko-KR": "VCT26 x NV 클래식",
+							"pl-PL": "Classic VCT26 x NV",
+							"pt-BR": "Classic VCT26 x NV",
+							"ru-RU": "Classic \"VCT26 x NV\"",
+							"th-TH": "VCT26 x NV Classic",
+							"tr-TR": "VCT26 x NV Classic",
+							"vi-VN": "Classic VCT26 x NV",
+							"zh-CN": "VCT26 x NV 标配",
+							"zh-TW": "VCT26 x NV 制式手槍"
+						}
+					}
+				},
+				{
+					"id": "D22F3B55-4A89-8B25-3C8C-F4AB11228F9B",
+					"label": "D22F3B55-4A89-8B25-3C8C-F4AB11228F9B",
+					"name":
+					{
+						"defaultText": "VCT26 x NV Classic Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCT26 x NV كلاسيك المستوى 2",
+							"de-DE": "Classic – VCT26 x NV Level 2",
+							"en-US": "VCT26 x NV Classic Level 2",
+							"es-ES": "Classic VCT26 X NV de nivel 2",
+							"es-MX": "Classic VCT26 x NV nivel 2",
+							"fr-FR": "Classic (VCT26 x NV) niveau 2",
+							"id-ID": "VCT26 x NV Classic Level 2",
+							"it-IT": "CLASSIC VCT26 x NV livello 2",
+							"ja-JP": "VCT26 x NV クラシック Lv.2",
+							"ko-KR": "VCT26 x NV 클래식 2레벨",
+							"pl-PL": "Classic VCT26 x NV (poziom 2)",
+							"pt-BR": "Classic VCT26 x NV Nível 2",
+							"ru-RU": "Classic \"VCT26 x NV\" уровень 2",
+							"th-TH": "VCT26 x NV Classic เลเวล 2",
+							"tr-TR": "2. Seviye VCT26 x NV Classic",
+							"vi-VN": "Classic VCT26 x NV Cấp 2",
+							"zh-CN": "VCT26 x NV 标配 等级2",
+							"zh-TW": "VCT26 x NV 制式手槍 等級2"
+						}
+					}
+				},
+				{
+					"id": "E07EB41B-4298-50D3-01F2-B19718FCC0CF",
+					"label": "E07EB41B-4298-50D3-01F2-B19718FCC0CF",
+					"name":
+					{
+						"defaultText": "VCT26 x NV Classic Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCT26 x NV كلاسيك المستوى 3",
+							"de-DE": "Classic – VCT26 x NV Level 3",
+							"en-US": "VCT26 x NV Classic Level 3",
+							"es-ES": "Classic VCT26 X NV de nivel 3",
+							"es-MX": "Classic VCT26 x NV nivel 3",
+							"fr-FR": "Classic (VCT26 x NV) niveau 3",
+							"id-ID": "VCT26 x NV Classic Level 3",
+							"it-IT": "CLASSIC VCT26 x NV livello 3",
+							"ja-JP": "VCT26 x NV クラシック Lv.3",
+							"ko-KR": "VCT26 x NV 클래식 3레벨",
+							"pl-PL": "Classic VCT26 x NV (poziom 3)",
+							"pt-BR": "Classic VCT26 x NV Nível 3",
+							"ru-RU": "Classic \"VCT26 x NV\" уровень 3",
+							"th-TH": "VCT26 x NV Classic เลเวล 3",
+							"tr-TR": "3. Seviye VCT26 x NV Classic",
+							"vi-VN": "Classic VCT26 x NV Cấp 3",
+							"zh-CN": "VCT26 x NV 标配 等级3",
+							"zh-TW": "VCT26 x NV 制式手槍 等級3"
+						}
+					}
+				}
+			],
+			"id": "FF74F606-48CC-E54A-B092-CE8131EF5763",
+			"label": "FF74F606-48CC-E54A-B092-CE8131EF5763",
+			"name":
+			{
+				"defaultText": "VCT26 x NV Classic",
+				"localizedByCulture":
+				{
+					"ar-AE": "VCT26 x NV كلاسيك",
+					"de-DE": "Classic – VCT26 x NV",
+					"en-US": "VCT26 x NV Classic",
+					"es-ES": "Classic VCT26 x NV",
+					"es-MX": "Classic VCT26 x NV",
+					"fr-FR": "Classic (VCT26 x NV)",
+					"id-ID": "VCT26 x NV Classic",
+					"it-IT": "Classic VCT26 x NV",
+					"ja-JP": "VCT26 x NV クラシック",
+					"ko-KR": "VCT26 x NV 클래식",
+					"pl-PL": "Classic VCT26 x NV",
+					"pt-BR": "Classic VCT26 x NV",
+					"ru-RU": "Classic \"VCT26 x NV\"",
+					"th-TH": "VCT26 x NV Classic",
+					"tr-TR": "VCT26 x NV Classic",
+					"vi-VN": "Classic VCT26 x NV",
+					"zh-CN": "VCT26 x NV 标配",
+					"zh-TW": "VCT26 x NV 制式手槍"
+				}
+			}
+		},
+		{
+			"weaponId": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
+			"defaultChromaId": "2EB09415-4CB9-12D3-E133-3A906396E2CE",
+			"chromas": [
+				{
+					"id": "2EB09415-4CB9-12D3-E133-3A906396E2CE",
+					"label": "2EB09415-4CB9-12D3-E133-3A906396E2CE",
+					"name":
+					{
+						"defaultText": "VCT26 x PCF Classic",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCT26 x PCF كلاسيك",
+							"de-DE": "Classic – VCT26 x PCF",
+							"en-US": "VCT26 x PCF Classic",
+							"es-ES": "Classic VCT26 x PCF",
+							"es-MX": "Classic VCT26 x PCF",
+							"fr-FR": "Classic (VCT26 x PCF)",
+							"id-ID": "VCT26 x PCF Classic",
+							"it-IT": "Classic VCT26 x PCF",
+							"ja-JP": "VCT26 x PCF クラシック",
+							"ko-KR": "VCT26 x PCF 클래식",
+							"pl-PL": "Classic VCT26 x PCF",
+							"pt-BR": "Classic VCT26 x PCF",
+							"ru-RU": "Classic \"VCT26 x PCF\"",
+							"th-TH": "VCT26 x PCF Classic",
+							"tr-TR": "VCT26 x PCF Classic",
+							"vi-VN": "Classic VCT26 x PCF",
+							"zh-CN": "VCT26 x PCF 标配",
+							"zh-TW": "VCT26 x PCF 制式手槍"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "452D0B86-453C-8EE3-DF11-9DAD82BD2689",
+					"label": "452D0B86-453C-8EE3-DF11-9DAD82BD2689",
+					"name":
+					{
+						"defaultText": "VCT26 x PCF Classic",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCT26 x PCF كلاسيك",
+							"de-DE": "Classic – VCT26 x PCF",
+							"en-US": "VCT26 x PCF Classic",
+							"es-ES": "Classic VCT26 x PCF",
+							"es-MX": "Classic VCT26 x PCF",
+							"fr-FR": "Classic (VCT26 x PCF)",
+							"id-ID": "VCT26 x PCF Classic",
+							"it-IT": "Classic VCT26 x PCF",
+							"ja-JP": "VCT26 x PCF クラシック",
+							"ko-KR": "VCT26 x PCF 클래식",
+							"pl-PL": "Classic VCT26 x PCF",
+							"pt-BR": "Classic VCT26 x PCF",
+							"ru-RU": "Classic \"VCT26 x PCF\"",
+							"th-TH": "VCT26 x PCF Classic",
+							"tr-TR": "VCT26 x PCF Classic",
+							"vi-VN": "Classic VCT26 x PCF",
+							"zh-CN": "VCT26 x PCF 标配",
+							"zh-TW": "VCT26 x PCF 制式手槍"
+						}
+					}
+				},
+				{
+					"id": "C559CEFB-4C32-1C05-537C-A99F549E16AF",
+					"label": "C559CEFB-4C32-1C05-537C-A99F549E16AF",
+					"name":
+					{
+						"defaultText": "VCT26 x PCF Classic Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCT26 x PCF كلاسيك المستوى 2",
+							"de-DE": "Classic – VCT26 x PCF Level 2",
+							"en-US": "VCT26 x PCF Classic Level 2",
+							"es-ES": "Classic VCT26 X PCF de nivel 2",
+							"es-MX": "Classic VCT26 x PCF nivel 2",
+							"fr-FR": "Classic (VCT26 x PCF) niveau 2",
+							"id-ID": "VCT26 x PCF Classic Level 2",
+							"it-IT": "CLASSIC VCT26 x PCF livello 2",
+							"ja-JP": "VCT26 x PCF クラシック Lv.2",
+							"ko-KR": "VCT26 x PCF 클래식 2레벨",
+							"pl-PL": "Classic VCT26 x PCF (poziom 2)",
+							"pt-BR": "Classic VCT26 x PCF Nível 2",
+							"ru-RU": "Classic \"VCT26 x PCF\" уровень 2",
+							"th-TH": "VCT26 x PCF Classic เลเวล 2",
+							"tr-TR": "2. Seviye VCT26 x PCF Classic",
+							"vi-VN": "Classic VCT26 x PCF Cấp 2",
+							"zh-CN": "VCT26 x PCF 标配 等级2",
+							"zh-TW": "VCT26 x PCF 制式手槍 等級2"
+						}
+					}
+				},
+				{
+					"id": "D5C331A3-41F0-AC04-7D14-39A1DC3BD064",
+					"label": "D5C331A3-41F0-AC04-7D14-39A1DC3BD064",
+					"name":
+					{
+						"defaultText": "VCT26 x PCF Classic Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCT26 x PCF كلاسيك المستوى 3",
+							"de-DE": "Classic – VCT26 x PCF Level 3",
+							"en-US": "VCT26 x PCF Classic Level 3",
+							"es-ES": "Classic VCT26 X PCF de nivel 3",
+							"es-MX": "Classic VCT26 x PCF nivel 3",
+							"fr-FR": "Classic (VCT26 x PCF) niveau 3",
+							"id-ID": "VCT26 x PCF Classic Level 3",
+							"it-IT": "CLASSIC VCT26 x PCF livello 3",
+							"ja-JP": "VCT26 x PCF クラシック Lv.3",
+							"ko-KR": "VCT26 x PCF 클래식 3레벨",
+							"pl-PL": "Classic VCT26 x PCF (poziom 3)",
+							"pt-BR": "Classic VCT26 x PCF Nível 3",
+							"ru-RU": "Classic \"VCT26 x PCF\" уровень 3",
+							"th-TH": "VCT26 x PCF Classic เลเวล 3",
+							"tr-TR": "3. Seviye VCT26 x PCF Classic",
+							"vi-VN": "Classic VCT26 x PCF Cấp 3",
+							"zh-CN": "VCT26 x PCF 标配 等级3",
+							"zh-TW": "VCT26 x PCF 制式手槍 等級3"
+						}
+					}
+				}
+			],
+			"id": "331FDE45-439D-2B68-193C-FE94A36F53F3",
+			"label": "331FDE45-439D-2B68-193C-FE94A36F53F3",
+			"name":
+			{
+				"defaultText": "VCT26 x PCF Classic",
+				"localizedByCulture":
+				{
+					"ar-AE": "VCT26 x PCF كلاسيك",
+					"de-DE": "Classic – VCT26 x PCF",
+					"en-US": "VCT26 x PCF Classic",
+					"es-ES": "Classic VCT26 x PCF",
+					"es-MX": "Classic VCT26 x PCF",
+					"fr-FR": "Classic (VCT26 x PCF)",
+					"id-ID": "VCT26 x PCF Classic",
+					"it-IT": "Classic VCT26 x PCF",
+					"ja-JP": "VCT26 x PCF クラシック",
+					"ko-KR": "VCT26 x PCF 클래식",
+					"pl-PL": "Classic VCT26 x PCF",
+					"pt-BR": "Classic VCT26 x PCF",
+					"ru-RU": "Classic \"VCT26 x PCF\"",
+					"th-TH": "VCT26 x PCF Classic",
+					"tr-TR": "VCT26 x PCF Classic",
+					"vi-VN": "Classic VCT26 x PCF",
+					"zh-CN": "VCT26 x PCF 标配",
+					"zh-TW": "VCT26 x PCF 制式手槍"
+				}
+			}
+		},
+		{
+			"weaponId": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
 			"defaultChromaId": "490A926F-48F7-EB42-6862-60BCF7A8E28C",
 			"chromas": [
 				{
@@ -111690,6 +112329,157 @@
 					"vi-VN": "Classic VCT26 x VIT",
 					"zh-CN": "VCT26 x VIT 标配",
 					"zh-TW": "VCT26 x VIT 制式手槍"
+				}
+			}
+		},
+		{
+			"weaponId": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
+			"defaultChromaId": "7E6FE739-4FCA-5F05-4BA7-76A3FB810E20",
+			"chromas": [
+				{
+					"id": "7E6FE739-4FCA-5F05-4BA7-76A3FB810E20",
+					"label": "7E6FE739-4FCA-5F05-4BA7-76A3FB810E20",
+					"name":
+					{
+						"defaultText": "VCT26 x VL Classic",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCT26 x VL كلاسيك",
+							"de-DE": "Classic – VCT26 x VL",
+							"en-US": "VCT26 x VL Classic",
+							"es-ES": "Classic VCT26 x VL",
+							"es-MX": "Classic VCT26 x VL",
+							"fr-FR": "Classic (VCT26 x VL)",
+							"id-ID": "VCT26 x VL Classic",
+							"it-IT": "Classic VCT26 x VL",
+							"ja-JP": "VCT26 x VL クラシック",
+							"ko-KR": "VCT26 x VL 클래식",
+							"pl-PL": "Classic VCT26 x VL",
+							"pt-BR": "Classic VCT26 x VL",
+							"ru-RU": "Classic \"VCT26 x VL\"",
+							"th-TH": "VCT26 x VL Classic",
+							"tr-TR": "VCT26 x VL Classic",
+							"vi-VN": "Classic VCT26 x VL",
+							"zh-CN": "VCT26 x VL 标配",
+							"zh-TW": "VCT26 x VL 制式手槍"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "F3ACC0F3-486F-B9CD-FAFB-1087D9C9F6A4",
+					"label": "F3ACC0F3-486F-B9CD-FAFB-1087D9C9F6A4",
+					"name":
+					{
+						"defaultText": "VCT26 x VL Classic",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCT26 x VL كلاسيك",
+							"de-DE": "Classic – VCT26 x VL",
+							"en-US": "VCT26 x VL Classic",
+							"es-ES": "Classic VCT26 x VL",
+							"es-MX": "Classic VCT26 x VL",
+							"fr-FR": "Classic (VCT26 x VL)",
+							"id-ID": "VCT26 x VL Classic",
+							"it-IT": "Classic VCT26 x VL",
+							"ja-JP": "VCT26 x VL クラシック",
+							"ko-KR": "VCT26 x VL 클래식",
+							"pl-PL": "Classic VCT26 x VL",
+							"pt-BR": "Classic VCT26 x VL",
+							"ru-RU": "Classic \"VCT26 x VL\"",
+							"th-TH": "VCT26 x VL Classic",
+							"tr-TR": "VCT26 x VL Classic",
+							"vi-VN": "Classic VCT26 x VL",
+							"zh-CN": "VCT26 x VL 标配",
+							"zh-TW": "VCT26 x VL 制式手槍"
+						}
+					}
+				},
+				{
+					"id": "A7648FD7-41FA-2101-0345-8FAC7C5FFE2E",
+					"label": "A7648FD7-41FA-2101-0345-8FAC7C5FFE2E",
+					"name":
+					{
+						"defaultText": "VCT26 x VL Classic Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCT26 x VL كلاسيك المستوى 2",
+							"de-DE": "Classic – VCT26 x VL Level 2",
+							"en-US": "VCT26 x VL Classic Level 2",
+							"es-ES": "Classic VCT26 X VL de nivel 2",
+							"es-MX": "Classic VCT26 x VL nivel 2",
+							"fr-FR": "Classic (VCT26 x VL) niveau 2",
+							"id-ID": "VCT26 x VL Classic Level 2",
+							"it-IT": "CLASSIC VCT26 x VL livello 2",
+							"ja-JP": "VCT26 x VL クラシック Lv.2",
+							"ko-KR": "VCT26 x VL 클래식 2레벨",
+							"pl-PL": "Classic VCT26 x VL (poziom 2)",
+							"pt-BR": "Classic VCT26 x VL Nível 2",
+							"ru-RU": "Classic \"VCT26 x VL\" уровень 2",
+							"th-TH": "VCT26 x VL Classic เลเวล 2",
+							"tr-TR": "2. Seviye VCT26 x VL Classic",
+							"vi-VN": "Classic VCT26 x VL Cấp 2",
+							"zh-CN": "VCT26 x VL 标配 等级2",
+							"zh-TW": "VCT26 x VL 制式手槍 等級2"
+						}
+					}
+				},
+				{
+					"id": "3A8D8CBB-45B8-00ED-9D88-A3ACFB5E794E",
+					"label": "3A8D8CBB-45B8-00ED-9D88-A3ACFB5E794E",
+					"name":
+					{
+						"defaultText": "VCT26 x VL Classic Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCT26 x VL كلاسيك المستوى 3",
+							"de-DE": "Classic – VCT26 x VL Level 3",
+							"en-US": "VCT26 x VL Classic Level 3",
+							"es-ES": "Classic VCT26 X VL de nivel 3",
+							"es-MX": "Classic VCT26 x VL nivel 3",
+							"fr-FR": "Classic (VCT26 x VL) niveau 3",
+							"id-ID": "VCT26 x VL Classic Level 3",
+							"it-IT": "CLASSIC VCT26 x VL livello 3",
+							"ja-JP": "VCT26 x VL クラシック Lv.3",
+							"ko-KR": "VCT26 x VL 클래식 3레벨",
+							"pl-PL": "Classic VCT26 x VL (poziom 3)",
+							"pt-BR": "Classic VCT26 x VL Nível 3",
+							"ru-RU": "Classic \"VCT26 x VL\" уровень 3",
+							"th-TH": "VCT26 x VL Classic เลเวล 3",
+							"tr-TR": "3. Seviye VCT26 x VL Classic",
+							"vi-VN": "Classic VCT26 x VL Cấp 3",
+							"zh-CN": "VCT26 x VL 标配 等级3",
+							"zh-TW": "VCT26 x VL制式手槍 等級3"
+						}
+					}
+				}
+			],
+			"id": "896157F1-4BF9-53B8-6D4D-59AA7AD70E7C",
+			"label": "896157F1-4BF9-53B8-6D4D-59AA7AD70E7C",
+			"name":
+			{
+				"defaultText": "VCT26 x VL Classic",
+				"localizedByCulture":
+				{
+					"ar-AE": "VCT26 x VL كلاسيك",
+					"de-DE": "Classic – VCT26 x VL",
+					"en-US": "VCT26 x VL Classic",
+					"es-ES": "Classic VCT26 x VL",
+					"es-MX": "Classic VCT26 x VL",
+					"fr-FR": "Classic (VCT26 x VL)",
+					"id-ID": "VCT26 x VL Classic",
+					"it-IT": "Classic VCT26 x VL",
+					"ja-JP": "VCT26 x VL クラシック",
+					"ko-KR": "VCT26 x VL 클래식",
+					"pl-PL": "Classic VCT26 x VL",
+					"pt-BR": "Classic VCT26 x VL",
+					"ru-RU": "Classic \"VCT26 x VL\"",
+					"th-TH": "VCT26 x VL Classic",
+					"tr-TR": "VCT26 x VL Classic",
+					"vi-VN": "Classic VCT26 x VL",
+					"zh-CN": "VCT26 x VL 标配",
+					"zh-TW": "VCT26 x VL 制式手槍"
 				}
 			}
 		},
@@ -134677,6 +135467,99 @@
 					"vi-VN": "Shorty Tàn Tích",
 					"zh-CN": "哥特废墟 短炮",
 					"zh-TW": "哥德復興 短管"
+				}
+			}
+		},
+		{
+			"weaponId": "42DA8CCC-40D5-AFFC-BEEC-15AA47B42EDA",
+			"defaultChromaId": "4EF6BDEB-4626-7C77-F87D-F4BD7EAE6B2D",
+			"chromas": [
+				{
+					"id": "4EF6BDEB-4626-7C77-F87D-F4BD7EAE6B2D",
+					"label": "4EF6BDEB-4626-7C77-F87D-F4BD7EAE6B2D",
+					"name":
+					{
+						"defaultText": "Jellybeam Shorty",
+						"localizedByCulture":
+						{
+							"ar-AE": "شعاع الهلام شورتي",
+							"de-DE": "Shorty – Gummibärchen",
+							"en-US": "Jellybeam Shorty",
+							"es-ES": "Shorty Jellybeam",
+							"es-MX": "Shorty Carameloso",
+							"fr-FR": "Shorty (Gelée fatale)",
+							"id-ID": "Jellybeam Shorty",
+							"it-IT": "Shorty Gelatina",
+							"ja-JP": "ジェリービーム ショーティー",
+							"ko-KR": "젤리빔 쇼티",
+							"pl-PL": "Shorty Żelkowy",
+							"pt-BR": "Shorty Gominhas",
+							"ru-RU": "Shorty \"Мармеладки\"",
+							"th-TH": "Jellybeam Shorty",
+							"tr-TR": "Ayıcık Şeker Shorty",
+							"vi-VN": "Shorty Jellybeam",
+							"zh-CN": "小熊之家 短炮",
+							"zh-TW": "星際熊熊 短管"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "89F20799-4AFE-448D-A2E2-FDBDF26C120E",
+					"label": "89F20799-4AFE-448D-A2E2-FDBDF26C120E",
+					"name":
+					{
+						"defaultText": "Jellybeam Shorty",
+						"localizedByCulture":
+						{
+							"ar-AE": "شعاع الهلام شورتي",
+							"de-DE": "Shorty – Gummibärchen",
+							"en-US": "Jellybeam Shorty",
+							"es-ES": "Shorty Jellybeam",
+							"es-MX": "Shorty Carameloso",
+							"fr-FR": "Shorty (Gelée fatale)",
+							"id-ID": "Jellybeam Shorty",
+							"it-IT": "Shorty Gelatina",
+							"ja-JP": "ジェリービーム ショーティー",
+							"ko-KR": "젤리빔 쇼티",
+							"pl-PL": "Shorty Żelkowy",
+							"pt-BR": "Shorty Gominhas",
+							"ru-RU": "Shorty \"Мармеладки\"",
+							"th-TH": "Jellybeam Shorty",
+							"tr-TR": "Ayıcık Şeker Shorty",
+							"vi-VN": "Shorty Jellybeam",
+							"zh-CN": "小熊之家 短炮",
+							"zh-TW": "星際熊熊 短管"
+						}
+					}
+				}
+			],
+			"id": "74D8AC90-453D-96EF-6CC6-20A65C58EB5C",
+			"label": "74D8AC90-453D-96EF-6CC6-20A65C58EB5C",
+			"name":
+			{
+				"defaultText": "Jellybeam Shorty",
+				"localizedByCulture":
+				{
+					"ar-AE": "شعاع الهلام شورتي",
+					"de-DE": "Shorty – Gummibärchen",
+					"en-US": "Jellybeam Shorty",
+					"es-ES": "Shorty Jellybeam",
+					"es-MX": "Shorty Carameloso",
+					"fr-FR": "Shorty (Gelée fatale)",
+					"id-ID": "Jellybeam Shorty",
+					"it-IT": "Shorty Gelatina",
+					"ja-JP": "ジェリービーム ショーティー",
+					"ko-KR": "젤리빔 쇼티",
+					"pl-PL": "Shorty Żelkowy",
+					"pt-BR": "Shorty Gominhas",
+					"ru-RU": "Shorty \"Мармеладки\"",
+					"th-TH": "Jellybeam Shorty",
+					"tr-TR": "Ayıcık Şeker Shorty",
+					"vi-VN": "Shorty Jellybeam",
+					"zh-CN": "小熊之家 短炮",
+					"zh-TW": "星際熊熊 短管"
 				}
 			}
 		},
@@ -170011,6 +170894,99 @@
 		},
 		{
 			"weaponId": "462080D1-4035-2937-7C09-27AA2A5C27A7",
+			"defaultChromaId": "D6C59BF2-42F6-1403-646B-C8AF6BE2BDF5",
+			"chromas": [
+				{
+					"id": "D6C59BF2-42F6-1403-646B-C8AF6BE2BDF5",
+					"label": "D6C59BF2-42F6-1403-646B-C8AF6BE2BDF5",
+					"name":
+					{
+						"defaultText": "Jellybeam Spectre",
+						"localizedByCulture":
+						{
+							"ar-AE": "شعاع الهلام سبيكتر",
+							"de-DE": "Spectre – Gummibärchen",
+							"en-US": "Jellybeam Spectre",
+							"es-ES": "Spectre Jellybeam",
+							"es-MX": "Spectre Carameloso",
+							"fr-FR": "Spectre (Gelée fatale)",
+							"id-ID": "Jellybeam Spectre",
+							"it-IT": "Spectre Gelatina",
+							"ja-JP": "ジェリービーム スペクター",
+							"ko-KR": "젤리빔 스펙터",
+							"pl-PL": "Spectre Żelkowy",
+							"pt-BR": "Spectre Gominhas",
+							"ru-RU": "Spectre \"Мармеладки\"",
+							"th-TH": "Jellybeam Spectre",
+							"tr-TR": "Ayıcık Şeker Spectre",
+							"vi-VN": "Spectre Jellybeam",
+							"zh-CN": "小熊之家 骇灵",
+							"zh-TW": "星際熊熊 惡靈"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "6D61FDC4-42F6-88C4-047C-CBB95238BB98",
+					"label": "6D61FDC4-42F6-88C4-047C-CBB95238BB98",
+					"name":
+					{
+						"defaultText": "Jellybeam Spectre",
+						"localizedByCulture":
+						{
+							"ar-AE": "شعاع الهلام سبيكتر",
+							"de-DE": "Spectre – Gummibärchen",
+							"en-US": "Jellybeam Spectre",
+							"es-ES": "Spectre Jellybeam",
+							"es-MX": "Spectre Carameloso",
+							"fr-FR": "Spectre (Gelée fatale)",
+							"id-ID": "Jellybeam Spectre",
+							"it-IT": "Spectre Gelatina",
+							"ja-JP": "ジェリービーム スペクター",
+							"ko-KR": "젤리빔 스펙터",
+							"pl-PL": "Spectre Żelkowy",
+							"pt-BR": "Spectre Gominhas",
+							"ru-RU": "Spectre \"Мармеладки\"",
+							"th-TH": "Jellybeam Spectre",
+							"tr-TR": "Ayıcık Şeker Spectre",
+							"vi-VN": "Spectre Jellybeam",
+							"zh-CN": "小熊之家 骇灵",
+							"zh-TW": "星際熊熊 惡靈"
+						}
+					}
+				}
+			],
+			"id": "05EEBE8B-47D5-A6C5-9DBF-0DA47F93842E",
+			"label": "05EEBE8B-47D5-A6C5-9DBF-0DA47F93842E",
+			"name":
+			{
+				"defaultText": "Jellybeam Spectre",
+				"localizedByCulture":
+				{
+					"ar-AE": "شعاع الهلام سبيكتر",
+					"de-DE": "Spectre – Gummibärchen",
+					"en-US": "Jellybeam Spectre",
+					"es-ES": "Spectre Jellybeam",
+					"es-MX": "Spectre Carameloso",
+					"fr-FR": "Spectre (Gelée fatale)",
+					"id-ID": "Jellybeam Spectre",
+					"it-IT": "Spectre Gelatina",
+					"ja-JP": "ジェリービーム スペクター",
+					"ko-KR": "젤리빔 스펙터",
+					"pl-PL": "Spectre Żelkowy",
+					"pt-BR": "Spectre Gominhas",
+					"ru-RU": "Spectre \"Мармеладки\"",
+					"th-TH": "Jellybeam Spectre",
+					"tr-TR": "Ayıcık Şeker Spectre",
+					"vi-VN": "Spectre Jellybeam",
+					"zh-CN": "小熊之家 骇灵",
+					"zh-TW": "星際熊熊 惡靈"
+				}
+			}
+		},
+		{
+			"weaponId": "462080D1-4035-2937-7C09-27AA2A5C27A7",
 			"defaultChromaId": "FC7005C4-4455-7298-B5FB-B182031D882B",
 			"chromas": [
 				{
@@ -188094,7 +189070,7 @@
 							"id-ID": "Champions 2021 Karambit Level 3\nAura aktif hanya saat pemain memiliki kill terbanyak di game",
 							"it-IT": "Karambit Champions 2021 livello 3\nL'aura è attiva solo quando il giocatore ha il più alto numero di uccisioni della partita",
 							"ja-JP": "Champions 2021 カラムビット Lv.3\nオーラは試合中に最多キルを獲得している間のみ発動",
-							"ko-KR": "2021 챔피언스 카람빗 3레벨\r\n오오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
+							"ko-KR": "2021 챔피언스 카람빗 3레벨\r\n오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
 							"pl-PL": "Karambit Champions 2021 (poziom 3)\nAura jest aktywna tylko wtedy, gdy gracz ma najwięcej zabójstw w grze",
 							"pt-BR": "Karambit Champions 2021 Nível 3\nAura ativada apenas quando a pessoa tem a maior quantidade de abates na partida",
 							"ru-RU": "Керамбит \"Champions 2021\" уровень 3\nАура активна, когда у игрока больше всего убийств в матче",
@@ -188245,7 +189221,7 @@
 							"id-ID": "Knife Butterfly Champions 2022 Level 3\nAura aktif hanya saat pemain memiliki kill terbanyak di game",
 							"it-IT": "Balisong Champions 2022 livello 3\nL'aura è attiva solo quando il giocatore ha il più alto numero di uccisioni della partita",
 							"ja-JP": "Champions 2022 バタフライナイフ Lv.3\nオーラは試合中に最多キルを獲得している間のみ発動",
-							"ko-KR": "2022 챔피언스 버터플라이 나이프 3레벨\r\n오오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
+							"ko-KR": "2022 챔피언스 버터플라이 나이프 3레벨\r\n오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
 							"pl-PL": "Nóż motylkowy Champions 2022 (poziom 3)\nAura jest aktywna tylko wtedy, gdy gracz ma najwięcej zabójstw w grze",
 							"pt-BR": "Canivete-Borboleta Champions 2022 Nível 3\nAura ativada apenas quando a pessoa tem a maior quantidade de abates na partida",
 							"ru-RU": "Нож-бабочка \"Champions 2022\" уровень 3\nАура активна, когда у игрока больше всего убийств в матче",
@@ -188396,7 +189372,7 @@
 							"id-ID": "Champions 2023 Kunai Level 3\nAura aktif hanya saat pemain memiliki kill terbanyak di game",
 							"it-IT": "Kunai Champions 2023 livello 3\nL'aura è attiva solo quando il giocatore ha il più alto numero di uccisioni della partita",
 							"ja-JP": "Champions 2023 クナイ Lv.3\nオーラは試合中に最多キルを獲得している間のみ発動",
-							"ko-KR": "2023 챔피언스 쿠나이 3레벨\r\n오오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
+							"ko-KR": "2023 챔피언스 쿠나이 3레벨\r\n오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
 							"pl-PL": "Kunai Champions 2023 (poziom 3)\nAura jest aktywna tylko wtedy, gdy gracz ma najwięcej zabójstw w grze",
 							"pt-BR": "Kunai Champions 2023 Nível 3\nAura ativada apenas quando a pessoa tem a maior quantidade de abates na partida",
 							"ru-RU": "Кунаи \"Champions 2023\" уровень 3\nАура активна, когда у игрока больше всего убийств в матче",
@@ -188547,7 +189523,7 @@
 							"id-ID": "Champions 2024 Blade Level 3\nAura aktif hanya saat pemain memiliki kill terbanyak di game",
 							"it-IT": "Lama Champions 2024 livello 3\nL'aura è attiva solo quando il giocatore ha il più alto numero di uccisioni della partita",
 							"ja-JP": "Champions 2024 ブレード Lv.3\nオーラは試合中に最多キルを獲得している間のみ発動",
-							"ko-KR": "2024 챔피언스 검 3레벨\n오오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
+							"ko-KR": "2024 챔피언스 검 3레벨\n오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
 							"pl-PL": "Ostrze Champions 2024 (poziom 3)\nAura jest aktywna tylko wtedy, gdy gracz ma najwięcej zabójstw w grze",
 							"pt-BR": "Espada Champions 2024 Nível 3\nAura ativada apenas quando a pessoa tem a maior quantidade de abates na partida",
 							"ru-RU": "Клинок \"Champions 2024\" уровень 3\nАура активна, когда у игрока больше всего убийств в матче",
@@ -192589,7 +193565,7 @@
 							"id-ID": "VCT LOCK//IN Misericórdia Level 3\nAura aktif hanya saat pemain memiliki kill terbanyak di game",
 							"it-IT": "Misericordia VCT LOCK//IN livello 3\n\nL'aura è attiva solo quando il giocatore ha il più alto numero di uccisioni della partita",
 							"ja-JP": "VCT LOCK//IN ミゼリコルディア Lv.3\nオーラは試合中に最多キルを獲得している間のみ発動",
-							"ko-KR": "VCT LOCK//IN 자비 3레벨\r\n오오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
+							"ko-KR": "VCT LOCK//IN 자비 3레벨\r\n오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
 							"pl-PL": "Misericórdia VCT LOCK//IN (poziom 3)\nAura jest aktywna tylko wtedy, gdy gracz ma najwięcej zabójstw w grze",
 							"pt-BR": "Misericórdia VCT LOCK//IN Nível 3\nAura ativada apenas quando a pessoa tem a maior quantidade de abates na partida",
 							"ru-RU": "Мизерикордия \"VCT LOCK//IN\", уровень 3\nАура активна, когда у игрока больше всего убийств в матче",
@@ -193841,6 +194817,99 @@
 					"vi-VN": "Vũ Khí Cận Chiến .SYS",
 					"zh-CN": "系统故障修理器",
 					"zh-TW": ".SYS 近戰武器"
+				}
+			}
+		},
+		{
+			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
+			"defaultChromaId": "7A7115C3-4938-8A53-3DC6-66A5E9923ECD",
+			"chromas": [
+				{
+					"id": "7A7115C3-4938-8A53-3DC6-66A5E9923ECD",
+					"label": "7A7115C3-4938-8A53-3DC6-66A5E9923ECD",
+					"name":
+					{
+						"defaultText": "Jellybeam Sugarslice",
+						"localizedByCulture":
+						{
+							"ar-AE": "شعاع الهلام شوغار سلايس",
+							"de-DE": "Zuckerschnitter – Gummibärchen",
+							"en-US": "Jellybeam Sugarslice",
+							"es-ES": "Tajodulce Jellybeam",
+							"es-MX": "Gomifilo Carameloso",
+							"fr-FR": "Couteau à gâteau (Gelée fatale)",
+							"id-ID": "Jellybeam Sugarslice",
+							"it-IT": "Caramellama Gelatina",
+							"ja-JP": "ジェリービーム シュガースライス",
+							"ko-KR": "젤리빔 슈가슬라이스",
+							"pl-PL": "Słodka Klinga Żelkowa",
+							"pt-BR": "Doçura Letal",
+							"ru-RU": "Сладкорез \"Мармеладки\"",
+							"th-TH": "Jellybeam Sugarslice",
+							"tr-TR": "Ayıcık Şeker Tatlı Dilim",
+							"vi-VN": "Dao Jellybeam",
+							"zh-CN": "熊熊刀",
+							"zh-TW": "星際熊熊 軟糖刀"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "DB88C94D-4E90-4AFD-504D-D996582EEA66",
+					"label": "DB88C94D-4E90-4AFD-504D-D996582EEA66",
+					"name":
+					{
+						"defaultText": "Jellybeam Sugarslice",
+						"localizedByCulture":
+						{
+							"ar-AE": "شعاع الهلام شوغار سلايس",
+							"de-DE": "Zuckerschnitter – Gummibärchen",
+							"en-US": "Jellybeam Sugarslice",
+							"es-ES": "Tajodulce Jellybeam",
+							"es-MX": "Gomifilo Carameloso",
+							"fr-FR": "Couteau à gâteau (Gelée fatale)",
+							"id-ID": "Jellybeam Sugarslice",
+							"it-IT": "Caramellama Gelatina",
+							"ja-JP": "ジェリービーム シュガースライス",
+							"ko-KR": "젤리빔 슈가슬라이스",
+							"pl-PL": "Słodka Klinga Żelkowa",
+							"pt-BR": "Doçura Letal",
+							"ru-RU": "Сладкорез \"Мармеладки\"",
+							"th-TH": "Jellybeam Sugarslice",
+							"tr-TR": "Ayıcık Şeker Tatlı Dilim",
+							"vi-VN": "Dao Jellybeam",
+							"zh-CN": "熊熊刀",
+							"zh-TW": "星際熊熊 軟糖刀"
+						}
+					}
+				}
+			],
+			"id": "6B689D71-4603-6140-F4A2-36A297FF3FDB",
+			"label": "6B689D71-4603-6140-F4A2-36A297FF3FDB",
+			"name":
+			{
+				"defaultText": "Jellybeam Sugarslice",
+				"localizedByCulture":
+				{
+					"ar-AE": "شعاع الهلام شوغار سلايس",
+					"de-DE": "Zuckerschnitter – Gummibärchen",
+					"en-US": "Jellybeam Sugarslice",
+					"es-ES": "Tajodulce Jellybeam",
+					"es-MX": "Gomifilo Carameloso",
+					"fr-FR": "Couteau à gâteau (Gelée fatale)",
+					"id-ID": "Jellybeam Sugarslice",
+					"it-IT": "Caramellama Gelatina",
+					"ja-JP": "ジェリービーム シュガースライス",
+					"ko-KR": "젤리빔 슈가슬라이스",
+					"pl-PL": "Słodka Klinga Żelkowa",
+					"pt-BR": "Doçura Letal",
+					"ru-RU": "Сладкорез \"Мармеладки\"",
+					"th-TH": "Jellybeam Sugarslice",
+					"tr-TR": "Ayıcık Şeker Tatlı Dilim",
+					"vi-VN": "Dao Jellybeam",
+					"zh-CN": "熊熊刀",
+					"zh-TW": "星際熊熊 軟糖刀"
 				}
 			}
 		},
@@ -198798,7 +199867,7 @@
 							"id-ID": "Champions 2025 Butterfly Knife Level 3\r\nAura aktif hanya saat pemain memiliki kill terbanyak di game",
 							"it-IT": "Balisong Champions 2025 livello 3\r\nL'aura è attiva solo quando il giocatore ha il più alto numero di uccisioni della partita",
 							"ja-JP": "Champions 2025 バタフライナイフ Lv.3\r\nオーラは試合中に最多キルを獲得している間のみ発動",
-							"ko-KR": "2025 챔피언스 버터플라이 나이프 3레벨\r\n오오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
+							"ko-KR": "2025 챔피언스 버터플라이 나이프 3레벨\r\n오라는 플레이어가 게임에서 최다 킬을 달성했을 때만 활성화됩니다",
 							"pl-PL": "Nóż motylkowy Champions 2025 (poziom 3)\r\nAura jest aktywna tylko wtedy, gdy gracz ma najwięcej zabójstw w grze",
 							"pt-BR": "Canivete-Borboleta Champions 2025 Nível 3\r\nAura ativada apenas quando a pessoa tem a maior quantidade de abates na partida",
 							"ru-RU": "Нож-бабочка \"Champions 2025\" уровень 3\r\nАура активна, когда у игрока больше всего убийств в матче",
@@ -209432,7 +210501,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "مناوشة A",
-					"de-DE": "Geplänkel A",
+					"de-DE": "Skirmish A",
 					"en-US": "Skirmish A",
 					"es-ES": "Escaramuza A",
 					"es-MX": "Escaramuza A",
@@ -209490,7 +210559,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "مناوشة B",
-					"de-DE": "Geplänkel B",
+					"de-DE": "Skirmish B",
 					"en-US": "Skirmish B",
 					"es-ES": "Escaramuza B",
 					"es-MX": "Escaramuza B",
@@ -209548,7 +210617,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "مناوشة C",
-					"de-DE": "Geplänkel C",
+					"de-DE": "Skirmish C",
 					"en-US": "Skirmish C",
 					"es-ES": "Escaramuza C",
 					"es-MX": "Escaramuza C",
@@ -223984,6 +225053,35 @@
 			}
 		},
 		{
+			"id": "508FFE91-4D8E-6A3B-7F69-6A92524760CD",
+			"label": "508FFE91-4D8E-6A3B-7F69-6A92524760CD",
+			"name":
+			{
+				"defaultText": "Best Memories Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة أفضل الذكريات",
+					"de-DE": "Banner „Schönste Erinnerungen“",
+					"en-US": "Best Memories Card",
+					"es-ES": "Tarjeta Buenos recuerdos",
+					"es-MX": "Tarjeta Recuerdos Inolvidables",
+					"fr-FR": "Carte Souvenirs inoubliables",
+					"id-ID": "Kartu Best Memories",
+					"it-IT": "Carta Ricordi migliori",
+					"ja-JP": "最高の思い出 カード",
+					"ko-KR": "최고의 추억 카드",
+					"pl-PL": "Karta „Najlepsze wspomnienia”",
+					"pt-BR": "Card Boas Lembranças",
+					"ru-RU": "Карточка \"Лучшие воспоминания\"",
+					"th-TH": "การ์ด Best Memories",
+					"tr-TR": "Güzel Anılar Kartı",
+					"vi-VN": "Thẻ Ký Ức Đẹp Nhất",
+					"zh-CN": "最忆 卡面",
+					"zh-TW": "最佳回憶 玩家卡面"
+				}
+			}
+		},
+		{
 			"id": "6FD602E5-4169-F9FD-8E0D-B893B85FEACD",
 			"label": "6FD602E5-4169-F9FD-8E0D-B893B85FEACD",
 			"name":
@@ -235613,6 +236711,35 @@
 			}
 		},
 		{
+			"id": "EBB003F7-498E-CFD2-EA2A-D78D5F8BAC96",
+			"label": "EBB003F7-498E-CFD2-EA2A-D78D5F8BAC96",
+			"name":
+			{
+				"defaultText": "VCT26 x FS Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة VCT26 x FS",
+					"de-DE": "Banner „VCT26 x FS“",
+					"en-US": "VCT26 x FS Card",
+					"es-ES": "Tarjeta VCT26 x FS",
+					"es-MX": "Tarjeta VCT26 x FS",
+					"fr-FR": "Carte VCT26 x FS",
+					"id-ID": "Kartu VCT26 x FS",
+					"it-IT": "Carta VCT26 x FS",
+					"ja-JP": "VCT26 x FS カード",
+					"ko-KR": "VCT26 x FS 카드",
+					"pl-PL": "Karta „VCT26 x FS”",
+					"pt-BR": "Card VCT26 x FS",
+					"ru-RU": "Карточка \"VCT26 x FS\"",
+					"th-TH": "การ์ด VCT26 x FS",
+					"tr-TR": "VCT26 x FS Kartı",
+					"vi-VN": "Thẻ VCT26 x FS",
+					"zh-CN": "VCT26 x FS 卡面",
+					"zh-TW": "VCT26 x FS 玩家卡面"
+				}
+			}
+		},
+		{
 			"id": "CB621418-4865-017E-9EA6-B28C4860E0FC",
 			"label": "CB621418-4865-017E-9EA6-B28C4860E0FC",
 			"name":
@@ -236106,6 +237233,64 @@
 			}
 		},
 		{
+			"id": "5CA0A481-4323-6006-B5D4-9BA9E272C1F2",
+			"label": "5CA0A481-4323-6006-B5D4-9BA9E272C1F2",
+			"name":
+			{
+				"defaultText": "VCT26 x NV Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة VCT26 x NV",
+					"de-DE": "Banner „VCT26 x NV“",
+					"en-US": "VCT26 x NV Card",
+					"es-ES": "Tarjeta VCT26 x NV",
+					"es-MX": "Tarjeta VCT26 x NV",
+					"fr-FR": "Carte VCT26 x NV",
+					"id-ID": "Kartu VCT26 x NV",
+					"it-IT": "Carta VCT26 x NV",
+					"ja-JP": "VCT26 x NV カード",
+					"ko-KR": "VCT26 x NV 카드",
+					"pl-PL": "Karta „VCT26 x NV”",
+					"pt-BR": "Card VCT26 x NV",
+					"ru-RU": "Карточка \"VCT26 x NV\"",
+					"th-TH": "การ์ด VCT26 x NV",
+					"tr-TR": "VCT26 x NV Kartı",
+					"vi-VN": "Thẻ VCT26 x NV",
+					"zh-CN": "VCT26 x NV 卡面",
+					"zh-TW": "VCT26 x NV 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "9D981C7A-4D39-DFAD-0AF8-08851DC3477E",
+			"label": "9D981C7A-4D39-DFAD-0AF8-08851DC3477E",
+			"name":
+			{
+				"defaultText": "VCT26 x PCF Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة VCT26 x PCF",
+					"de-DE": "Banner „VCT26 x PCF“",
+					"en-US": "VCT26 x PCF Card",
+					"es-ES": "Tarjeta VCT26 x PCF",
+					"es-MX": "Tarjeta VCT26 x PCF",
+					"fr-FR": "Carte VCT26 x PCF",
+					"id-ID": "Kartu VCT26 x PCF",
+					"it-IT": "Carta VCT26 x PCF",
+					"ja-JP": "VCT26 x PCF カード",
+					"ko-KR": "VCT26 x PCF 카드",
+					"pl-PL": "Karta „VCT26 x PCF”",
+					"pt-BR": "Card VCT26 x PCF",
+					"ru-RU": "Карточка \"VCT26 x PCF\"",
+					"th-TH": "การ์ด VCT26 x PCF",
+					"tr-TR": "VCT26 x PCF Kartı",
+					"vi-VN": "Thẻ VCT26 x PCF",
+					"zh-CN": "VCT26 x PCF 卡面",
+					"zh-TW": "VCT26 x PCF 玩家卡面"
+				}
+			}
+		},
+		{
 			"id": "6BFB3FCA-49DC-E129-D85E-10A162DD4D3F",
 			"label": "6BFB3FCA-49DC-E129-D85E-10A162DD4D3F",
 			"name":
@@ -236421,6 +237606,35 @@
 					"vi-VN": "Thẻ VCT26 x VIT",
 					"zh-CN": "VCT26 x VIT 卡面",
 					"zh-TW": "VCT26 x VIT 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "1A108BEB-42D9-2DAA-D28C-1D956845E51A",
+			"label": "1A108BEB-42D9-2DAA-D28C-1D956845E51A",
+			"name":
+			{
+				"defaultText": "VCT26 x VL Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة VCT26 x VL",
+					"de-DE": "Banner „VCT26 x VL“",
+					"en-US": "VCT26 x VL Card",
+					"es-ES": "Tarjeta VCT26 x VL",
+					"es-MX": "Tarjeta VCT26 x VL",
+					"fr-FR": "Carte VCT26 x VL",
+					"id-ID": "Kartu VCT26 x VL",
+					"it-IT": "Carta VCT26 x VL",
+					"ja-JP": "VCT26 x VL カード",
+					"ko-KR": "VCT26 x VL 카드",
+					"pl-PL": "Karta „VCT26 x VL”",
+					"pt-BR": "Card VCT26 x VL",
+					"ru-RU": "Карточка \"VCT26 x VL\"",
+					"th-TH": "การ์ด VCT26 x VL",
+					"tr-TR": "VCT26 x VL Kartı",
+					"vi-VN": "Thẻ VCT26 x VL",
+					"zh-CN": "VCT26 x VL 卡面",
+					"zh-TW": "VCT26 x VL 玩家卡面"
 				}
 			}
 		},
@@ -245807,7 +247021,7 @@
 					"id-ID": "Aura",
 					"it-IT": "Aura",
 					"ja-JP": "オーラ",
-					"ko-KR": "오오라",
+					"ko-KR": "오라",
 					"pl-PL": "Aura",
 					"pt-BR": "Aura",
 					"ru-RU": "Аура",
@@ -245834,7 +247048,7 @@
 					"id-ID": "Gelar Aura",
 					"it-IT": "Titolo Aura",
 					"ja-JP": "オーラ タイトル",
-					"ko-KR": "오오라 칭호",
+					"ko-KR": "오라 칭호",
 					"pl-PL": "Tytuł „Aura”",
 					"pt-BR": "Título Aura",
 					"ru-RU": "Звание \"Аура\"",
@@ -246293,7 +247507,7 @@
 					"id-ID": "Aura Farming",
 					"it-IT": "Stile a bizzeffe",
 					"ja-JP": "オーラファーミング",
-					"ko-KR": "오오라 축적",
+					"ko-KR": "오라 축적",
 					"pl-PL": "Farma Aury",
 					"pt-BR": "Farmando Aura",
 					"ru-RU": "Аура фарминг",
@@ -246320,7 +247534,7 @@
 					"id-ID": "Gelar Aura Farming",
 					"it-IT": "Titolo Stile a bizzeffe",
 					"ja-JP": "オーラファーミング タイトル",
-					"ko-KR": "오오라 축적 칭호",
+					"ko-KR": "오라 축적 칭호",
 					"pl-PL": "Tytuł „Farma aury”",
 					"pt-BR": "Título Farmando Aura",
 					"ru-RU": "Звание \"Аура фарминг\"",
@@ -246828,7 +248042,7 @@
 					"de-DE": "Wub Wub",
 					"en-US": "Wub Wub",
 					"es-ES": "Chundachunda",
-					"es-MX": "Dub Groove",
+					"es-MX": "Electro Wub",
 					"fr-FR": "Wub Wub",
 					"id-ID": "Wub Wub",
 					"it-IT": "Tunz tunz",
@@ -246855,7 +248069,7 @@
 					"de-DE": "Titel „Wub Wub“",
 					"en-US": "Wub Wub Title",
 					"es-ES": "Título Chundachunda",
-					"es-MX": "Título Dub Groove",
+					"es-MX": "Título Electro Wub",
 					"fr-FR": "Titre Wub Wub",
 					"id-ID": "Gelar Wub Wub",
 					"it-IT": "Titolo Tunz tunz",
@@ -246882,7 +248096,7 @@
 					"de-DE": "Bassgesicht",
 					"en-US": "Bass Face",
 					"es-ES": "Amante de los graves",
-					"es-MX": "Bass Face",
+					"es-MX": "Amante de los Graves",
 					"fr-FR": "Basse dans ta face",
 					"id-ID": "Bass Face",
 					"it-IT": "Faccia da bassista",
@@ -246909,7 +248123,7 @@
 					"de-DE": "Titel „Bassgesicht“",
 					"en-US": "Bass Face Title",
 					"es-ES": "Título Amante de los graves",
-					"es-MX": "Título Bass Face",
+					"es-MX": "Título Amante de los Graves",
 					"fr-FR": "Titre Basse dans ta face",
 					"id-ID": "Gelar Bass Face",
 					"it-IT": "Titolo Faccia da bassista",
@@ -255249,7 +256463,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "ستة سبعة",
-					"de-DE": "Sechs sieben",
+					"de-DE": "6 7",
 					"en-US": "Six Seven",
 					"es-ES": "Seis, siete",
 					"es-MX": "Seis Siete",
@@ -255276,7 +256490,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "لقب ستة سبعة",
-					"de-DE": "Titel „Sechs sieben“",
+					"de-DE": "Titel „6 7“",
 					"en-US": "Six Seven Title",
 					"es-ES": "Título Seis, siete",
 					"es-MX": "Título Seis Siete",
@@ -304105,6 +305319,246 @@
 		{
 			"levels": [
 				{
+					"id": "4245C8EF-4084-ACEB-C14E-F0B6B324DBA5",
+					"label": "4245C8EF-4084-ACEB-C14E-F0B6B324DBA5",
+					"name":
+					{
+						"defaultText": "VCTCaps25_VCTCaps25_Base",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCTCaps25_VCTCaps25_Base",
+							"de-DE": "VCTCaps25_VCTCaps25_Base",
+							"en-US": "VCTCaps25_VCTCaps25_Base",
+							"es-ES": "VCTCaps25_VCTCaps25_Base",
+							"es-MX": "VCTCaps25_VCTCaps25_Base",
+							"fr-FR": "VCTCaps25_VCTCaps25_Base",
+							"id-ID": "VCTCaps25_VCTCaps25_Base",
+							"it-IT": "VCTCaps25_VCTCaps25_Base",
+							"ja-JP": "VCTCaps25_VCTCaps25_Base",
+							"ko-KR": "VCTCaps25_VCTCaps25_Base",
+							"pl-PL": "VCTCaps25_VCTCaps25_Base",
+							"pt-BR": "VCTCaps25_VCTCaps25_Base",
+							"ru-RU": "VCTCaps25_VCTCaps25_Base",
+							"th-TH": "VCTCaps25_VCTCaps25_Base",
+							"tr-TR": "VCTCaps25_VCTCaps25_Base",
+							"vi-VN": "VCTCaps25_VCTCaps25_Base",
+							"zh-CN": "VCTCaps25_VCTCaps25_Base",
+							"zh-TW": "VCTCaps25_VCTCaps25_Base"
+						}
+					}
+				}
+			],
+			"id": "1973FD6E-4CB1-1D51-2082-62B3D735CA9A",
+			"label": "1973FD6E-4CB1-1D51-2082-62B3D735CA9A",
+			"name":
+			{
+				"defaultText": "VCT x FS Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق VCT x FS",
+					"de-DE": "Talisman „VCT x FS“",
+					"en-US": "VCT x FS Buddy",
+					"es-ES": "Amuleto VCT x FS",
+					"es-MX": "Buddy VCT x FS",
+					"fr-FR": "Porte-bonheur VCT x FS",
+					"id-ID": "Buddy VCT x FS",
+					"it-IT": "Accessorio VCT x FS",
+					"ja-JP": "VCT x FS バディー",
+					"ko-KR": "VCT x FS 총기 장식",
+					"pl-PL": "Przywieszka „VCT x FS”",
+					"pt-BR": "Chaveiro VCT x FS",
+					"ru-RU": "Брелок \"VCT x FS\"",
+					"th-TH": "บัดดี้ VCT x FS",
+					"tr-TR": "VCT x FS Uğuru",
+					"vi-VN": "Phụ Kiện VCT x FS",
+					"zh-CN": "VCT x FS 挂饰",
+					"zh-TW": "VCT x FS 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "61AC2628-414B-D131-D547-189178D6472A",
+					"label": "61AC2628-414B-D131-D547-189178D6472A",
+					"name":
+					{
+						"defaultText": "VCTCaps25_VCTCaps25_Base",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCTCaps25_VCTCaps25_Base",
+							"de-DE": "VCTCaps25_VCTCaps25_Base",
+							"en-US": "VCTCaps25_VCTCaps25_Base",
+							"es-ES": "VCTCaps25_VCTCaps25_Base",
+							"es-MX": "VCTCaps25_VCTCaps25_Base",
+							"fr-FR": "VCTCaps25_VCTCaps25_Base",
+							"id-ID": "VCTCaps25_VCTCaps25_Base",
+							"it-IT": "VCTCaps25_VCTCaps25_Base",
+							"ja-JP": "VCTCaps25_VCTCaps25_Base",
+							"ko-KR": "VCTCaps25_VCTCaps25_Base",
+							"pl-PL": "VCTCaps25_VCTCaps25_Base",
+							"pt-BR": "VCTCaps25_VCTCaps25_Base",
+							"ru-RU": "VCTCaps25_VCTCaps25_Base",
+							"th-TH": "VCTCaps25_VCTCaps25_Base",
+							"tr-TR": "VCTCaps25_VCTCaps25_Base",
+							"vi-VN": "VCTCaps25_VCTCaps25_Base",
+							"zh-CN": "VCTCaps25_VCTCaps25_Base",
+							"zh-TW": "VCTCaps25_VCTCaps25_Base"
+						}
+					}
+				}
+			],
+			"id": "83ACE9B8-4182-1F6B-98A8-4485C20F8D59",
+			"label": "83ACE9B8-4182-1F6B-98A8-4485C20F8D59",
+			"name":
+			{
+				"defaultText": "VCT x NV Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق VCT x NV",
+					"de-DE": "Talisman „VCT x NV“",
+					"en-US": "VCT x NV Buddy",
+					"es-ES": "Amuleto VCT x NV",
+					"es-MX": "Buddy VCT x NV",
+					"fr-FR": "Porte-bonheur VCT x NV",
+					"id-ID": "Buddy VCT x NV",
+					"it-IT": "Accessorio VCT x NV",
+					"ja-JP": "VCT x NV バディー",
+					"ko-KR": "VCT x NV 총기 장식",
+					"pl-PL": "Przywieszka „VCT x NV”",
+					"pt-BR": "Chaveiro VCT x NV",
+					"ru-RU": "Брелок \"VCT x NV\"",
+					"th-TH": "บัดดี้ VCT x NV",
+					"tr-TR": "VCT x NV Uğuru",
+					"vi-VN": "Phụ Kiện VCT x NV",
+					"zh-CN": "VCT x NV 挂饰",
+					"zh-TW": "VCT x NV 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "694233D9-4BD3-DFEF-72B8-DE919AE9E392",
+					"label": "694233D9-4BD3-DFEF-72B8-DE919AE9E392",
+					"name":
+					{
+						"defaultText": "VCTCaps25_VCTCaps25_Base",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCTCaps25_VCTCaps25_Base",
+							"de-DE": "VCTCaps25_VCTCaps25_Base",
+							"en-US": "VCTCaps25_VCTCaps25_Base",
+							"es-ES": "VCTCaps25_VCTCaps25_Base",
+							"es-MX": "VCTCaps25_VCTCaps25_Base",
+							"fr-FR": "VCTCaps25_VCTCaps25_Base",
+							"id-ID": "VCTCaps25_VCTCaps25_Base",
+							"it-IT": "VCTCaps25_VCTCaps25_Base",
+							"ja-JP": "VCTCaps25_VCTCaps25_Base",
+							"ko-KR": "VCTCaps25_VCTCaps25_Base",
+							"pl-PL": "VCTCaps25_VCTCaps25_Base",
+							"pt-BR": "VCTCaps25_VCTCaps25_Base",
+							"ru-RU": "VCTCaps25_VCTCaps25_Base",
+							"th-TH": "VCTCaps25_VCTCaps25_Base",
+							"tr-TR": "VCTCaps25_VCTCaps25_Base",
+							"vi-VN": "VCTCaps25_VCTCaps25_Base",
+							"zh-CN": "VCTCaps25_VCTCaps25_Base",
+							"zh-TW": "VCTCaps25_VCTCaps25_Base"
+						}
+					}
+				}
+			],
+			"id": "D4E06267-4D8B-3DA9-6BF7-7F8C1884FBFF",
+			"label": "D4E06267-4D8B-3DA9-6BF7-7F8C1884FBFF",
+			"name":
+			{
+				"defaultText": "VCT x PCF Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق VCT x PCF",
+					"de-DE": "Talisman „VCT x PCF“",
+					"en-US": "VCT x PCF Buddy",
+					"es-ES": "Amuleto VCT x PCF",
+					"es-MX": "Buddy VCT x PCF",
+					"fr-FR": "Porte-bonheur VCT x PCF",
+					"id-ID": "Buddy VCT x PCF",
+					"it-IT": "Accessorio VCT x PCF",
+					"ja-JP": "VCT x PCF バディー",
+					"ko-KR": "VCT x PCF 총기 장식",
+					"pl-PL": "Przywieszka „VCT x PCF”",
+					"pt-BR": "Chaveiro VCT x PCF",
+					"ru-RU": "Брелок \"VCT x PCF\"",
+					"th-TH": "บัดดี้ VCT x PCF",
+					"tr-TR": "VCT x PCF Uğuru",
+					"vi-VN": "Phụ Kiện VCT x PCF",
+					"zh-CN": "VCT x PCF 挂饰",
+					"zh-TW": "VCT x PCF 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "C0694B09-41BD-3EB9-1513-608FB0B8B292",
+					"label": "C0694B09-41BD-3EB9-1513-608FB0B8B292",
+					"name":
+					{
+						"defaultText": "VCTCaps25_VCTCaps25_Base",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCTCaps25_VCTCaps25_Base",
+							"de-DE": "VCTCaps25_VCTCaps25_Base",
+							"en-US": "VCTCaps25_VCTCaps25_Base",
+							"es-ES": "VCTCaps25_VCTCaps25_Base",
+							"es-MX": "VCTCaps25_VCTCaps25_Base",
+							"fr-FR": "VCTCaps25_VCTCaps25_Base",
+							"id-ID": "VCTCaps25_VCTCaps25_Base",
+							"it-IT": "VCTCaps25_VCTCaps25_Base",
+							"ja-JP": "VCTCaps25_VCTCaps25_Base",
+							"ko-KR": "VCTCaps25_VCTCaps25_Base",
+							"pl-PL": "VCTCaps25_VCTCaps25_Base",
+							"pt-BR": "VCTCaps25_VCTCaps25_Base",
+							"ru-RU": "VCTCaps25_VCTCaps25_Base",
+							"th-TH": "VCTCaps25_VCTCaps25_Base",
+							"tr-TR": "VCTCaps25_VCTCaps25_Base",
+							"vi-VN": "VCTCaps25_VCTCaps25_Base",
+							"zh-CN": "VCTCaps25_VCTCaps25_Base",
+							"zh-TW": "VCTCaps25_VCTCaps25_Base"
+						}
+					}
+				}
+			],
+			"id": "75B3BE74-4E11-EE2D-D979-AD965D8122B9",
+			"label": "75B3BE74-4E11-EE2D-D979-AD965D8122B9",
+			"name":
+			{
+				"defaultText": "VCT x VL Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق VCT x VL",
+					"de-DE": "Talisman „VCT x VL“",
+					"en-US": "VCT x VL Buddy",
+					"es-ES": "Amuleto VCT x VL",
+					"es-MX": "Buddy VCT x VL",
+					"fr-FR": "Porte-bonheur VCT x VL",
+					"id-ID": "Buddy VCT x VL",
+					"it-IT": "Accessorio VCT x VL",
+					"ja-JP": "VCT x VL バディー",
+					"ko-KR": "VCT x VL 총기 장식",
+					"pl-PL": "Przywieszka „VCT x VL”",
+					"pt-BR": "Chaveiro VCT x VL",
+					"ru-RU": "Брелок \"VCT x VL\"",
+					"th-TH": "บัดดี้ VCT x VL",
+					"tr-TR": "VCT x VL Uğuru",
+					"vi-VN": "Phụ Kiện VCT x VL",
+					"zh-CN": "VCT x VL 挂饰",
+					"zh-TW": "VCT x VL 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "04C5B7DD-40A2-643E-B34F-3E88A533EA4E",
 					"label": "04C5B7DD-40A2-643E-B34F-3E88A533EA4E",
 					"name":
@@ -334807,7 +336261,7 @@
 					"de-DE": "Graffiti „Hoch die Hände“",
 					"en-US": "Put Your Hands Up Spray",
 					"es-ES": "Grafiti Arriba esas manos",
-					"es-MX": "Spray ¡Todos Juntos!",
+					"es-MX": "Spray ¡Manos al Aire!",
 					"fr-FR": "Graffiti Levez les mains",
 					"id-ID": "Spray Put Your Hands Up",
 					"it-IT": "Spray Su le mani",
@@ -334867,7 +336321,7 @@
 					"de-DE": "Graffiti „Spür den Rhythmus“",
 					"en-US": "Feel the Beat Spray",
 					"es-ES": "Grafiti Siente el ritmo",
-					"es-MX": "Spray Siente el Ritmo",
+					"es-MX": "Spray Siente el Beat",
 					"fr-FR": "Graffiti Sentez le rythme",
 					"id-ID": "Spray Feel the Beat",
 					"it-IT": "Spray Sentire il ritmo",
@@ -351608,7 +353062,7 @@
 					"en-US": "Scribble Lightspeed Spray",
 					"es-ES": "Grafiti Garabato de A la velocidad de la luz",
 					"es-MX": "Spray Supervelocidad Garabato",
-					"fr-FR": "Graffiti Gribouillage éclair",
+					"fr-FR": "Graffiti Gribouillage rapide",
 					"id-ID": "Spray Scribble Lightspeed",
 					"it-IT": "Spray Scarabocchio fulmineo",
 					"ja-JP": "らくがきライトスピード スプレー",
@@ -355527,6 +356981,246 @@
 		{
 			"levels": [
 				{
+					"id": "AB142C39-4538-A258-1EE1-37BF7382D28D",
+					"label": "AB142C39-4538-A258-1EE1-37BF7382D28D",
+					"name":
+					{
+						"defaultText": "VCTCaps26_FS",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCTCaps26_FS",
+							"de-DE": "VCTCaps26_FS",
+							"en-US": "VCTCaps26_FS",
+							"es-ES": "VCTCaps26_FS",
+							"es-MX": "VCTCaps26_FS",
+							"fr-FR": "VCTCaps26_FS",
+							"id-ID": "VCTCaps26_FS",
+							"it-IT": "VCTCaps26_FS",
+							"ja-JP": "VCTCaps26_FS",
+							"ko-KR": "VCTCaps26_FS",
+							"pl-PL": "VCTCaps26_FS",
+							"pt-BR": "VCTCaps26_FS",
+							"ru-RU": "VCTCaps26_FS",
+							"th-TH": "VCTCaps26_FS",
+							"tr-TR": "VCTCaps26_FS",
+							"vi-VN": "VCTCaps26_FS",
+							"zh-CN": "VCTCaps26_FS",
+							"zh-TW": "VCTCaps26_FS"
+						}
+					}
+				}
+			],
+			"id": "FFD0A77D-44F3-433A-632E-2BA1329B0699",
+			"label": "FFD0A77D-44F3-433A-632E-2BA1329B0699",
+			"name":
+			{
+				"defaultText": "VCT x FS Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة VCT x FS",
+					"de-DE": "Graffiti „VCT x FS“",
+					"en-US": "VCT x FS Spray",
+					"es-ES": "Grafiti VCT x FS",
+					"es-MX": "Spray VCT x FS",
+					"fr-FR": "Graffiti VCT x FS",
+					"id-ID": "Spray VCT x FS",
+					"it-IT": "Spray VCT x FS",
+					"ja-JP": "VCT x FS スプレー",
+					"ko-KR": "VCT x FS 스프레이",
+					"pl-PL": "Graffiti „VCT x FS”",
+					"pt-BR": "Spray VCT x FS",
+					"ru-RU": "Граффити \"VCT x FS\"",
+					"th-TH": "สเปรย์ VCT x FS",
+					"tr-TR": "VCT x FS Spreyi",
+					"vi-VN": "Hình Phun Sơn VCT x FS",
+					"zh-CN": "VCT x FS 喷漆",
+					"zh-TW": "VCT x FS 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "E3685F43-47E0-3BB6-C4CA-C68D4198D7D7",
+					"label": "E3685F43-47E0-3BB6-C4CA-C68D4198D7D7",
+					"name":
+					{
+						"defaultText": "VCTCaps26_NV",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCTCaps26_NV",
+							"de-DE": "VCTCaps26_NV",
+							"en-US": "VCTCaps26_NV",
+							"es-ES": "VCTCaps26_NV",
+							"es-MX": "VCTCaps26_NV",
+							"fr-FR": "VCTCaps26_NV",
+							"id-ID": "VCTCaps26_NV",
+							"it-IT": "VCTCaps26_NV",
+							"ja-JP": "VCTCaps26_NV",
+							"ko-KR": "VCTCaps26_NV",
+							"pl-PL": "VCTCaps26_NV",
+							"pt-BR": "VCTCaps26_NV",
+							"ru-RU": "VCTCaps26_NV",
+							"th-TH": "VCTCaps26_NV",
+							"tr-TR": "VCTCaps26_NV",
+							"vi-VN": "VCTCaps26_NV",
+							"zh-CN": "VCTCaps26_NV",
+							"zh-TW": "VCTCaps26_NV"
+						}
+					}
+				}
+			],
+			"id": "80EBCA64-46AA-CAF4-9817-47BC833D6754",
+			"label": "80EBCA64-46AA-CAF4-9817-47BC833D6754",
+			"name":
+			{
+				"defaultText": "VCT x NV Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة VCT x NV",
+					"de-DE": "Graffiti „VCT x NV“",
+					"en-US": "VCT x NV Spray",
+					"es-ES": "Grafiti VCT x NV",
+					"es-MX": "Spray VCT x NV",
+					"fr-FR": "Graffiti VCT x NV",
+					"id-ID": "Spray VCT x NV",
+					"it-IT": "Spray VCT x NV",
+					"ja-JP": "VCT x NV スプレー",
+					"ko-KR": "VCT x NV 스프레이",
+					"pl-PL": "Graffiti „VCT x NV”",
+					"pt-BR": "Spray VCT x NV",
+					"ru-RU": "Граффити \"VCT x NV\"",
+					"th-TH": "สเปรย์ VCT x NV",
+					"tr-TR": "VCT x NV Spreyi",
+					"vi-VN": "Hình Phun Sơn VCT x NV",
+					"zh-CN": "VCT x NV 喷漆",
+					"zh-TW": "VCT x NV 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "812EEDF5-40B1-82D3-EF54-438FD29F1726",
+					"label": "812EEDF5-40B1-82D3-EF54-438FD29F1726",
+					"name":
+					{
+						"defaultText": "VCTCaps26_PCF",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCTCaps26_PCF",
+							"de-DE": "VCTCaps26_PCF",
+							"en-US": "VCTCaps26_PCF",
+							"es-ES": "VCTCaps26_PCF",
+							"es-MX": "VCTCaps26_PCF",
+							"fr-FR": "VCTCaps26_PCF",
+							"id-ID": "VCTCaps26_PCF",
+							"it-IT": "VCTCaps26_PCF",
+							"ja-JP": "VCTCaps26_PCF",
+							"ko-KR": "VCTCaps26_PCF",
+							"pl-PL": "VCTCaps26_PCF",
+							"pt-BR": "VCTCaps26_PCF",
+							"ru-RU": "VCTCaps26_PCF",
+							"th-TH": "VCTCaps26_PCF",
+							"tr-TR": "VCTCaps26_PCF",
+							"vi-VN": "VCTCaps26_PCF",
+							"zh-CN": "VCTCaps26_PCF",
+							"zh-TW": "VCTCaps26_PCF"
+						}
+					}
+				}
+			],
+			"id": "A2D1EEE9-4ACB-020A-2E6A-16920B076020",
+			"label": "A2D1EEE9-4ACB-020A-2E6A-16920B076020",
+			"name":
+			{
+				"defaultText": "VCT x PCF Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة VCT x PCF",
+					"de-DE": "Graffiti „VCT x PCF“",
+					"en-US": "VCT x PCF Spray",
+					"es-ES": "Grafiti VCT x PCF",
+					"es-MX": "Spray VCT x PCF",
+					"fr-FR": "Graffiti VCT x PCF",
+					"id-ID": "Spray VCT x PCF",
+					"it-IT": "Spray VCT x PCF",
+					"ja-JP": "VCT x PCF スプレー",
+					"ko-KR": "VCT x PCF 스프레이",
+					"pl-PL": "Graffiti „VCT x PCF”",
+					"pt-BR": "Spray VCT x PCF",
+					"ru-RU": "Граффити \"VCT x PCF\"",
+					"th-TH": "สเปรย์ VCT x PCF",
+					"tr-TR": "VCT x PCF Spreyi",
+					"vi-VN": "Hình Phun Sơn VCT x PCF",
+					"zh-CN": "VCT x PCF 喷漆",
+					"zh-TW": "VCT x PCF 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "3165F6FD-4530-56D9-984F-AD81589BDA10",
+					"label": "3165F6FD-4530-56D9-984F-AD81589BDA10",
+					"name":
+					{
+						"defaultText": "VCTCaps26_VL",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCTCaps26_VL",
+							"de-DE": "VCTCaps26_VL",
+							"en-US": "VCTCaps26_VL",
+							"es-ES": "VCTCaps26_VL",
+							"es-MX": "VCTCaps26_VL",
+							"fr-FR": "VCTCaps26_VL",
+							"id-ID": "VCTCaps26_VL",
+							"it-IT": "VCTCaps26_VL",
+							"ja-JP": "VCTCaps26_VL",
+							"ko-KR": "VCTCaps26_VL",
+							"pl-PL": "VCTCaps26_VL",
+							"pt-BR": "VCTCaps26_VL",
+							"ru-RU": "VCTCaps26_VL",
+							"th-TH": "VCTCaps26_VL",
+							"tr-TR": "VCTCaps26_VL",
+							"vi-VN": "VCTCaps26_VL",
+							"zh-CN": "VCTCaps26_VL",
+							"zh-TW": "VCTCaps26_VL"
+						}
+					}
+				}
+			],
+			"id": "A70C6550-46F9-E1A1-5BA0-559FC29B2668",
+			"label": "A70C6550-46F9-E1A1-5BA0-559FC29B2668",
+			"name":
+			{
+				"defaultText": "VCT x VL Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة VCT x VL",
+					"de-DE": "Graffiti „VCT x VL“",
+					"en-US": "VCT x VL Spray",
+					"es-ES": "Grafiti VCT x VL",
+					"es-MX": "Spray VCT x VL",
+					"fr-FR": "Graffiti VCT x VL",
+					"id-ID": "Spray VCT x VL",
+					"it-IT": "Spray VCT x VL",
+					"ja-JP": "VCT x VL スプレー",
+					"ko-KR": "VCT x VL 스프레이",
+					"pl-PL": "Graffiti „VCT x VL”",
+					"pt-BR": "Spray VCT x VL",
+					"ru-RU": "Граффити \"VCT x VL\"",
+					"th-TH": "สเปรย์ VCT x VL",
+					"tr-TR": "VCT X VL Spreyi",
+					"vi-VN": "Hình Phun Sơn VCT x VL",
+					"zh-CN": "VCT x VL 喷漆",
+					"zh-TW": "VCT x VL 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "2DB70E75-4601-7480-9481-479C090B9FCA",
 					"label": "2DB70E75-4601-7480-9481-479C090B9FCA",
 					"name":
@@ -356755,7 +358449,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "ضربة قاضية",
-					"de-DE": "Voll auf die Zwölf",
+					"de-DE": "Knockout",
 					"en-US": "Knockout",
 					"es-ES": "Eliminación",
 					"es-MX": "Incursión",
@@ -357241,7 +358935,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "مناوشة",
-					"de-DE": "Geplänkel",
+					"de-DE": "Skirmish",
 					"en-US": "Skirmish",
 					"es-ES": "Escaramuza",
 					"es-MX": "Escaramuza",
@@ -359431,7 +361125,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "المناوشة: 2 ضد 2",
-					"de-DE": "Geplänkel: 2 gegen 2",
+					"de-DE": "Skirmish: 2vs2",
 					"en-US": "Skirmish: 2v2",
 					"es-ES": "Escaramuza: 2v2",
 					"es-MX": "Escaramuza: 2v2",
@@ -359701,7 +361395,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "ضربة قاضية",
-					"de-DE": "Voll auf die Zwölf",
+					"de-DE": "Knockout",
 					"en-US": "Knockout",
 					"es-ES": "Eliminación",
 					"es-MX": "Incursión",
@@ -360025,7 +361719,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "المناوشة: 2 ضد 2",
-					"de-DE": "Geplänkel: 2 gegen 2",
+					"de-DE": "Skirmish: 2vs2",
 					"en-US": "Skirmish: 2v2",
 					"es-ES": "Escaramuza: 2v2",
 					"es-MX": "Escaramuza: 2v2",
@@ -360133,7 +361827,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "ضربة قاضية",
-					"de-DE": "Voll auf die Zwölf",
+					"de-DE": "Knockout",
 					"en-US": "Knockout",
 					"es-ES": "Eliminación",
 					"es-MX": "Incursión",
