@@ -11,7 +11,9 @@ Don't forget that new patchs will be added right after their release on Riot Gam
 This repository will only regroup all patchs released after, and including, patch 3.00, because Riot didn't release any static data about the game before the 3.00 patch.
 
 ## Additional contents in this repository
-This repository don't store any addtional content.
+This repository contains some additional files, not included in Data Dragon :
+
+- Icons and logos of Valorant (pink and black versions)
 
 ## Unused contents in this repository
 This repository doesn't have any unused content in it.
