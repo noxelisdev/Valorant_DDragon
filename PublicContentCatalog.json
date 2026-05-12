@@ -1,5 +1,5 @@
 {
-	"version": "12.08.00.4578383",
+	"version": "12.09.00.4651524",
 	"characters": [
 		{
 			"description":
@@ -2379,27 +2379,27 @@
 				{
 					"description":
 					{
-						"defaultText": "EQUIP a Seeker trinket. FIRE to send out three Seekers to track down the three closest enemies. If a Seeker reaches its target, it Nearsights them. Enemies can destroy the Seekers.",
+						"defaultText": "EQUIP a Seeker trinket. FIRE to send out three Seekers to track down the three closest enemies. If a Seeker reaches its target, it Nearsights and slows them. Enemies can destroy the Seekers.",
 						"localizedByCulture":
 						{
-							"ar-AE": "تجهّز بحلية ملاحق. أطلق لإرسال ثلاثة ملاحقين يطاردون أقرب ثلاثة من الأعداء. عندما يبلغ أحد الملاحقين هدفه، يصيبه بتأثير ضعف البصر. يستطيع الأعداء تدمير الملاحقين.",
-							"de-DE": "RÜSTE einen „Rudel“-Anhänger AUS. FEUERE, um drei Sucher auf die drei nahegelegensten Gegner zu hetzen. Wenn ein Sucher sein Ziel findet, wird dessen Sicht eingeschränkt. Gegner können das Rudel zerstören.",
-							"en-US": "EQUIP a Seeker trinket. FIRE to send out three Seekers to track down the three closest enemies. If a Seeker reaches its target, it Nearsights them. Enemies can destroy the Seekers.",
-							"es-ES": "EQUIPA un amuleto de buscador. DISPARA para desplegar tres buscadores que localizan a los tres enemigos más cercanos. Si un buscador alcanza a su objetivo, limita su visión. Los enemigos pueden destruir a los Buscadores.",
-							"es-MX": "EQUIPA un artefacto de buscador. DISPARA para enviar a tres buscadores para rastrear a los tres enemigos más cercanos. Si un buscador alcanza su objetivo, lo ofusca. Los enemigos pueden destruir el buscador.",
-							"fr-FR": "ÉQUIPEZ-vous d'une breloque Traqueurs. TIREZ pour lancer trois traqueurs qui pourchasseront les trois ennemis les plus proches. Si un traqueur atteint sa cible, il réduit le champ de vision de celle-ci. Les ennemis peuvent détruire les traqueurs.",
-							"id-ID": "EQUIP hiasan Seeker. Tekan FIRE untuk mengeluarkan tiga Seeker untuk melacak tiga musuh terdekat. Jika mencapai targetnya, Seeker menerapkan Nearsight pada mereka. Musuh bisa menghancurkan Seeker.",
-							"it-IT": "EQUIPAGGIA un cercatore cristallizzato. Usa il FUOCO per inviare tre cercatori a inseguire i tre nemici più vicini. Se un cercatore raggiunge il suo bersaglio, lo ANNEBBIA. I nemici possono distruggere i cercatori.",
-							"ja-JP": "シーカートリンケットを構える。「発射」で3体のシーカーを放ち、最も近くにいる敵3体を追跡させる。シーカーがターゲットに到達すると、対象の視界を悪化させる。敵はシーカーを破壊可能。",
-							"ko-KR": "추적자 장신구를 장착합니다. 발사하면 추적자 셋을 보내 가장 가까운 적 셋을 쫓습니다. 추적자가 표적에 다다르면 해당 적의 시야를 제한합니다. 적이 추적자를 파괴할 수 있습니다.",
-							"pl-PL": "WYPOSAŻ błyskotkę Szperaczy. STRZEL, aby wysłać trzech Szperaczy, którzy wytropią trzech najbliższych wrogów. Trafienie wroga przez Szperacza wywoła krótkowzroczność. Wrogowie mogą go zniszczyć.",
-							"pt-BR": "EQUIPE um amuleto de Rastreador. DISPARE para enviar três Rastreadores que localizarão os três inimigos mais próximos. Se um Rastreador alcançar um alvo, ele causará Visão Turva a esse inimigo. Inimigos podem destruir os Rastreadores.",
-							"ru-RU": "Выбирает фигурку ищеек. Нажмите кнопку ОГОНЬ, чтобы вызвать троих ищеек, которые выслеживают ближайших противников. Ищейка ограничивает обзор у найденной цели. Враги могут уничтожить ищеек.",
-							"th-TH": "ติดตั้งเครื่องประดับ Seeker กดยิงเพื่อส่ง Seeker ออกไปสามตัวและล่าตำแหน่งของศัตรูสามคนที่อยู่ใกล้ที่สุด เมื่อถึงตัวเป้าหมาย Seeker จะจำกัดการมองเห็นของศัตรูทันที ศัตรูสามารถทำลาย Seeker ได้",
-							"tr-TR": "Bir İzsüren figürü KUŞAN. En yakındaki üç düşmanın peşine düşecek üç tane İzsüren göndermek için ATEŞ ET. Bir İzsüren hedefine ulaştığında, hedefin Görüşünü Kısıtlar. Düşmanlar İzsürenleri yok edebilir.",
-							"vi-VN": "TRANG BỊ 1 lưu vật Tinh Linh Dò Đường. BẮN để giải phóng 3 Tinh Linh Dò Đường có khả năng truy đuổi 3 kẻ địch gần nhất. Khi trúng vào kẻ địch, Tinh Linh Dò Đường sẽ khiến đối thủ bị Hạn Chế Tầm Nhìn. Kẻ địch có thể phá hủy Tinh Linh Dò Đường.",
-							"zh-CN": "装备追猎者雕饰。按【射击】即可派出三个追猎之灵，对三名距离最近的敌人进行追踪。如果追猎之灵接触到目标，即可使其【视野收缩】。追猎之灵可被敌人摧毁。",
-							"zh-TW": "裝備一個追獵精靈雕飾。點擊「攻擊」，即可放出三隻精靈，追獵三名距離最近的敵軍。精靈觸及目標時會使其視野受到限制。敵軍可破壞追獵精靈。"
+							"ar-AE": "تجهّز بحلية ملاحق. أطلق لإرسال ثلاثة ملاحقين يطاردون أقرب ثلاثة من الأعداء. عندما يبلغ أحد الملاحقين هدفه، يصيبه بتأثير ضعف البصر ويبطئه. يستطيع الأعداء تدمير الملاحقين.",
+							"de-DE": "RÜSTE einen „Rudel“-Anhänger AUS. FEUERE, um drei Sucher auf die drei nahegelegensten Gegner zu hetzen. Wenn ein Sucher sein Ziel findet, wird die Sicht des Ziels eingeschränkt und es verlangsamt. Gegner können die Sucher zerstören.",
+							"en-US": "EQUIP a Seeker trinket. FIRE to send out three Seekers to track down the three closest enemies. If a Seeker reaches its target, it Nearsights and slows them. Enemies can destroy the Seekers.",
+							"es-ES": "EQUIPA un amuleto de buscador. DISPARA para desplegar tres buscadores que localizan a los tres enemigos más cercanos. Si un buscador alcanza a su objetivo, limita su visión y lo ralentiza. Los enemigos pueden destruir a los buscadores.",
+							"es-MX": "EQUIPA un artefacto de buscador. DISPARA para enviar a tres buscadores para rastrear a los tres enemigos más cercanos. Si un buscador alcanza su objetivo, lo ofusca y lo ralentiza. Los enemigos pueden destruir el buscador.",
+							"fr-FR": "ÉQUIPEZ-vous d'une breloque Traqueurs. TIREZ pour lancer trois traqueurs qui pourchasseront les trois ennemis les plus proches. Si un traqueur atteint sa cible, il réduit le champ de vision de celle-ci et la ralentit. Les ennemis peuvent détruire les traqueurs.",
+							"id-ID": "EQUIP trinket Seeker. Tekan FIRE untuk mengeluarkan tiga Seeker untuk melacak tiga musuh terdekat. Jika mencapai target, Seeker menerapkan Nearsight dan slow pada mereka. Musuh bisa menghancurkan Seeker.",
+							"it-IT": "EQUIPAGGIA un cercatore cristallizzato. Usa il FUOCO per inviare tre cercatori a inseguire i tre nemici più vicini. Se un cercatore raggiunge il suo bersaglio, lo ANNEBBIA e lo rallenta. I nemici possono distruggere i cercatori.",
+							"ja-JP": "シーカートリンケットを構える。「発射」で3体のシーカーを放ち、最も近くにいる敵3体を追跡させる。シーカーがターゲットに到達すると、対象の視界を悪化させてスロウ状態にする。敵はシーカーを破壊可能。",
+							"ko-KR": "추적자 장신구를 장착합니다. 발사하면 추적자 셋을 보내 가장 가까운 적 셋을 쫓습니다. 추적자가 표적에 다다르면 해당 적의 시야를 제한하고 둔화시킵니다. 적이 추적자를 파괴할 수 있습니다.",
+							"pl-PL": "WYPOSAŻ błyskotkę Szperaczy. STRZEL, aby wysłać trzech Szperaczy, którzy wytropią trzech najbliższych wrogów. Trafienie wroga przez Szperacza wywoła krótkowzroczność i spowolni cel. Wrogowie mogą zniszczyć Szperacze.",
+							"pt-BR": "EQUIPE um amuleto de Rastreador. DISPARE para enviar três Rastreadores que localizarão os três inimigos mais próximos. Se um Rastreador alcançar o alvo, causará Visão Turva e Lentidão a esse inimigo. Inimigos podem destruir os Rastreadores.",
+							"ru-RU": "Выбирает фигурку ищеек. Нажмите кнопку ОГОНЬ, чтобы вызвать трех ищеек, которые выслеживают ближайших противников. Ищейка ограничивает обзор у найденной цели и замедляет ее. Враги могут уничтожить ищеек.",
+							"th-TH": "ติดตั้งเครื่องประดับ Seeker กดยิงเพื่อส่ง Seeker ออกไปสามตัวและล่าตำแหน่งของศัตรูสามคนที่อยู่ใกล้ที่สุด เมื่อถึงตัวเป้าหมาย Seeker จะจำกัดการมองเห็นและสโลว์ศัตรู ศัตรูสามารถทำลาย Seeker ได้",
+							"tr-TR": "Bir İzsüren figürü KUŞAN. En yakındaki üç düşmanın peşine düşecek üç tane İzsüren göndermek için ATEŞ ET. Bir İzsüren hedefine ulaştığında, hedefin Görüşünü Kısıtlar ve onu yavaşlatır. Düşmanlar İzsürenleri yok edebilir.",
+							"vi-VN": "TRANG BỊ 1 lưu vật Tinh Linh Dò Đường. BẮN để giải phóng 3 Tinh Linh Dò Đường có khả năng truy đuổi 3 kẻ địch gần nhất. Khi trúng vào kẻ địch, Tinh Linh Dò Đường sẽ khiến đối thủ bị Hạn Chế Tầm Nhìn và bị làm chậm. Kẻ địch có thể phá hủy Tinh Linh Dò Đường.",
+							"zh-CN": "装备追猎者雕饰。按【射击】即可派出三个追猎之灵，对三名距离最近的敌人进行追踪。如果追猎之灵接触到目标，即可使其【视野收缩】和【减速】。追猎之灵可被敌人摧毁。",
+							"zh-TW": "裝備一款追獵精靈雕飾。點擊「攻擊」，即可放出三隻精靈，追獵三名距離最近的敵軍。精靈觸及目標時，會限制其視野並使其緩速。敵軍可破壞追獵精靈。"
 						}
 					},
 					"label": "6F2A04CA-43E0-BE17-7F36-B3908627744D_Ultimate",
@@ -3198,27 +3198,27 @@
 				{
 					"description":
 					{
-						"defaultText": "EQUIP Harmonize. Target an ally and FIRE to activate a Combat Stim on yourself and the ally that refreshes with each kill. ALT-FIRE to grant Combat Stim to yourself.",
+						"defaultText": "EQUIP Harmonize. Target an ally and FIRE to activate a Combat Stim and a speed boost on yourself and the ally that refreshes with each kill. ALT-FIRE to grant Combat Stim and speed boost to yourself.",
 						"localizedByCulture":
 						{
-							"ar-AE": "تجهّز بقدرة التناغم. استهدف حليفًا واضغط على زر الإطلاق لتفعيل محفز قتال على نفسك والحليف يتجدد مع كل عملية قتل. اضغط على زر الإطلاق البديل لمنح نفسك محفز قتال.",
-							"de-DE": "RÜSTE „Harmonisieren“ AUS. Ziele auf einen Verbündeten und FEUERE, um bei dir und deinem Verbündeten einen Kampf-Stim zu aktivieren, der bei jedem Kill erneuert wird. ALT. FEUERMODUS, um dir selbst einen Kampf-Stim zu verleihen.",
-							"en-US": "EQUIP Harmonize. Target an ally and FIRE to activate a Combat Stim on yourself and the ally that refreshes with each kill. ALT-FIRE to grant Combat Stim to yourself.",
-							"es-ES": "EQUIPA Armonizar Selecciona a un aliado y DISPARA para otorgaros un estimulante de combate que se reinicia con cada asesinato. Utiliza el DISPARO ALTERNATIVO para otorgarte el estimulante de combate.",
-							"es-MX": "EQUIPA la habilidad Armonía. Apunta a un aliado y DISPARA para aplicarte a ti y a tu compañero un potenciador de combate que se restablece con cada asesinato. Presiona DISPARO SECUNDARIO para que el efecto del potenciador de combate se aplique solo a ti.",
-							"fr-FR": "ÉQUIPEZ Harmonisation. Visez un allié et TIREZ pour activer un Stimulant de combat sur vous-même et l'allié. Ce Stimulant se réinitialise à chaque élimination. Utilisez le TIR SECONDAIRE pour accorder le Stimulant uniquement à vous-même.",
-							"id-ID": "EQUIP Harmonize. Bidik sekutu lalu Tekan FIRE untuk mengaktifkan Combat Stim pada diri sendiri dan sekutu. Efeknya akan diperbarui setiap kali mendapat kill. Tekan ALT FIRE untuk memberikan Combat Stim pada diri sendiri.",
-							"it-IT": "EQUIPAGGIA Armonizzazione. Prendi di mira un alleato e usa il FUOCO per attivare un effetto ENERGIZZANTE su di te e sull'alleato che si rinnova a ogni uccisione. Usa il FUOCO ALTERNATIVO per applicare l'effetto ENERGIZZANTE su di te.",
-							"ja-JP": "ハーモナイズを構える。味方に狙いをつけて「発射」で、自分と味方がバトルスティムを獲得する。この効果はキルするたびに更新される。「オルト射撃」で自分自身がバトルスティムを獲得する。",
-							"ko-KR": "화음을 장착합니다. 아군 한 명을 조준하고 발사하면 자신과 해당 아군에게 전투 자극제 효과를 활성화합니다. 적을 처치하면 지속시간이 초기화됩니다. 보조 공격 시 자신에게 전투 자극제를 부여합니다.",
-							"pl-PL": "WYPOSAŻ Harmonizację. Namierz sojusznika i STRZEL, by aktywować stymulant bitewny na sobie i sojuszniku, który odnawia się przy każdym zabójstwie. ALT. STRZAŁ, by przyznać stymulant bitewny sobie.",
-							"pt-BR": "EQUIPE Harmonia. Mire em um aliado e DISPARE para ativar um Estimulante de Combate em você e no aliado que é renovado a cada abate. O DISPARO ALTERNATIVO concede Estimulante de Combate para você.",
-							"ru-RU": "Выбирает \"Созвучие\". Нацельтесь на союзника и нажмите кнопку ОГОНЬ, чтобы активировать боевой стимулятор для себя и союзника. Эффект стимулятора обновляется после каждого убийства. Нажмите кнопку АЛЬТ. ОГОНЬ, чтобы активировать боевой стимулятор для себя.",
-							"th-TH": "ติดตั้ง Harmonize เล็งเป้าไปที่เพื่อนร่วมทีมแล้วกดยิงเพื่อเปิดใช้งาน Combat Stim ให้กับตัวเองและเพื่อนร่วมทีม ซึ่งจะรีเฟรชทุกครั้งที่ฆ่าได้ กดโหมดยิงเสริมเพื่อมอบ Combat Stim ให้กับตัวเอง",
-							"tr-TR": "Armoni'yi KUŞAN. Bir takım arkadaşını hedef alarak ATEŞ ET ve hem kendine hem de hedeflediğin takım arkadaşına her öldürmeyle yenilenen bir Kuvvetli Savaş etkisi uygula. ALT. ATIŞ ile Kuvvetli Savaş etkisini kendine uygulayabilirsin.",
-							"vi-VN": "TRANG BỊ Hòa Âm. Nhắm vào một đồng minh và BẮN để kích hoạt Khuấy Động Giao Tranh lên bản thân và đồng minh đó, hiệu ứng sẽ được làm mới sau mỗi lần hạ gục. BẮN PHỤ để Khuấy Động Giao Tranh cho bản thân.",
-							"zh-CN": "装备共振谐律。锁定一名队友并按下【射击】，为你和该队友激活【作战强化】效果，每次击败都会刷新效果。按【辅助射击】让自己获得【作战强化】效果。",
-							"zh-TW": "裝備「調和」。瞄準一名友軍點擊「攻擊」，賦予自身和該友軍「激發戰意」增益，效果會在每次擊殺後重置。點擊「輔助攻擊」賦予自身「激發戰意」。"
+							"ar-AE": "تجهّز بقدرة التناغم. استهدف حليفًا واضغط على زر الإطلاق لتفعيل محفز قتال ومعزز سرعة على نفسك والحليف يتجدد مع كل عملية قتل. اضغط على زر الإطلاق البديل لمنح نفسك محفز قتال ومعزز سرعة.",
+							"de-DE": "RÜSTE „Harmonisieren“ AUS. Ziele auf einen Verbündeten und FEUERE, um bei dir und deinem Verbündeten einen Kampf-Stim und einen Geschwindigkeitsschub zu aktivieren, der bei jedem Kill erneuert wird. ALT. FEUERMODUS, um dir selbst einen Kampf-Stim und einen Geschwindigkeitsschub zu verleihen.",
+							"en-US": "EQUIP Harmonize. Target an ally and FIRE to activate a Combat Stim and a speed boost on yourself and the ally that refreshes with each kill. ALT-FIRE to grant Combat Stim and speed boost to yourself.",
+							"es-ES": "EQUIPA Armonizar. Selecciona a un aliado y DISPARA para otorgaros un estimulante de combate y un aumento de velocidad que se reinician con cada asesinato. Utiliza el DISPARO ALTERNATIVO para otorgarte el estimulante de combate y un aumento de velocidad.",
+							"es-MX": "EQUIPA la habilidad Armonía. Apunta a un aliado y DISPARA para aplicar a ti y a tu compañero un potenciador de combate y un aumento de velocidad; el efecto se restablece con cada asesinato. Presiona DISPARO SECUNDARIO para aplicarte un potenciador de combate y un aumento de velocidad.",
+							"fr-FR": "ÉQUIPEZ Harmonisation. Visez un allié et TIREZ pour activer un Stimulant de combat et un bonus de vitesse sur vous-même et l'allié. Ce Stimulant se réinitialise à chaque élimination. Utilisez le TIR SECONDAIRE pour accorder le Stimulant et le bonus de vitesse uniquement à vous-même.",
+							"id-ID": "EQUIP Harmonize. Bidik sekutu, lalu Tekan FIRE untuk mengaktifkan Combat Stim dan peningkatan kecepatan pada diri sendiri dan sekutu. Efeknya akan diperbarui setiap kali mendapat kill. Tekan ALT-FIRE untuk memberikan Combat Stim dan peningkatan kecepatan pada dirimu sendiri.",
+							"it-IT": "EQUIPAGGIA Armonizzazione. Prendi di mira un alleato e usa il FUOCO per attivare un effetto ENERGIZZANTE e un aumento di velocità su di te e sull'alleato che si rinnovano a ogni uccisione. Usa il FUOCO ALTERNATIVO per applicare l'effetto ENERGIZZANTE e l'aumento di velocità su di te.",
+							"ja-JP": "ハーモナイズを構える。味方に狙いをつけて「発射」で、自分と味方がバトルスティムとスピードブーストを獲得する。この効果はキルするたびに更新される。「オルト射撃」で自分自身がバトルスティムとスピードブーストを獲得する。",
+							"ko-KR": "화음을 장착합니다. 아군 한 명을 조준하고 발사하면 자신과 해당 아군에게 전투 자극제 및 속도 상승 효과를 활성화합니다. 적을 처치하면 지속시간이 초기화됩니다. 보조 공격 시 자신에게 전투 자극제 및 속도 상승 효과를 부여합니다.",
+							"pl-PL": "WYPOSAŻ Harmonizację. Namierz sojusznika i STRZEL, by aktywować stymulant bitewny oraz premię szybkości na sobie i sojuszniku, których efekty odnawiają się przy każdym zabójstwie. ALT. STRZAŁ, by przyznać sobie stymulant bitewny i premię szybkości.",
+							"pt-BR": "EQUIPE Harmonia. Mire em um aliado e DISPARE para ativar um Estimulante de Combate e um impulso de velocidade em você e no aliado. O efeito renova-se a cada abate. O DISPARO ALTERNATIVO concede Estimulante de Combate e impulso de velocidade para você.",
+							"ru-RU": "Выбирает \"Созвучие\". Нацельтесь на союзника и нажмите кнопку ОГОНЬ, чтобы активировать боевой стимулятор и повысить скорость для себя и союзника. Эффект обновляется после каждого убийства. Нажмите кнопку АЛЬТ. ОГОНЬ, чтобы активировать боевой стимулятор и повысить скорость для себя.",
+							"th-TH": "ติดตั้ง Harmonize เล็งเป้าไปที่เพื่อนร่วมทีมแล้วกดยิงเพื่อเปิดใช้งาน Combat Stim และเพิ่มความเร็วให้กับตัวเองและเพื่อนร่วมทีม ซึ่งจะรีเฟรชทุกครั้งที่ฆ่าได้ กดโหมดยิงเสริมเพื่อมอบ Combat Stim และเพิ่มความเร็วให้กับตัวเอง",
+							"tr-TR": "Armoni'yi KUŞAN. Bir takım arkadaşını hedef alarak ATEŞ ET ve hem kendine hem de hedeflediğin takım arkadaşına her öldürmeyle yenilenen bir Kuvvetli Savaş etkisi ve hız artışı sağla. Kendine Kuvvetli Savaş etkisi ve hız artışı sağlamak için ALT. ATIŞ kullan.",
+							"vi-VN": "TRANG BỊ Hòa Âm. Nhắm vào một đồng minh và BẮN để kích hoạt Khuấy Động Giao Tranh & tăng tốc lên bản thân và đồng minh đó, hiệu ứng sẽ được làm mới sau mỗi lần hạ gục. BẮN PHỤ để tự kích hoạt Khuấy Động Giao Tranh và tăng tốc cho bản thân.",
+							"zh-CN": "装备共振谐律。锁定一名队友并按下【射击】，为你和该队友激活【作战强化】效果和速度加成，每次击败都会刷新效果。按【辅助射击】让自己获得【作战强化】效果和速度加成。",
+							"zh-TW": "裝備「調和」。瞄準一名友軍點擊「攻擊」，賦予自身和該友軍「激發戰意」增益和速度加成，效果會在每次擊殺後重置。點擊「輔助攻擊」賦予自己「激發戰意」增益和速度加成。"
 						}
 					},
 					"label": "7C8A4701-4DE6-9355-B254-E09BC2A34B72_Ability1",
@@ -4624,7 +4624,7 @@
 							"de-DE": "RÜSTE eine Fackelkugel AUS, die eine bogenförmige Flugbahn hat und kurz nach dem Schleudern explodiert. FEUERE, um die Fackelkugel in einem Bogen nach links zu schleudern. Wenn sie explodiert, blendet sie jeden Spieler, der die Explosion gesehen hat. ALT. FEUERMODUS, um die Fackelkugel in einem Bogen nach rechts zu schleudern. „Fieser Wurf“ lädt eine Aufladung nach zwei Kills auf.",
 							"en-US": "EQUIP a flare orb that takes a curving path and detonates shortly after throwing. FIRE to curve the flare orb to the left, detonating and Blinding any player who sees the orb. ALT FIRE to curve the flare orb to the right. Curveball resets a charge every two kills.",
 							"es-ES": "EQUIPA un orbe fulgurante que dibuja una trayectoria curva y explota poco después de haberlo lanzado. DISPARA para lanzar el orbe fulgurante hacia la izquierda, lo que hará que detone y ciegue a cualquier jugador que lo vea. Utiliza el DISPARO ALTERNATIVO para lanzar el orbe fulgurante hacia la derecha. Bola curva reinicia una carga cada dos asesinatos.",
-							"es-MX": "EQUIPA un orbe brillante que avanza en trayectoria curva y se detona poco después de haberlo lanzado. DISPARA para curvar la trayectoria del orbe hacia la izquierda. Este detonará y cegará a cualquiera que lo vea. Usa el DISPARO SECUNDARIO para curvar su trayectoria hacia la derecha. DESTELLO EN CURVA se restablece cada dos asesinatos.",
+							"es-MX": "EQUIPA un orbe brillante que avanza en trayectoria curva y detona poco después de haberlo lanzado. DISPARA para curvar la trayectoria del orbe hacia la izquierda. Este detonará y cegará a cualquiera que lo vea. Usa el DISPARO SECUNDARIO para curvar su trayectoria hacia la derecha. DESTELLO EN CURVA se restablece cada dos asesinatos.",
 							"fr-FR": "ÉQUIPEZ-vous d'un orbe flamboyant qui explose peu après avoir été lancé, aveuglant tous les joueurs qui le regardent. TIREZ pour courber la trajectoire de l'orbe vers la gauche. Utilisez le TIR SECONDAIRE pour courber la trajectoire de l'orbe vers la droite. Vous regagnez une charge de Balle courbe toutes les deux éliminations.",
 							"id-ID": "EQUIP flare orb berjalur lengkung yang meledak sesaat setelah dilempar. Tekan FIRE untuk melengkungkan flare orb ke kiri, meledakkannya, dan menerapkan utilitas Blind ke pemain mana pun yang melihat orb. Tekan ALT FIRE untuk melengkungkan flare orb ke kanan. Curveball mereset charge tiap dua kill.",
 							"it-IT": "EQUIPAGGIA una sfera incandescente che segue una traiettoria curva ed esplode in una luce accecante poco dopo il lancio. Usa il FUOCO per curvare la traiettoria a sinistra, facendo esplodere la sfera e ACCECANDO i giocatori che la vedono. Usa il FUOCO ALTERNATIVO per curvare la traiettoria a destra. Ripristina una carica di Dardo abbagliante ogni due uccisioni.",
@@ -8905,7 +8905,7 @@
 				"runSpeedMultiplier": 0.75,
 				"equipTimeSeconds": 1,
 				"reloadTimeSeconds": 2.2000000476837158,
-				"firstBulletAccuracy": 2.25,
+				"firstBulletAccuracy": 2.5,
 				"shotgunPelletCount": 12,
 				"wallPenetration": "Low",
 				"damageRanges": [
@@ -8990,16 +8990,16 @@
 				"runSpeedMultiplier": 0.75,
 				"equipTimeSeconds": 1,
 				"reloadTimeSeconds": 2.5,
-				"firstBulletAccuracy": 2.5999999046325684,
+				"firstBulletAccuracy": 3,
 				"shotgunPelletCount": 15,
 				"wallPenetration": "Low",
 				"damageRanges": [
 					{
 						"rangeStartMeters": 0,
 						"rangeEndMeters": 8,
-						"headDamage": 40,
-						"bodyDamage": 20,
-						"legDamage": 17
+						"headDamage": 34,
+						"bodyDamage": 17,
+						"legDamage": 14
 					},
 					{
 						"rangeStartMeters": 8,
@@ -9467,7 +9467,7 @@
 			"stats":
 			{
 				"fireMode": "SemiAutomatic",
-				"fireRate": 3.3299999237060547,
+				"fireRate": 3,
 				"magazineSize": 2,
 				"runSpeedMultiplier": 0.80000001192092896,
 				"equipTimeSeconds": 0.75,
@@ -48674,7 +48674,7 @@
 							"pt-BR": "Phantom VALORANT GO! Vol. 1",
 							"ru-RU": "Phantom \"VALORANT GO! Вып. 1\"",
 							"th-TH": "VALORANT GO! Vol. 1 Phantom",
-							"tr-TR": "VALORANT GO! 1. CİLT PHANTOM",
+							"tr-TR": "VALORANT GO! 1. Cilt Phantom",
 							"vi-VN": "Phantom VALORANT GO! Vol. 1",
 							"zh-CN": "无畏契约GO！第一卷 幻影",
 							"zh-TW": "特戰英豪 GO！第1集 幻象"
@@ -48705,7 +48705,7 @@
 							"pt-BR": "Phantom VALORANT GO! Vol. 1",
 							"ru-RU": "Phantom \"VALORANT GO! Вып. 1\"",
 							"th-TH": "VALORANT GO! Vol. 1 Phantom",
-							"tr-TR": "VALORANT GO! 1. CİLT PHANTOM",
+							"tr-TR": "VALORANT GO! 1. Cilt Phantom",
 							"vi-VN": "Phantom VALORANT GO! Vol. 1",
 							"zh-CN": "无畏契约GO！第一卷 幻影",
 							"zh-TW": "特戰英豪 GO！第1集 幻象"
@@ -48734,7 +48734,7 @@
 					"pt-BR": "Phantom VALORANT GO! Vol. 1",
 					"ru-RU": "Phantom \"VALORANT GO! Вып. 1\"",
 					"th-TH": "VALORANT GO! Vol. 1 Phantom",
-					"tr-TR": "VALORANT GO! 1. CİLT PHANTOM",
+					"tr-TR": "VALORANT GO! 1. Cilt Phantom",
 					"vi-VN": "Phantom VALORANT GO! Vol. 1",
 					"zh-CN": "无畏契约GO！第一卷 幻影",
 					"zh-TW": "特戰英豪 GO！第1集 幻象"
@@ -115773,7 +115773,7 @@
 							"pt-BR": "Ghost VALORANT GO! Vol. 1 ",
 							"ru-RU": "Ghost \"VALORANT GO! Вып. 1\"",
 							"th-TH": "VALORANT GO! Vol. 1 Ghost",
-							"tr-TR": "VALORANT GO! 1. CİLT GHOST",
+							"tr-TR": "VALORANT GO! 1. Cilt Ghost",
 							"vi-VN": "Ghost VALORANT GO! Vol.1",
 							"zh-CN": "无畏契约GO！第一卷 鬼魅",
 							"zh-TW": "特戰英豪 GO！第1集 鬼魅"
@@ -115804,7 +115804,7 @@
 							"pt-BR": "Ghost VALORANT GO! Vol. 1 ",
 							"ru-RU": "Ghost \"VALORANT GO! Вып. 1\"",
 							"th-TH": "VALORANT GO! Vol. 1 Ghost",
-							"tr-TR": "VALORANT GO! 1. CİLT GHOST",
+							"tr-TR": "VALORANT GO! 1. Cilt Ghost",
 							"vi-VN": "Ghost VALORANT GO! Vol.1",
 							"zh-CN": "无畏契约GO！第一卷 鬼魅",
 							"zh-TW": "特戰英豪 GO！第1集 鬼魅"
@@ -115833,7 +115833,7 @@
 					"pt-BR": "Ghost VALORANT GO! Vol. 1 ",
 					"ru-RU": "Ghost \"VALORANT GO! Вып. 1\"",
 					"th-TH": "VALORANT GO! Vol. 1 Ghost",
-					"tr-TR": "VALORANT GO! 1. CİLT GHOST",
+					"tr-TR": "VALORANT GO! 1. Cilt Ghost",
 					"vi-VN": "Ghost VALORANT GO! Vol.1",
 					"zh-CN": "无畏契约GO！第一卷 鬼魅",
 					"zh-TW": "特戰英豪 GO！第1集 鬼魅"
@@ -151356,7 +151356,7 @@
 							"pt-BR": "Guardian VALORANT GO! Vol. 1 ",
 							"ru-RU": "Guardian \"VALORANT GO! Вып. 1\"",
 							"th-TH": "VALORANT GO! Vol. 1 Guardian",
-							"tr-TR": "VALORANT GO! 1. CİLT GUARDIAN",
+							"tr-TR": "VALORANT GO! 1. Cilt Guardian",
 							"vi-VN": "Guardian VALORANT GO! Vol. 1",
 							"zh-CN": "无畏契约GO！第一卷 戍卫",
 							"zh-TW": "特戰英豪 GO！第1集 捍衛者"
@@ -151387,7 +151387,7 @@
 							"pt-BR": "Guardian VALORANT GO! Vol. 1 ",
 							"ru-RU": "Guardian \"VALORANT GO! Вып. 1\"",
 							"th-TH": "VALORANT GO! Vol. 1 Guardian",
-							"tr-TR": "VALORANT GO! 1. CİLT GUARDIAN",
+							"tr-TR": "VALORANT GO! 1. Cilt Guardian",
 							"vi-VN": "Guardian VALORANT GO! Vol. 1",
 							"zh-CN": "无畏契约GO！第一卷 戍卫",
 							"zh-TW": "特戰英豪 GO！第1集 捍衛者"
@@ -151416,7 +151416,7 @@
 					"pt-BR": "Guardian VALORANT GO! Vol. 1 ",
 					"ru-RU": "Guardian \"VALORANT GO! Вып. 1\"",
 					"th-TH": "VALORANT GO! Vol. 1 Guardian",
-					"tr-TR": "VALORANT GO! 1. CİLT GUARDIAN",
+					"tr-TR": "VALORANT GO! 1. Cilt Guardian",
 					"vi-VN": "Guardian VALORANT GO! Vol. 1",
 					"zh-CN": "无畏契约GO！第一卷 戍卫",
 					"zh-TW": "特戰英豪 GO！第1集 捍衛者"
@@ -171347,7 +171347,7 @@
 							"pt-BR": "Spectre VALORANT GO! Vol. 1",
 							"ru-RU": "Spectre \"VALORANT GO! Вып. 1\"",
 							"th-TH": "VALORANT GO! Vol. 1 Spectre",
-							"tr-TR": "VALORANT GO! 1. CİLT SPECTRE",
+							"tr-TR": "VALORANT GO! 1. Cilt Spectre",
 							"vi-VN": "Spectre VALORANT GO! Vol.1",
 							"zh-CN": "无畏契约GO！第一卷 骇灵",
 							"zh-TW": "特戰英豪 GO！第1集 惡靈"
@@ -171378,7 +171378,7 @@
 							"pt-BR": "Spectre VALORANT GO! Vol. 1",
 							"ru-RU": "Spectre \"VALORANT GO! Вып. 1\"",
 							"th-TH": "VALORANT GO! Vol. 1 Spectre",
-							"tr-TR": "VALORANT GO! 1. CİLT SPECTRE",
+							"tr-TR": "VALORANT GO! 1. Cilt Spectre",
 							"vi-VN": "Spectre VALORANT GO! Vol.1",
 							"zh-CN": "无畏契约GO！第一卷 骇灵",
 							"zh-TW": "特戰英豪 GO！第1集 惡靈"
@@ -171407,7 +171407,7 @@
 					"pt-BR": "Spectre VALORANT GO! Vol. 1",
 					"ru-RU": "Spectre \"VALORANT GO! Вып. 1\"",
 					"th-TH": "VALORANT GO! Vol. 1 Spectre",
-					"tr-TR": "VALORANT GO! 1. CİLT SPECTRE",
+					"tr-TR": "VALORANT GO! 1. Cilt Spectre",
 					"vi-VN": "Spectre VALORANT GO! Vol.1",
 					"zh-CN": "无畏契约GO！第一卷 骇灵",
 					"zh-TW": "特戰英豪 GO！第1集 惡靈"
@@ -195982,7 +195982,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "نصال الإمبراطوري",
-							"de-DE": "Imperium-Klingen",
+							"de-DE": "Klingen – Imperium",
 							"en-US": "Blades of Imperium",
 							"es-ES": "Hojas de Imperium",
 							"es-MX": "Filo Imperium",
@@ -196011,7 +196011,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "نصال الإمبراطوري المستوى 2\n(بديل 1 ياقوتي)",
-							"de-DE": "Imperium-Klingen Level 2\n(Variante 1, Weinrot)",
+							"de-DE": "Klingen – Imperium Level 2\n(Variante 1, Weinrot)",
 							"en-US": "Blades of Imperium Level 2\r\n(Variant 1 Ruby)",
 							"es-ES": "Hojas de Imperium de nivel 2\n(variante 1: rubí)",
 							"es-MX": "Filo Imperium nivel 2\n(Variante 1 Rubí)",
@@ -196040,7 +196040,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "نصال الإمبراطوري المستوى 2\n(بديل 2 لؤلؤ)",
-							"de-DE": "Imperium-Klingen Level 2\n(Variante 2, Perlmutt)",
+							"de-DE": "Klingen – Imperium Level 2\n(Variante 2, Perlmutt)",
 							"en-US": "Blades of Imperium Level 2\r\n(Variant 2 Pearl)",
 							"es-ES": "Hojas de Imperium de nivel 2\n(variante 2: perla)",
 							"es-MX": "Filo Imperium nivel 2\n(Variante 2 Perla)",
@@ -196069,7 +196069,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "نصال الإمبراطوري المستوى 2\n(بديل 3 بركاني)",
-							"de-DE": "Imperium-Klingen Level 2\n(Variante 3, Obsidian)",
+							"de-DE": "Klingen – Imperium Level 2\n(Variante 3, Obsidian)",
 							"en-US": "Blades of Imperium Level 2\r\n(Variant 3 Obsidian)",
 							"es-ES": "Hojas de Imperium de nivel 2\n(variante 3: obsidiana)",
 							"es-MX": "Filo Imperium nivel 2\n(Variante 3 Obsidiana)",
@@ -196100,7 +196100,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "نصال الإمبراطوري",
-							"de-DE": "Imperium-Klingen",
+							"de-DE": "Klingen – Imperium",
 							"en-US": "Blades of Imperium",
 							"es-ES": "Hojas de Imperium",
 							"es-MX": "Filo Imperium",
@@ -196129,7 +196129,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "نصال الإمبراطوري المستوى 2",
-							"de-DE": "Imperium-Klingen Level 2",
+							"de-DE": "Klingen – Imperium Level 2",
 							"en-US": "Blades of Imperium Level 2",
 							"es-ES": "Hojas de Imperium de nivel 2",
 							"es-MX": "Filo Imperium nivel 2",
@@ -196158,7 +196158,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "نصال الإمبراطوري",
-					"de-DE": "Imperium-Klingen",
+					"de-DE": "Klingen – Imperium",
 					"en-US": "Blades of Imperium",
 					"es-ES": "Hojas de Imperium",
 					"es-MX": "Filo Imperium",
@@ -219101,6 +219101,93 @@
 			}
 		},
 		{
+			"id": "9C5D4D3D-4266-8255-BF9A-EA96B07ECFF7",
+			"label": "9C5D4D3D-4266-8255-BF9A-EA96B07ECFF7",
+			"name":
+			{
+				"defaultText": "Flower Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة كعكة",
+					"de-DE": "Banner „Flower“",
+					"en-US": "Flower Card",
+					"es-ES": "Tarjeta Flor",
+					"es-MX": "Tarjeta Flor",
+					"fr-FR": "Carte Fleur",
+					"id-ID": "Card Flower",
+					"it-IT": "Carta Fiore",
+					"ja-JP": "フラワー カード",
+					"ko-KR": "반죽이 카드",
+					"pl-PL": "Karta „Kwiat”",
+					"pt-BR": "Card Florinda",
+					"ru-RU": "Карточка \"Цветочек\"",
+					"th-TH": "การ์ด Flower",
+					"tr-TR": "Civelek Kartı",
+					"vi-VN": "Thẻ Flower",
+					"zh-CN": "花花 卡面",
+					"zh-TW": "揪感心鴨 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "286C244E-4DE4-F8E0-D332-B6932F6CF156",
+			"label": "286C244E-4DE4-F8E0-D332-B6932F6CF156",
+			"name":
+			{
+				"defaultText": "Brioche Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة بريوش",
+					"de-DE": "Banner „Brioche“",
+					"en-US": "Brioche Card",
+					"es-ES": "Tarjeta Gánswich",
+					"es-MX": "Tarjeta Brioche",
+					"fr-FR": "Carte Brioche",
+					"id-ID": "Card Brioche",
+					"it-IT": "Carta Brioche",
+					"ja-JP": "ブリオッシュ カード",
+					"ko-KR": "브리오슈 카드",
+					"pl-PL": "Karta „Brioszka”",
+					"pt-BR": "Card Brioche",
+					"ru-RU": "Карточка \"Хлебушек\"",
+					"th-TH": "การ์ด Brioche",
+					"tr-TR": "Eppek Kartı",
+					"vi-VN": "Thẻ Brioche",
+					"zh-CN": "包包 卡面",
+					"zh-TW": "土司鵝鵝 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "FCA03251-4672-DF99-E0CB-B59746877174",
+			"label": "FCA03251-4672-DF99-E0CB-B59746877174",
+			"name":
+			{
+				"defaultText": "Burnard Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة محرور",
+					"de-DE": "Banner „Burnard“",
+					"en-US": "Burnard Card",
+					"es-ES": "Tarjeta Patorrado",
+					"es-MX": "Tarjeta Burnard",
+					"fr-FR": "Carte Burnard",
+					"id-ID": "Card Burnard",
+					"it-IT": "Carta Paperovente",
+					"ja-JP": "バーナード カード",
+					"ko-KR": "버나드 카드",
+					"pl-PL": "Karta „Burnard”",
+					"pt-BR": "Card Fornaldo",
+					"ru-RU": "Карточка \"Угляш\"",
+					"th-TH": "การ์ด Burnard",
+					"tr-TR": "Vaklava Kartı",
+					"vi-VN": "Thẻ Burnard",
+					"zh-CN": "烈烈 卡面",
+					"zh-TW": "氣噗噗鴨 玩家卡面"
+				}
+			}
+		},
+		{
 			"id": "8B26FE6C-409E-6CE8-3DC1-50AE5A503805",
 			"label": "8B26FE6C-409E-6CE8-3DC1-50AE5A503805",
 			"name":
@@ -228286,7 +228373,7 @@
 					"pt-BR": "Card Retribuição",
 					"ru-RU": "Карточка \"Возвращение\"",
 					"th-TH": "การ์ด Give Back",
-					"tr-TR": "İYİLİĞİ PAYLAŞ KARTI",
+					"tr-TR": "İyiliği Paylaş Kartı",
 					"vi-VN": "Thẻ Vì Cộng Đồng",
 					"zh-CN": "回响 卡面",
 					"zh-TW": "公益回饋 玩家卡面"
@@ -231824,7 +231911,7 @@
 					"pt-BR": "Card Cypher VALORANT GO! Vol. 1",
 					"ru-RU": "Карточка \"VALORANT GO! Вып. 1 - Cypher\"",
 					"th-TH": "การ์ด VALORANT GO! Vol. 1 Cypher",
-					"tr-TR": "VALORANT GO! 1. CİLT CYPHER KARTI",
+					"tr-TR": "VALORANT GO! 1. Cilt Cypher Kartı",
 					"vi-VN": "Thẻ Cypher VALORANT GO! Vol.1",
 					"zh-CN": "无畏契约GO！第一卷：零 卡面",
 					"zh-TW": "特戰英豪 GO！第1集 瑟符 玩家卡面"
@@ -231853,7 +231940,7 @@
 					"pt-BR": "Card Jett VALORANT GO! Vol. 1",
 					"ru-RU": "Карточка \"VALORANT GO! Вып. 1 - Jett\"",
 					"th-TH": "การ์ด VALORANT GO! Vol. 1 Jett",
-					"tr-TR": "VALORANT GO! 1. CİLT JETT KARTI",
+					"tr-TR": "VALORANT GO! 1. Cilt Jett Kartı",
 					"vi-VN": "Thẻ Jett VALORANT GO! Vol.1",
 					"zh-CN": "无畏契约GO！第一卷：捷风 卡面",
 					"zh-TW": "特戰英豪 GO！第1集 婕提 玩家卡面"
@@ -231882,7 +231969,7 @@
 					"pt-BR": "Card Killjoy VALORANT GO! Vol. 1",
 					"ru-RU": "Карточка \"VALORANT GO! Вып. 1 – Killjoy\"",
 					"th-TH": "การ์ด VALORANT GO! Vol. 1 Killjoy",
-					"tr-TR": "VALORANT GO! 1. CİLT KILLJOY KARTI",
+					"tr-TR": "VALORANT GO! 1. Cilt Killjoy Kartı",
 					"vi-VN": "Thẻ Killjoy VALORANT GO! Vol.1",
 					"zh-CN": "无畏契约GO！第一卷：奇乐 卡面",
 					"zh-TW": "特戰英豪 GO！第1集 愷宙 玩家卡面"
@@ -231911,7 +231998,7 @@
 					"pt-BR": "Card Reyna VALORANT GO! Vol. 1",
 					"ru-RU": "Карточка \"VALORANT GO! Вып. 1 – Reyna\"",
 					"th-TH": "การ์ด VALORANT GO! Vol. 1 Reyna",
-					"tr-TR": "VALORANT GO! 1. CİLT REYNA KARTI",
+					"tr-TR": "VALORANT GO! 1. Cilt Reyna Kartı",
 					"vi-VN": "Thẻ Reyna VALORANT GO! Vol.1",
 					"zh-CN": "无畏契约GO！第一卷：芮娜 卡面",
 					"zh-TW": "特戰英豪 GO！第1集 蕾娜 玩家卡面"
@@ -231940,7 +232027,7 @@
 					"pt-BR": "Card Sage VALORANT GO! Vol. 1",
 					"ru-RU": "Карточка \"VALORANT GO! Вып. 1 - Sage\"",
 					"th-TH": "การ์ด VALORANT GO! Vol. 1 Sage",
-					"tr-TR": "VALORANT GO! 1. CİLT SAGE KARTI",
+					"tr-TR": "VALORANT GO! 1. Cilt Sage Kartı",
 					"vi-VN": "Thẻ Sage VALORANT GO! Vol.1",
 					"zh-CN": "无畏契约GO！第一卷：贤者 卡面",
 					"zh-TW": "特戰英豪 GO！第1集 聖祈 玩家卡面"
@@ -252763,6 +252850,60 @@
 		{
 			"titleText":
 			{
+				"defaultText": "Holding Space",
+				"localizedByCulture":
+				{
+					"ar-AE": "مساحة محجوزة",
+					"de-DE": "Raum halten",
+					"en-US": "Holding Space",
+					"es-ES": "Espacio seguro",
+					"es-MX": "Lugar Seguro",
+					"fr-FR": "Zéro jugement",
+					"id-ID": "Holding Space",
+					"it-IT": "Premo Spazio",
+					"ja-JP": "パーソナルスペース",
+					"ko-KR": "버팀목",
+					"pl-PL": "Tworzenie przestrzeni",
+					"pt-BR": "Espaço Seguro",
+					"ru-RU": "Я с тобой",
+					"th-TH": "คุมพื้นที่",
+					"tr-TR": "Tut Elimi",
+					"vi-VN": "Giữ Khoảng Trống",
+					"zh-CN": "坚守阵地",
+					"zh-TW": "暫留空間"
+				}
+			},
+			"id": "7B52BDC0-4579-A9A5-81DB-34A7991F2A1E",
+			"label": "7B52BDC0-4579-A9A5-81DB-34A7991F2A1E",
+			"name":
+			{
+				"defaultText": "Holding Space Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب مساحة محجوزة",
+					"de-DE": "Titel „Raum halten“",
+					"en-US": "Holding Space Title",
+					"es-ES": "Título Espacio seguro",
+					"es-MX": "Título Lugar Seguro",
+					"fr-FR": "Titre Zéro jugement",
+					"id-ID": "Gelar Holding Space",
+					"it-IT": "Titolo Premo Spazio",
+					"ja-JP": "パーソナルスペース タイトル",
+					"ko-KR": "버팀목 칭호",
+					"pl-PL": "Tytuł „Tworzenie przestrzeni”",
+					"pt-BR": "Título Espaço Seguro",
+					"ru-RU": "Звание \"Я с тобой\"",
+					"th-TH": "ฉายาคุมพื้นที่",
+					"tr-TR": "Tut Elimi Unvanı",
+					"vi-VN": "Danh Hiệu Giữ Khoảng Trống",
+					"zh-CN": "坚守阵地 称号",
+					"zh-TW": "暫留空間 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
 				"defaultText": "Welcome",
 				"localizedByCulture":
 				{
@@ -252886,7 +253027,7 @@
 					"ko-KR": "웝웝",
 					"pl-PL": "Łup, łup",
 					"pt-BR": "Tutz Tutz",
-					"ru-RU": "Качает",
+					"ru-RU": "Унц-унц",
 					"th-TH": "ตึง ตึงตึง ตึงตึง",
 					"tr-TR": "Dum Tıs Unvanı",
 					"vi-VN": "Wub Wub",
@@ -253311,7 +253452,7 @@
 					"en-US": "VCT Masters Bangkok Winner",
 					"es-ES": "Ganador del VCT Masters Bangkok",
 					"es-MX": "Ganador del VCT Masters Bangkok",
-					"fr-FR": "Vainqueur Masters Bangkok VCT",
+					"fr-FR": "Vainqueur VCT Masters Bangkok",
 					"id-ID": "VCT Masters Bangkok Winner",
 					"it-IT": "Vincitore VCT Masters Bangkok",
 					"ja-JP": "VCT Masters Bangkok ウィナー",
@@ -253338,7 +253479,7 @@
 					"en-US": "VCT Masters Bangkok Winner Title",
 					"es-ES": "Título Ganador del VCT Masters Bangkok",
 					"es-MX": "Título Ganador del VCT Masters Bangkok",
-					"fr-FR": "Titre Vainqueur Masters Bangkok VCT",
+					"fr-FR": "Titre Vainqueur VCT Masters Bangkok",
 					"id-ID": "Gelar VCT Masters Bangkok Winner",
 					"it-IT": "Titolo Vincitore VCT Masters Bangkok",
 					"ja-JP": "VCT Masters Bangkok ウィナー タイトル",
@@ -253577,11 +253718,11 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "الفائز ببطولة VCT Masters سانتياغو",
-					"de-DE": "Sieger der VCT Masters Santiago",
+					"de-DE": "Sieger des VCT Masters Santiago",
 					"en-US": "VCT Masters Santiago Winner",
 					"es-ES": "Ganador del VCT Masters Santiago",
 					"es-MX": "Ganador del VCT Masters Santiago",
-					"fr-FR": "Vainqueur Masters Santiago VCT",
+					"fr-FR": "Vainqueur VCT Masters Santiago",
 					"id-ID": "VCT Masters Santiago Winner",
 					"it-IT": "Vincitore VCT Masters Santiago",
 					"ja-JP": "VCT Masters Santiago ウィナー",
@@ -253604,11 +253745,11 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "لقب الفائز ببطولة VCT Masters سانتياغو",
-					"de-DE": "Titel „Sieger der VCT Masters Santiago“",
+					"de-DE": "Titel „Sieger des VCT Masters Santiago“",
 					"en-US": "VCT Masters Santiago Winner Title",
 					"es-ES": "Título Ganador del VCT Masters Santiago",
 					"es-MX": "Título Ganador del VCT Masters Santiago",
-					"fr-FR": "Titre Vainqueur Masters Santiago VCT",
+					"fr-FR": "Titre Vainqueur VCT Masters Santiago",
 					"id-ID": "Gelar VCT Masters Santiago Winner",
 					"it-IT": "Titolo Vincitore VCT Masters Santiago",
 					"ja-JP": "VCT Masters Santiago ウィナー タイトル",
@@ -253743,7 +253884,7 @@
 					"en-US": "VCT Masters Toronto Winner",
 					"es-ES": "Ganador del VCT Masters Toronto",
 					"es-MX": "Ganador del VCT Masters Toronto",
-					"fr-FR": "Vainqueur Masters Toronto VCT",
+					"fr-FR": "Vainqueur VCT Masters Toronto",
 					"id-ID": "VCT Masters Toronto Winner",
 					"it-IT": "Vincitore VCT Masters Toronto",
 					"ja-JP": "VCT Masters Toronto ウィナー",
@@ -253770,7 +253911,7 @@
 					"en-US": "VCT Masters Toronto Winner Title",
 					"es-ES": "Título Ganador del VCT Masters Toronto",
 					"es-MX": "Título Ganador del VCT Masters Toronto",
-					"fr-FR": "Titre Vainqueur Masters Toronto VCT",
+					"fr-FR": "Titre Vainqueur VCT Masters Toronto",
 					"id-ID": "Gelar VCT Masters Toronto Winner",
 					"it-IT": "Titolo Vincitore VCT Masters Toronto",
 					"ja-JP": "VCT Masters Toronto ウィナー タイトル",
@@ -253891,6 +254032,222 @@
 					"vi-VN": "Danh Hiệu Cả Nhà Yêu",
 					"zh-CN": "死党 称号",
 					"zh-TW": "好戰友 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Bossman",
+				"localizedByCulture":
+				{
+					"ar-AE": "الزعيم",
+					"de-DE": "Der Boss",
+					"en-US": "Bossman",
+					"es-ES": "Cabecilla",
+					"es-MX": "Jefazo",
+					"fr-FR": "Patron",
+					"id-ID": "Bossman",
+					"it-IT": "Capoccia",
+					"ja-JP": "ボスマン",
+					"ko-KR": "우두머리",
+					"pl-PL": "Bossman",
+					"pt-BR": "Chefia",
+					"ru-RU": "Босс",
+					"th-TH": "ลูกพี่",
+					"tr-TR": "Patron",
+					"vi-VN": "Đại Ca",
+					"zh-CN": "大佬",
+					"zh-TW": "老闆大人"
+				}
+			},
+			"id": "90797460-4B03-40CC-4089-59A4B6906322",
+			"label": "90797460-4B03-40CC-4089-59A4B6906322",
+			"name":
+			{
+				"defaultText": "Bossman Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب الزعيم",
+					"de-DE": "Titel „Der Boss“",
+					"en-US": "Bossman Title",
+					"es-ES": "Título Cabecilla",
+					"es-MX": "Título Jefazo",
+					"fr-FR": "Titre Patron",
+					"id-ID": "Gelar Bossman",
+					"it-IT": "Titolo Capoccia",
+					"ja-JP": "ボスマン タイトル",
+					"ko-KR": "우두머리 칭호",
+					"pl-PL": "Tytuł „Bossman”",
+					"pt-BR": "Título Chefia",
+					"ru-RU": "Звание \"Босс\"",
+					"th-TH": "ฉายาลูกพี่",
+					"tr-TR": "Patron Unvanı",
+					"vi-VN": "Danh Hiệu Đại Ca",
+					"zh-CN": "大佬 称号",
+					"zh-TW": "老闆大人 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Gutted",
+				"localizedByCulture":
+				{
+					"ar-AE": "المحبَط",
+					"de-DE": "Enttäuscht",
+					"en-US": "Gutted",
+					"es-ES": "¡Venga ya!",
+					"es-MX": "Desencanto",
+					"fr-FR": "Ça craint",
+					"id-ID": "Gutted",
+					"it-IT": "Devastato",
+					"ja-JP": "マジで？",
+					"ko-KR": "망연자실",
+					"pl-PL": "Peszek",
+					"pt-BR": "Boladão",
+					"ru-RU": "Печалька",
+					"th-TH": "เจ็บมาเยอะ",
+					"tr-TR": "İçi Geçmiş",
+					"vi-VN": "Hụt Hẫng",
+					"zh-CN": "大受打击",
+					"zh-TW": "傷心欲絕"
+				}
+			},
+			"id": "63089FAA-4A33-3C51-D215-68AC3EC2CD34",
+			"label": "63089FAA-4A33-3C51-D215-68AC3EC2CD34",
+			"name":
+			{
+				"defaultText": "Gutted Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب المحبَط",
+					"de-DE": "Titel „Enttäuscht“",
+					"en-US": "Gutted Title",
+					"es-ES": "Título ¡Venga ya!",
+					"es-MX": "Título Desencanto",
+					"fr-FR": "Titre Ça craint",
+					"id-ID": "Gelar Gutted",
+					"it-IT": "Titolo Devastato",
+					"ja-JP": "マジで？ タイトル",
+					"ko-KR": "망연자실 칭호",
+					"pl-PL": "Tytuł „Peszek”",
+					"pt-BR": "Título Boladão",
+					"ru-RU": "Звание \"Печалька\"",
+					"th-TH": "ฉายาเจ็บมาเยอะ",
+					"tr-TR": "İçi Geçmiş Unvanı",
+					"vi-VN": "Danh Hiệu Hụt Hẫng",
+					"zh-CN": "大受打击 称号",
+					"zh-TW": "傷心欲絕 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Rubbish",
+				"localizedByCulture":
+				{
+					"ar-AE": "الخردة",
+					"de-DE": "Müll",
+					"en-US": "Rubbish",
+					"es-ES": "Basura",
+					"es-MX": "¡Me lleva!",
+					"fr-FR": "N'imp",
+					"id-ID": "Rubbish",
+					"it-IT": "Rifiuto",
+					"ja-JP": "未熟者",
+					"ko-KR": "초짜",
+					"pl-PL": "Beznadzieja",
+					"pt-BR": "Lixinho",
+					"ru-RU": "Облом",
+					"th-TH": "สุดห่วย",
+					"tr-TR": "Bırak Bu İşi",
+					"vi-VN": "Dở Tệ",
+					"zh-CN": "菜鸡",
+					"zh-TW": "亂七八糟"
+				}
+			},
+			"id": "1DF241BC-4714-0A82-3DCC-A590431A3B5A",
+			"label": "1DF241BC-4714-0A82-3DCC-A590431A3B5A",
+			"name":
+			{
+				"defaultText": "Rubbish Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب الخردة",
+					"de-DE": "Titel „Müll“",
+					"en-US": "Rubbish Title",
+					"es-ES": "Título Basura",
+					"es-MX": "Título ¡Me Lleva!",
+					"fr-FR": "Titre N'imp",
+					"id-ID": "Gelar Rubbish",
+					"it-IT": "Titolo Rifiuto",
+					"ja-JP": "未熟者 タイトル",
+					"ko-KR": "초짜 칭호",
+					"pl-PL": "Tytuł „Beznadzieja”",
+					"pt-BR": "Título Lixinho",
+					"ru-RU": "Звание \"Облом\"",
+					"th-TH": "ฉายาสุดห่วย",
+					"tr-TR": "Bırak Bu İşi Unvanı",
+					"vi-VN": "Danh Hiệu Dở Tệ",
+					"zh-CN": "菜鸡 称号",
+					"zh-TW": "亂七八糟 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "VCT Masters London Winner",
+				"localizedByCulture":
+				{
+					"ar-AE": "الفائز ببطولة VCT Masters لندن",
+					"de-DE": "Sieger des VCT Masters London",
+					"en-US": "VCT Masters London Winner",
+					"es-ES": "Ganador del VCT Masters London",
+					"es-MX": "Ganador del VCT Masters London",
+					"fr-FR": "Vainqueur VCT Masters London",
+					"id-ID": "VCT Masters London Winner",
+					"it-IT": "Vincitore VCT Masters London",
+					"ja-JP": "VCT Masters London ウィナー",
+					"ko-KR": "VCT 마스터스 런던 우승자",
+					"pl-PL": "Zwycięzca VCT Masters London",
+					"pt-BR": "Vencedor VCT Masters London",
+					"ru-RU": "Победитель VCT Masters London",
+					"th-TH": "ผู้ชนะ VCT Masters London",
+					"tr-TR": "VCT Masters London Galibi",
+					"vi-VN": "Quán Quân VCT Masters London",
+					"zh-CN": "VCT伦敦大师赛冠军",
+					"zh-TW": "VCT倫敦大師賽贏家"
+				}
+			},
+			"id": "FEAF6DDC-415E-5D69-F78E-30BABD22B8B4",
+			"label": "FEAF6DDC-415E-5D69-F78E-30BABD22B8B4",
+			"name":
+			{
+				"defaultText": "VCT Masters London Winner Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب الفائز ببطولة VCT Masters لندن",
+					"de-DE": "Titel „Sieger des VCT Masters London“",
+					"en-US": "VCT Masters London Winner Title",
+					"es-ES": "Título Ganador del VCT Masters London",
+					"es-MX": "Título Ganador del VCT Masters London",
+					"fr-FR": "Titre Vainqueur VCT Masters London",
+					"id-ID": "Gelar VCT Masters London Winner",
+					"it-IT": "Titolo Vincitore VCT Masters London",
+					"ja-JP": "VCT Masters London ウィナー タイトル",
+					"ko-KR": "VCT 마스터스 런던 우승자 칭호",
+					"pl-PL": "Tytuł „Zwycięzca VCT Masters London”",
+					"pt-BR": "Título Vencedor VCT Masters London",
+					"ru-RU": "Звание \"Победитель VCT Masters London\"",
+					"th-TH": "ฉายาผู้ชนะ VCT Masters London",
+					"tr-TR": "VCT Masters London Galibi Unvanı",
+					"vi-VN": "Danh Hiệu Quán Quân VCT Masters London",
+					"zh-CN": "VCT伦敦大师赛冠军 称号",
+					"zh-TW": "VCT倫敦大師賽贏家 稱號"
 				}
 			}
 		},
@@ -261369,7 +261726,7 @@
 					"tr-TR": "Takım Lideri",
 					"vi-VN": "IGL",
 					"zh-CN": "队内指挥",
-					"zh-TW": "IGL"
+					"zh-TW": "指揮官"
 				}
 			},
 			"id": "FD951671-4D72-9153-A0E7-73843DA47654",
@@ -261396,7 +261753,7 @@
 					"tr-TR": "Takım Lideri Unvanı",
 					"vi-VN": "Danh Hiệu IGL",
 					"zh-CN": "队内指挥 称号",
-					"zh-TW": "IGL 稱號"
+					"zh-TW": "指揮官 稱號"
 				}
 			}
 		},
@@ -261839,7 +262196,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "الشرس",
-					"de-DE": "Knorrig",
+					"de-DE": "Krass",
 					"en-US": "Gnarly",
 					"es-ES": "Brutal",
 					"es-MX": "Gnarly",
@@ -261866,7 +262223,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "لقب الشرس",
-					"de-DE": "Titel „Knorrig“",
+					"de-DE": "Titel „Krass“",
 					"en-US": "Gnarly Title",
 					"es-ES": "Título Brutal",
 					"es-MX": "Título Gnarly",
@@ -261947,7 +262304,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "المخضرم",
-					"de-DE": "Onk",
+					"de-DE": "Unc",
 					"en-US": "Unc",
 					"es-ES": "Viejales",
 					"es-MX": "Viejoven",
@@ -261974,7 +262331,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "لقب المخضرم",
-					"de-DE": "Titel „Onk“",
+					"de-DE": "Titel „Unc“",
 					"en-US": "Unc Title",
 					"es-ES": "Título Viejales",
 					"es-MX": "Título Viejoven",
@@ -262435,7 +262792,7 @@
 					"ar-AE": "الفائز ببطولة 2021 VCT Masters المناطقية",
 					"de-DE": "VCT 2021: Regionaler Masters-Sieger",
 					"en-US": "2021 VCT Regional Masters Winner",
-					"es-ES": "Ganador del Masters reg. del VCT 2021",
+					"es-ES": "Ganador del VCT Masters reg. 2021",
 					"es-MX": "Ganador del VCT Masters Regional 2021",
 					"fr-FR": "Vainqueur Masters rég. VCT 2021",
 					"id-ID": "2021 VCT Regional Masters Winner",
@@ -262462,7 +262819,7 @@
 					"ar-AE": "لقب الفائز ببطولة 2021 VCT Masters المناطقية",
 					"de-DE": "Titel „VCT 2021: Regionaler Masters-Sieger“",
 					"en-US": "2021 VCT Regional Masters Winner Title",
-					"es-ES": "Título Ganador del Masters reg. del VCT 2021",
+					"es-ES": "Título Ganador del VCT Masters reg. 2021",
 					"es-MX": "Título Ganador del VCT Masters Regional 2021",
 					"fr-FR": "Titre Vainqueur Masters rég. VCT 2021",
 					"id-ID": "Gelar 2021 VCT Regional Masters Winner",
@@ -262599,7 +262956,7 @@
 					"en-US": "VCT Masters Berlin Winner",
 					"es-ES": "Ganador del VCT Masters Berlin",
 					"es-MX": "Ganador del VCT Masters Berlín",
-					"fr-FR": "Vainqueur Masters Berlin VCT",
+					"fr-FR": "Vainqueur VCT Masters Berlin",
 					"id-ID": "VCT Masters Berlin Winner",
 					"it-IT": "Vincitore Masters VCT di Berlino",
 					"ja-JP": "VCT Masters Berlin ウィナー",
@@ -262626,7 +262983,7 @@
 					"en-US": "VCT Masters Berlin Winner Title",
 					"es-ES": "Título de ganador del VCT Masters Berlin",
 					"es-MX": "Título Ganador del VCT Masters Berlín",
-					"fr-FR": "Titre Vainqueur Masters Berlin VCT",
+					"fr-FR": "Titre Vainqueur VCT Masters Berlin",
 					"id-ID": "Gelar VCT Masters Berlin Winner",
 					"it-IT": "Titolo Vincitore Masters VCT Berlino",
 					"ja-JP": "VCT Masters Berlin ウィナー タイトル",
@@ -262653,7 +263010,7 @@
 					"en-US": "VCT Masters Reykjavik Winner",
 					"es-ES": "Ganador del VCT Masters Reykjavik",
 					"es-MX": "Ganador del VCT Masters Reikiavik",
-					"fr-FR": "Vainqueur Masters Reykjavik VCT",
+					"fr-FR": "Vainqueur VCT Masters Reykjavik",
 					"id-ID": "VCT Masters Reykjavik Winner",
 					"it-IT": "Vincitore Masters VCT di Reykjavík",
 					"ja-JP": "VCT Masters Reykjavik ウィナー",
@@ -262680,7 +263037,7 @@
 					"en-US": "VCT Masters Reykjavik Winner Title",
 					"es-ES": "Título Ganador del VCT Masters Reykjavik",
 					"es-MX": "Título Ganador del VCT Masters Reikiavik",
-					"fr-FR": "Titre Vainq. Masters Reykjavik VCT",
+					"fr-FR": "Titre Vainq. VCT Masters Reykjavik",
 					"id-ID": "Gelar VCT Masters Reykjavik Winner",
 					"it-IT": "Titolo Vincitore Masters VCT Reykjavík",
 					"ja-JP": "VCT Masters Reykjavik ウィナー タイトル",
@@ -262869,7 +263226,7 @@
 					"en-US": "VCT Masters Copenhagen Winner",
 					"es-ES": "Ganador del VCT Masters Copenhagen",
 					"es-MX": "Ganador del VCT Masters Copenhague",
-					"fr-FR": "Vainqueur Masters Copenhague VCT",
+					"fr-FR": "Vainqueur VCT Masters Copenhague",
 					"id-ID": "VCT Masters Copenhagen Winner",
 					"it-IT": "Vincitore VCT Masters di Copenaghen",
 					"ja-JP": "VCT Masters Copenhagen ウィナー",
@@ -262896,7 +263253,7 @@
 					"en-US": "VCT Masters Copenhagen Winner Title",
 					"es-ES": "Título Ganador del VCT Masters Copenhagen",
 					"es-MX": "Título Ganador del VCT Masters Copenhague",
-					"fr-FR": "Titre Vainq. Masters Copenhague VCT",
+					"fr-FR": "Titre Vainq. VCT Masters Copenhague",
 					"id-ID": "Gelar VCT Masters Copenhagen Winner",
 					"it-IT": "Titolo Vincitore VCT Masters Copenaghen",
 					"ja-JP": "VCT Masters Copenhagen ウィナー タイトル",
@@ -262923,7 +263280,7 @@
 					"en-US": "VCT Masters Reykjavik Winner",
 					"es-ES": "Ganador del VCT Masters Reykjavik",
 					"es-MX": "Ganador del VCT Masters Reikiavik",
-					"fr-FR": "Vainqueur Masters Reykjavik VCT",
+					"fr-FR": "Vainqueur VCT Masters Reykjavik",
 					"id-ID": "VCT Masters Reykjavik Winner",
 					"it-IT": "Vincitore Masters VCT di Reykjavík",
 					"ja-JP": "VCT Masters Reykjavik ウィナー",
@@ -262950,7 +263307,7 @@
 					"en-US": "VCT Masters Reykjavik Winner Title",
 					"es-ES": "Título Ganador del VCT Masters Reykjavik",
 					"es-MX": "Título Ganador del VCT Masters Reikiavik",
-					"fr-FR": "Titre Vainq. Masters Reykjavik VCT",
+					"fr-FR": "Titre Vainq. VCT Masters Reykjavik",
 					"id-ID": "Gelar VCT Masters Reykjavik Winner",
 					"it-IT": "Titolo Vincitore Masters VCT Reykjavík",
 					"ja-JP": "VCT Masters Reykjavik ウィナー タイトル",
@@ -263193,7 +263550,7 @@
 					"en-US": "VCT Masters Tokyo Winner",
 					"es-ES": "Ganador del VCT Masters Tokyo",
 					"es-MX": "Ganador del VCT Masters Tokio",
-					"fr-FR": "Vainqueur Masters Tokyo VCT",
+					"fr-FR": "Vainqueur VCT Masters Tokyo",
 					"id-ID": "VCT Masters Tokyo Winner",
 					"it-IT": "Vincitore Masters VCT di Tokyo",
 					"ja-JP": "VCT Masters Tokyo ウィナー",
@@ -263220,7 +263577,7 @@
 					"en-US": "VCT Masters Tokyo Winner Title",
 					"es-ES": "Título Ganador del VCT Masters Tokyo",
 					"es-MX": "Título Ganador del VCT Masters Tokio",
-					"fr-FR": "Titre Vainqueur Masters Tokyo VCT",
+					"fr-FR": "Titre Vainqueur VCT Masters Tokyo",
 					"id-ID": "Gelar VCT Masters Tokyo Winner",
 					"it-IT": "Titolo Vincitore Masters VCT Tokyo",
 					"ja-JP": "VCT Masters Tokyo ウィナー タイトル",
@@ -263247,7 +263604,7 @@
 					"en-US": "VCT Masters Shanghai Winner",
 					"es-ES": "Ganador del VCT Masters Shanghai",
 					"es-MX": "Ganador del VCT Masters Shanghai",
-					"fr-FR": "Vainqueur Masters Shanghai VCT",
+					"fr-FR": "Vainqueur VCT Masters Shanghai",
 					"id-ID": "VCT Masters Shanghai Winner",
 					"it-IT": "Vincitore VCT Masters Shanghai",
 					"ja-JP": "VCT Masters Shanghai ウィナー",
@@ -263274,7 +263631,7 @@
 					"en-US": "VCT Masters Shanghai Winner Title",
 					"es-ES": "Título Ganador del VCT Masters Shanghai",
 					"es-MX": "Título Ganador del VCT Masters Shanghai",
-					"fr-FR": "Titre Vainq. Masters Shanghai VCT",
+					"fr-FR": "Titre Vainq. VCT Masters Shanghai",
 					"id-ID": "Gelar VCT Masters Shanghai Winner",
 					"it-IT": "Titolo Vincitore VCT Masters Shanghai",
 					"ja-JP": "VCT Masters Shanghai ウィナー タイトル",
@@ -263301,7 +263658,7 @@
 					"en-US": "VCT Masters Madrid Winner",
 					"es-ES": "Ganador del VCT Masters Madrid",
 					"es-MX": "Ganador del VCT Masters Madrid",
-					"fr-FR": "Vainqueur Masters Madrid VCT",
+					"fr-FR": "Vainqueur VCT Masters Madrid",
 					"id-ID": "VCT Masters Madrid Winner",
 					"it-IT": "Vincitore VCT Masters Madrid",
 					"ja-JP": "VCT Masters Madrid ウィナー",
@@ -263328,7 +263685,7 @@
 					"en-US": "VCT Masters Madrid Winner Title",
 					"es-ES": "Título Ganador del VCT Masters Madrid",
 					"es-MX": "Título Ganador del VCT Masters Madrid",
-					"fr-FR": "Titre Vainqueur Masters Madrid VCT",
+					"fr-FR": "Titre Vainqueur VCT Masters Madrid",
 					"id-ID": "Gelar VCT Masters Madrid Winner",
 					"it-IT": "Titolo Vincitore VCT Masters Madrid",
 					"ja-JP": "VCT Masters Madrid ウィナー タイトル",
@@ -263395,6 +263752,60 @@
 					"vi-VN": "Danh Hiệu VCT Game Changer",
 					"zh-CN": "VCT改变者全球冠军赛 称号",
 					"zh-TW": "VCT 顛覆者 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Armchair IGL",
+				"localizedByCulture":
+				{
+					"ar-AE": "قائد بالتنظير",
+					"de-DE": "Sessel-IGL",
+					"en-US": "Armchair IGL",
+					"es-ES": "Líder en partida de sofá",
+					"es-MX": "Líder de juego de sofá",
+					"fr-FR": "Capitaine de salon",
+					"id-ID": "Armchair IGL",
+					"it-IT": "Regista dietro le quinte",
+					"ja-JP": "アームチェア IGL",
+					"ko-KR": "방구석 인 게임 리더",
+					"pl-PL": "Teoretyczny IGL",
+					"pt-BR": "Sabor IGL",
+					"ru-RU": "Диванный капитан",
+					"th-TH": "เด็กเกาะเบาะ",
+					"tr-TR": "Fahri Takım Lideri",
+					"vi-VN": "Chỉ Tay Năm Ngón",
+					"zh-CN": "纸上谈兵",
+					"zh-TW": "鍵盤指揮官"
+				}
+			},
+			"id": "66B859AC-416D-6BB1-2F10-26917E8372FD",
+			"label": "66B859AC-416D-6BB1-2F10-26917E8372FD",
+			"name":
+			{
+				"defaultText": "Armchair IGL Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب قائد بالتنظير",
+					"de-DE": "Titel „Sessel-IGL“",
+					"en-US": "Armchair IGL Title",
+					"es-ES": "Título Líder en partida de sofá",
+					"es-MX": "Título de Líder de juego de sofá",
+					"fr-FR": "Titre Capitaine de salon",
+					"id-ID": "Gelar Armchair IGL",
+					"it-IT": "Titolo Regista dietro le quinte",
+					"ja-JP": "アームチェア IGL タイトル",
+					"ko-KR": "방구석 인 게임 리더 칭호",
+					"pl-PL": "Tytuł „Teoretyczny IGL”",
+					"pt-BR": "Título Sabor IGL",
+					"ru-RU": "Звание \"Диванный капитан\"",
+					"th-TH": "ฉายาเด็กเกาะเบาะ",
+					"tr-TR": "Fahri Takım Lideri Unvanı",
+					"vi-VN": "Danh Hiệu Chỉ Tay Năm Ngón",
+					"zh-CN": "纸上谈兵 称号",
+					"zh-TW": "鍵盤指揮官 稱號"
 				}
 			}
 		}
@@ -264717,6 +265128,66 @@
 					"vi-VN": "Phụ Kiện Balô",
 					"zh-CN": "包赢 挂饰",
 					"zh-TW": "背背包 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "8E7FF164-438B-AE1C-7435-8B9FD4CE9A2D",
+					"label": "8E7FF164-438B-AE1C-7435-8B9FD4CE9A2D",
+					"name":
+					{
+						"defaultText": "BadDuck",
+						"localizedByCulture":
+						{
+							"ar-AE": "BadDuck",
+							"de-DE": "BadDuck",
+							"en-US": "BadDuck",
+							"es-ES": "BadDuck",
+							"es-MX": "BadDuck",
+							"fr-FR": "BadDuck",
+							"id-ID": "BadDuck",
+							"it-IT": "BadDuck",
+							"ja-JP": "BadDuck",
+							"ko-KR": "BadDuck",
+							"pl-PL": "BadDuck",
+							"pt-BR": "BadDuck",
+							"ru-RU": "BadDuck",
+							"th-TH": "BadDuck",
+							"tr-TR": "BadDuck",
+							"vi-VN": "BadDuck",
+							"zh-CN": "BadDuck",
+							"zh-TW": "BadDuck"
+						}
+					}
+				}
+			],
+			"id": "785319D1-4819-89E0-5870-63B6D3D54A70",
+			"label": "785319D1-4819-89E0-5870-63B6D3D54A70",
+			"name":
+			{
+				"defaultText": "Burnard Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق محرور",
+					"de-DE": "Talisman „Burnard“",
+					"en-US": "Burnard Buddy",
+					"es-ES": "Amuleto Patorrado",
+					"es-MX": "Buddy Burnard",
+					"fr-FR": "Porte-bonheur Burnard",
+					"id-ID": "Buddy Burnard",
+					"it-IT": "Accessorio Paperovente",
+					"ja-JP": "バーナード バディー",
+					"ko-KR": "버나드 총기 장식",
+					"pl-PL": "Przywieszka „Burnard”",
+					"pt-BR": "Chaveiro Fornaldo",
+					"ru-RU": "Брелок \"Угляш\"",
+					"th-TH": "บัดดี้ Burnard",
+					"tr-TR": "Vaklava Uğuru",
+					"vi-VN": "Phụ Kiện Burnard",
+					"zh-CN": "烈烈 挂饰",
+					"zh-TW": "氣噗噗鴨 吊飾"
 				}
 			}
 		},
@@ -271660,7 +272131,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "ملحق عملة V26 المشهد III",
-					"de-DE": "Talisman „V26/AKT III-Münze“",
+					"de-DE": "Talisman „V26 AKT III-Münze“",
 					"en-US": "V26 ACT III Coin Buddy",
 					"es-ES": "Amuleto Moneda de V26: ACTO III",
 					"es-MX": "Buddy Moneda V26 // Acto III",
@@ -275684,7 +276155,7 @@
 					"en-US": "VCT Masters Winner Buddy",
 					"es-ES": "Amuleto Ganador del VCT Masters",
 					"es-MX": "Buddy Ganador del VCT Masters",
-					"fr-FR": "Porte-bonheur Vainqueur des Masters du VCT",
+					"fr-FR": "Porte-bonheur Vainqueur des VCT Masters",
 					"id-ID": "Buddy VCT Masters Winner",
 					"it-IT": "Accessorio Vincitore VCT Masters",
 					"ja-JP": "VCT Masters ウィナー バディー",
@@ -277973,7 +278444,7 @@
 					"pt-BR": "Chaveiro Retribuição",
 					"ru-RU": "Брелок \"Возвращение\"",
 					"th-TH": "บัดดี้ Give Back",
-					"tr-TR": "İYİLİĞİ PAYLAŞ UĞURU",
+					"tr-TR": "İyiliği Paylaş Uğuru",
 					"vi-VN": "Phụ Kiện Vì Cộng Đồng",
 					"zh-CN": "回响 挂饰",
 					"zh-TW": "公益回饋 吊飾"
@@ -278523,6 +278994,126 @@
 		{
 			"levels": [
 				{
+					"id": "5CB99A45-46AE-96C0-20BD-509A95C9F5D3",
+					"label": "5CB99A45-46AE-96C0-20BD-509A95C9F5D3",
+					"name":
+					{
+						"defaultText": "GoodDuck",
+						"localizedByCulture":
+						{
+							"ar-AE": "GoodDuck",
+							"de-DE": "GoodDuck",
+							"en-US": "GoodDuck",
+							"es-ES": "GoodDuck",
+							"es-MX": "GoodDuck",
+							"fr-FR": "GoodDuck",
+							"id-ID": "GoodDuck",
+							"it-IT": "GoodDuck",
+							"ja-JP": "GoodDuck",
+							"ko-KR": "GoodDuck",
+							"pl-PL": "GoodDuck",
+							"pt-BR": "GoodDuck",
+							"ru-RU": "GoodDuck",
+							"th-TH": "GoodDuck",
+							"tr-TR": "GoodDuck",
+							"vi-VN": "GoodDuck",
+							"zh-CN": "GoodDuck",
+							"zh-TW": "GoodDuck"
+						}
+					}
+				}
+			],
+			"id": "6338BECC-4151-C9A1-E130-AF8A72D745F1",
+			"label": "6338BECC-4151-C9A1-E130-AF8A72D745F1",
+			"name":
+			{
+				"defaultText": "Flower Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق كعكة",
+					"de-DE": "Talisman „Flower“",
+					"en-US": "Flower Buddy",
+					"es-ES": "Amuleto Flor",
+					"es-MX": "Buddy Flor",
+					"fr-FR": "Porte-bonheur Fleur",
+					"id-ID": "Buddy Flower",
+					"it-IT": "Accessorio Fiore",
+					"ja-JP": "フラワー バディー",
+					"ko-KR": "반죽이 총기 장식",
+					"pl-PL": "Przywieszka „Kwiat”",
+					"pt-BR": "Chaveiro Florinda",
+					"ru-RU": "Брелок \"Цветочек\"",
+					"th-TH": "บัดดี้ Flower",
+					"tr-TR": "Civelek Uğuru",
+					"vi-VN": "Phụ Kiện Flower",
+					"zh-CN": "花花 挂饰",
+					"zh-TW": "揪感心鴨 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "14D6A543-4F4C-AB0E-2DAD-AD98F35B8628",
+					"label": "14D6A543-4F4C-AB0E-2DAD-AD98F35B8628",
+					"name":
+					{
+						"defaultText": "Goose",
+						"localizedByCulture":
+						{
+							"ar-AE": "Goose",
+							"de-DE": "Goose",
+							"en-US": "Goose",
+							"es-ES": "Goose",
+							"es-MX": "Goose",
+							"fr-FR": "Goose",
+							"id-ID": "Goose",
+							"it-IT": "Goose",
+							"ja-JP": "Goose",
+							"ko-KR": "Goose",
+							"pl-PL": "Goose",
+							"pt-BR": "Goose",
+							"ru-RU": "Goose",
+							"th-TH": "Goose",
+							"tr-TR": "Goose",
+							"vi-VN": "Goose",
+							"zh-CN": "Goose",
+							"zh-TW": "Goose"
+						}
+					}
+				}
+			],
+			"id": "495920F9-48B8-891A-5E52-888A2204396A",
+			"label": "495920F9-48B8-891A-5E52-888A2204396A",
+			"name":
+			{
+				"defaultText": "Brioche Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بريوش",
+					"de-DE": "Talisman „Brioche“",
+					"en-US": "Brioche Buddy",
+					"es-ES": "Amuleto Gánswich",
+					"es-MX": "Buddy Brioche",
+					"fr-FR": "Porte-bonheur Brioche",
+					"id-ID": "Buddy Brioche",
+					"it-IT": "Accessorio Brioche",
+					"ja-JP": "ブリオッシュ バディー",
+					"ko-KR": "브리오슈 총기 장식",
+					"pl-PL": "Przywieszka „Brioszka”",
+					"pt-BR": "Chaveiro Brioche",
+					"ru-RU": "Брелок \"Хлебушек\"",
+					"th-TH": "บัดดี้ Brioche",
+					"tr-TR": "Eppek Uğuru",
+					"vi-VN": "Phụ Kiện Brioche",
+					"zh-CN": "包包 挂饰",
+					"zh-TW": "土司鵝鵝 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "A7555579-4DF9-6916-E15F-8381C11689A9",
 					"label": "A7555579-4DF9-6916-E15F-8381C11689A9",
 					"name":
@@ -278937,6 +279528,66 @@
 					"vi-VN": "Phụ Kiện Chim Ưng",
 					"zh-CN": "飞飞 挂饰",
 					"zh-TW": "鷹寶 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "44559310-45BD-6DC8-4D2F-2195F02B719C",
+					"label": "44559310-45BD-6DC8-4D2F-2195F02B719C",
+					"name":
+					{
+						"defaultText": "GumballMachine",
+						"localizedByCulture":
+						{
+							"ar-AE": "GumballMachine",
+							"de-DE": "GumballMachine",
+							"en-US": "GumballMachine",
+							"es-ES": "GumballMachine",
+							"es-MX": "GumballMachine",
+							"fr-FR": "GumballMachine",
+							"id-ID": "GumballMachine",
+							"it-IT": "GumballMachine",
+							"ja-JP": "GumballMachine",
+							"ko-KR": "GumballMachine",
+							"pl-PL": "GumballMachine",
+							"pt-BR": "GumballMachine",
+							"ru-RU": "GumballMachine",
+							"th-TH": "GumballMachine",
+							"tr-TR": "GumballMachine",
+							"vi-VN": "GumballMachine",
+							"zh-CN": "GumballMachine",
+							"zh-TW": "GumballMachine"
+						}
+					}
+				}
+			],
+			"id": "FC6AA217-41F6-EB78-FB26-C6981AD182A0",
+			"label": "FC6AA217-41F6-EB78-FB26-C6981AD182A0",
+			"name":
+			{
+				"defaultText": "Sweet Calls Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق نداء الحلاوة",
+					"de-DE": "Talisman „Süße Rufe“",
+					"en-US": "Sweet Calls Buddy",
+					"es-ES": "Amuleto Decisiones deliciosas",
+					"es-MX": "Buddy Dulces Llamadas",
+					"fr-FR": "Porte-bonheur Bec sucré",
+					"id-ID": "Buddy Sweet Calls",
+					"it-IT": "Accessorio Pausa dolce",
+					"ja-JP": "スイート コール バディー",
+					"ko-KR": "달콤한 부름 총기 장식",
+					"pl-PL": "Przywieszka „Słodkości”",
+					"pt-BR": "Chaveiro Chicletudo",
+					"ru-RU": "Брелок \"Автомат со жвачкой\"",
+					"th-TH": "บัดดี้ Sweet Calls",
+					"tr-TR": "Tatlı Krizi Uğuru",
+					"vi-VN": "Phụ Kiện Máy Bán Kẹo",
+					"zh-CN": "甜蜜呼唤 挂饰",
+					"zh-TW": "糖果販賣機 吊飾"
 				}
 			}
 		},
@@ -301203,6 +301854,126 @@
 		{
 			"levels": [
 				{
+					"id": "66E0E491-41AD-2814-0F51-F192FA147F5B",
+					"label": "66E0E491-41AD-2814-0F51-F192FA147F5B",
+					"name":
+					{
+						"defaultText": "SageBlowingWhistle",
+						"localizedByCulture":
+						{
+							"ar-AE": "SageBlowingWhistle",
+							"de-DE": "SageBlowingWhistle",
+							"en-US": "SageBlowingWhistle",
+							"es-ES": "SageBlowingWhistle",
+							"es-MX": "SageBlowingWhistle",
+							"fr-FR": "SageBlowingWhistle",
+							"id-ID": "SageBlowingWhistle",
+							"it-IT": "SageBlowingWhistle",
+							"ja-JP": "SageBlowingWhistle",
+							"ko-KR": "SageBlowingWhistle",
+							"pl-PL": "SageBlowingWhistle",
+							"pt-BR": "SageBlowingWhistle",
+							"ru-RU": "SageBlowingWhistle",
+							"th-TH": "SageBlowingWhistle",
+							"tr-TR": "SageBlowingWhistle",
+							"vi-VN": "SageBlowingWhistle",
+							"zh-CN": "SageBlowingWhistle",
+							"zh-TW": "SageBlowingWhistle"
+						}
+					}
+				}
+			],
+			"id": "BBBDD279-41DC-99C1-83A3-77A19494F705",
+			"label": "BBBDD279-41DC-99C1-83A3-77A19494F705",
+			"name":
+			{
+				"defaultText": "REF?!? Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق أيها الحكم!",
+					"de-DE": "Talisman „SCHIRI?!?“",
+					"en-US": "REF?!? Buddy",
+					"es-ES": "Amuleto ¡¿Árbitra?!",
+					"es-MX": "Buddy ¡ES FALTA!",
+					"fr-FR": "Porte-bonheur Arbitre ?!?",
+					"id-ID": "Buddy REF?!?",
+					"it-IT": "Accessorio ARBITRO?!",
+					"ja-JP": "審判!? バディー",
+					"ko-KR": "심판?!? 총기 장식",
+					"pl-PL": "Przywieszka „SĘDZIA?!?”",
+					"pt-BR": "Chaveiro Árbitra",
+					"ru-RU": "Брелок \"СУДЬЯ?!\"",
+					"th-TH": "บัดดี้ REF?!?",
+					"tr-TR": "HAKEM?! Uğuru",
+					"vi-VN": "Phụ Kiện TRỌNG TÀI ƠI?!?",
+					"zh-CN": "裁判？！？挂饰",
+					"zh-TW": "裁判？！？吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "AFCA98AF-4016-64A7-ED79-0390B4D73AF8",
+					"label": "AFCA98AF-4016-64A7-ED79-0390B4D73AF8",
+					"name":
+					{
+						"defaultText": "SageBlowingWhistleGold",
+						"localizedByCulture":
+						{
+							"ar-AE": "SageBlowingWhistleGold",
+							"de-DE": "SageBlowingWhistleGold",
+							"en-US": "SageBlowingWhistleGold",
+							"es-ES": "SageBlowingWhistleGold",
+							"es-MX": "SageBlowingWhistleGold",
+							"fr-FR": "SageBlowingWhistleGold",
+							"id-ID": "SageBlowingWhistleGold",
+							"it-IT": "SageBlowingWhistleGold",
+							"ja-JP": "SageBlowingWhistleGold",
+							"ko-KR": "SageBlowingWhistleGold",
+							"pl-PL": "SageBlowingWhistleGold",
+							"pt-BR": "SageBlowingWhistleGold",
+							"ru-RU": "SageBlowingWhistleGold",
+							"th-TH": "SageBlowingWhistleGold",
+							"tr-TR": "SageBlowingWhistleGold",
+							"vi-VN": "SageBlowingWhistleGold",
+							"zh-CN": "SageBlowingWhistleGold",
+							"zh-TW": "SageBlowingWhistleGold"
+						}
+					}
+				}
+			],
+			"id": "5C998FBE-42D1-9A01-4DDE-B2B11C580162",
+			"label": "5C998FBE-42D1-9A01-4DDE-B2B11C580162",
+			"name":
+			{
+				"defaultText": "Pick'Ems Master: REF?!? Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق خبير Pick'Ems: أيها الحكم!",
+					"de-DE": "Talisman „Tippspielmeister: SCHIRI?!?“",
+					"en-US": "Pick'Ems Master: REF?!? Buddy",
+					"es-ES": "Maestro de la quiniela: Amuleto ¡¿Árbitra?!",
+					"es-MX": "Buddy Especialista en Pick'ems: ¡ES FALTA!",
+					"fr-FR": "Porte-bonheur Expert des Pick'Ems : Arbitre ?!?",
+					"id-ID": "Buddy Pick'Ems Master: REF?!?",
+					"it-IT": "Accessorio Maestro Pick'Ems: ARBITRO?!",
+					"ja-JP": "Pick'Ems マスター:•審判!? バディー",
+					"ko-KR": "승부의 신 마스터: 심판?!? 총기 장식",
+					"pl-PL": "Przywieszka „Mistrz typowania: SĘDZIA?!?”",
+					"pt-BR": "Chaveiro Mestre do Bolão: Árbitra",
+					"ru-RU": "Брелок \"Мастер конкурса прогнозов: СУДЬЯ?!\"",
+					"th-TH": "บัดดี้ Pick'Ems Master: REF?!?",
+					"tr-TR": "Kim Alır Ustası: HAKEM?! Uğuru",
+					"vi-VN": "Phụ Kiện Cao Thủ Pick’Ems: TRỌNG TÀI ƠI?!?",
+					"zh-CN": "竞猜大师：裁判？！？挂饰",
+					"zh-TW": "Pick'Ems預測大師：裁判？！？吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "CC03FD3E-470A-7D06-47CE-F3A01EEE15C2",
 					"label": "CC03FD3E-470A-7D06-47CE-F3A01EEE15C2",
 					"name":
@@ -318599,6 +319370,186 @@
 					"vi-VN": "Hình Phun Sơn Quạc!",
 					"zh-CN": "嘎嘎！ 喷漆",
 					"zh-TW": "呱呱！！ 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "6CA04DF7-45F6-4003-BBAD-F1B35415B39F",
+					"label": "6CA04DF7-45F6-4003-BBAD-F1B35415B39F",
+					"name":
+					{
+						"defaultText": "BadDuck",
+						"localizedByCulture":
+						{
+							"ar-AE": "BadDuck",
+							"de-DE": "BadDuck",
+							"en-US": "BadDuck",
+							"es-ES": "BadDuck",
+							"es-MX": "BadDuck",
+							"fr-FR": "BadDuck",
+							"id-ID": "BadDuck",
+							"it-IT": "BadDuck",
+							"ja-JP": "BadDuck",
+							"ko-KR": "BadDuck",
+							"pl-PL": "BadDuck",
+							"pt-BR": "BadDuck",
+							"ru-RU": "BadDuck",
+							"th-TH": "BadDuck",
+							"tr-TR": "BadDuck",
+							"vi-VN": "BadDuck",
+							"zh-CN": "BadDuck",
+							"zh-TW": "BadDuck"
+						}
+					}
+				}
+			],
+			"id": "F249F31B-4B0D-C0DF-D3CA-9DAB2686F107",
+			"label": "F249F31B-4B0D-C0DF-D3CA-9DAB2686F107",
+			"name":
+			{
+				"defaultText": "Burnard Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة محرور",
+					"de-DE": "Graffiti „Burnard“",
+					"en-US": "Burnard Spray",
+					"es-ES": "Grafiti Patorrado",
+					"es-MX": "Spray Burnard",
+					"fr-FR": "Graffiti Burnard",
+					"id-ID": "Spray Burnard",
+					"it-IT": "Spray Paperovente",
+					"ja-JP": "バーナード スプレー",
+					"ko-KR": "버나드 스프레이",
+					"pl-PL": "Graffiti „Burnard”",
+					"pt-BR": "Spray Fornaldo",
+					"ru-RU": "Граффити \"Угляш\"",
+					"th-TH": "สเปรย์ Burnard",
+					"tr-TR": "Vaklava Spreyi",
+					"vi-VN": "Hình Phun Sơn Burnard",
+					"zh-CN": "烈烈 喷漆",
+					"zh-TW": "氣噗噗鴨 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "3A22906B-4114-2D0A-2AAE-BF9127903DF8",
+					"label": "3A22906B-4114-2D0A-2AAE-BF9127903DF8",
+					"name":
+					{
+						"defaultText": "GoodDuck",
+						"localizedByCulture":
+						{
+							"ar-AE": "GoodDuck",
+							"de-DE": "GoodDuck",
+							"en-US": "GoodDuck",
+							"es-ES": "GoodDuck",
+							"es-MX": "GoodDuck",
+							"fr-FR": "GoodDuck",
+							"id-ID": "GoodDuck",
+							"it-IT": "GoodDuck",
+							"ja-JP": "GoodDuck",
+							"ko-KR": "GoodDuck",
+							"pl-PL": "GoodDuck",
+							"pt-BR": "GoodDuck",
+							"ru-RU": "GoodDuck",
+							"th-TH": "GoodDuck",
+							"tr-TR": "GoodDuck",
+							"vi-VN": "GoodDuck",
+							"zh-CN": "GoodDuck",
+							"zh-TW": "GoodDuck"
+						}
+					}
+				}
+			],
+			"id": "EAB8FD97-4DC4-0BDB-828E-66AE3E481DE3",
+			"label": "EAB8FD97-4DC4-0BDB-828E-66AE3E481DE3",
+			"name":
+			{
+				"defaultText": "Flower Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة كعكة",
+					"de-DE": "Graffiti „Flower“",
+					"en-US": "Flower Spray",
+					"es-ES": "Grafiti Flor",
+					"es-MX": "Spray Flor",
+					"fr-FR": "Graffiti Fleur",
+					"id-ID": "Spray Flower",
+					"it-IT": "Spray Fiore",
+					"ja-JP": "フラワー スプレー",
+					"ko-KR": "반죽이 스프레이",
+					"pl-PL": "Graffiti „Kwiat”",
+					"pt-BR": "Spray Florinda",
+					"ru-RU": "Граффити \"Цветочек\"",
+					"th-TH": "สเปรย์ Flower",
+					"tr-TR": "Civelek Spreyi",
+					"vi-VN": "Hình Phun Sơn Flower",
+					"zh-CN": "花花 喷漆",
+					"zh-TW": "揪感心鴨 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "3F7FE4C7-429B-4BB4-4E20-2FA577FB2FBE",
+					"label": "3F7FE4C7-429B-4BB4-4E20-2FA577FB2FBE",
+					"name":
+					{
+						"defaultText": "Goose",
+						"localizedByCulture":
+						{
+							"ar-AE": "Goose",
+							"de-DE": "Goose",
+							"en-US": "Goose",
+							"es-ES": "Goose",
+							"es-MX": "Goose",
+							"fr-FR": "Goose",
+							"id-ID": "Goose",
+							"it-IT": "Goose",
+							"ja-JP": "Goose",
+							"ko-KR": "Goose",
+							"pl-PL": "Goose",
+							"pt-BR": "Goose",
+							"ru-RU": "Goose",
+							"th-TH": "Goose",
+							"tr-TR": "Goose",
+							"vi-VN": "Goose",
+							"zh-CN": "Goose",
+							"zh-TW": "Goose"
+						}
+					}
+				}
+			],
+			"id": "CDA18D45-47BA-78CC-4FA8-5992C65CF1BC",
+			"label": "CDA18D45-47BA-78CC-4FA8-5992C65CF1BC",
+			"name":
+			{
+				"defaultText": "Brioche Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة بريوش",
+					"de-DE": "Graffiti „Brioche“",
+					"en-US": "Brioche Spray",
+					"es-ES": "Grafiti Gánswich",
+					"es-MX": "Spray Brioche",
+					"fr-FR": "Graffiti Brioche",
+					"id-ID": "Spray Brioche",
+					"it-IT": "Spray Brioche",
+					"ja-JP": "ブリオッシュ スプレー",
+					"ko-KR": "브리오슈 스프레이",
+					"pl-PL": "Graffiti „Brioszka”",
+					"pt-BR": "Spray Brioche",
+					"ru-RU": "Граффити \"Хлебушек\"",
+					"th-TH": "สเปรย์ Brioche",
+					"tr-TR": "Eppek Spreyi",
+					"vi-VN": "Hình Phun Sơn Brioche",
+					"zh-CN": "包包 喷漆",
+					"zh-TW": "土司鵝鵝 塗鴉"
 				}
 			}
 		},
@@ -344045,6 +344996,66 @@
 		{
 			"levels": [
 				{
+					"id": "1FA56DC4-4CE4-2284-BBBF-C4A7EB519F6B",
+					"label": "1FA56DC4-4CE4-2284-BBBF-C4A7EB519F6B",
+					"name":
+					{
+						"defaultText": "AllLove",
+						"localizedByCulture":
+						{
+							"ar-AE": "AllLove",
+							"de-DE": "AllLove",
+							"en-US": "AllLove",
+							"es-ES": "AllLove",
+							"es-MX": "AllLove",
+							"fr-FR": "AllLove",
+							"id-ID": "AllLove",
+							"it-IT": "AllLove",
+							"ja-JP": "AllLove",
+							"ko-KR": "AllLove",
+							"pl-PL": "AllLove",
+							"pt-BR": "AllLove",
+							"ru-RU": "AllLove",
+							"th-TH": "AllLove",
+							"tr-TR": "AllLove",
+							"vi-VN": "AllLove",
+							"zh-CN": "AllLove",
+							"zh-TW": "AllLove"
+						}
+					}
+				}
+			],
+			"id": "37F64FF4-4BEA-395B-B61F-1EB81680FF9D",
+			"label": "37F64FF4-4BEA-395B-B61F-1EB81680FF9D",
+			"name":
+			{
+				"defaultText": "All Love Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة كل الحب",
+					"de-DE": "Graffiti „Die Liebe gewinnt immer“",
+					"en-US": "All Love Spray",
+					"es-ES": "Grafiti Mucho amor",
+					"es-MX": "Spray Puro Amor",
+					"fr-FR": "Graffiti Que de l'amour",
+					"id-ID": "Spray All Love",
+					"it-IT": "Spray Tutto amore",
+					"ja-JP": "オールラブ スプレー",
+					"ko-KR": "애정 듬뿍 스프레이",
+					"pl-PL": "Graffiti „Sama miłość”",
+					"pt-BR": "Spray Plantando Amor",
+					"ru-RU": "Граффити \"Всем любовь\"",
+					"th-TH": "สเปรย์ All Love",
+					"tr-TR": "Sevgi Kankuşu Spreyi",
+					"vi-VN": "Hình Phun Sơn Tâm Ái",
+					"zh-CN": "爱意满满 喷漆",
+					"zh-TW": "愛無限 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "823C398B-4439-F0C1-8B28-858992128E73",
 					"label": "823C398B-4439-F0C1-8B28-858992128E73",
 					"name":
@@ -344786,7 +345797,7 @@
 							"pt-BR": "Spray Retribuição",
 							"ru-RU": "Граффити \"Возвращение\"",
 							"th-TH": "สเปรย์ Give Back",
-							"tr-TR": "İYİLİĞİ PAYLAŞ SPREYİ",
+							"tr-TR": "İyiliği Paylaş Spreyi",
 							"vi-VN": "Hình Phun Sơn Vì Cộng Đồng",
 							"zh-CN": "回响 喷漆",
 							"zh-TW": "公益回饋 塗鴉"
@@ -344815,7 +345826,7 @@
 					"pt-BR": "Spray Retribuição",
 					"ru-RU": "Граффити \"Возвращение\"",
 					"th-TH": "สเปรย์ Give Back",
-					"tr-TR": "İYİLİĞİ PAYLAŞ SPREYİ",
+					"tr-TR": "İyiliği Paylaş Spreyi",
 					"vi-VN": "Hình Phun Sơn Vì Cộng Đồng",
 					"zh-CN": "回响 喷漆",
 					"zh-TW": "公益回饋 塗鴉"
@@ -344879,6 +345890,66 @@
 					"vi-VN": "Hình Phun Sơn Bữa Tiệc Bắt Đầu",
 					"zh-CN": "一起狂欢 喷漆",
 					"zh-TW": "開派對囉 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "F148CB64-4955-6D60-2423-2187520844AC",
+					"label": "F148CB64-4955-6D60-2423-2187520844AC",
+					"name":
+					{
+						"defaultText": "HighTea",
+						"localizedByCulture":
+						{
+							"ar-AE": "HighTea",
+							"de-DE": "HighTea",
+							"en-US": "HighTea",
+							"es-ES": "HighTea",
+							"es-MX": "HighTea",
+							"fr-FR": "HighTea",
+							"id-ID": "HighTea",
+							"it-IT": "HighTea",
+							"ja-JP": "HighTea",
+							"ko-KR": "HighTea",
+							"pl-PL": "HighTea",
+							"pt-BR": "HighTea",
+							"ru-RU": "HighTea",
+							"th-TH": "HighTea",
+							"tr-TR": "HighTea",
+							"vi-VN": "HighTea",
+							"zh-CN": "HighTea",
+							"zh-TW": "HighTea"
+						}
+					}
+				}
+			],
+			"id": "47700B6E-439A-5A71-8B8C-C1BB0EC9A4A9",
+			"label": "47700B6E-439A-5A71-8B8C-C1BB0EC9A4A9",
+			"name":
+			{
+				"defaultText": "Party of 1 Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة فرقة من 1",
+					"de-DE": "Graffiti „Zeit allein“",
+					"en-US": "Party of 1 Spray",
+					"es-ES": "Grafiti Mesa para uno",
+					"es-MX": "Spray Invitado Único",
+					"fr-FR": "Graffiti Groupe de 1",
+					"id-ID": "Spray Party of 1",
+					"it-IT": "Spray Gruppo da 1",
+					"ja-JP": "一人優雅に スプレー",
+					"ko-KR": "1인 파티 스프레이",
+					"pl-PL": "Graffiti „Grupa jednoosobowa”",
+					"pt-BR": "Spray Mesa pra Um",
+					"ru-RU": "Граффити \"Столик на одного\"",
+					"th-TH": "สเปรย์ Party of 1",
+					"tr-TR": "Tek Kişilik Grup Spreyi",
+					"vi-VN": "Hình Phun Sơn Tổ Đội 1 Người",
+					"zh-CN": "一人茶叙 喷漆",
+					"zh-TW": "獨處時光 塗鴉"
 				}
 			}
 		},
@@ -353666,7 +354737,7 @@
 							"pt-BR": "Spray Cypher VALORANT GO! Vol. 1",
 							"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Cypher\"",
 							"th-TH": "สเปรย์ VALORANT GO! Vol. 1 Cypher",
-							"tr-TR": "VALORANT GO! 1. CİLT CYPHER SPREYİ",
+							"tr-TR": "VALORANT GO! 1. Cilt Cypher Spreyi",
 							"vi-VN": "Hình Phun Sơn Cypher VALORANT GO! Vol.1",
 							"zh-CN": "无畏契约GO！第一卷：零 喷漆",
 							"zh-TW": "特戰英豪 GO！第1集 瑟符 塗鴉"
@@ -353695,7 +354766,7 @@
 					"pt-BR": "Spray Cypher VALORANT GO! Vol. 1",
 					"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Cypher\"",
 					"th-TH": "สเปรย์ VALORANT GO! Vol. 1 Cypher",
-					"tr-TR": "VALORANT GO! 1. CİLT CYPHER SPREYİ",
+					"tr-TR": "VALORANT GO! 1. Cilt Cypher Spreyi",
 					"vi-VN": "Hình Phun Sơn Cypher VALORANT GO! Vol.1",
 					"zh-CN": "无畏契约GO！第一卷：零 喷漆",
 					"zh-TW": "特戰英豪 GO！第1集 瑟符 塗鴉"
@@ -353726,7 +354797,7 @@
 							"pt-BR": "Spray Jett VALORANT GO! Vol. 1",
 							"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Jett\"",
 							"th-TH": "สเปรย์ VALORANT GO! Vol. 1 Jett",
-							"tr-TR": "VALORANT GO! 1. CİLT JETT SPREYİ",
+							"tr-TR": "VALORANT GO! 1. Cilt Jett Spreyi",
 							"vi-VN": "Hình Phun Sơn Jett VALORANT GO! Vol.1",
 							"zh-CN": "无畏契约GO！第一卷：捷风 喷漆",
 							"zh-TW": "特戰英豪 GO！第1集 婕提 塗鴉"
@@ -353755,7 +354826,7 @@
 					"pt-BR": "Spray Jett VALORANT GO! Vol. 1",
 					"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Jett\"",
 					"th-TH": "สเปรย์ VALORANT GO! Vol. 1 Jett",
-					"tr-TR": "VALORANT GO! 1. CİLT JETT SPREYİ",
+					"tr-TR": "VALORANT GO! 1. Cilt Jett Spreyi",
 					"vi-VN": "Hình Phun Sơn Jett VALORANT GO! Vol.1",
 					"zh-CN": "无畏契约GO！第一卷：捷风 喷漆",
 					"zh-TW": "特戰英豪 GO！第1集 婕提 塗鴉"
@@ -353786,7 +354857,7 @@
 							"pt-BR": "Spray Killjoy VALORANT GO! Vol. 1",
 							"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Killjoy\"",
 							"th-TH": "สเปรย์ VALORANT GO! Vol. 1 Killjoy",
-							"tr-TR": "VALORANT GO! 1. CİLT KILLJOY SPREYİ",
+							"tr-TR": "VALORANT GO! 1. Cilt Killjoy Spreyi",
 							"vi-VN": "Hình Phun Sơn Killjoy VALORANT GO! Vol.1",
 							"zh-CN": "无畏契约GO！第一卷：奇乐 喷漆",
 							"zh-TW": "特戰英豪 GO！第1集 愷宙 塗鴉"
@@ -353815,7 +354886,7 @@
 					"pt-BR": "Spray Killjoy VALORANT GO! Vol. 1",
 					"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Killjoy\"",
 					"th-TH": "สเปรย์ VALORANT GO! Vol. 1 Killjoy",
-					"tr-TR": "VALORANT GO! 1. CİLT KILLJOY SPREYİ",
+					"tr-TR": "VALORANT GO! 1. Cilt Killjoy Spreyi",
 					"vi-VN": "Hình Phun Sơn Killjoy VALORANT GO! Vol.1",
 					"zh-CN": "无畏契约GO！第一卷：奇乐 喷漆",
 					"zh-TW": "特戰英豪 GO！第1集 愷宙 塗鴉"
@@ -353846,7 +354917,7 @@
 							"pt-BR": "Spray Reyna VALORANT GO! Vol. 1",
 							"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Reyna\"",
 							"th-TH": "สเปรย์ VALORANT GO! Vol. 1 Reyna",
-							"tr-TR": "VALORANT GO! 1. CİLT REYNA SPREYİ",
+							"tr-TR": "VALORANT GO! 1. Cilt Reyna Spreyi",
 							"vi-VN": "Hình Phun Sơn Reyna VALORANT GO! Vol.1",
 							"zh-CN": "无畏契约GO！第一卷：芮娜 喷漆",
 							"zh-TW": "特戰英豪 GO！第1集 蕾娜 塗鴉"
@@ -353875,7 +354946,7 @@
 					"pt-BR": "Spray Reyna VALORANT GO! Vol. 1",
 					"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Reyna\"",
 					"th-TH": "สเปรย์ VALORANT GO! Vol. 1 Reyna",
-					"tr-TR": "VALORANT GO! 1. CİLT REYNA SPREYİ",
+					"tr-TR": "VALORANT GO! 1. Cilt Reyna Spreyi",
 					"vi-VN": "Hình Phun Sơn Reyna VALORANT GO! Vol.1",
 					"zh-CN": "无畏契约GO！第一卷：芮娜 喷漆",
 					"zh-TW": "特戰英豪 GO！第1集 蕾娜 塗鴉"
@@ -353906,7 +354977,7 @@
 							"pt-BR": "Spray Sage VALORANT GO! Vol. 1",
 							"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Sage\"",
 							"th-TH": "สเปรย์ VALORANT GO! Vol. 1 Sage",
-							"tr-TR": "VALORANT GO! 1. CİLT SAGE SPREYİ",
+							"tr-TR": "VALORANT GO! 1. Cilt Sage Spreyi",
 							"vi-VN": "Hình Phun Sơn Sage VALORANT GO! Vol.1",
 							"zh-CN": "无畏契约GO！第一卷：贤者 喷漆",
 							"zh-TW": "特戰英豪 GO！第1集 聖祈 塗鴉"
@@ -353935,7 +355006,7 @@
 					"pt-BR": "Spray Sage VALORANT GO! Vol. 1",
 					"ru-RU": "Граффити \"VALORANT GO! Вып. 1 - Sage\"",
 					"th-TH": "สเปรย์ VALORANT GO! Vol. 1 Sage",
-					"tr-TR": "VALORANT GO! 1. CİLT SAGE SPREYİ",
+					"tr-TR": "VALORANT GO! 1. Cilt Sage Spreyi",
 					"vi-VN": "Hình Phun Sơn Sage VALORANT GO! Vol.1",
 					"zh-CN": "无畏契约GO！第一卷：贤者 喷漆",
 					"zh-TW": "特戰英豪 GO！第1集 聖祈 塗鴉"
@@ -365401,6 +366472,35 @@
 			}
 		},
 		{
+			"id": "E4ABAF07-4C46-73DF-F67B-72B6932A5FF9",
+			"label": "E4ABAF07-4C46-73DF-F67B-72B6932A5FF9",
+			"name":
+			{
+				"defaultText": "Burnard & Brioche Flex",
+				"localizedByCulture":
+				{
+					"ar-AE": "أداة استعراض محرور وبريوش",
+					"de-DE": "Flex „Burnard und Brioche“",
+					"en-US": "Burnard & Brioche Flex",
+					"es-ES": "Vacile Patorrado y Gánswich",
+					"es-MX": "Flex Burnard y Brioche",
+					"fr-FR": "Flex Burnard & Brioche",
+					"id-ID": "Flex Burnard & Brioche",
+					"it-IT": "Flex Paperovente + Brioche",
+					"ja-JP": "バーナード＆ブリオッシュ フレックス",
+					"ko-KR": "버나드 & 브리오슈 플렉스",
+					"pl-PL": "Flex „Burnard i Brioszka”",
+					"pt-BR": "Gesto Fornaldo e Brioche",
+					"ru-RU": "Флекс \"Угляш и Хлебушек\"",
+					"th-TH": "Burnard & Brioche Flex",
+					"tr-TR": "Vaklava ve Eppek Donatısı",
+					"vi-VN": "Flex Burnard & Brioche",
+					"zh-CN": "谁是鹅 盘盘",
+					"zh-TW": "氣噗噗鴨與土司鵝鵝 炫技"
+				}
+			}
+		},
+		{
 			"id": "26D0A6CB-4F8C-04B8-FDB0-CC8B1ADF8B59",
 			"label": "26D0A6CB-4F8C-04B8-FDB0-CC8B1ADF8B59",
 			"name":
@@ -366534,7 +367634,7 @@
 					"th-TH": "Skirmish",
 					"tr-TR": "ÇARPIŞMA",
 					"vi-VN": "Skirmish",
-					"zh-CN": "斗牛",
+					"zh-CN": "斗牛：经典",
 					"zh-TW": "火線交鋒"
 				}
 			}
@@ -368886,7 +369986,7 @@
 					"th-TH": "Skirmish: 2v2",
 					"tr-TR": "ÇARPIŞMA: 2'YE 2",
 					"vi-VN": "Skirmish: 2v2",
-					"zh-CN": "斗牛：2v2",
+					"zh-CN": "斗牛：经典 2v2",
 					"zh-TW": "火線交鋒：2v2"
 				}
 			}
@@ -369588,7 +370688,7 @@
 					"th-TH": "Skirmish: 2v2",
 					"tr-TR": "ÇARPIŞMA: 2'YE 2",
 					"vi-VN": "Skirmish: 2v2",
-					"zh-CN": "斗牛：2v2",
+					"zh-CN": "斗牛：经典 2v2",
 					"zh-TW": "火線交鋒：2v2"
 				}
 			}
