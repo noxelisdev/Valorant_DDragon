@@ -1,5 +1,5 @@
 {
-	"version": "12.09.00.4651524",
+	"version": "12.10.00.4738152",
 	"characters": [
 		{
 			"description":
@@ -5231,7 +5231,7 @@
 							"ja-JP": "「アストラルフォーム」(アルティメットキー) でスターを設置。\n\nスターを「発動」することで「グラビティウェル」を形成する。範囲内のプレイヤーを中心に引き寄せてから爆発して、範囲内に残っていたすべてのプレイヤーを弱体化させる。",
 							"ko-KR": "천상계 형상에서 별을 설치합니다. (궁극기 키)\n\n활성화 시 별 하나를 중력의 샘으로 변형합니다. 중력의 샘은 범위 내 플레이어들을 끌어당기다가 폭발하며, 폭발에 닿은 플레이어들은 취약 상태가 됩니다.",
 							"pl-PL": "Umieść Gwiazdki w Postaci Astral (przycisk ulta).\n\nAKTYWUJ Gwiazdkę, aby stworzyć Studnię Grawitacyjną. Studnia Grawitacyjna przyciąga do środka znajdujących się w pobliżu graczy, a następnie wybucha, wywołując podatność u wszystkich wciąż uwięzionych agentów.",
-							"pt-BR": "Posicione Estrelas na Forma Astral (tecla da Ultimate).\r\n\r\nATIVE uma Estrela para formar um Poço Gravitacional. Jogadores na área são puxados em direção ao centro antes dele explodir, deixando todos os jogadores ainda presos dentro dele Vulneráveis.",
+							"pt-BR": "Posicione Estrelas na Forma Astral (tecla da Ultimate).\r\n\r\nATIVE uma Estrela para formar um Poço Gravitacional. Jogadores na área são puxados em direção ao centro antes de ele explodir, deixando Vulneráveis todos que ainda estão presos no centro.",
 							"ru-RU": "Разместите звезды в Астральной форме (нажмите кнопку абсолютного умения).\nАктивируйте звезду, чтобы создать гравитационный колодец. Игроки в области действия умения притягиваются к центру, после чего колодец взрывается, делая игроков внутри уязвимыми.",
 							"th-TH": "จัดวางดวงดาวใน Astral Form (ปุ่มอัลติเมท)\n\nเปิดใช้งานดวงดาวเพื่อสร้าง Gravity Well ผู้เล่นที่อยู่ในบริเวณจะถูกดึงเข้าจุดศูนย์กลางก่อนที่มันจะระเบิด ส่งผลให้ผู้เล่นที่ติดอยู่ภายในได้รับสถานะเปราะบาง",
 							"tr-TR": "Astral Yolcu halindeyken yıldız yerleştir (ulti düğmesi).\n\nÇekim Alanı oluşturmak için bir yıldızı ETKİNLEŞTİR. Etki alanı içindeki oyuncular merkeze çekilir ve ardından merkez patlayarak içerideki oyuncuları Savunmasız hale getirir.",
@@ -6255,27 +6255,27 @@
 				{
 					"description":
 					{
-						"defaultText": "INSTANTLY channel Neon’s power for Increased Speed. When charged, ALT FIRE to trigger an electric slide dash. Slide charge resets every two kills. Fuel recharges on kill. ",
+						"defaultText": "INSTANTLY channel Neon’s power for Increased Speed. When charged, ALT FIRE to trigger an electric slide dash. Slide charge resets every two kills.",
 						"localizedByCulture":
 						{
-							"ar-AE": "وجّه قوة نيون فوريًا لزيادة السرعة. عند الشحن، اضغط على زر الإطلاق البديل لتفعيل اندفاع انزلاق كهربائي. تتم إعادة ضبط شحنة الانزلاق بعد كل عمليتي قتل. تتم إعادة شحن الوقود عند القتل. ",
-							"de-DE": "Kanalisiere SOFORT Neons Macht für erhöhte Geschwindigkeit. Wenn aufgeladen, löse mit ALT. FEUER einen elektrisierten Rutschen-Sprint aus. Die Rutschaufladung setzt sich alle zwei Kills zurück. Treibstoff lädt sich mit Kills wieder auf. ",
-							"en-US": "INSTANTLY channel Neon’s power for Increased Speed. When charged, ALT FIRE to trigger an electric slide dash. Slide charge resets every two kills. Fuel recharges on kill. ",
-							"es-ES": "Canaliza INSTANTÁNEAMENTE el poder de Neon para aumentar su velocidad. Cuando esté cargado, utiliza el DISPARO ALTERNATIVO para activar un deslizamiento eléctrico. La carga del deslizamiento se reinicia cada dos asesinatos. El combustible se recarga al morir. ",
-							"es-MX": "Canaliza INSTANTÁNEAMENTE el poder de Neon para aumentar su velocidad. Al cargarse, utiliza el DISPARO SECUNDARIO para activar un deslizamiento eléctrico. La carga del deslizamiento se reinicia cada dos asesinatos. Los asesinatos recargan el combustible. ",
-							"fr-FR": "Chargez INSTANTANÉMENT le pouvoir de Neon pour décupler sa vitesse. À la fin du chargement, utilisez le TIR SECONDAIRE pour faire une glissade électrique (considérée comme une ruée). Vous regagnez une charge de glissade toutes les deux éliminations. Le carburant se recharge en cas d'élimination. ",
-							"id-ID": "LANGSUNG menyalurkan kekuatan Neon untuk Meningkatkan Kecepatan. Saat charge penuh, tekan ALT FIRE untuk memicu luncuran listrik. Charge luncuran direset tiap dua kill. Fuel di-recharge saat kill. ",
-							"it-IT": "Canalizza ALL'ISTANTE l'energia di Neon per AUMENTARE LA VELOCITÀ. Quando l'abilità è carica, usa il FUOCO ALTERNATIVO per attivare uno scatto in scivolata elettrico. La carica della scivolata si ripristina ogni due uccisioni. Il carburante per la corsa si ricarica con le uccisioni. ",
-							"ja-JP": "ネオンの力が解き放たれ、スピードが上昇する。「オルト射撃」でチャージを消費し、電気をまとって加速する。加速のチャージは敵を2回キルするたびにリセットされる。キルで燃料が回復する。 ",
-							"ko-KR": "네온의 힘을 즉시 집중해 속도를 높입니다. 충전되면 보조 공격 시 전기 슬라이드를 발동합니다. 슬라이드 충전량은 2킬마다 초기화됩니다. 적 처치 시 배터리 게이지가 재충전됩니다. ",
-							"pl-PL": "NATYCHMIAST wykorzystaj moc Neon, aby znacząco przyspieszyć. Gdy ładunek jest dostępny, użyj ALT. STRZAŁU, aby wykonać doskok – elektryczny ślizg. Reset naładowania ślizgu następuje co dwa zabójstwa. Paliwo uzupełniane jest przy każdym zabójstwie. ",
-							"pt-BR": "INSTANTANEAMENTE canaliza o poder da Neon para receber velocidade aumentada. Ao atingir a carga máxima, use o DISPARO ALTERNATIVO para acionar um deslize elétrico. A carga de deslizamento é redefinida a cada dois abates. Abates recarregam o combustível. ",
-							"ru-RU": "Мгновенно накапливает заряд для повышения скорости. Находясь в заряженном состоянии, нажмите кнопку АЛЬТ. ОГОНЬ, чтобы проскользить. Заряд скольжения восстанавливается после каждых двух убийств. Топливо восполняется после убийства. ",
-							"th-TH": "ใช้พลังของ Neon เพื่อเพิ่มความเร็วทันที เมื่อมีชาร์จพอ จะสามารถกดโหมดยิงเสริมเพื่อพุ่งตัวสไลด์ด้วยพลังงานไฟฟ้า ชาร์จสำหรับการสไลด์จะรีเซ็ตทุก ๆ สองคิล เติมพลังงานสกิลเมื่อเก็บคิลได้ ",
-							"tr-TR": "Neon'u Hızlandırmak için ANINDA gücünü odakla. Yükü dolduğunda atılmak için ALT. ATIŞ'la elektrikli kayma hareketini etkinleştir. Her iki skorda bir kayma hareketinin yükü dolar. Skor aldığında yakıt yeniden dolar. ",
-							"vi-VN": "NGAY LẬP TỨC chuyển vận sức mạnh của Neon để Tăng Tốc Độ. Sau khi đã tụ đầy, BẮN PHỤ để kích hoạt một luồng trượt điện. Lượt sử dụng luồng trượt điện sẽ được làm mới sau mỗi 2 hạ gục. Nhiên liệu được nạp lại khi có mạng hạ gục. ",
-							"zh-CN": "引导霓虹的力量，立即提升移动速度。充能完毕时，按【辅助射击】即可发动闪电滑行。每击败两名敌人，可重置滑行的充能。击败敌人可补充燃料。 ",
-							"zh-TW": "立刻運用妮虹的能力提升速度。充能完成時，點擊「輔助攻擊」可發動帶電衝刺滑行。每擊殺兩名敵人可重置滑行充能數。擊殺時可補充燃料。 "
+							"ar-AE": "اشحن قوة نيون فوريًا لزيادة السرعة. عند اكتمال الشحن، اضغط على زر الإطلاق البديل لتفعيل اندفاع انزلاق كهربائي. تتم إعادة ضبط شحنة الانزلاق بعد كل عمليتي قتل.",
+							"de-DE": "Kanalisiere SOFORT Neons Macht für erhöhte Geschwindigkeit. Wenn aufgeladen, löse mit ALT. FEUER einen elektrisierten Rutschen-Sprint aus. Die Rutschaufladung setzt sich alle zwei Kills zurück.",
+							"en-US": "INSTANTLY channel Neon’s power for Increased Speed. When charged, ALT FIRE to trigger an electric slide dash. Slide charge resets every two kills.",
+							"es-ES": "Canaliza INSTANTÁNEAMENTE el poder de Neon para aumentar su velocidad. Cuando esté cargado, utiliza el DISPARO ALTERNATIVO para activar un deslizamiento eléctrico. La carga del deslizamiento se reinicia cada dos asesinatos.",
+							"es-MX": "Canaliza INSTANTÁNEAMENTE el poder de Neon para aumentar su velocidad. Al cargarse, utiliza el DISPARO SECUNDARIO para activar un deslizamiento eléctrico. La carga del deslizamiento se reinicia cada dos asesinatos.",
+							"fr-FR": "Chargez INSTANTANÉMENT le pouvoir de Neon pour décupler sa vitesse. À la fin du chargement, utilisez le TIR SECONDAIRE pour faire une glissade électrique (considérée comme une ruée). Vous regagnez une charge de glissade toutes les deux éliminations.",
+							"id-ID": "SEKETIKA menyalurkan kekuatan Neon untuk Meningkatkan Kecepatan. Saat charge penuh, tekan ALT FIRE untuk memicu luncuran listrik. Charge luncuran direset tiap dua kill.",
+							"it-IT": "Canalizza ALL'ISTANTE l'energia di Neon per AUMENTARE LA VELOCITÀ. Quando l'abilità è carica, usa il FUOCO ALTERNATIVO per attivare uno scatto in scivolata elettrico. La carica della scivolata si ripristina ogni due uccisioni.",
+							"ja-JP": "ネオンの力が解き放たれ、スピードが上昇する。「オルト射撃」でチャージを消費し、電気をまとって加速する。加速のチャージは敵を2回キルするたびにリセットされる。",
+							"ko-KR": "네온의 힘을 즉시 집중해 속도를 높입니다. 충전되면 보조 공격 시 전기 슬라이드를 발동합니다. 슬라이드 충전량은 2킬마다 초기화됩니다.",
+							"pl-PL": "NATYCHMIAST wykorzystaj moc Neon, aby znacząco przyspieszyć. Gdy ładunek jest dostępny, użyj ALT. STRZAŁU, aby wykonać doskok – elektryczny ślizg. Reset naładowania ślizgu następuje co dwa zabójstwa.",
+							"pt-BR": "INSTANTANEAMENTE canaliza o poder da Neon para receber velocidade aumentada. Ao atingir a carga máxima, use o DISPARO ALTERNATIVO para acionar um deslize elétrico. A carga de deslizamento é redefinida a cada dois abates.",
+							"ru-RU": "Мгновенно накапливает заряд для повышения скорости. Находясь в заряженном состоянии, нажмите кнопку АЛЬТ. ОГОНЬ, чтобы проскользить. Заряд скольжения восстанавливается после каждых двух убийств.",
+							"th-TH": "ใช้พลังของ Neon เพื่อเพิ่มความเร็วทันที เมื่อมีชาร์จพอ จะสามารถกดโหมดยิงเสริมเพื่อพุ่งตัวสไลด์ด้วยพลังงานไฟฟ้า ชาร์จสำหรับการสไลด์จะรีเซ็ตทุก ๆ สองคิล",
+							"tr-TR": "Neon'u Hızlandırmak için ANINDA gücünü odakla. Yükü dolduğunda atılmak için ALT. ATIŞ'la elektrikli kayma hareketini etkinleştir. Her iki skorda bir kayma hareketinin yükü dolar.",
+							"vi-VN": "NGAY LẬP TỨC chuyển vận sức mạnh của Neon để Tăng Tốc Độ. Khi đã tụ đầy, BẮN PHỤ để kích hoạt một luồng trượt điện. Lượt sử dụng luồng trượt điện sẽ được làm mới mỗi 2 mạng hạ gục.",
+							"zh-CN": "引导霓虹的力量，立即提升移动速度。充能完毕时，按【辅助射击】即可发动闪电滑行。每击败两名敌人，可重置滑行的充能。",
+							"zh-TW": "立刻運用妮虹的能力提升速度。充能完成時，點擊「輔助攻擊」可發動帶電衝刺滑行。每擊殺兩名敵人可重置滑行充能數。"
 						}
 					},
 					"label": "BB2A4828-46EB-8CD1-E765-15848195D751_Ability2",
@@ -35043,6 +35043,273 @@
 					"vi-VN": "Vandal Orion",
 					"zh-CN": "巨神铁甲 狂徒",
 					"zh-TW": "獵戶之星 暴徒"
+				}
+			}
+		},
+		{
+			"weaponId": "9C82E19D-4575-0200-1A81-3EACF00CF872",
+			"defaultChromaId": "B2A27B8B-41D2-AF46-50A2-B1A3ABB42C76",
+			"chromas": [
+				{
+					"id": "B2A27B8B-41D2-AF46-50A2-B1A3ABB42C76",
+					"label": "B2A27B8B-41D2-AF46-50A2-B1A3ABB42C76",
+					"name":
+					{
+						"defaultText": "Rogue Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق فاندال",
+							"de-DE": "Vandal – Rogue",
+							"en-US": "Rogue Vandal",
+							"es-ES": "Vandal Rogue",
+							"es-MX": "Vandal Disidente",
+							"fr-FR": "Vandal (Renégat)",
+							"id-ID": "Rogue Vandal",
+							"it-IT": "Vandal Ribelle",
+							"ja-JP": "ローグ ヴァンダル",
+							"ko-KR": "로그 밴달",
+							"pl-PL": "Vandal Łotr",
+							"pt-BR": "Vandal Renegado",
+							"ru-RU": "Vandal \"Отступник\"",
+							"th-TH": "Rogue Vandal",
+							"tr-TR": "Haydut Vandal",
+							"vi-VN": "Vandal Rogue",
+							"zh-CN": "逆命中队 狂徒",
+							"zh-TW": "孤影叛客 暴徒"
+						}
+					}
+				},
+				{
+					"id": "9C54F8B2-4267-483B-AE5D-18AD50654FB8",
+					"label": "9C54F8B2-4267-483B-AE5D-18AD50654FB8",
+					"name":
+					{
+						"defaultText": "Rogue Vandal Level 4\n(Variant 1 Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق فاندال المستوى 4\n(بديل 1 أخضر)",
+							"de-DE": "Vandal – Rogue Level 4\n(Variante 1, Grün)",
+							"en-US": "Rogue Vandal Level 4\n(Variant 1 Green)",
+							"es-ES": "Vandal Rogue de nivel 4\n(variante 1: verde)",
+							"es-MX": "Vandal Disidente nivel 4\n(Variante 1 Verde)",
+							"fr-FR": "Vandal (Renégat) niveau 4\n(variante 1 Vert)",
+							"id-ID": "Rogue Vandal Level 4\n(Varian 1 Hijau)",
+							"it-IT": "Vandal Ribelle livello 4\n(variante 1 Verde)",
+							"ja-JP": "ローグ ヴァンダル Lv.4\n(ヴァリアント 1 グリーン)",
+							"ko-KR": "로그 밴달 4레벨\n(변형 1 녹색)",
+							"pl-PL": "Vandal Łotr (poziom 4)\n(Wersja 1 – zielona)",
+							"pt-BR": "Vandal Renegado Nível 4\n(Variante 1 Verde)",
+							"ru-RU": "Vandal \"Отступник\" уровень 4\n(расцветка 1 \"Зеленый\")",
+							"th-TH": "Rogue Vandal เลเวล 4\n(ตัวเลือกที่ 1 สีเขียว)",
+							"tr-TR": "4. Seviye Haydut Vandal\n(Stil 1 - Yeşil)",
+							"vi-VN": "Vandal Rogue Cấp 4\n(Dạng 1 Ánh Lục)",
+							"zh-CN": "逆命中队 狂徒 等级4\n（炫彩1 绿色）",
+							"zh-TW": "孤影叛客 暴徒 等級4\n(幻彩1 綠色)"
+						}
+					}
+				},
+				{
+					"id": "2EC99424-4B91-CEED-4F37-84A836F9B62C",
+					"label": "2EC99424-4B91-CEED-4F37-84A836F9B62C",
+					"name":
+					{
+						"defaultText": "Rogue Vandal Level 4\r\n(Variant 2 Red)",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق فاندال المستوى 4\r\n(بديل 2 أحمر)",
+							"de-DE": "Vandal – Rogue Level 4\r\n(Variante 2, Rot)",
+							"en-US": "Rogue Vandal Level 4\r\n(Variant 2 Red)",
+							"es-ES": "Vandal Rogue de nivel 4\r\n(variante 2: rojo)",
+							"es-MX": "Vandal Disidente nivel 4\r\n(Variante 2 Roja)",
+							"fr-FR": "Vandal (Renégat) niveau 4\r\n(variante 2 Rouge)",
+							"id-ID": "Rogue Vandal Level 4\r\n(Varian 2 Merah)",
+							"it-IT": "Vandal Ribelle livello 4\r\n(variante 2 Rossa)",
+							"ja-JP": "ローグ ヴァンダル Lv.4\r\n(ヴァリアント 2 レッド)",
+							"ko-KR": "로그 밴달 4레벨\r\n(변형 2 빨간색)",
+							"pl-PL": "Vandal Łotr (poziom 4)\r\n(Wersja 2 – czerwona)",
+							"pt-BR": "Vandal Renegado Nível 4\r\n(Variante 2 Vermelha)",
+							"ru-RU": "Vandal \"Отступник\" уровень 4\r\n(расцветка 2 \"Красный\")",
+							"th-TH": "Rogue Vandal เลเวล 4\r\n(ตัวเลือกที่ 2 สีแดง)",
+							"tr-TR": "4. Seviye Haydut Vandal\r\n(Stil 2 - Kırmızı)",
+							"vi-VN": "Vandal Rogue Cấp 4\r\n(Dạng 2 Ánh Đỏ)",
+							"zh-CN": "逆命中队 狂徒 等级4\r\n（炫彩2 红色）",
+							"zh-TW": "孤影叛客 暴徒 等級4\r\n(幻彩2 紅色)"
+						}
+					}
+				},
+				{
+					"id": "AA4AEDB0-4454-5ACD-41DA-1886B1AB1A51",
+					"label": "AA4AEDB0-4454-5ACD-41DA-1886B1AB1A51",
+					"name":
+					{
+						"defaultText": "Rogue Vandal Level 4\n(Variant 3 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق فاندال المستوى 4\n(بديل 3 أزرق)",
+							"de-DE": "Vandal – Rogue Level 4\n(Variante 3, Blau)",
+							"en-US": "Rogue Vandal Level 4\n(Variant 3 Blue)",
+							"es-ES": "Vandal Rogue de nivel 4\n(variante 3: azul)",
+							"es-MX": "Vandal Disidente nivel 4\n(Variante 3 Azul)",
+							"fr-FR": "Vandal (Renégat) niveau 4\n(variante 3 Bleu)",
+							"id-ID": "Rogue Vandal Level 4\n(Varian 3 Biru)",
+							"it-IT": "Vandal Ribelle livello 4\n(variante 3 Blu)",
+							"ja-JP": "ローグ ヴァンダル Lv.4\n(ヴァリアント 3 ブルー)",
+							"ko-KR": "로그 밴달 4레벨\n(변형 3 파란색)",
+							"pl-PL": "Vandal Łotr (poziom 4)\n(wersja 3 – niebieska)",
+							"pt-BR": "Vandal Renegado Nível 4\n(Variante 3 Azul)",
+							"ru-RU": "Vandal \"Отступник\" уровень 4\n(расцветка 3 \"Синий\")",
+							"th-TH": "Rogue Vandal เลเวล 4\n(ตัวเลือกที่ 3 สีฟ้า)",
+							"tr-TR": "4. Seviye Haydut Vandal\n(Stil 3 - Mavi)",
+							"vi-VN": "Vandal Rogue Cấp 4\n(Dạng 3 Ánh Lam)",
+							"zh-CN": "逆命中队 狂徒 等级4\n（炫彩3 蓝色）",
+							"zh-TW": "孤影叛客 暴徒 等級4\n(幻彩3 藍色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "653C7C1D-4D92-3798-6314-EAB5BEB70AE6",
+					"label": "653C7C1D-4D92-3798-6314-EAB5BEB70AE6",
+					"name":
+					{
+						"defaultText": "Rogue Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق فاندال",
+							"de-DE": "Vandal – Rogue",
+							"en-US": "Rogue Vandal",
+							"es-ES": "Vandal Rogue",
+							"es-MX": "Vandal Disidente",
+							"fr-FR": "Vandal (Renégat)",
+							"id-ID": "Rogue Vandal",
+							"it-IT": "Vandal Ribelle",
+							"ja-JP": "ローグ ヴァンダル",
+							"ko-KR": "로그 밴달",
+							"pl-PL": "Vandal Łotr",
+							"pt-BR": "Vandal Renegado",
+							"ru-RU": "Vandal \"Отступник\"",
+							"th-TH": "Rogue Vandal",
+							"tr-TR": "Haydut Vandal",
+							"vi-VN": "Vandal Rogue",
+							"zh-CN": "逆命中队 狂徒",
+							"zh-TW": "孤影叛客 暴徒"
+						}
+					}
+				},
+				{
+					"id": "52969788-4EA9-5B96-039B-ECABF9812F82",
+					"label": "52969788-4EA9-5B96-039B-ECABF9812F82",
+					"name":
+					{
+						"defaultText": "Rogue Vandal Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق فاندال المستوى 2",
+							"de-DE": "Vandal – Rogue Level 2",
+							"en-US": "Rogue Vandal Level 2",
+							"es-ES": "Vandal Rogue de nivel 2",
+							"es-MX": "Vandal Disidente nivel 2",
+							"fr-FR": "Vandal (Renégat) niveau 2",
+							"id-ID": "Rogue Vandal Level 2",
+							"it-IT": "Vandal Ribelle livello 2",
+							"ja-JP": "ローグ ヴァンダル Lv.2",
+							"ko-KR": "로그 밴달 2레벨",
+							"pl-PL": "Vandal Łotr (poziom 2)",
+							"pt-BR": "Vandal Renegado Nível 2",
+							"ru-RU": "Vandal \"Отступник\" уровень 2",
+							"th-TH": "Rogue Vandal เลเวล 2",
+							"tr-TR": "2. Seviye Haydut Vandal",
+							"vi-VN": "Vandal Rogue Cấp 2",
+							"zh-CN": "逆命中队 狂徒 等级2",
+							"zh-TW": "孤影叛客 暴徒 等級2"
+						}
+					}
+				},
+				{
+					"id": "009CD18F-4457-152C-3316-AE84444D5EF3",
+					"label": "009CD18F-4457-152C-3316-AE84444D5EF3",
+					"name":
+					{
+						"defaultText": "Rogue Vandal Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق فاندال المستوى 3",
+							"de-DE": "Vandal – Rogue Level 3",
+							"en-US": "Rogue Vandal Level 3",
+							"es-ES": "Vandal Rogue de nivel 3",
+							"es-MX": "Vandal Disidente nivel 3",
+							"fr-FR": "Vandal (Renégat) niveau 3",
+							"id-ID": "Rogue Vandal Level 3",
+							"it-IT": "Vandal Ribelle livello 3",
+							"ja-JP": "ローグ ヴァンダル Lv.3",
+							"ko-KR": "로그 밴달 3레벨",
+							"pl-PL": "Vandal Łotr (poziom 3)",
+							"pt-BR": "Vandal Renegado Nível 3",
+							"ru-RU": "Vandal \"Отступник\" уровень 3",
+							"th-TH": "Rogue Vandal เลเวล 3",
+							"tr-TR": "3. Seviye Haydut Vandal",
+							"vi-VN": "Vandal Rogue Cấp 3",
+							"zh-CN": "逆命中队 狂徒 等级3",
+							"zh-TW": "孤影叛客 暴徒 等級3"
+						}
+					}
+				},
+				{
+					"id": "1DEF044A-41FF-9F4F-1A97-F7B5708D7FCC",
+					"label": "1DEF044A-41FF-9F4F-1A97-F7B5708D7FCC",
+					"name":
+					{
+						"defaultText": "Rogue Vandal Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق فاندال المستوى 4",
+							"de-DE": "Vandal – Rogue Level 4",
+							"en-US": "Rogue Vandal Level 4",
+							"es-ES": "Vandal Rogue de nivel 4",
+							"es-MX": "Vandal Disidente nivel 4",
+							"fr-FR": "Vandal (Renégat) niveau 4",
+							"id-ID": "Rogue Vandal Level 4",
+							"it-IT": "Vandal Ribelle livello 4",
+							"ja-JP": "ローグ ヴァンダル Lv.4",
+							"ko-KR": "로그 밴달 4레벨",
+							"pl-PL": "Vandal Łotr (poziom 4)",
+							"pt-BR": "Vandal Renegado Nível 4",
+							"ru-RU": "Vandal \"Отступник\" уровень 4",
+							"th-TH": "Rogue Vandal เลเวล 4",
+							"tr-TR": "4. Seviye Haydut Vandal",
+							"vi-VN": "Vandal Rogue Cấp 4",
+							"zh-CN": "逆命中队 狂徒 等级4",
+							"zh-TW": "孤影叛客 暴徒 等級4"
+						}
+					}
+				}
+			],
+			"id": "1B9B0131-42FE-B6A7-D212-699B342BA642",
+			"label": "1B9B0131-42FE-B6A7-D212-699B342BA642",
+			"name":
+			{
+				"defaultText": "Rogue Vandal",
+				"localizedByCulture":
+				{
+					"ar-AE": "المارق فاندال",
+					"de-DE": "Vandal – Rogue",
+					"en-US": "Rogue Vandal",
+					"es-ES": "Vandal Rogue",
+					"es-MX": "Vandal Disidente",
+					"fr-FR": "Vandal (Renégat)",
+					"id-ID": "Rogue Vandal",
+					"it-IT": "Vandal Ribelle",
+					"ja-JP": "ローグ ヴァンダル",
+					"ko-KR": "로그 밴달",
+					"pl-PL": "Vandal Łotr",
+					"pt-BR": "Vandal Renegado",
+					"ru-RU": "Vandal \"Отступник\"",
+					"th-TH": "Rogue Vandal",
+					"tr-TR": "Haydut Vandal",
+					"vi-VN": "Vandal Rogue",
+					"zh-CN": "逆命中队 狂徒",
+					"zh-TW": "孤影叛客 暴徒"
 				}
 			}
 		},
@@ -77189,6 +77456,273 @@
 		},
 		{
 			"weaponId": "910BE174-449B-C412-AB22-D0873436B21B",
+			"defaultChromaId": "831500B0-4D3E-C635-883D-6EAFE85A0ACC",
+			"chromas": [
+				{
+					"id": "831500B0-4D3E-C635-883D-6EAFE85A0ACC",
+					"label": "831500B0-4D3E-C635-883D-6EAFE85A0ACC",
+					"name":
+					{
+						"defaultText": "Rogue Bucky",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق باكي",
+							"de-DE": "Bucky – Rogue",
+							"en-US": "Rogue Bucky",
+							"es-ES": "Bucky Rogue",
+							"es-MX": "Bucky Disidente",
+							"fr-FR": "Bucky (Renégat)",
+							"id-ID": "Rogue Bucky",
+							"it-IT": "Bucky Ribelle",
+							"ja-JP": "ローグ バッキー",
+							"ko-KR": "로그 버키",
+							"pl-PL": "Bucky Łotr",
+							"pt-BR": "Bucky Renegado",
+							"ru-RU": "Bucky \"Отступник\"",
+							"th-TH": "Rogue Bucky",
+							"tr-TR": "Haydut Bucky",
+							"vi-VN": "Bucky Rogue",
+							"zh-CN": "逆命中队 雄鹿",
+							"zh-TW": "孤影叛客 重砲"
+						}
+					}
+				},
+				{
+					"id": "356A3E4D-46E4-8E64-11FA-84B6BDE16296",
+					"label": "356A3E4D-46E4-8E64-11FA-84B6BDE16296",
+					"name":
+					{
+						"defaultText": "Rogue Bucky Level 4\n(Variant 1 Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق باكي المستوى 4\n(بديل 1 أخضر)",
+							"de-DE": "Bucky – Rogue Level 4\n(Variante 1, Grün)",
+							"en-US": "Rogue Bucky Level 4\n(Variant 1 Green)",
+							"es-ES": "Bucky Rogue de nivel 4\n(variante 1: verde)",
+							"es-MX": "Bucky Disidente nivel 4\n(Variante 1 Verde)",
+							"fr-FR": "Bucky (Renégat) niveau 4\n(variante 1 Vert)",
+							"id-ID": "Rogue Bucky Level 4\n(Varian 1 Hijau)",
+							"it-IT": "Bucky Ribelle livello 4\n(variante 1 Verde)",
+							"ja-JP": "ローグ バッキー Lv.4\n(ヴァリアント 1 グリーン)",
+							"ko-KR": "로그 버키 4레벨\n(변형 1 녹색)",
+							"pl-PL": "Bucky Łotr (poziom 4)\n(Wersja 1 – zielona)",
+							"pt-BR": "Bucky Renegado Nível 4\n(Variante 1 Verde)",
+							"ru-RU": "Bucky \"Отступник\" уровень 4\n(расцветка 1 \"Зеленый\")",
+							"th-TH": "Rogue Bucky เลเวล 4\n(ตัวเลือกที่ 1 สีเขียว)",
+							"tr-TR": "4. Seviye Haydut Bucky\n(Stil 1 - Yeşil)",
+							"vi-VN": "Bucky Rogue Cấp 4\n(Dạng 1 Ánh Lục)",
+							"zh-CN": "逆命中队 雄鹿 等级4\n（炫彩1 绿色）",
+							"zh-TW": "孤影叛客 重砲 等級4\n(幻彩1 綠色)"
+						}
+					}
+				},
+				{
+					"id": "DCE21EE9-4418-1A41-A08F-32916DC5B1FD",
+					"label": "DCE21EE9-4418-1A41-A08F-32916DC5B1FD",
+					"name":
+					{
+						"defaultText": "Rogue Bucky Level 4\n(Variant 2 Red)",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق باكي المستوى 4\n(بديل 2 أحمر)",
+							"de-DE": "Bucky – Rogue Level 4\n(Variante 2, Rot)",
+							"en-US": "Rogue Bucky Level 4\n(Variant 2 Red)",
+							"es-ES": "Bucky Rogue de nivel 4\n(variante 2: rojo)",
+							"es-MX": "Bucky Disidente nivel 4\n(Variante 2 Roja)",
+							"fr-FR": "Bucky (Renégat) niveau 4\n(variante 2 Rouge)",
+							"id-ID": "Rogue Bucky Level 4\n(Varian 2 Merah)",
+							"it-IT": "Bucky Ribelle livello 4\n(variante 2 Rossa)",
+							"ja-JP": "ローグ バッキー Lv.4\n(ヴァリアント 2 レッド)",
+							"ko-KR": "로그 버키 4레벨\n(변형 2 빨간색)",
+							"pl-PL": "Bucky Łotr (poziom 4)\n(Wersja 2 – czerwona)",
+							"pt-BR": "Bucky Renegado Nível 4\n(Variante 2 Vermelha)",
+							"ru-RU": "Bucky \"Отступник\" уровень 4\n(расцветка 2 \"Красный\")",
+							"th-TH": "Rogue Bucky เลเวล 4\n(ตัวเลือกที่ 2 สีแดง)",
+							"tr-TR": "4. Seviye Haydut Bucky\n(Stil 2 - Kırmızı)",
+							"vi-VN": "Bucky Rogue Cấp 4\n(Dạng 2 Ánh Đỏ)",
+							"zh-CN": "逆命中队 雄鹿 等级4\n（炫彩2 红色）",
+							"zh-TW": "孤影叛客 重砲 等級4\n(幻彩2 紅色)"
+						}
+					}
+				},
+				{
+					"id": "FF25D161-4983-02D7-D523-30B546FEA15D",
+					"label": "FF25D161-4983-02D7-D523-30B546FEA15D",
+					"name":
+					{
+						"defaultText": "Rogue Bucky Level 4\n(Variant 3 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق باكي المستوى 4\n(بديل 3 أزرق)",
+							"de-DE": "Bucky – Rogue Level 4\n(Variante 3, Blau)",
+							"en-US": "Rogue Bucky Level 4\n(Variant 3 Blue)",
+							"es-ES": "Bucky Rogue de nivel 4\n(variante 3: azul)",
+							"es-MX": "Bucky Disidente nivel 4\n(Variante 3 Azul)",
+							"fr-FR": "Bucky (Renégat) niveau 4\n(variante 3 Bleu)",
+							"id-ID": "Rogue Bucky Level 4\n(Varian 3 Biru)",
+							"it-IT": "Bucky Ribelle livello 4\n(variante 3 Blu)",
+							"ja-JP": "ローグ バッキー Lv.4\n(ヴァリアント 3 ブルー)",
+							"ko-KR": "로그 버키 4레벨\n(변형 3 파란색)",
+							"pl-PL": "Bucky Łotr (poziom 4)\n(wersja 3 – niebieska)",
+							"pt-BR": "Bucky Renegado Nível 4\n(Variante 3 Azul)",
+							"ru-RU": "Bucky \"Отступник\" уровень 4\n(расцветка 3 \"Синий\")",
+							"th-TH": "Rogue Bucky เลเวล 4\n(ตัวเลือกที่ 3 สีฟ้า)",
+							"tr-TR": "4. Seviye Haydut Bucky\n(Stil 3 - Mavi)",
+							"vi-VN": "Bucky Rogue Cấp 4\n(Dạng 3 Ánh Lam)",
+							"zh-CN": "逆命中队 雄鹿 等级4\n（炫彩3 蓝色）",
+							"zh-TW": "孤影叛客 重砲 等級4\n(幻彩3 藍色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "FDF7458D-4A8A-42ED-1911-40B4AC3073DE",
+					"label": "FDF7458D-4A8A-42ED-1911-40B4AC3073DE",
+					"name":
+					{
+						"defaultText": "Rogue Bucky",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق باكي",
+							"de-DE": "Bucky – Rogue",
+							"en-US": "Rogue Bucky",
+							"es-ES": "Bucky Rogue",
+							"es-MX": "Bucky Disidente",
+							"fr-FR": "Bucky (Renégat)",
+							"id-ID": "Rogue Bucky",
+							"it-IT": "Bucky Ribelle",
+							"ja-JP": "ローグ バッキー",
+							"ko-KR": "로그 버키",
+							"pl-PL": "Bucky Łotr",
+							"pt-BR": "Bucky Renegado",
+							"ru-RU": "Bucky \"Отступник\"",
+							"th-TH": "Rogue Bucky",
+							"tr-TR": "Haydut Bucky",
+							"vi-VN": "Bucky Rogue",
+							"zh-CN": "逆命中队 雄鹿",
+							"zh-TW": "孤影叛客 重砲"
+						}
+					}
+				},
+				{
+					"id": "A63390BF-47E1-DCF3-9517-D482DC08C203",
+					"label": "A63390BF-47E1-DCF3-9517-D482DC08C203",
+					"name":
+					{
+						"defaultText": "Rogue Bucky Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق باكي المستوى 2",
+							"de-DE": "Bucky – Rogue Level 2",
+							"en-US": "Rogue Bucky Level 2",
+							"es-ES": "Bucky Rogue de nivel 2",
+							"es-MX": "Bucky Disidente nivel 2",
+							"fr-FR": "Bucky (Renégat) niveau 2",
+							"id-ID": "Rogue Bucky Level 2",
+							"it-IT": "Bucky Ribelle livello 2",
+							"ja-JP": "ローグ バッキー Lv.2",
+							"ko-KR": "로그 버키 2레벨",
+							"pl-PL": "Bucky Łotr (poziom 2)",
+							"pt-BR": "Bucky Renegado Nível 2",
+							"ru-RU": "Bucky \"Отступник\" уровень 2",
+							"th-TH": "Rogue Bucky เลเวล 2",
+							"tr-TR": "2. Seviye Haydut Bucky",
+							"vi-VN": "Bucky Rogue Cấp 2",
+							"zh-CN": "逆命中队 雄鹿 等级2",
+							"zh-TW": "孤影叛客 重砲 等級2"
+						}
+					}
+				},
+				{
+					"id": "4F58BEE8-49DB-87C0-D276-EAB7D1793BF6",
+					"label": "4F58BEE8-49DB-87C0-D276-EAB7D1793BF6",
+					"name":
+					{
+						"defaultText": "Rogue Bucky Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق باكي المستوى 3",
+							"de-DE": "Bucky – Rogue Level 3",
+							"en-US": "Rogue Bucky Level 3",
+							"es-ES": "Bucky Rogue de nivel 3",
+							"es-MX": "Bucky Disidente nivel 3",
+							"fr-FR": "Bucky (Renégat) niveau 3",
+							"id-ID": "Rogue Bucky Level 3",
+							"it-IT": "Bucky Ribelle livello 3",
+							"ja-JP": "ローグ バッキー Lv.3",
+							"ko-KR": "로그 버키 3레벨",
+							"pl-PL": "Bucky Łotr (poziom 3)",
+							"pt-BR": "Bucky Renegado Nível 3",
+							"ru-RU": "Bucky \"Отступник\" уровень 3",
+							"th-TH": "Rogue Bucky เลเวล 3",
+							"tr-TR": "3. Seviye Haydut Bucky",
+							"vi-VN": "Bucky Rogue Cấp 3",
+							"zh-CN": "逆命中队 雄鹿 等级3",
+							"zh-TW": "孤影叛客 重砲 等級3"
+						}
+					}
+				},
+				{
+					"id": "80810960-4718-87F0-5996-F2A5E9855D83",
+					"label": "80810960-4718-87F0-5996-F2A5E9855D83",
+					"name":
+					{
+						"defaultText": "Rogue Bucky Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق باكي المستوى 4",
+							"de-DE": "Bucky – Rogue Level 4",
+							"en-US": "Rogue Bucky Level 4",
+							"es-ES": "Bucky Rogue de nivel 4",
+							"es-MX": "Bucky Disidente nivel 4",
+							"fr-FR": "Bucky (Renégat) niveau 4",
+							"id-ID": "Rogue Bucky Level 4",
+							"it-IT": "Bucky Ribelle livello 4",
+							"ja-JP": "ローグ バッキー Lv.4",
+							"ko-KR": "로그 버키 4레벨",
+							"pl-PL": "Bucky Łotr (poziom 4)",
+							"pt-BR": "Bucky Renegado Nível 4",
+							"ru-RU": "Bucky \"Отступник\" уровень 4",
+							"th-TH": "Rogue Bucky เลเวล 4",
+							"tr-TR": "4. Seviye Haydut Bucky",
+							"vi-VN": "Bucky Rogue Cấp 4",
+							"zh-CN": "逆命中队 雄鹿 等级4",
+							"zh-TW": "孤影叛客 重砲 等級4"
+						}
+					}
+				}
+			],
+			"id": "EA3E6C8A-4E5E-BAF9-33C3-7ABACF07AAEE",
+			"label": "EA3E6C8A-4E5E-BAF9-33C3-7ABACF07AAEE",
+			"name":
+			{
+				"defaultText": "Rogue Bucky",
+				"localizedByCulture":
+				{
+					"ar-AE": "المارق باكي",
+					"de-DE": "Bucky – Rogue",
+					"en-US": "Rogue Bucky",
+					"es-ES": "Bucky Rogue",
+					"es-MX": "Bucky Disidente",
+					"fr-FR": "Bucky (Renégat)",
+					"id-ID": "Rogue Bucky",
+					"it-IT": "Bucky Ribelle",
+					"ja-JP": "ローグ バッキー",
+					"ko-KR": "로그 버키",
+					"pl-PL": "Bucky Łotr",
+					"pt-BR": "Bucky Renegado",
+					"ru-RU": "Bucky \"Отступник\"",
+					"th-TH": "Rogue Bucky",
+					"tr-TR": "Haydut Bucky",
+					"vi-VN": "Bucky Rogue",
+					"zh-CN": "逆命中队 雄鹿",
+					"zh-TW": "孤影叛客 重砲"
+				}
+			}
+		},
+		{
+			"weaponId": "910BE174-449B-C412-AB22-D0873436B21B",
 			"defaultChromaId": "DFC525FB-4515-1D0D-3292-959326CC86DE",
 			"chromas": [
 				{
@@ -115116,6 +115650,273 @@
 		},
 		{
 			"weaponId": "410B2E0B-4CEB-1321-1727-20858F7F3477",
+			"defaultChromaId": "F8CD2463-4DE6-2F96-561B-C0AB717995F9",
+			"chromas": [
+				{
+					"id": "F8CD2463-4DE6-2F96-561B-C0AB717995F9",
+					"label": "F8CD2463-4DE6-2F96-561B-C0AB717995F9",
+					"name":
+					{
+						"defaultText": "Rogue Bandit",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق بانديت",
+							"de-DE": "Bandit – Rogue",
+							"en-US": "Rogue Bandit",
+							"es-ES": "Bandit Rogue",
+							"es-MX": "Bandit Disidente",
+							"fr-FR": "Bandit (Renégat)",
+							"id-ID": "Rogue Bandit",
+							"it-IT": "Bandit Ribelle",
+							"ja-JP": "ローグ バンディット",
+							"ko-KR": "로그 밴딧",
+							"pl-PL": "Bandit Łotr",
+							"pt-BR": "Bandit Renegado",
+							"ru-RU": "Bandit \"Отступник\"",
+							"th-TH": "Rogue Bandit",
+							"tr-TR": "Haydut Bandit",
+							"vi-VN": "Bandit Rogue",
+							"zh-CN": "逆命中队 追猎",
+							"zh-TW": "孤影叛客 盜賊"
+						}
+					}
+				},
+				{
+					"id": "D3864035-4C79-6D51-58AF-1790C3A59CEE",
+					"label": "D3864035-4C79-6D51-58AF-1790C3A59CEE",
+					"name":
+					{
+						"defaultText": "Rogue Bandit Level 4\n(Variant 1 Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق بانديت المستوى 4\n(بديل 1 أخضر)",
+							"de-DE": "Bandit – Rogue Level 4\n(Variante 1, Grün)",
+							"en-US": "Rogue Bandit Level 4\n(Variant 1 Green)",
+							"es-ES": "Bandit Rogue de nivel 4\n(variante 1: verde)",
+							"es-MX": "Bandit Disidente nivel 4\n(Variante 1 Verde)",
+							"fr-FR": "Bandit (Renégat) niveau 4\n(variante 1 Vert)",
+							"id-ID": "Rogue Bandit Level 4\n(Varian 1 Hijau)",
+							"it-IT": "Bandit Ribelle livello 4\n(variante 1 Verde)",
+							"ja-JP": "ローグ バンディット Lv.4\n(ヴァリアント 1 グリーン)",
+							"ko-KR": "로그 밴딧 4레벨\n(변형 1 녹색)",
+							"pl-PL": "Bandit Łotr (poziom 4)\n(Wersja 1 – zielona)",
+							"pt-BR": "Bandit Renegado Nível 4\n(Variante 1 Verde)",
+							"ru-RU": "Bandit \"Отступник\" уровень 4\n(расцветка 1 \"Зеленый\")",
+							"th-TH": "Rogue Bandit เลเวล 4\n(ตัวเลือกที่ 1 สีเขียว)",
+							"tr-TR": "4. Seviye Haydut Bandit\n(Stil 1 - Yeşil)",
+							"vi-VN": "Bandit Rogue Cấp 4\n(Dạng 1 Ánh Lục)",
+							"zh-CN": "逆命中队 追猎 等级4\n（炫彩1 绿色）",
+							"zh-TW": "孤影叛客 盜賊 等級4\n(幻彩1 綠色)"
+						}
+					}
+				},
+				{
+					"id": "E45B9CDD-46C6-13FA-6AC1-3BB5E12387CB",
+					"label": "E45B9CDD-46C6-13FA-6AC1-3BB5E12387CB",
+					"name":
+					{
+						"defaultText": "Rogue Bandit Level 4\n(Variant 2 Red)",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق بانديت المستوى 4\n(بديل 2 أحمر)",
+							"de-DE": "Bandit – Rogue Level 4\n(Variante 2, Rot)",
+							"en-US": "Rogue Bandit Level 4\n(Variant 2 Red)",
+							"es-ES": "Bandit Rogue de nivel 4\n(variante 2: rojo)",
+							"es-MX": "Bandit Disidente nivel 4\n(Variante 2 Roja)",
+							"fr-FR": "Bandit (Renégat) niveau 4\n(variante 2 Rouge)",
+							"id-ID": "Rogue Bandit Level 4\n(Varian 2 Merah)",
+							"it-IT": "Bandit Ribelle livello 4\n(variante 2 Rossa)",
+							"ja-JP": "ローグ バンディット Lv.4\n(ヴァリアント 2 レッド)",
+							"ko-KR": "로그 밴딧 4레벨\n(변형 2 빨간색)",
+							"pl-PL": "Bandit Łotr (poziom 4)\n(Wersja 2 – czerwona)",
+							"pt-BR": "Bandit Renegado Nível 4\n(Variante 2 Vermelha)",
+							"ru-RU": "Bandit \"Отступник\" уровень 4\n(расцветка 2 \"Красный\")",
+							"th-TH": "Rogue Bandit เลเวล 4\n(ตัวเลือกที่ 2 สีแดง)",
+							"tr-TR": "4. Seviye Haydut Bandit\n(Stil 2 - Kırmızı)",
+							"vi-VN": "Bandit Rogue Cấp 4\n(Dạng 2 Ánh Đỏ)",
+							"zh-CN": "逆命中队 追猎 等级4\n（炫彩2 红色）",
+							"zh-TW": "孤影叛客 盜賊 等級4\n(幻彩2 紅色)"
+						}
+					}
+				},
+				{
+					"id": "7A305CD6-4398-6506-FC38-6499B7E4A961",
+					"label": "7A305CD6-4398-6506-FC38-6499B7E4A961",
+					"name":
+					{
+						"defaultText": "Rogue Bandit Level 4\n(Variant 3 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق بانديت المستوى 4\n(بديل 3 أزرق)",
+							"de-DE": "Bandit – Rogue Level 4\n(Variante 3, Blau)",
+							"en-US": "Rogue Bandit Level 4\n(Variant 3 Blue)",
+							"es-ES": "Bandit Rogue de nivel 4\n(variante 3: azul)",
+							"es-MX": "Bandit Disidente nivel 4\n(Variante 3 Azul)",
+							"fr-FR": "Bandit (Renégat) niveau 4\n(variante 3 Bleu)",
+							"id-ID": "Rogue Bandit Level 4\n(Varian 3 Biru)",
+							"it-IT": "Bandit Ribelle livello 4\n(variante 3 Blu)",
+							"ja-JP": "ローグ バンディット Lv.4\n(ヴァリアント 3 ブルー)",
+							"ko-KR": "로그 밴딧 4레벨\n(변형 3 파란색)",
+							"pl-PL": "Bandit Łotr (poziom 4)\n(wersja 3 – niebieska)",
+							"pt-BR": "Bandit Renegado Nível 4\n(Variante 3 Azul)",
+							"ru-RU": "Bandit \"Отступник\" уровень 4\n(расцветка 3 \"Синий\")",
+							"th-TH": "Rogue Bandit เลเวล 4\n(ตัวเลือกที่ 3 สีฟ้า)",
+							"tr-TR": "4. Seviye Haydut Bandit\n(Stil 3 - Mavi)",
+							"vi-VN": "Bandit Rogue Cấp 4\n(Dạng 3 Ánh Lam)",
+							"zh-CN": "逆命中队 追猎 等级4\n（炫彩3 蓝色）",
+							"zh-TW": "孤影叛客 盜賊 等級4\n(幻彩3 藍色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "38821BF5-4FF1-2263-B2C9-55BF78E3F411",
+					"label": "38821BF5-4FF1-2263-B2C9-55BF78E3F411",
+					"name":
+					{
+						"defaultText": "Rogue Bandit",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق بانديت",
+							"de-DE": "Bandit – Rogue",
+							"en-US": "Rogue Bandit",
+							"es-ES": "Bandit Rogue",
+							"es-MX": "Bandit Disidente",
+							"fr-FR": "Bandit (Renégat)",
+							"id-ID": "Rogue Bandit",
+							"it-IT": "Bandit Ribelle",
+							"ja-JP": "ローグ バンディット",
+							"ko-KR": "로그 밴딧",
+							"pl-PL": "Bandit Łotr",
+							"pt-BR": "Bandit Renegado",
+							"ru-RU": "Bandit \"Отступник\"",
+							"th-TH": "Rogue Bandit",
+							"tr-TR": "Haydut Bandit",
+							"vi-VN": "Bandit Rogue",
+							"zh-CN": "逆命中队 追猎",
+							"zh-TW": "孤影叛客 盜賊"
+						}
+					}
+				},
+				{
+					"id": "8593AA61-4E4A-BA66-69DD-DFBDED285B67",
+					"label": "8593AA61-4E4A-BA66-69DD-DFBDED285B67",
+					"name":
+					{
+						"defaultText": "Rogue Bandit Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق بانديت المستوى 2",
+							"de-DE": "Bandit – Rogue Level 2",
+							"en-US": "Rogue Bandit Level 2",
+							"es-ES": "Bandit Rogue de nivel 2",
+							"es-MX": "Bandit Disidente nivel 2",
+							"fr-FR": "Bandit (Renégat) niveau 2",
+							"id-ID": "Rogue Bandit Level 2",
+							"it-IT": "Bandit Ribelle livello 2",
+							"ja-JP": "ローグ バンディット Lv.2",
+							"ko-KR": "로그 밴딧 2레벨",
+							"pl-PL": "Bandit Łotr (poziom 2)",
+							"pt-BR": "Bandit Renegado Nível 2",
+							"ru-RU": "Bandit \"Отступник\" уровень 2",
+							"th-TH": "Rogue Bandit เลเวล 2",
+							"tr-TR": "2. Seviye Haydut Bandit",
+							"vi-VN": "Bandit Rogue Cấp 2",
+							"zh-CN": "逆命中队 追猎 等级2",
+							"zh-TW": "孤影叛客 盜賊 等級2"
+						}
+					}
+				},
+				{
+					"id": "1DF236E6-4B3F-3A5B-F99F-C08A463AC6F6",
+					"label": "1DF236E6-4B3F-3A5B-F99F-C08A463AC6F6",
+					"name":
+					{
+						"defaultText": "Rogue Bandit Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق بانديت المستوى 3",
+							"de-DE": "Bandit – Rogue Level 3",
+							"en-US": "Rogue Bandit Level 3",
+							"es-ES": "Bandit Rogue de nivel 3",
+							"es-MX": "Bandit Disidente nivel 3",
+							"fr-FR": "Bandit (Renégat) niveau 3",
+							"id-ID": "Rogue Bandit Level 3",
+							"it-IT": "Bandit Ribelle livello 3",
+							"ja-JP": "ローグ バンディット Lv.3",
+							"ko-KR": "로그 밴딧 3레벨",
+							"pl-PL": "Bandit Łotr (poziom 3)",
+							"pt-BR": "Bandit Renegado Nível 3",
+							"ru-RU": "Bandit \"Отступник\" уровень 3",
+							"th-TH": "Rogue Bandit เลเวล 3",
+							"tr-TR": "3. Seviye Haydut Bandit",
+							"vi-VN": "Bandit Rogue Cấp 3",
+							"zh-CN": "逆命中队 追猎 等级3",
+							"zh-TW": "孤影叛客 盜賊 等級3"
+						}
+					}
+				},
+				{
+					"id": "75947FC9-4FDD-55EA-5A63-1A920336C8E7",
+					"label": "75947FC9-4FDD-55EA-5A63-1A920336C8E7",
+					"name":
+					{
+						"defaultText": "Rogue Bandit Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق بانديت المستوى 4",
+							"de-DE": "Bandit – Rogue Level 4",
+							"en-US": "Rogue Bandit Level 4",
+							"es-ES": "Bandit Rogue de nivel 4",
+							"es-MX": "Bandit Disidente nivel 4",
+							"fr-FR": "Bandit (Renégat) niveau 4",
+							"id-ID": "Rogue Bandit Level 4",
+							"it-IT": "Bandit Ribelle livello 4",
+							"ja-JP": "ローグ バンディット Lv.4",
+							"ko-KR": "로그 밴딧 4레벨",
+							"pl-PL": "Bandit Łotr (poziom 4)",
+							"pt-BR": "Bandit Renegado Nível 4",
+							"ru-RU": "Bandit \"Отступник\" уровень 4",
+							"th-TH": "Rogue Bandit เลเวล 4",
+							"tr-TR": "4. Seviye Haydut Bandit",
+							"vi-VN": "Bandit Rogue Cấp 4",
+							"zh-CN": "逆命中队 追猎 等级4",
+							"zh-TW": "孤影叛客 盜賊 等級4"
+						}
+					}
+				}
+			],
+			"id": "902A3BCB-4164-3315-FE03-2088FB897CE4",
+			"label": "902A3BCB-4164-3315-FE03-2088FB897CE4",
+			"name":
+			{
+				"defaultText": "Rogue Bandit",
+				"localizedByCulture":
+				{
+					"ar-AE": "المارق بانديت",
+					"de-DE": "Bandit – Rogue",
+					"en-US": "Rogue Bandit",
+					"es-ES": "Bandit Rogue",
+					"es-MX": "Bandit Disidente",
+					"fr-FR": "Bandit (Renégat)",
+					"id-ID": "Rogue Bandit",
+					"it-IT": "Bandit Ribelle",
+					"ja-JP": "ローグ バンディット",
+					"ko-KR": "로그 밴딧",
+					"pl-PL": "Bandit Łotr",
+					"pt-BR": "Bandit Renegado",
+					"ru-RU": "Bandit \"Отступник\"",
+					"th-TH": "Rogue Bandit",
+					"tr-TR": "Haydut Bandit",
+					"vi-VN": "Bandit Rogue",
+					"zh-CN": "逆命中队 追猎",
+					"zh-TW": "孤影叛客 盜賊"
+				}
+			}
+		},
+		{
+			"weaponId": "410B2E0B-4CEB-1321-1727-20858F7F3477",
 			"defaultChromaId": "FD2F03BD-4DE4-653B-A33A-46800191601C",
 			"chromas": [
 				{
@@ -148226,6 +149027,273 @@
 					"vi-VN": "Operator Siêu Phóng Xạ",
 					"zh-CN": "万铀引力辐爆者 冥驹",
 					"zh-TW": "重力鈾能神經爆破者 間諜"
+				}
+			}
+		},
+		{
+			"weaponId": "A03B24D3-4319-996D-0F8C-94BBFBA1DFC7",
+			"defaultChromaId": "1E92F9B1-4195-0BF9-F203-A1A510194079",
+			"chromas": [
+				{
+					"id": "1E92F9B1-4195-0BF9-F203-A1A510194079",
+					"label": "1E92F9B1-4195-0BF9-F203-A1A510194079",
+					"name":
+					{
+						"defaultText": "Rogue Operator",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق أوبيريتور",
+							"de-DE": "Operator – Rogue",
+							"en-US": "Rogue Operator",
+							"es-ES": "Operator Rogue",
+							"es-MX": "Operator Disidente",
+							"fr-FR": "Operator (Renégat)",
+							"id-ID": "Rogue Operator",
+							"it-IT": "Operator Ribelle",
+							"ja-JP": "ローグ オペレーター",
+							"ko-KR": "로그 오퍼레이터",
+							"pl-PL": "Operator Łotr",
+							"pt-BR": "Operator Renegado",
+							"ru-RU": "Operator \"Отступник\"",
+							"th-TH": "Rogue Operator",
+							"tr-TR": "Haydut Operator",
+							"vi-VN": "Operator Rogue",
+							"zh-CN": "逆命中队 冥驹",
+							"zh-TW": "孤影叛客 間諜"
+						}
+					}
+				},
+				{
+					"id": "F4EDDC03-483C-367F-17E9-2C9F0D3AE1A0",
+					"label": "F4EDDC03-483C-367F-17E9-2C9F0D3AE1A0",
+					"name":
+					{
+						"defaultText": "Rogue Operator Level 4\n(Variant 1 Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق أوبيريتور المستوى 4\n(بديل 1 أخضر)",
+							"de-DE": "Operator – Rogue Level 4\n(Variante 1, Grün)",
+							"en-US": "Rogue Operator Level 4\n(Variant 1 Green)",
+							"es-ES": "Operator Rogue de nivel 4\n(variante 1: verde)",
+							"es-MX": "Operator Disidente nivel 4\n(Variante 1 Verde)",
+							"fr-FR": "Operator (Renégat) niveau 4\n(variante 1 Vert)",
+							"id-ID": "Rogue Operator Level 4\n(Varian 1 Hijau)",
+							"it-IT": "Operator Ribelle livello 4\n(variante 1 Verde)",
+							"ja-JP": "ローグ オペレーター Lv.4\n(ヴァリアント 1 グリーン)",
+							"ko-KR": "로그 오퍼레이터 4레벨\n(변형 1 녹색)",
+							"pl-PL": "Operator Łotr (poziom 4)\n(Wersja 1 – zielona)",
+							"pt-BR": "Operator Renegado Nível 4\n(Variante 1 Verde)",
+							"ru-RU": "Operator \"Отступник\" уровень 4\n(расцветка 1 \"Зеленый\")",
+							"th-TH": "Rogue Operator เลเวล 4\n(ตัวเลือกที่ 1 สีเขียว)",
+							"tr-TR": "4. Seviye Haydut Operator\n(Stil 1 - Yeşil)",
+							"vi-VN": "Operator Rogue Cấp 4\n(Dạng 1 Ánh Lục)",
+							"zh-CN": "逆命中队 冥驹 等级4\n（炫彩1 绿色）",
+							"zh-TW": "孤影叛客 間諜 等級4\n(幻彩1 綠色)"
+						}
+					}
+				},
+				{
+					"id": "B588D75B-42A6-4505-1E0F-E8B39698EFA0",
+					"label": "B588D75B-42A6-4505-1E0F-E8B39698EFA0",
+					"name":
+					{
+						"defaultText": "Rogue Operator Level 4\n(Variant 2 Red)",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق أوبيريتور المستوى 4\n(بديل 2 أحمر)",
+							"de-DE": "Operator – Rogue Level 4\n(Variante 2, Rot)",
+							"en-US": "Rogue Operator Level 4\n(Variant 2 Red)",
+							"es-ES": "Operator Rogue de nivel 4\n(variante 2: rojo)",
+							"es-MX": "Operator Disidente nivel 4\n(Variante 2 Roja)",
+							"fr-FR": "Operator (Renégat) niveau 4\n(variante 2 Rouge)",
+							"id-ID": "Rogue Operator Level 4\n(Varian 2 Merah)",
+							"it-IT": "Operator Ribelle livello 4\n(variante 2 Rossa)",
+							"ja-JP": "ローグ オペレーター Lv.4\n(ヴァリアント 2 レッド)",
+							"ko-KR": "로그 오퍼레이터 4레벨\n(변형 2 빨간색)",
+							"pl-PL": "Operator Łotr (poziom 4)\n(Wersja 2 – czerwona)",
+							"pt-BR": "Operator Renegado Nível 4\n(Variante 2 Vermelha)",
+							"ru-RU": "Operator \"Отступник\" уровень 4\n(расцветка 2 \"Красный\")",
+							"th-TH": "Rogue Operator เลเวล 4\n(ตัวเลือกที่ 2 สีแดง)",
+							"tr-TR": "4. Seviye Haydut Operator\n(Stil 2 - Kırmızı)",
+							"vi-VN": "Operator Rogue Cấp 4\n(Dạng 2 Ánh Đỏ)",
+							"zh-CN": "逆命中队 冥驹 等级4\n（炫彩2 红色）",
+							"zh-TW": "孤影叛客 間諜 等級4\n(幻彩2 紅色)"
+						}
+					}
+				},
+				{
+					"id": "D14B651F-45F2-E7C8-F30D-198FD5EEF49E",
+					"label": "D14B651F-45F2-E7C8-F30D-198FD5EEF49E",
+					"name":
+					{
+						"defaultText": "Rogue Operator Level 4\n(Variant 3 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق أوبيريتور المستوى 4\n(بديل 3 أزرق)",
+							"de-DE": "Operator – Rogue Level 4\n(Variante 3, Blau)",
+							"en-US": "Rogue Operator Level 4\n(Variant 3 Blue)",
+							"es-ES": "Operator Rogue de nivel 4\n(variante 3: azul)",
+							"es-MX": "Operator Disidente nivel 4\n(Variante 3 Azul)",
+							"fr-FR": "Operator (Renégat) niveau 4\n(variante 3 Bleu)",
+							"id-ID": "Rogue Operator Level 4\n(Varian 3 Biru)",
+							"it-IT": "Operator Ribelle livello 4\n(variante 3 Blu)",
+							"ja-JP": "ローグ オペレーター Lv.4\n(ヴァリアント 3 ブルー)",
+							"ko-KR": "로그 오퍼레이터 4레벨\n(변형 3 파란색)",
+							"pl-PL": "Operator Łotr (poziom 4)\n(wersja 3 – niebieska)",
+							"pt-BR": "Operator Renegado Nível 4\n(Variante 3 Azul)",
+							"ru-RU": "Operator \"Отступник\" уровень 4\n(расцветка 3 \"Синий\")",
+							"th-TH": "Rogue Operator เลเวล 4\n(ตัวเลือกที่ 3 สีฟ้า)",
+							"tr-TR": "4. Seviye Haydut Operator\n(Stil 3 - Mavi)",
+							"vi-VN": "Operator Rogue Cấp 4\n(Dạng 3 Ánh Lam)",
+							"zh-CN": "逆命中队 冥驹 等级4\n（炫彩3 蓝色）",
+							"zh-TW": "孤影叛客 間諜 等級4\n(幻彩3 藍色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "E5643FA1-468F-C41F-D867-46AF6E9240A3",
+					"label": "E5643FA1-468F-C41F-D867-46AF6E9240A3",
+					"name":
+					{
+						"defaultText": "Rogue Operator",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق أوبيريتور",
+							"de-DE": "Operator – Rogue",
+							"en-US": "Rogue Operator",
+							"es-ES": "Operator Rogue",
+							"es-MX": "Operator Disidente",
+							"fr-FR": "Operator (Renégat)",
+							"id-ID": "Rogue Operator",
+							"it-IT": "Operator Ribelle",
+							"ja-JP": "ローグ オペレーター",
+							"ko-KR": "로그 오퍼레이터",
+							"pl-PL": "Operator Łotr",
+							"pt-BR": "Operator Renegado",
+							"ru-RU": "Operator \"Отступник\"",
+							"th-TH": "Rogue Operator",
+							"tr-TR": "Haydut Operator",
+							"vi-VN": "Operator Rogue",
+							"zh-CN": "逆命中队 冥驹",
+							"zh-TW": "孤影叛客 間諜"
+						}
+					}
+				},
+				{
+					"id": "42B255DC-4481-5C82-8BDF-BBBA161623EE",
+					"label": "42B255DC-4481-5C82-8BDF-BBBA161623EE",
+					"name":
+					{
+						"defaultText": "Rogue Operator Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق أوبيريتور المستوى 2",
+							"de-DE": "Operator – Rogue Level 2",
+							"en-US": "Rogue Operator Level 2",
+							"es-ES": "Operator Rogue de nivel 2",
+							"es-MX": "Operator Disidente nivel 2",
+							"fr-FR": "Operator (Renégat) niveau 2",
+							"id-ID": "Rogue Operator Level 2",
+							"it-IT": "Operator Ribelle livello 2",
+							"ja-JP": "ローグ オペレーター Lv.2",
+							"ko-KR": "로그 오퍼레이터 2레벨",
+							"pl-PL": "Operator Łotr (poziom 2)",
+							"pt-BR": "Operator Renegado Nível 2",
+							"ru-RU": "Operator \"Отступник\" уровень 2",
+							"th-TH": "Rogue Operator เลเวล 2",
+							"tr-TR": "2. Seviye Haydut Operator",
+							"vi-VN": "Operator Rogue Cấp 2",
+							"zh-CN": "逆命中队 冥驹 等级2",
+							"zh-TW": "孤影叛客 間諜 等級2"
+						}
+					}
+				},
+				{
+					"id": "EAABB6BA-4A71-E362-8F5F-C28A38E2BC0D",
+					"label": "EAABB6BA-4A71-E362-8F5F-C28A38E2BC0D",
+					"name":
+					{
+						"defaultText": "Rogue Operator Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق أوبيريتور المستوى 3",
+							"de-DE": "Operator – Rogue Level 3",
+							"en-US": "Rogue Operator Level 3",
+							"es-ES": "Operator Rogue de nivel 3",
+							"es-MX": "Operator Disidente nivel 3",
+							"fr-FR": "Operator (Renégat) niveau 3",
+							"id-ID": "Rogue Operator Level 3",
+							"it-IT": "Operator Ribelle livello 3",
+							"ja-JP": "ローグ オペレーター Lv.3",
+							"ko-KR": "로그 오퍼레이터 3레벨",
+							"pl-PL": "Operator Łotr (poziom 3)",
+							"pt-BR": "Operator Renegado Nível 3",
+							"ru-RU": "Operator \"Отступник\" уровень 3",
+							"th-TH": "Rogue Operator เลเวล 3",
+							"tr-TR": "3. Seviye Haydut Operator",
+							"vi-VN": "Operator Rogue Cấp 3",
+							"zh-CN": "逆命中队 冥驹 等级3",
+							"zh-TW": "孤影叛客 間諜 等級3"
+						}
+					}
+				},
+				{
+					"id": "4C974CBB-4739-562C-5E13-6EB15923E5E0",
+					"label": "4C974CBB-4739-562C-5E13-6EB15923E5E0",
+					"name":
+					{
+						"defaultText": "Rogue Operator Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "المارق أوبيريتور المستوى 4",
+							"de-DE": "Operator – Rogue Level 4",
+							"en-US": "Rogue Operator Level 4",
+							"es-ES": "Operator Rogue de nivel 4",
+							"es-MX": "Operator Disidente nivel 4",
+							"fr-FR": "Operator (Renégat) niveau 4",
+							"id-ID": "Rogue Operator Level 4",
+							"it-IT": "Operator Ribelle livello 4",
+							"ja-JP": "ローグ オペレーター Lv.4",
+							"ko-KR": "로그 오퍼레이터 4레벨",
+							"pl-PL": "Operator Łotr (poziom 4)",
+							"pt-BR": "Operator Renegado Nível 4",
+							"ru-RU": "Operator \"Отступник\" уровень 4",
+							"th-TH": "Rogue Operator เลเวล 4",
+							"tr-TR": "4. Seviye Haydut Operator",
+							"vi-VN": "Operator Rogue Cấp 4",
+							"zh-CN": "逆命中队 冥驹 等级4",
+							"zh-TW": "孤影叛客 間諜 等級4"
+						}
+					}
+				}
+			],
+			"id": "2460C852-4D1B-A9E3-CCDA-43A8E30CB739",
+			"label": "2460C852-4D1B-A9E3-CCDA-43A8E30CB739",
+			"name":
+			{
+				"defaultText": "Rogue Operator",
+				"localizedByCulture":
+				{
+					"ar-AE": "المارق أوبيريتور",
+					"de-DE": "Operator – Rogue",
+					"en-US": "Rogue Operator",
+					"es-ES": "Operator Rogue",
+					"es-MX": "Operator Disidente",
+					"fr-FR": "Operator (Renégat)",
+					"id-ID": "Rogue Operator",
+					"it-IT": "Operator Ribelle",
+					"ja-JP": "ローグ オペレーター",
+					"ko-KR": "로그 오퍼레이터",
+					"pl-PL": "Operator Łotr",
+					"pt-BR": "Operator Renegado",
+					"ru-RU": "Operator \"Отступник\"",
+					"th-TH": "Rogue Operator",
+					"tr-TR": "Haydut Operator",
+					"vi-VN": "Operator Rogue",
+					"zh-CN": "逆命中队 冥驹",
+					"zh-TW": "孤影叛客 間諜"
 				}
 			}
 		},
@@ -206745,6 +207813,215 @@
 		},
 		{
 			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
+			"defaultChromaId": "BABF3B14-45E0-410F-B99E-D3B6AF1A6D8A",
+			"chromas": [
+				{
+					"id": "BABF3B14-45E0-410F-B99E-D3B6AF1A6D8A",
+					"label": "BABF3B14-45E0-410F-B99E-D3B6AF1A6D8A",
+					"name":
+					{
+						"defaultText": "Rogue Push Daggers",
+						"localizedByCulture":
+						{
+							"ar-AE": "خناجر المارق",
+							"de-DE": "Faustmesser – Rogue",
+							"en-US": "Rogue Push Daggers",
+							"es-ES": "Dagas Rogue",
+							"es-MX": "Dagas de Puño Disidentes",
+							"fr-FR": "Push daggers (Renégat)",
+							"id-ID": "Rogue Push Daggers",
+							"it-IT": "Coltelli a spinta Ribelle",
+							"ja-JP": "ローグ プッシュダガー",
+							"ko-KR": "로그 주먹 단검",
+							"pl-PL": "Sztylety Łotra",
+							"pt-BR": "Adagas de Punho Renegado",
+							"ru-RU": "Тычковые ножи \"Отступник\"",
+							"th-TH": "Rogue Push Daggers",
+							"tr-TR": "Haydut İtme Hançerleri",
+							"vi-VN": "Dao Đẩy Rogue",
+							"zh-CN": "逆命中队 手刺",
+							"zh-TW": "孤影叛客 丁字拳刃"
+						}
+					}
+				},
+				{
+					"id": "BEF61E48-433B-B91C-CE0E-7D90ADC68AE1",
+					"label": "BEF61E48-433B-B91C-CE0E-7D90ADC68AE1",
+					"name":
+					{
+						"defaultText": "Rogue Push Daggers Level 2\n(Variant 1 Green)",
+						"localizedByCulture":
+						{
+							"ar-AE": "خناجر المارق المستوى 2\n(بديل 1 أخضر)",
+							"de-DE": "Faustmesser – Rogue Level 2\n(Variante 1, Grün)",
+							"en-US": "Rogue Push Daggers Level 2\n(Variant 1 Green)",
+							"es-ES": "Dagas Rogue de nivel 2\n(variante 1: verde)",
+							"es-MX": "Dagas de Puño Disidentes nivel 2\n(Variante 1 Verde)",
+							"fr-FR": "Push daggers (Renégat) niveau 2\n(variante 1 Vert)",
+							"id-ID": "Rogue Push Daggers Level 2\n(Varian 1 Hijau)",
+							"it-IT": "Coltelli a spinta Ribelle livello 2\n(variante 1 Verde)",
+							"ja-JP": "ローグ プッシュダガー Lv.2\n(ヴァリアント 1 グリーン)",
+							"ko-KR": "로그 주먹 단검 2레벨\n(변형 1 녹색)",
+							"pl-PL": "Sztylety Łotra (poziom 2)\n(Wersja 1 – zielona)",
+							"pt-BR": "Adagas de Punho Renegado Nível 2\n(Variante 1 Verde)",
+							"ru-RU": "Тычковые ножи \"Отступник\" уровень 2\n(расцветка 1 \"Зеленый\")",
+							"th-TH": "Rogue Push Daggers เลเวล 2\n(ตัวเลือกที่ 1 สีเขียว)",
+							"tr-TR": "2. Seviye Haydut İtme Hançerleri\n(Stil 1 - Yeşil)",
+							"vi-VN": "Dao Đẩy Rogue Cấp 2\n(Dạng 1 Ánh Lục)",
+							"zh-CN": "逆命中队 手刺 等级2\n（炫彩1 绿色）",
+							"zh-TW": "孤影叛客 丁字拳刃 等級2\n(幻彩1 綠色)"
+						}
+					}
+				},
+				{
+					"id": "C54C43A3-46D3-7C58-DB3E-7D904C371238",
+					"label": "C54C43A3-46D3-7C58-DB3E-7D904C371238",
+					"name":
+					{
+						"defaultText": "Rogue Push Daggers Level 2\n(Variant 2 Red)",
+						"localizedByCulture":
+						{
+							"ar-AE": "خناجر المارق المستوى 2\n(بديل 2 أحمر)",
+							"de-DE": "Faustmesser – Rogue Level 2\n(Variante 2, Rot)",
+							"en-US": "Rogue Push Daggers Level 2\n(Variant 2 Red)",
+							"es-ES": "Dagas Rogue de nivel 2\n(variante 2: rojo)",
+							"es-MX": "Dagas de Puño Disidentes nivel 2\n(Variante 2 Roja)",
+							"fr-FR": "Push daggers (Renégat) niveau 2\n(variante 2 Rouge)",
+							"id-ID": "Rogue Push Daggers Level 2\n(Varian 2 Merah)",
+							"it-IT": "Coltelli a spinta Ribelle livello 2\n(variante 2 Rossa)",
+							"ja-JP": "ローグ プッシュダガー Lv.2\n(ヴァリアント 2 レッド)",
+							"ko-KR": "로그 주먹 단검 2레벨\n(변형 2 빨간색)",
+							"pl-PL": "Sztylety Łotra (poziom 2)\n(Wersja 2 – czerwona)",
+							"pt-BR": "Adagas de Punho Renegado Nível 2\n(Variante 2 Vermelha)",
+							"ru-RU": "Тычковые ножи \"Отступник\" уровень 2\n(расцветка 2 \"Красный\")",
+							"th-TH": "Rogue Push Daggers เลเวล 2\n(ตัวเลือกที่ 2 สีแดง)",
+							"tr-TR": "2. Seviye Haydut İtme Hançerleri\n(Stil 2 - Kırmızı)",
+							"vi-VN": "Dao Đẩy Rogue Cấp 2\n(Dạng 2 Ánh Đỏ)",
+							"zh-CN": "逆命中队 手刺 等级2\n（炫彩2 红色）",
+							"zh-TW": "孤影叛客 丁字拳刃 等級2\n(幻彩2 紅色)"
+						}
+					}
+				},
+				{
+					"id": "A0887C73-4BA7-3064-2378-3981C6ED3E2C",
+					"label": "A0887C73-4BA7-3064-2378-3981C6ED3E2C",
+					"name":
+					{
+						"defaultText": "Rogue Push Daggers Level 2\r\n(Variant 3 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "خناجر المارق المستوى 2\r\n(بديل 3 أزرق)",
+							"de-DE": "Faustmesser – Rogue Level 2\r\n(Variante 3, Blau)",
+							"en-US": "Rogue Push Daggers Level 2\r\n(Variant 3 Blue)",
+							"es-ES": "Dagas Rogue de nivel 2\r\n(variante 3: azul)",
+							"es-MX": "Dagas de Puño Disidentes nivel 2\r\n(Variante 3 Azul)",
+							"fr-FR": "Push daggers (Renégat) niveau 2\r\n(variante 3 Bleu)",
+							"id-ID": "Rogue Push Daggers Level 2\r\n(Varian 3 Biru)",
+							"it-IT": "Coltelli a spinta Ribelle livello 2\r\n(variante 3 Blu)",
+							"ja-JP": "ローグ プッシュダガー Lv.2\r\n(ヴァリアント 3 ブルー)",
+							"ko-KR": "로그 주먹 단검 2레벨\r\n(변형 3 파란색)",
+							"pl-PL": "Sztylety Łotra (poziom 2)\r\n(wersja 3 – niebieska)",
+							"pt-BR": "Adagas de Punho Renegado Nível 2\r\n(Variante 3 Azul)",
+							"ru-RU": "Тычковые ножи \"Отступник\" уровень 2\r\n(расцветка 3 \"Синий\")",
+							"th-TH": "Rogue Push Daggers เลเวล 2\r\n(ตัวเลือกที่ 3 สีฟ้า)",
+							"tr-TR": "2. Seviye Haydut İtme Hançerleri\r\n(Stil 3 - Mavi)",
+							"vi-VN": "Dao Đẩy Rogue Cấp 2\r\n(Dạng 3 Ánh Lam)",
+							"zh-CN": "逆命中队 手刺 等级2\r\n（炫彩3 蓝色）",
+							"zh-TW": "孤影叛客 丁字拳刃 等級2\r\n(幻彩3 藍色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "78FCA106-49D8-FB01-258B-C4A38B19EC77",
+					"label": "78FCA106-49D8-FB01-258B-C4A38B19EC77",
+					"name":
+					{
+						"defaultText": "Rogue Push Daggers",
+						"localizedByCulture":
+						{
+							"ar-AE": "خناجر المارق",
+							"de-DE": "Faustmesser – Rogue",
+							"en-US": "Rogue Push Daggers",
+							"es-ES": "Dagas Rogue",
+							"es-MX": "Dagas de Puño Disidentes",
+							"fr-FR": "Push daggers (Renégat)",
+							"id-ID": "Rogue Push Daggers",
+							"it-IT": "Coltelli a spinta Ribelle",
+							"ja-JP": "ローグ プッシュダガー",
+							"ko-KR": "로그 주먹 단검",
+							"pl-PL": "Sztylety Łotra",
+							"pt-BR": "Adagas de Punho Renegado",
+							"ru-RU": "Тычковые ножи \"Отступник\"",
+							"th-TH": "Rogue Push Daggers",
+							"tr-TR": "Haydut İtme Hançerleri",
+							"vi-VN": "Dao Đẩy Rogue",
+							"zh-CN": "逆命中队 手刺",
+							"zh-TW": "孤影叛客 丁字拳刃"
+						}
+					}
+				},
+				{
+					"id": "319BA790-4BFC-0099-4C50-DE822474A7B8",
+					"label": "319BA790-4BFC-0099-4C50-DE822474A7B8",
+					"name":
+					{
+						"defaultText": "Rogue Push Daggers Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "خناجر المارق المستوى 2",
+							"de-DE": "Faustmesser – Rogue Level 2",
+							"en-US": "Rogue Push Daggers Level 2",
+							"es-ES": "Dagas Rogue de nivel 2",
+							"es-MX": "Dagas de Puño Disidentes nivel 2",
+							"fr-FR": "Push daggers (Renégat) niveau 2",
+							"id-ID": "Rogue Push Daggers Level 2",
+							"it-IT": "Coltelli a spinta Ribelle livello 2",
+							"ja-JP": "ローグ プッシュダガー Lv.2",
+							"ko-KR": "로그 주먹 단검 2레벨",
+							"pl-PL": "Sztylety Łotra (poziom 2)",
+							"pt-BR": "Adagas de Punho Renegado Nível 2",
+							"ru-RU": "Тычковые ножи \"Отступник\" уровень 2",
+							"th-TH": "Rogue Push Daggers เลเวล 2",
+							"tr-TR": "2. Seviye Haydut İtme Hançerleri",
+							"vi-VN": "Dao Đẩy Rogue Cấp 2",
+							"zh-CN": "逆命中队 手刺 等级2",
+							"zh-TW": "孤影叛客 丁字拳刃 等級2"
+						}
+					}
+				}
+			],
+			"id": "1C808469-4AEE-AE6C-FCD2-1099E96AC6A0",
+			"label": "1C808469-4AEE-AE6C-FCD2-1099E96AC6A0",
+			"name":
+			{
+				"defaultText": "Rogue Push Daggers",
+				"localizedByCulture":
+				{
+					"ar-AE": "خناجر المارق",
+					"de-DE": "Faustmesser – Rogue",
+					"en-US": "Rogue Push Daggers",
+					"es-ES": "Dagas Rogue",
+					"es-MX": "Dagas de Puño Disidentes",
+					"fr-FR": "Push daggers (Renégat)",
+					"id-ID": "Rogue Push Daggers",
+					"it-IT": "Coltelli a spinta Ribelle",
+					"ja-JP": "ローグ プッシュダガー",
+					"ko-KR": "로그 주먹 단검",
+					"pl-PL": "Sztylety Łotra",
+					"pt-BR": "Adagas de Punho Renegado",
+					"ru-RU": "Тычковые ножи \"Отступник\"",
+					"th-TH": "Rogue Push Daggers",
+					"tr-TR": "Haydut İtme Hançerleri",
+					"vi-VN": "Dao Đẩy Rogue",
+					"zh-CN": "逆命中队 手刺",
+					"zh-TW": "孤影叛客 丁字拳刃"
+				}
+			}
+		},
+		{
+			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
 			"defaultChromaId": "E57BECD4-4580-D8CA-1391-95815F421D94",
 			"chromas": [
 				{
@@ -214832,6 +216109,122 @@
 					"vi-VN": "Skirmish C",
 					"zh-CN": "斗牛 3",
 					"zh-TW": "火線交鋒C"
+				}
+			}
+		},
+		{
+			"coordinates":
+			{
+				"defaultText": "",
+				"localizedByCulture":
+				{
+					"ar-AE": "",
+					"de-DE": "",
+					"en-US": "",
+					"es-ES": "",
+					"es-MX": "",
+					"fr-FR": "",
+					"id-ID": "",
+					"it-IT": "",
+					"ja-JP": "",
+					"ko-KR": "",
+					"pl-PL": "",
+					"pt-BR": "",
+					"ru-RU": "",
+					"th-TH": "",
+					"tr-TR": "",
+					"vi-VN": "",
+					"zh-CN": "",
+					"zh-TW": ""
+				}
+			},
+			"xScalarToAdd": 0,
+			"xMultiplier": 0,
+			"yScalarToAdd": 0,
+			"yMultiplier": 0,
+			"id": "4490F1D6-4818-BF5F-9B3A-9C9A8DBB52ED",
+			"label": "4490F1D6-4818-BF5F-9B3A-9C9A8DBB52ED",
+			"name":
+			{
+				"defaultText": "Skirmish E",
+				"localizedByCulture":
+				{
+					"ar-AE": "مناوشة E",
+					"de-DE": "Skirmish E",
+					"en-US": "Skirmish E",
+					"es-ES": "Escaramuza E",
+					"es-MX": "Escaramuza E",
+					"fr-FR": "Escarmouche E",
+					"id-ID": "Skirmish E",
+					"it-IT": "Schermaglia E",
+					"ja-JP": "スカーミッシュ E",
+					"ko-KR": "난투 E",
+					"pl-PL": "Potyczka E",
+					"pt-BR": "Duelo E",
+					"ru-RU": "Столкновение E",
+					"th-TH": "Skirmish E",
+					"tr-TR": "ÇARPIŞMA E",
+					"vi-VN": "Skirmish E",
+					"zh-CN": "斗牛 5",
+					"zh-TW": "火線交鋒E"
+				}
+			}
+		},
+		{
+			"coordinates":
+			{
+				"defaultText": "",
+				"localizedByCulture":
+				{
+					"ar-AE": "",
+					"de-DE": "",
+					"en-US": "",
+					"es-ES": "",
+					"es-MX": "",
+					"fr-FR": "",
+					"id-ID": "",
+					"it-IT": "",
+					"ja-JP": "",
+					"ko-KR": "",
+					"pl-PL": "",
+					"pt-BR": "",
+					"ru-RU": "",
+					"th-TH": "",
+					"tr-TR": "",
+					"vi-VN": "",
+					"zh-CN": "",
+					"zh-TW": ""
+				}
+			},
+			"xScalarToAdd": 0,
+			"xMultiplier": 0,
+			"yScalarToAdd": 0,
+			"yMultiplier": 0,
+			"id": "1C7555FC-4BC6-3B98-9674-789D47EF6C50",
+			"label": "1C7555FC-4BC6-3B98-9674-789D47EF6C50",
+			"name":
+			{
+				"defaultText": "Skirmish D",
+				"localizedByCulture":
+				{
+					"ar-AE": "مناوشة D",
+					"de-DE": "Skirmish D",
+					"en-US": "Skirmish D",
+					"es-ES": "Escaramuza D",
+					"es-MX": "Escaramuza D",
+					"fr-FR": "Escarmouche D",
+					"id-ID": "Skirmish D",
+					"it-IT": "Schermaglia D",
+					"ja-JP": "スカーミッシュ D",
+					"ko-KR": "난투 D",
+					"pl-PL": "Potyczka D",
+					"pt-BR": "Duelo D",
+					"ru-RU": "Столкновение D",
+					"th-TH": "Skirmish D",
+					"tr-TR": "ÇARPIŞMA D",
+					"vi-VN": "Skirmish D",
+					"zh-CN": "斗牛 4",
+					"zh-TW": "火線交鋒D"
 				}
 			}
 		},
@@ -234326,6 +235719,35 @@
 			}
 		},
 		{
+			"id": "C429531B-4980-CA36-C3E0-689D1CBCAF6F",
+			"label": "C429531B-4980-CA36-C3E0-689D1CBCAF6F",
+			"name":
+			{
+				"defaultText": "Rogue Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة المارق",
+					"de-DE": "Banner „Rogue“",
+					"en-US": "Rogue Card",
+					"es-ES": "Tarjeta Rogue",
+					"es-MX": "Tarjeta Disidente",
+					"fr-FR": "Carte Renégat",
+					"id-ID": "Card Rogue",
+					"it-IT": "Carta Ribelle",
+					"ja-JP": "ローグ カード",
+					"ko-KR": "로그 카드",
+					"pl-PL": "Karta „Łotr”",
+					"pt-BR": "Card Renegado",
+					"ru-RU": "Карточка \"Отступник\"",
+					"th-TH": "การ์ด Rogue",
+					"tr-TR": "Haydut Kartı",
+					"vi-VN": "Thẻ Rogue",
+					"zh-CN": "逆命中队 卡面",
+					"zh-TW": "孤影叛客 玩家卡面"
+				}
+			}
+		},
+		{
 			"id": "CEDA65E4-4AC0-31BB-4F1F-43AF3A980CD0",
 			"label": "CEDA65E4-4AC0-31BB-4F1F-43AF3A980CD0",
 			"name":
@@ -251722,7 +253144,7 @@
 					"ar-AE": "الطفل المزعج",
 					"de-DE": "Schlingel",
 					"en-US": "brat",
-					"es-ES": "Brat",
+					"es-ES": "brat",
 					"es-MX": "Caprichitos",
 					"fr-FR": "Sale gosse",
 					"id-ID": "brat",
@@ -251749,7 +253171,7 @@
 					"ar-AE": "لقب الطفل المزعج",
 					"de-DE": "Titel „Schlingel“",
 					"en-US": "brat Title",
-					"es-ES": "Título Brat",
+					"es-ES": "Título brat",
 					"es-MX": "Título Caprichitos",
 					"fr-FR": "Titre Sale gosse",
 					"id-ID": "Gelar brat",
@@ -252860,7 +254282,7 @@
 					"es-MX": "Lugar Seguro",
 					"fr-FR": "Zéro jugement",
 					"id-ID": "Holding Space",
-					"it-IT": "Premo Spazio",
+					"it-IT": "Uno spazio sicuro",
 					"ja-JP": "パーソナルスペース",
 					"ko-KR": "버팀목",
 					"pl-PL": "Tworzenie przestrzeni",
@@ -252887,7 +254309,7 @@
 					"es-MX": "Título Lugar Seguro",
 					"fr-FR": "Titre Zéro jugement",
 					"id-ID": "Gelar Holding Space",
-					"it-IT": "Titolo Premo Spazio",
+					"it-IT": "Titolo Uno spazio sicuro",
 					"ja-JP": "パーソナルスペース タイトル",
 					"ko-KR": "버팀목 칭호",
 					"pl-PL": "Tytuł „Tworzenie przestrzeni”",
@@ -301614,6 +303036,66 @@
 		{
 			"levels": [
 				{
+					"id": "AA4D2220-47F2-3A9A-2CCF-4C8892307158",
+					"label": "AA4D2220-47F2-3A9A-2CCF-4C8892307158",
+					"name":
+					{
+						"defaultText": "Rogue",
+						"localizedByCulture":
+						{
+							"ar-AE": "Rogue",
+							"de-DE": "Rogue",
+							"en-US": "Rogue",
+							"es-ES": "Rogue",
+							"es-MX": "Rogue",
+							"fr-FR": "Rogue",
+							"id-ID": "Rogue",
+							"it-IT": "Rogue",
+							"ja-JP": "Rogue",
+							"ko-KR": "Rogue",
+							"pl-PL": "Rogue",
+							"pt-BR": "Rogue",
+							"ru-RU": "Rogue",
+							"th-TH": "Rogue",
+							"tr-TR": "Rogue",
+							"vi-VN": "Rogue",
+							"zh-CN": "Rogue",
+							"zh-TW": "Rogue"
+						}
+					}
+				}
+			],
+			"id": "B987198E-40DA-CBC3-8CD2-1ABD36D3A983",
+			"label": "B987198E-40DA-CBC3-8CD2-1ABD36D3A983",
+			"name":
+			{
+				"defaultText": "Rogue Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق المارق",
+					"de-DE": "Talisman „Rogue“",
+					"en-US": "Rogue Buddy",
+					"es-ES": "Amuleto Rogue",
+					"es-MX": "Buddy Disidente",
+					"fr-FR": "Porte-bonheur Renégat",
+					"id-ID": "Buddy Rogue",
+					"it-IT": "Accessorio Ribelle",
+					"ja-JP": "ローグ バディー",
+					"ko-KR": "로그 총기 장식",
+					"pl-PL": "Przywieszka „Łotr”",
+					"pt-BR": "Chaveiro Renegado",
+					"ru-RU": "Брелок \"Отступник\"",
+					"th-TH": "บัดดี้ Rogue",
+					"tr-TR": "Haydut Uğuru",
+					"vi-VN": "Phụ Kiện Rogue",
+					"zh-CN": "逆命中队 挂饰",
+					"zh-TW": "孤影叛客 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "1B9F88EA-41CC-A541-1AE5-56A138AACDB2",
 					"label": "1B9F88EA-41CC-A541-1AE5-56A138AACDB2",
 					"name":
@@ -301958,7 +303440,7 @@
 					"fr-FR": "Porte-bonheur Expert des Pick'Ems : Arbitre ?!?",
 					"id-ID": "Buddy Pick'Ems Master: REF?!?",
 					"it-IT": "Accessorio Maestro Pick'Ems: ARBITRO?!",
-					"ja-JP": "Pick'Ems マスター:•審判!? バディー",
+					"ja-JP": "Pick'Ems マスター: 審判!? バディー",
 					"ko-KR": "승부의 신 마스터: 심판?!? 총기 장식",
 					"pl-PL": "Przywieszka „Mistrz typowania: SĘDZIA?!?”",
 					"pt-BR": "Chaveiro Mestre do Bolão: Árbitra",
@@ -357356,6 +358838,66 @@
 		{
 			"levels": [
 				{
+					"id": "1168039F-409A-05FA-83E4-1DAE1ACC08D9",
+					"label": "1168039F-409A-05FA-83E4-1DAE1ACC08D9",
+					"name":
+					{
+						"defaultText": "Rogue",
+						"localizedByCulture":
+						{
+							"ar-AE": "Rogue",
+							"de-DE": "Rogue",
+							"en-US": "Rogue",
+							"es-ES": "Rogue",
+							"es-MX": "Rogue",
+							"fr-FR": "Rogue",
+							"id-ID": "Rogue",
+							"it-IT": "Rogue",
+							"ja-JP": "Rogue",
+							"ko-KR": "Rogue",
+							"pl-PL": "Rogue",
+							"pt-BR": "Rogue",
+							"ru-RU": "Rogue",
+							"th-TH": "Rogue",
+							"tr-TR": "Rogue",
+							"vi-VN": "Rogue",
+							"zh-CN": "Rogue",
+							"zh-TW": "Rogue"
+						}
+					}
+				}
+			],
+			"id": "67908139-4960-5F8F-CCBF-D2A96EEA1EA8",
+			"label": "67908139-4960-5F8F-CCBF-D2A96EEA1EA8",
+			"name":
+			{
+				"defaultText": "Rogue Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة المارق",
+					"de-DE": "Graffiti „Rogue“",
+					"en-US": "Rogue Spray",
+					"es-ES": "Grafiti Rogue",
+					"es-MX": "Spray Disidente",
+					"fr-FR": "Graffiti Renégat",
+					"id-ID": "Spray Rogue",
+					"it-IT": "Spray Ribelle",
+					"ja-JP": "ローグ スプレー",
+					"ko-KR": "로그 스프레이",
+					"pl-PL": "Graffiti „Łotr”",
+					"pt-BR": "Spray Renegado",
+					"ru-RU": "Граффити \"Отступник\"",
+					"th-TH": "สเปรย์ Rogue",
+					"tr-TR": "Haydut Spreyi",
+					"vi-VN": "Hình Phun Sơn Rogue",
+					"zh-CN": "逆命中队 喷漆",
+					"zh-TW": "孤影叛客 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "14226929-4AB4-5553-6FED-9BAE3F1CAE51",
 					"label": "14226929-4AB4-5553-6FED-9BAE3F1CAE51",
 					"name":
@@ -367680,7 +369222,7 @@
 					"fr-FR": "Escarmouche : Ascension",
 					"id-ID": "Skirmish: Ascension",
 					"it-IT": "Schermaglia: Ascensione",
-					"ja-JP": "スカーミッシュ：Ascension",
+					"ja-JP": "スカーミッシュ: Ascension",
 					"ko-KR": "초월 난투",
 					"pl-PL": "Potyczka: Wyniesienie",
 					"pt-BR": "Duelo: Ascensão",
@@ -369870,7 +371412,7 @@
 					"fr-FR": "Escarmouche : Ascension 2c2",
 					"id-ID": "Skirmish: Ascension 2v2",
 					"it-IT": "Schermaglia: Ascensione 2 vs 2",
-					"ja-JP": "スカーミッシュ：Ascension 2v2",
+					"ja-JP": "スカーミッシュ: Ascension 2v2",
 					"ko-KR": "초월 난투: 2대2",
 					"pl-PL": "Potyczka: Wyniesienie 2 na 2",
 					"pt-BR": "Duelo: Ascensão 2x2",
@@ -369924,7 +371466,7 @@
 					"fr-FR": "Escarmouche : Ascension 1c1",
 					"id-ID": "Skirmish: Ascension 1v1",
 					"it-IT": "Schermaglia: Ascensione 1 vs 1",
-					"ja-JP": "スカーミッシュ：Ascension 1v1",
+					"ja-JP": "スカーミッシュ: Ascension 1v1",
 					"ko-KR": "초월 난투: 1대1",
 					"pl-PL": "Potyczka: Wyniesienie 1 na 1",
 					"pt-BR": "Duelo: Ascensão 1x1",
@@ -369951,7 +371493,7 @@
 					"fr-FR": "DURÉE LIMITÉE : duels à petite échelle, format 2c2, pas de compétences, que du tir. Le premier qui remporte 10 manches gagne la partie.",
 					"id-ID": "BERBATAS WAKTU: Duel skala kecil, format 2v2, tanpa ability, adu tembak murni. Yang pertama mencapai 10 ronde, menang.",
 					"it-IT": "TEMPO LIMITATO: duelli su scala limitata, formato 2 vs 2, nessuna abilità, puri scontri a fuoco. Vince chi arriva prima a 10 round.",
-					"ja-JP": "期間限定：小規模戦闘、2v2方式、アビリティーなし、ガンプレイ勝負。10ラウンド先取で勝利。",
+					"ja-JP": "期間限定: 小規模戦闘、2v2方式、アビリティーなし、ガンプレイ勝負。10ラウンド先取で勝利。",
 					"ko-KR": "기간 한정: 작은 규모의 전투, 2대2 진행 방식, 스킬이 없는 순수한 총격전. 먼저 10라운드를 이기는 팀이 승리합니다.",
 					"pl-PL": "TYMCZASOWO DOSTĘPNE: Pojedynki na małą skalę, 2 na 2, żadnych umiejętności, czysta strzelanka. Zwycięża ten, kto pierwszy wygra 10 rund.",
 					"pt-BR": "TEMPO LIMITADO: duelos em pequena escala, formato 2x2, sem habilidades, pura mecânica de tiro. Vence quem ganhar 10 rodadas primeiro.",
@@ -369978,7 +371520,7 @@
 					"fr-FR": "Escarmouche : 2c2",
 					"id-ID": "Skirmish: 2v2",
 					"it-IT": "Schermaglia: 2 vs 2",
-					"ja-JP": "スカーミッシュ：2v2",
+					"ja-JP": "スカーミッシュ: 2v2",
 					"ko-KR": "난투: 2대2",
 					"pl-PL": "Potyczka: 2 na 2",
 					"pt-BR": "Duelo: 2x2",
@@ -370221,7 +371763,7 @@
 					"fr-FR": "DURÉE LIMITÉE : mode Élimination. En manches, les éliminations réaniment les coéquipiers. Repoussez la ligne, combattez ensemble. La première équipe qui remporte 4 manches gagne la partie.",
 					"id-ID": "PERIODE TERBATAS: Mode eliminasi. Berbasis ronde, takedown menghidupkan kembali rekan tim, push maju, bertarung bersama. Yang pertama mencapai 4 ronde, menang.",
 					"it-IT": "Modalità Eliminazione a TEMPO LIMITATO basata su round. Le eliminazioni rianimano i compagni. Avanzate e combattete insieme. Vince chi conquista per primo 4 round.",
-					"ja-JP": "期間限定：エリミネーションモード。ラウンド方式、キルで味方が復活。仲間と一緒に前線を押し上げろ。4ラウンド先取で勝利。",
+					"ja-JP": "期間限定: エリミネーションモード。ラウンド方式、キルで味方が復活。仲間と一緒に前線を押し上げろ。4ラウンド先取で勝利。",
 					"ko-KR": "기간 한정 섬멸 모드입니다 라운드 기반 모드로, 처치 시 아군이 부활합니다. 전선을 압박해 함께 싸우세요. 4라운드를 먼저 이기면 승리합니다.",
 					"pl-PL": "TYMCZASOWO DOSTĘPNE: Tryb eliminacji. Podzielony na rundy, udziały w zabójstwach wskrzeszają współgraczy, naciskanie na front, walka razem. Zwycięża drużyna, która pierwsza wygra 4 rundy.",
 					"pt-BR": "TEMPO LIMITADO: modo de abates. Em rodadas. Eliminações revivem colegas de equipe. Avancem e lutem juntos. Vence quem ganhar 4 rodadas primeiro.",
@@ -370572,7 +372114,7 @@
 					"fr-FR": "Escarmouche : Ascension 2c2",
 					"id-ID": "Skirmish: Ascension 2v2",
 					"it-IT": "Schermaglia: Ascensione 2 vs 2",
-					"ja-JP": "スカーミッシュ：Ascension 2v2",
+					"ja-JP": "スカーミッシュ: Ascension 2v2",
 					"ko-KR": "초월 난투: 2대2",
 					"pl-PL": "Potyczka: Wyniesienie 2 na 2",
 					"pt-BR": "Duelo: Ascensão 2x2",
@@ -370626,7 +372168,7 @@
 					"fr-FR": "Escarmouche : Ascension 1c1",
 					"id-ID": "Skirmish: Ascension 1v1",
 					"it-IT": "Schermaglia: Ascensione 1 vs 1",
-					"ja-JP": "スカーミッシュ：Ascension 1v1",
+					"ja-JP": "スカーミッシュ: Ascension 1v1",
 					"ko-KR": "초월 난투: 1대1",
 					"pl-PL": "Potyczka: Wyniesienie 1 na 1",
 					"pt-BR": "Duelo: Ascensão 1x1",
@@ -370653,7 +372195,7 @@
 					"fr-FR": "DURÉE LIMITÉE : duels à petite échelle, format 2c2, pas de compétences, que du tir. Le premier qui remporte 10 manches gagne la partie.",
 					"id-ID": "BERBATAS WAKTU: Duel skala kecil, format 2v2, tanpa ability, adu tembak murni. Yang pertama mencapai 10 ronde, menang.",
 					"it-IT": "TEMPO LIMITATO: duelli su scala limitata, formato 2 vs 2, nessuna abilità, puri scontri a fuoco. Vince chi arriva prima a 10 round.",
-					"ja-JP": "期間限定：小規模戦闘、2v2方式、アビリティーなし、ガンプレイ勝負。10ラウンド先取で勝利。",
+					"ja-JP": "期間限定: 小規模戦闘、2v2方式、アビリティーなし、ガンプレイ勝負。10ラウンド先取で勝利。",
 					"ko-KR": "기간 한정: 작은 규모의 전투, 2대2 진행 방식, 스킬이 없는 순수한 총격전. 먼저 10라운드를 이기는 팀이 승리합니다.",
 					"pl-PL": "TYMCZASOWO DOSTĘPNE: Pojedynki na małą skalę, 2 na 2, żadnych umiejętności, czysta strzelanka. Zwycięża ten, kto pierwszy wygra 10 rund.",
 					"pt-BR": "TEMPO LIMITADO: duelos em pequena escala, formato 2x2, sem habilidades, pura mecânica de tiro. Vence quem ganhar 10 rodadas primeiro.",
@@ -370680,7 +372222,7 @@
 					"fr-FR": "Escarmouche : 2c2",
 					"id-ID": "Skirmish: 2v2",
 					"it-IT": "Schermaglia: 2 vs 2",
-					"ja-JP": "スカーミッシュ：2v2",
+					"ja-JP": "スカーミッシュ: 2v2",
 					"ko-KR": "난투: 2대2",
 					"pl-PL": "Potyczka: 2 na 2",
 					"pt-BR": "Duelo: 2x2",
@@ -370761,7 +372303,7 @@
 					"fr-FR": "DURÉE LIMITÉE : mode Élimination. En manches, les éliminations réaniment les coéquipiers. Repoussez la ligne, combattez ensemble. La première équipe qui remporte 4 manches gagne la partie.",
 					"id-ID": "PERIODE TERBATAS: Mode eliminasi. Berbasis ronde, takedown menghidupkan kembali rekan tim, push maju, bertarung bersama. Yang pertama mencapai 4 ronde, menang.",
 					"it-IT": "Modalità Eliminazione a TEMPO LIMITATO basata su round. Le eliminazioni rianimano i compagni. Avanzate e combattete insieme. Vince chi conquista per primo 4 round.",
-					"ja-JP": "期間限定：エリミネーションモード。ラウンド方式、キルで味方が復活。仲間と一緒に前線を押し上げろ。4ラウンド先取で勝利。",
+					"ja-JP": "期間限定: エリミネーションモード。ラウンド方式、キルで味方が復活。仲間と一緒に前線を押し上げろ。4ラウンド先取で勝利。",
 					"ko-KR": "기간 한정 섬멸 모드입니다 라운드 기반 모드로, 처치 시 아군이 부활합니다. 전선을 압박해 함께 싸우세요. 4라운드를 먼저 이기면 승리합니다.",
 					"pl-PL": "TYMCZASOWO DOSTĘPNE: Tryb eliminacji. Podzielony na rundy, udziały w zabójstwach wskrzeszają współgraczy, naciskanie na front, walka razem. Zwycięża drużyna, która pierwsza wygra 4 rundy.",
 					"pt-BR": "TEMPO LIMITADO: modo de abates. Em rodadas. Eliminações revivem colegas de equipe. Avancem e lutem juntos. Vence quem ganhar 4 rodadas primeiro.",
@@ -370923,7 +372465,7 @@
 					"fr-FR": "DURÉE LIMITÉE : mode Désamorçage/Activation. Un seul site, des agents aléatoires, un équipement libre, des ultimes à gogo. La première équipe qui remporte 5 manches gagne.",
 					"id-ID": "PERIODE TERBATAS: Mode plant/defuse. Satu site, agen random, loadout gratis, dan banyak ultima. Yang pertama menang 5 ronde jadi pemenang.",
 					"it-IT": "Modalità piazza/disinnesca a TEMPO LIMITATO. Un solo Punto, agenti casuali, dotazioni gratuite, molte più abilità Ultima. Vince chi arriva prima a 5 round.",
-					"ja-JP": "期間限定：設置/解除モード。ワンサイト、ランダムなエージェント、無料のロードアウト、大量のアルティメット。5ラウンド先取で勝利。",
+					"ja-JP": "期間限定: 設置/解除モード。ワンサイト、ランダムなエージェント、無料のロードアウト、大量のアルティメット。5ラウンド先取で勝利。",
 					"ko-KR": "기간 한정 설치/해체 모드입니다. 한 개의 지점, 무작위 요원, 무료 장비, 훨씬 더 많은 궁극기가 있습니다. 5라운드를 먼저 이기면 승리합니다.",
 					"pl-PL": "TYMCZASOWO DOSTĘPNE: Tryb podłóż/rozbrój. Jeden punkt, losowi agenci, darmowe zestawy wyposażenia, dużo więcej ultów. Zwycięża drużyna, która pierwsza wygra 5 rund.",
 					"pt-BR": "TEMPO LIMITADO: modo plantar/desarmar. Um ponto, Agentes aleatórios, equipamentos grátis, muito mais Ultimates. Vence quem ganhar 5 rodadas primeiro.",
@@ -371031,7 +372573,7 @@
 					"fr-FR": "DURÉE LIMITÉE : mode Désamorçage/Activation. Un seul site, des agents aléatoires, un équipement libre, des ultimes à gogo. La première équipe qui remporte 5 manches gagne.",
 					"id-ID": "PERIODE TERBATAS: Mode plant/defuse. Satu site, agen random, loadout gratis, dan banyak ultima. Yang pertama menang 5 ronde jadi pemenang.",
 					"it-IT": "Modalità piazza/disinnesca a TEMPO LIMITATO. Un solo Punto, agenti casuali, dotazioni gratuite, molte più abilità Ultima. Vince chi arriva prima a 5 round.",
-					"ja-JP": "期間限定：設置/解除モード。ワンサイト、ランダムなエージェント、無料のロードアウト、大量のアルティメット。5ラウンド先取で勝利。",
+					"ja-JP": "期間限定: 設置/解除モード。ワンサイト、ランダムなエージェント、無料のロードアウト、大量のアルティメット。5ラウンド先取で勝利。",
 					"ko-KR": "기간 한정 설치/해체 모드입니다. 한 개의 지점, 무작위 요원, 무료 장비, 훨씬 더 많은 궁극기가 있습니다. 5라운드를 먼저 이기면 승리합니다.",
 					"pl-PL": "TYMCZASOWO DOSTĘPNE: Tryb podłóż/rozbrój. Jeden punkt, losowi agenci, darmowe zestawy wyposażenia, dużo więcej ultów. Zwycięża drużyna, która pierwsza wygra 5 rund.",
 					"pt-BR": "TEMPO LIMITADO: modo plantar/desarmar. Um ponto, Agentes aleatórios, equipamentos grátis, muito mais Ultimates. Vence quem ganhar 5 rodadas primeiro.",
