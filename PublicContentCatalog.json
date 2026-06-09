@@ -1,5 +1,5 @@
 {
-	"version": "12.10.00.4738152",
+	"version": "12.11.00.4815575",
 	"characters": [
 		{
 			"description":
@@ -4839,7 +4839,7 @@
 						"defaultText": "EQUIP the Interceptor. FIRE to place the Interceptor at projected location. Once placed, RE-USE to activate. Once active, it will destroy any utility that would BOUNCE off a player and/or be destroyed naturally by gunfire. Enemies can destroy the Interceptor.",
 						"localizedByCulture":
 						{
-							"ar-AE": "تجهّز بجهاز الاعتراض. أطلق لوضع جهاز الاعتراض في الموضع المحدد. بعد وضعه، أعد الاستخدام لتفعيله. عند التفعيل، سيدمّر أي معدات قابلة للارتداد عن اللاعب و\\أو  قابلة للتدمير بإطلاق النار عليها. يستطيع الأعداء تدمير جهاز الاعتراض.",
+							"ar-AE": "تجهّز بجهاز الاعتراض. أطلق لوضع جهاز الاعتراض في الموضع المحدد. بعد وضعه، أعد الاستخدام لتفعيله. عند التفعيل، سيدمّر أي معدات قابلة للارتداد عن اللاعب و/أو  قابلة للتدمير بإطلاق النار عليها. يستطيع الأعداء تدمير جهاز الاعتراض.",
 							"de-DE": "RÜSTE den Abfänger AUS. FEUERE, um den Abfänger am gewählten Zielort zu platzieren. VERWENDE ihn nach dem Platzieren ERNEUT, um ihn zu aktivieren. Sobald er aktiv ist, zerstört er jegliche Unterstützung, die an einem Spieler ABPRALLEN würde und/oder durch Beschuss zerstört würde. Gegner können den Abfänger zerstören.",
 							"en-US": "EQUIP the Interceptor. FIRE to place the Interceptor at projected location. Once placed, RE-USE to activate. Once active, it will destroy any utility that would BOUNCE off a player and/or be destroyed naturally by gunfire. Enemies can destroy the Interceptor.",
 							"es-ES": "EQUIPA el interceptor. DISPARA para colocar el interceptor en la ubicación proyectada. Una vez colocado, VUELVE A USAR la habilidad para activarlo. Cuando esté activado, destruirá toda la utilidad que fuera a rebotar contra un jugador o a resultar eliminada de forma natural con disparos. Los enemigos pueden destruir el interceptor.",
@@ -6266,7 +6266,7 @@
 							"fr-FR": "Chargez INSTANTANÉMENT le pouvoir de Neon pour décupler sa vitesse. À la fin du chargement, utilisez le TIR SECONDAIRE pour faire une glissade électrique (considérée comme une ruée). Vous regagnez une charge de glissade toutes les deux éliminations.",
 							"id-ID": "SEKETIKA menyalurkan kekuatan Neon untuk Meningkatkan Kecepatan. Saat charge penuh, tekan ALT FIRE untuk memicu luncuran listrik. Charge luncuran direset tiap dua kill.",
 							"it-IT": "Canalizza ALL'ISTANTE l'energia di Neon per AUMENTARE LA VELOCITÀ. Quando l'abilità è carica, usa il FUOCO ALTERNATIVO per attivare uno scatto in scivolata elettrico. La carica della scivolata si ripristina ogni due uccisioni.",
-							"ja-JP": "ネオンの力が解き放たれ、スピードが上昇する。「オルト射撃」でチャージを消費し、電気をまとって加速する。加速のチャージは敵を2回キルするたびにリセットされる。",
+							"ja-JP": "ネオンの力が解き放たれ、スピードが上昇する。「オルト射撃」でチャージを消費し、電気による加速でスライド移動する。加速のチャージは敵を2回キルするたびにリセットされる。",
 							"ko-KR": "네온의 힘을 즉시 집중해 속도를 높입니다. 충전되면 보조 공격 시 전기 슬라이드를 발동합니다. 슬라이드 충전량은 2킬마다 초기화됩니다.",
 							"pl-PL": "NATYCHMIAST wykorzystaj moc Neon, aby znacząco przyspieszyć. Gdy ładunek jest dostępny, użyj ALT. STRZAŁU, aby wykonać doskok – elektryczny ślizg. Reset naładowania ślizgu następuje co dwa zabójstwa.",
 							"pt-BR": "INSTANTANEAMENTE canaliza o poder da Neon para receber velocidade aumentada. Ao atingir a carga máxima, use o DISPARO ALTERNATIVO para acionar um deslize elétrico. A carga de deslizamento é redefinida a cada dois abates.",
@@ -21635,6 +21635,99 @@
 					"vi-VN": "Ares Keys to Elysium",
 					"zh-CN": "天堂之钥 战神",
 					"zh-TW": "極樂之鑰 戰神"
+				}
+			}
+		},
+		{
+			"weaponId": "55D8A0F4-4274-CA67-FE2C-06AB45EFDF58",
+			"defaultChromaId": "09E2918B-4E63-8C70-0691-24AD015C8EA0",
+			"chromas": [
+				{
+					"id": "09E2918B-4E63-8C70-0691-24AD015C8EA0",
+					"label": "09E2918B-4E63-8C70-0691-24AD015C8EA0",
+					"name":
+					{
+						"defaultText": "Hi-DR0 Ares",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏Hi-DR0 آريز",
+							"de-DE": "Ares – Hi-DR0",
+							"en-US": "Hi-DR0 Ares",
+							"es-ES": "Ares Hi-DR0",
+							"es-MX": "Ares Hi-DR0",
+							"fr-FR": "Ares (Hi-DR0)",
+							"id-ID": "Hi-DR0 Ares",
+							"it-IT": "Ares Hi-DR0",
+							"ja-JP": "ハイドロ アレス",
+							"ko-KR": "Hi-DR0 아레스",
+							"pl-PL": "Ares Hi-DR0",
+							"pt-BR": "Ares Hi-DR0",
+							"ru-RU": "Ares \"Ги-ДР0\"",
+							"th-TH": "Hi-DR0 Ares",
+							"tr-TR": "Hi-DR0 Ares",
+							"vi-VN": "Ares Hi-DR0",
+							"zh-CN": "小鲸零号 战神",
+							"zh-TW": "深海歷險 戰神"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "406A740D-44C7-1039-3E70-B3BFAC02C6F6",
+					"label": "406A740D-44C7-1039-3E70-B3BFAC02C6F6",
+					"name":
+					{
+						"defaultText": "Hi-DR0 Ares",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏Hi-DR0 آريز",
+							"de-DE": "Ares – Hi-DR0",
+							"en-US": "Hi-DR0 Ares",
+							"es-ES": "Ares Hi-DR0",
+							"es-MX": "Ares Hi-DR0",
+							"fr-FR": "Ares (Hi-DR0)",
+							"id-ID": "Hi-DR0 Ares",
+							"it-IT": "Ares Hi-DR0",
+							"ja-JP": "ハイドロ アレス",
+							"ko-KR": "Hi-DR0 아레스",
+							"pl-PL": "Ares Hi-DR0",
+							"pt-BR": "Ares Hi-DR0",
+							"ru-RU": "Ares \"Ги-ДР0\"",
+							"th-TH": "Hi-DR0 Ares",
+							"tr-TR": "Hi-DR0 Ares",
+							"vi-VN": "Ares Hi-DR0",
+							"zh-CN": "小鲸零号 战神",
+							"zh-TW": "深海歷險 戰神"
+						}
+					}
+				}
+			],
+			"id": "175393F4-4E60-7403-4A4D-95818F6CC007",
+			"label": "175393F4-4E60-7403-4A4D-95818F6CC007",
+			"name":
+			{
+				"defaultText": "Hi-DR0 Ares",
+				"localizedByCulture":
+				{
+					"ar-AE": "‏Hi-DR0 آريز",
+					"de-DE": "Ares – Hi-DR0",
+					"en-US": "Hi-DR0 Ares",
+					"es-ES": "Ares Hi-DR0",
+					"es-MX": "Ares Hi-DR0",
+					"fr-FR": "Ares (Hi-DR0)",
+					"id-ID": "Hi-DR0 Ares",
+					"it-IT": "Ares Hi-DR0",
+					"ja-JP": "ハイドロ アレス",
+					"ko-KR": "Hi-DR0 아레스",
+					"pl-PL": "Ares Hi-DR0",
+					"pt-BR": "Ares Hi-DR0",
+					"ru-RU": "Ares \"Ги-ДР0\"",
+					"th-TH": "Hi-DR0 Ares",
+					"tr-TR": "Hi-DR0 Ares",
+					"vi-VN": "Ares Hi-DR0",
+					"zh-CN": "小鲸零号 战神",
+					"zh-TW": "深海歷險 戰神"
 				}
 			}
 		},
@@ -41584,7 +41677,7 @@
 							"th-TH": "Striker Bulldog",
 							"tr-TR": "Hücum Bulldog",
 							"vi-VN": "Bulldog Xuất Kích",
-							"zh-CN": "打击力量 獠犬",
+							"zh-CN": "降维打击 獠犬",
 							"zh-TW": "閃電衝鋒 鬥牛犬"
 						}
 					}
@@ -41613,7 +41706,7 @@
 							"th-TH": "Striker Bulldog\n(ตัวเลือกที่ 1 สีเขียว/เหลือง/ดำ)",
 							"tr-TR": "Hücum Bulldog\n(Stil 1 - Yeşil/Sarı/Siyah)",
 							"vi-VN": "Bulldog Xuất Kích\n(Dạng 1 Ánh Lục/Vàng/Đen)",
-							"zh-CN": "打击力量 獠犬\n（炫彩1 绿/黄/黑）",
+							"zh-CN": "降维打击 獠犬\n（炫彩1 绿/黄/黑）",
 							"zh-TW": "閃電衝鋒 鬥牛犬\n（幻彩1 綠色／黃色／黑色）"
 						}
 					}
@@ -41642,7 +41735,7 @@
 							"th-TH": "Striker Bulldog\n(ตัวเลือกที่ 2 สีชมพู/ฟ้าอมเขียว/ม่วง)",
 							"tr-TR": "Hücum Bulldog\n(Stil 2 - Pembe/Mavi/Mor)",
 							"vi-VN": "Bulldog Xuất Kích\n(Dạng 2 Ánh Hồng/Ngọc/Tím)",
-							"zh-CN": "打击力量 獠犬\n（炫彩2 粉/青/紫）",
+							"zh-CN": "降维打击 獠犬\n（炫彩2 粉/青/紫）",
 							"zh-TW": "閃電衝鋒 鬥牛犬\n（幻彩2 粉色／藍綠色／紫色）"
 						}
 					}
@@ -41671,7 +41764,7 @@
 							"th-TH": "Striker Bulldog\n(ตัวเลือกที่ 3 สีฟ้า/ขาว/แดง)",
 							"tr-TR": "Hücum Bulldog\n(Stil 3 - Mavi/Beyaz/Kırmızı)",
 							"vi-VN": "Bulldog Xuất Kích\n(Dạng 3 Ánh Lam/Trắng/Đỏ)",
-							"zh-CN": "打击力量 獠犬\n（炫彩3 蓝/白/红）",
+							"zh-CN": "降维打击 獠犬\n（炫彩3 蓝/白/红）",
 							"zh-TW": "閃電衝鋒 鬥牛犬\n（幻彩3 藍色／白色／紅色）"
 						}
 					}
@@ -41702,7 +41795,7 @@
 							"th-TH": "Striker Bulldog",
 							"tr-TR": "Hücum Bulldog",
 							"vi-VN": "Bulldog Xuất Kích",
-							"zh-CN": "打击力量 獠犬",
+							"zh-CN": "降维打击 獠犬",
 							"zh-TW": "閃電衝鋒 鬥牛犬"
 						}
 					}
@@ -41731,7 +41824,7 @@
 					"th-TH": "Striker Bulldog",
 					"tr-TR": "Hücum Bulldog",
 					"vi-VN": "Bulldog Xuất Kích",
-					"zh-CN": "打击力量 獠犬",
+					"zh-CN": "降维打击 獠犬",
 					"zh-TW": "閃電衝鋒 鬥牛犬"
 				}
 			}
@@ -61270,6 +61363,99 @@
 					"vi-VN": "Phantom Orion",
 					"zh-CN": "巨神铁甲 幻影",
 					"zh-TW": "獵戶之星 幻象"
+				}
+			}
+		},
+		{
+			"weaponId": "EE8E8D15-496B-07AC-E5F6-8FAE5D4C7B1A",
+			"defaultChromaId": "B317BDF8-4609-E270-8CBB-83ADA59CA94F",
+			"chromas": [
+				{
+					"id": "B317BDF8-4609-E270-8CBB-83ADA59CA94F",
+					"label": "B317BDF8-4609-E270-8CBB-83ADA59CA94F",
+					"name":
+					{
+						"defaultText": "Hi-DR0 Phantom",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏Hi-DR0 فانتوم",
+							"de-DE": "Phantom – Hi-DR0",
+							"en-US": "Hi-DR0 Phantom",
+							"es-ES": "Phantom Hi-DR0",
+							"es-MX": "Phantom Hi-DR0",
+							"fr-FR": "Phantom (Hi-DR0)",
+							"id-ID": "Hi-DR0 Phantom",
+							"it-IT": "Phantom Hi-DR0",
+							"ja-JP": "ハイドロ ファントム",
+							"ko-KR": "Hi-DR0 팬텀",
+							"pl-PL": "Phantom Hi-DR0",
+							"pt-BR": "Phantom Hi-DR0",
+							"ru-RU": "Phantom \"Ги-ДР0\"",
+							"th-TH": "Hi-DR0 Phantom",
+							"tr-TR": "Hi-DR0 Phantom",
+							"vi-VN": "Phantom Hi-DR0",
+							"zh-CN": "小鲸零号 幻影",
+							"zh-TW": "深海歷險 幻象"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "82C1D0C9-42A8-626C-8392-6EAAF0734B7C",
+					"label": "82C1D0C9-42A8-626C-8392-6EAAF0734B7C",
+					"name":
+					{
+						"defaultText": "Hi-DR0 Phantom",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏Hi-DR0 فانتوم",
+							"de-DE": "Phantom – Hi-DR0",
+							"en-US": "Hi-DR0 Phantom",
+							"es-ES": "Phantom Hi-DR0",
+							"es-MX": "Phantom Hi-DR0",
+							"fr-FR": "Phantom (Hi-DR0)",
+							"id-ID": "Hi-DR0 Phantom",
+							"it-IT": "Phantom Hi-DR0",
+							"ja-JP": "ハイドロ ファントム",
+							"ko-KR": "Hi-DR0 팬텀",
+							"pl-PL": "Phantom Hi-DR0",
+							"pt-BR": "Phantom Hi-DR0",
+							"ru-RU": "Phantom \"Ги-ДР0\"",
+							"th-TH": "Hi-DR0 Phantom",
+							"tr-TR": "Hi-DR0 Phantom",
+							"vi-VN": "Phantom Hi-DR0",
+							"zh-CN": "小鲸零号 幻影",
+							"zh-TW": "深海歷險 幻象"
+						}
+					}
+				}
+			],
+			"id": "46E46C47-45E6-CF2D-0FAE-32AD3AB7E92C",
+			"label": "46E46C47-45E6-CF2D-0FAE-32AD3AB7E92C",
+			"name":
+			{
+				"defaultText": "Hi-DR0 Phantom",
+				"localizedByCulture":
+				{
+					"ar-AE": "‏Hi-DR0 فانتوم",
+					"de-DE": "Phantom – Hi-DR0",
+					"en-US": "Hi-DR0 Phantom",
+					"es-ES": "Phantom Hi-DR0",
+					"es-MX": "Phantom Hi-DR0",
+					"fr-FR": "Phantom (Hi-DR0)",
+					"id-ID": "Hi-DR0 Phantom",
+					"it-IT": "Phantom Hi-DR0",
+					"ja-JP": "ハイドロ ファントム",
+					"ko-KR": "Hi-DR0 팬텀",
+					"pl-PL": "Phantom Hi-DR0",
+					"pt-BR": "Phantom Hi-DR0",
+					"ru-RU": "Phantom \"Ги-ДР0\"",
+					"th-TH": "Hi-DR0 Phantom",
+					"tr-TR": "Hi-DR0 Phantom",
+					"vi-VN": "Phantom Hi-DR0",
+					"zh-CN": "小鲸零号 幻影",
+					"zh-TW": "深海歷險 幻象"
 				}
 			}
 		},
@@ -87676,7 +87862,7 @@
 							"th-TH": "Striker Classic",
 							"tr-TR": "Hücum Classic",
 							"vi-VN": "Classic Xuất Kích",
-							"zh-CN": "打击力量 标配",
+							"zh-CN": "降维打击 标配",
 							"zh-TW": "閃電衝鋒 制式手槍"
 						}
 					}
@@ -87705,7 +87891,7 @@
 							"th-TH": "Striker Classic\n(ตัวเลือกที่ 1 สีเขียว/เหลือง/ดำ)",
 							"tr-TR": "Hücum Classic\n(Stil 1 - Yeşil/Sarı/Siyah)",
 							"vi-VN": "Classic Xuất Kích\n(Dạng 1 Ánh Lục/Vàng/Đen)",
-							"zh-CN": "打击力量 标配\n（炫彩1 绿/黄/黑）",
+							"zh-CN": "降维打击 标配\n（炫彩1 绿/黄/黑）",
 							"zh-TW": "閃電衝鋒 制式手槍\n（幻彩1 綠色／黃色／黑色）"
 						}
 					}
@@ -87734,7 +87920,7 @@
 							"th-TH": "Striker Classic\n(ตัวเลือกที่ 2 สีชมพู/ฟ้าอมเขียว/ม่วง)",
 							"tr-TR": "Hücum Classic\n(Stil 2 - Pembe/Mavi/Mor)",
 							"vi-VN": "Classic Xuất Kích\n(Dạng 2 Ánh Hồng/Ngọc/Tím)",
-							"zh-CN": "打击力量 标配\n（炫彩2 粉/青/紫）",
+							"zh-CN": "降维打击 标配\n（炫彩2 粉/青/紫）",
 							"zh-TW": "閃電衝鋒 制式手槍\n（幻彩2 粉色／藍綠色／紫色）"
 						}
 					}
@@ -87763,7 +87949,7 @@
 							"th-TH": "Striker Classic\n(ตัวเลือกที่ 3 สีฟ้า/ขาว/แดง)",
 							"tr-TR": "Hücum Classic\n(Stil 3 - Mavi/Beyaz/Kırmızı)",
 							"vi-VN": "Classic Xuất Kích\n(Dạng 3 Ánh Lam/Trắng/Đỏ)",
-							"zh-CN": "打击力量 标配\n（炫彩3 蓝/白/红）",
+							"zh-CN": "降维打击 标配\n（炫彩3 蓝/白/红）",
 							"zh-TW": "閃電衝鋒 制式手槍\n（幻彩3 藍色／白色／紅色）"
 						}
 					}
@@ -87794,7 +87980,7 @@
 							"th-TH": "Striker Classic",
 							"tr-TR": "Hücum Classic",
 							"vi-VN": "Classic Xuất Kích",
-							"zh-CN": "打击力量 标配",
+							"zh-CN": "降维打击 标配",
 							"zh-TW": "閃電衝鋒 制式手槍"
 						}
 					}
@@ -87823,7 +88009,7 @@
 					"th-TH": "Striker Classic",
 					"tr-TR": "Hücum Classic",
 					"vi-VN": "Classic Xuất Kích",
-					"zh-CN": "打击力量 标配",
+					"zh-CN": "降维打击 标配",
 					"zh-TW": "閃電衝鋒 制式手槍"
 				}
 			}
@@ -134141,6 +134327,99 @@
 		},
 		{
 			"weaponId": "E336C6B8-418D-9340-D77F-7A9E4CFE0702",
+			"defaultChromaId": "2E7C7875-4F4E-6797-6BD9-4A94E267B82E",
+			"chromas": [
+				{
+					"id": "2E7C7875-4F4E-6797-6BD9-4A94E267B82E",
+					"label": "2E7C7875-4F4E-6797-6BD9-4A94E267B82E",
+					"name":
+					{
+						"defaultText": "Hi-DR0 Sheriff",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏Hi-DR0 شيريف",
+							"de-DE": "Sheriff – Hi-DR0",
+							"en-US": "Hi-DR0 Sheriff",
+							"es-ES": "Sheriff Hi-DR0",
+							"es-MX": "Sheriff Hi-DR0",
+							"fr-FR": "Sheriff (Hi-DR0)",
+							"id-ID": "Hi-DR0 Sheriff",
+							"it-IT": "Sheriff Hi-DR0",
+							"ja-JP": "ハイドロ シェリフ",
+							"ko-KR": "Hi-DR0 셰리프",
+							"pl-PL": "Sheriff Hi-DR0",
+							"pt-BR": "Sheriff Hi-DR0",
+							"ru-RU": "Sheriff \"Ги-ДР0\"",
+							"th-TH": "Hi-DR0 Sheriff",
+							"tr-TR": "Hi-DR0 Sheriff",
+							"vi-VN": "Sheriff Hi-DR0",
+							"zh-CN": "小鲸零号 正义",
+							"zh-TW": "深海歷險 神射"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "B8F996F2-4CCE-D262-F2A1-DDB0ABDEDADC",
+					"label": "B8F996F2-4CCE-D262-F2A1-DDB0ABDEDADC",
+					"name":
+					{
+						"defaultText": "Hi-DR0 Sheriff",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏Hi-DR0 شيريف",
+							"de-DE": "Sheriff – Hi-DR0",
+							"en-US": "Hi-DR0 Sheriff",
+							"es-ES": "Sheriff Hi-DR0",
+							"es-MX": "Sheriff Hi-DR0",
+							"fr-FR": "Sheriff (Hi-DR0)",
+							"id-ID": "Hi-DR0 Sheriff",
+							"it-IT": "Sheriff Hi-DR0",
+							"ja-JP": "ハイドロ シェリフ",
+							"ko-KR": "Hi-DR0 셰리프",
+							"pl-PL": "Sheriff Hi-DR0",
+							"pt-BR": "Sheriff Hi-DR0",
+							"ru-RU": "Sheriff \"Ги-ДР0\"",
+							"th-TH": "Hi-DR0 Sheriff",
+							"tr-TR": "Hi-DR0 Sheriff",
+							"vi-VN": "Sheriff Hi-DR0",
+							"zh-CN": "小鲸零号 正义",
+							"zh-TW": "深海歷險 神射"
+						}
+					}
+				}
+			],
+			"id": "E295F9F7-4090-00DC-3F59-8D844567A318",
+			"label": "E295F9F7-4090-00DC-3F59-8D844567A318",
+			"name":
+			{
+				"defaultText": "Hi-DR0 Sheriff",
+				"localizedByCulture":
+				{
+					"ar-AE": "‏Hi-DR0 شيريف",
+					"de-DE": "Sheriff – Hi-DR0",
+					"en-US": "Hi-DR0 Sheriff",
+					"es-ES": "Sheriff Hi-DR0",
+					"es-MX": "Sheriff Hi-DR0",
+					"fr-FR": "Sheriff (Hi-DR0)",
+					"id-ID": "Hi-DR0 Sheriff",
+					"it-IT": "Sheriff Hi-DR0",
+					"ja-JP": "ハイドロ シェリフ",
+					"ko-KR": "Hi-DR0 셰리프",
+					"pl-PL": "Sheriff Hi-DR0",
+					"pt-BR": "Sheriff Hi-DR0",
+					"ru-RU": "Sheriff \"Ги-ДР0\"",
+					"th-TH": "Hi-DR0 Sheriff",
+					"tr-TR": "Hi-DR0 Sheriff",
+					"vi-VN": "Sheriff Hi-DR0",
+					"zh-CN": "小鲸零号 正义",
+					"zh-TW": "深海歷險 神射"
+				}
+			}
+		},
+		{
+			"weaponId": "E336C6B8-418D-9340-D77F-7A9E4CFE0702",
 			"defaultChromaId": "15CFE9F1-4EB1-8B21-9CF0-67BD31062802",
 			"chromas": [
 				{
@@ -143814,7 +144093,7 @@
 							"th-TH": "Striker Operator",
 							"tr-TR": "Hücum Operator",
 							"vi-VN": "Operator Xuất Kích",
-							"zh-CN": "打击力量 冥驹",
+							"zh-CN": "降维打击 冥驹",
 							"zh-TW": "閃電衝鋒 間諜"
 						}
 					}
@@ -143843,7 +144122,7 @@
 							"th-TH": "Striker Operator\n(ตัวเลือกที่ 1 สีเขียว/เหลือง/ดำ)",
 							"tr-TR": "Hücum Operator\n(Stil 1 - Yeşil/Sarı/Siyah)",
 							"vi-VN": "Operator Xuất Kích\n(Dạng 1 Ánh Lục/Vàng/Đen)",
-							"zh-CN": "打击力量 冥驹\n（炫彩1 绿/黄/黑）",
+							"zh-CN": "降维打击 冥驹\n（炫彩1 绿/黄/黑）",
 							"zh-TW": "閃電衝鋒 間諜\n（幻彩1 綠色／黃色／黑色）"
 						}
 					}
@@ -143872,7 +144151,7 @@
 							"th-TH": "Striker Operator\n(ตัวเลือกที่ 2 สีชมพู/ฟ้าอมเขียว/ม่วง)",
 							"tr-TR": "Hücum Operator\n(Stil 2 - Pembe/Mavi/Mor)",
 							"vi-VN": "Operator Xuất Kích\n(Dạng 2 Ánh Hồng/Ngọc/Tím)",
-							"zh-CN": "打击力量 冥驹\n（炫彩2 粉/青/紫）",
+							"zh-CN": "降维打击 冥驹\n（炫彩2 粉/青/紫）",
 							"zh-TW": "閃電衝鋒 間諜\n（幻彩2 粉色／藍綠色／紫色）"
 						}
 					}
@@ -143901,7 +144180,7 @@
 							"th-TH": "Striker Operator\n(ตัวเลือกที่ 3 สีฟ้า/ขาว/แดง)",
 							"tr-TR": "Hücum Operator\n(Stil 3 - Mavi/Beyaz/Kırmızı)",
 							"vi-VN": "Operator Xuất Kích\n(Dạng 3 Ánh Lam/Trắng/Đỏ)",
-							"zh-CN": "打击力量 冥驹\n（炫彩3 蓝/白/红）",
+							"zh-CN": "降维打击 冥驹\n（炫彩3 蓝/白/红）",
 							"zh-TW": "閃電衝鋒 間諜\n（幻彩3 藍色／白色／紅色）"
 						}
 					}
@@ -143932,7 +144211,7 @@
 							"th-TH": "Striker Operator",
 							"tr-TR": "Hücum Operator",
 							"vi-VN": "Operator Xuất Kích",
-							"zh-CN": "打击力量 冥驹",
+							"zh-CN": "降维打击 冥驹",
 							"zh-TW": "閃電衝鋒 間諜"
 						}
 					}
@@ -143961,7 +144240,7 @@
 					"th-TH": "Striker Operator",
 					"tr-TR": "Hücum Operator",
 					"vi-VN": "Operator Xuất Kích",
-					"zh-CN": "打击力量 冥驹",
+					"zh-CN": "降维打击 冥驹",
 					"zh-TW": "閃電衝鋒 間諜"
 				}
 			}
@@ -149294,6 +149573,99 @@
 					"vi-VN": "Operator Rogue",
 					"zh-CN": "逆命中队 冥驹",
 					"zh-TW": "孤影叛客 間諜"
+				}
+			}
+		},
+		{
+			"weaponId": "A03B24D3-4319-996D-0F8C-94BBFBA1DFC7",
+			"defaultChromaId": "03E360D4-4376-64D4-211D-EDB3C5B86003",
+			"chromas": [
+				{
+					"id": "03E360D4-4376-64D4-211D-EDB3C5B86003",
+					"label": "03E360D4-4376-64D4-211D-EDB3C5B86003",
+					"name":
+					{
+						"defaultText": "Hi-DR0 Operator",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏Hi-DR0 أوبيريتور",
+							"de-DE": "Operator – Hi-DR0",
+							"en-US": "Hi-DR0 Operator",
+							"es-ES": "Operator Hi-DR0",
+							"es-MX": "Operator Hi-DR0",
+							"fr-FR": "Operator (Hi-DR0)",
+							"id-ID": "Hi-DR0 Operator",
+							"it-IT": "Operator Hi-DR0",
+							"ja-JP": "ハイドロ オペレーター",
+							"ko-KR": "Hi-DR0 오퍼레이터",
+							"pl-PL": "Operator Hi-DR0",
+							"pt-BR": "Operator Hi-DR0",
+							"ru-RU": "Operator \"Ги-ДР0\"",
+							"th-TH": "Hi-DR0 Operator",
+							"tr-TR": "Hi-DR0 Operator",
+							"vi-VN": "Operator Hi-DR0",
+							"zh-CN": "小鲸零号 冥驹",
+							"zh-TW": "深海歷險 間諜"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "7994F00E-42E2-AB31-52DF-89BD4242CA93",
+					"label": "7994F00E-42E2-AB31-52DF-89BD4242CA93",
+					"name":
+					{
+						"defaultText": "Hi-DR0 Operator",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏Hi-DR0 أوبيريتور",
+							"de-DE": "Operator – Hi-DR0",
+							"en-US": "Hi-DR0 Operator",
+							"es-ES": "Operator Hi-DR0",
+							"es-MX": "Operator Hi-DR0",
+							"fr-FR": "Operator (Hi-DR0)",
+							"id-ID": "Hi-DR0 Operator",
+							"it-IT": "Operator Hi-DR0",
+							"ja-JP": "ハイドロ オペレーター",
+							"ko-KR": "Hi-DR0 오퍼레이터",
+							"pl-PL": "Operator Hi-DR0",
+							"pt-BR": "Operator Hi-DR0",
+							"ru-RU": "Operator \"Ги-ДР0\"",
+							"th-TH": "Hi-DR0 Operator",
+							"tr-TR": "Hi-DR0 Operator",
+							"vi-VN": "Operator Hi-DR0",
+							"zh-CN": "小鲸零号 冥驹",
+							"zh-TW": "深海歷險 間諜"
+						}
+					}
+				}
+			],
+			"id": "2943A7EA-4C81-6924-1BA0-5B9F080D3C13",
+			"label": "2943A7EA-4C81-6924-1BA0-5B9F080D3C13",
+			"name":
+			{
+				"defaultText": "Hi-DR0 Operator",
+				"localizedByCulture":
+				{
+					"ar-AE": "‏Hi-DR0 أوبيريتور",
+					"de-DE": "Operator – Hi-DR0",
+					"en-US": "Hi-DR0 Operator",
+					"es-ES": "Operator Hi-DR0",
+					"es-MX": "Operator Hi-DR0",
+					"fr-FR": "Operator (Hi-DR0)",
+					"id-ID": "Hi-DR0 Operator",
+					"it-IT": "Operator Hi-DR0",
+					"ja-JP": "ハイドロ オペレーター",
+					"ko-KR": "Hi-DR0 오퍼레이터",
+					"pl-PL": "Operator Hi-DR0",
+					"pt-BR": "Operator Hi-DR0",
+					"ru-RU": "Operator \"Ги-ДР0\"",
+					"th-TH": "Hi-DR0 Operator",
+					"tr-TR": "Hi-DR0 Operator",
+					"vi-VN": "Operator Hi-DR0",
+					"zh-CN": "小鲸零号 冥驹",
+					"zh-TW": "深海歷險 間諜"
 				}
 			}
 		},
@@ -173323,7 +173695,7 @@
 							"th-TH": "Striker Spectre",
 							"tr-TR": "Hücum Spectre",
 							"vi-VN": "Spectre Xuất Kích",
-							"zh-CN": "打击力量 骇灵",
+							"zh-CN": "降维打击 骇灵",
 							"zh-TW": "閃電衝鋒 惡靈"
 						}
 					}
@@ -173352,7 +173724,7 @@
 							"th-TH": "Striker Spectre\n(ตัวเลือกที่ 1 สีเขียว/เหลือง/ดำ)",
 							"tr-TR": "Hücum Spectre\n(Stil 1 - Yeşil/Sarı/Siyah)",
 							"vi-VN": "Spectre Xuất Kích\n(Dạng 1 Ánh Lục/Vàng/Đen)",
-							"zh-CN": "打击力量 骇灵\n（炫彩1 绿/黄/黑）",
+							"zh-CN": "降维打击 骇灵\n（炫彩1 绿/黄/黑）",
 							"zh-TW": "閃電衝鋒 惡靈\n（幻彩1 綠色／黃色／黑色）"
 						}
 					}
@@ -173381,7 +173753,7 @@
 							"th-TH": "Striker Spectre\n(ตัวเลือกที่ 2 สีชมพู/ฟ้าอมเขียว/ม่วง)",
 							"tr-TR": "Hücum Spectre\n(Stil 2 - Pembe/Mavi/Mor)",
 							"vi-VN": "Spectre Xuất Kích\n(Dạng 2 Ánh Hồng/Ngọc/Tím)",
-							"zh-CN": "打击力量 骇灵\n（炫彩2 粉/青/紫）",
+							"zh-CN": "降维打击 骇灵\n（炫彩2 粉/青/紫）",
 							"zh-TW": "閃電衝鋒 惡靈\n（幻彩2 粉色／藍綠色／紫色）"
 						}
 					}
@@ -173410,7 +173782,7 @@
 							"th-TH": "Striker Spectre\n(ตัวเลือกที่ 3 สีฟ้า/ขาว/แดง)",
 							"tr-TR": "Hücum Spectre\n(Stil 3 - Mavi/Beyaz/Kırmızı)",
 							"vi-VN": "Spectre Xuất Kích\n(Dạng 3 Ánh Lam/Trắng/Đỏ)",
-							"zh-CN": "打击力量 骇灵\n（炫彩3 蓝/白/红）",
+							"zh-CN": "降维打击 骇灵\n（炫彩3 蓝/白/红）",
 							"zh-TW": "閃電衝鋒 惡靈\n（幻彩3 藍色／白色／紅色）"
 						}
 					}
@@ -173441,7 +173813,7 @@
 							"th-TH": "Striker Spectre",
 							"tr-TR": "Hücum Spectre",
 							"vi-VN": "Spectre Xuất Kích",
-							"zh-CN": "打击力量 骇灵",
+							"zh-CN": "降维打击 骇灵",
 							"zh-TW": "閃電衝鋒 惡靈"
 						}
 					}
@@ -173470,7 +173842,7 @@
 					"th-TH": "Striker Spectre",
 					"tr-TR": "Hücum Spectre",
 					"vi-VN": "Spectre Xuất Kích",
-					"zh-CN": "打击力量 骇灵",
+					"zh-CN": "降维打击 骇灵",
 					"zh-TW": "閃電衝鋒 惡靈"
 				}
 			}
@@ -194382,7 +194754,7 @@
 							"th-TH": "Striker Knife",
 							"tr-TR": "Hücum Bıçağı",
 							"vi-VN": "Dao Găm Xuất Kích",
-							"zh-CN": "打击力量 军刀",
+							"zh-CN": "降维打击 军刀",
 							"zh-TW": "閃電衝鋒 小刀"
 						}
 					}
@@ -194411,7 +194783,7 @@
 							"th-TH": "Striker Knife\n(ตัวเลือกที่ 1 สีเขียว/เหลือง/ดำ)",
 							"tr-TR": "Hücum Bıçağı\n(Stil 1 - Yeşil/Sarı/Siyah)",
 							"vi-VN": "Dao Găm Xuất Kích\n(Dạng 1 Ánh Lục/Vàng/Đen)",
-							"zh-CN": "打击力量 军刀\n（炫彩1 绿/黄/黑）",
+							"zh-CN": "降维打击 军刀\n（炫彩1 绿/黄/黑）",
 							"zh-TW": "閃電衝鋒 小刀\n（幻彩1 綠色／黃色／黑色）"
 						}
 					}
@@ -194440,7 +194812,7 @@
 							"th-TH": "Striker Knife\n(ตัวเลือกที่ 2 สีชมพู/ฟ้าอมเขียว/ม่วง)",
 							"tr-TR": "Hücum Bıçağı\n(Stil 2 - Pembe/Mavi/Mor)",
 							"vi-VN": "Dao Găm Xuất Kích\n(Dạng 2 Ánh Hồng/Ngọc/Tím)",
-							"zh-CN": "打击力量 军刀\n（炫彩2 粉/青/紫）",
+							"zh-CN": "降维打击 军刀\n（炫彩2 粉/青/紫）",
 							"zh-TW": "閃電衝鋒 小刀\n（幻彩2 粉色／藍綠色／紫色）"
 						}
 					}
@@ -194469,7 +194841,7 @@
 							"th-TH": "Striker Knife\n(ตัวเลือกที่ 3 สีฟ้า/ขาว/แดง)",
 							"tr-TR": "Hücum Bıçağı\n(Stil 3 - Mavi/Beyaz/Kırmızı)",
 							"vi-VN": "Dao Găm Xuất Kích\n(Dạng 3 Ánh Lam/Trắng/Đỏ)",
-							"zh-CN": "打击力量 军刀\n（炫彩3 蓝/白/红）",
+							"zh-CN": "降维打击 军刀\n（炫彩3 蓝/白/红）",
 							"zh-TW": "閃電衝鋒 小刀\n（幻彩3 藍色／白色／紅色）"
 						}
 					}
@@ -194500,7 +194872,7 @@
 							"th-TH": "Striker Knife",
 							"tr-TR": "Hücum Bıçağı",
 							"vi-VN": "Dao Găm Xuất Kích",
-							"zh-CN": "打击力量 军刀",
+							"zh-CN": "降维打击 军刀",
 							"zh-TW": "閃電衝鋒 小刀"
 						}
 					}
@@ -194529,7 +194901,7 @@
 					"th-TH": "Striker Knife",
 					"tr-TR": "Hücum Bıçağı",
 					"vi-VN": "Dao Găm Xuất Kích",
-					"zh-CN": "打击力量 军刀",
+					"zh-CN": "降维打击 军刀",
 					"zh-TW": "閃電衝鋒 小刀"
 				}
 			}
@@ -208406,6 +208778,99 @@
 					"vi-VN": "Keys To Elysium",
 					"zh-CN": "天堂之钥",
 					"zh-TW": "極樂之鑰"
+				}
+			}
+		},
+		{
+			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
+			"defaultChromaId": "87526251-494C-6772-D97A-13B0A85D138D",
+			"chromas": [
+				{
+					"id": "87526251-494C-6772-D97A-13B0A85D138D",
+					"label": "87526251-494C-6772-D97A-13B0A85D138D",
+					"name":
+					{
+						"defaultText": "Hi-DR0 Baton",
+						"localizedByCulture":
+						{
+							"ar-AE": "هراوة Hi-DR0",
+							"de-DE": "Schlagstock – Hi-DR0",
+							"en-US": "Hi-DR0 Baton",
+							"es-ES": "Porra Hi-DR0",
+							"es-MX": "Bastón Hi-DR0",
+							"fr-FR": "Bâton (Hi-DR0)",
+							"id-ID": "Hi-DR0 Baton",
+							"it-IT": "Manganello Hi-DR0",
+							"ja-JP": "ハイドロ バトン",
+							"ko-KR": "Hi-DR0 진압봉",
+							"pl-PL": "Baton Hi-DR0",
+							"pt-BR": "Bastão Hi-DR0",
+							"ru-RU": "Дубинка \"Ги-ДР0\"",
+							"th-TH": "Hi-DR0 Baton",
+							"tr-TR": "Hi-DR0 Copu",
+							"vi-VN": "Dùi Cui Hi-DR0",
+							"zh-CN": "小鲸零号 甩棍",
+							"zh-TW": "深海歷險 燈棍"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "68843DFC-44B0-DEFE-0FA6-82A3726173E5",
+					"label": "68843DFC-44B0-DEFE-0FA6-82A3726173E5",
+					"name":
+					{
+						"defaultText": "Hi-DR0 Baton",
+						"localizedByCulture":
+						{
+							"ar-AE": "هراوة Hi-DR0",
+							"de-DE": "Schlagstock – Hi-DR0",
+							"en-US": "Hi-DR0 Baton",
+							"es-ES": "Porra Hi-DR0",
+							"es-MX": "Bastón Hi-DR0",
+							"fr-FR": "Bâton (Hi-DR0)",
+							"id-ID": "Hi-DR0 Baton",
+							"it-IT": "Manganello Hi-DR0",
+							"ja-JP": "ハイドロ バトン",
+							"ko-KR": "Hi-DR0 진압봉",
+							"pl-PL": "Baton Hi-DR0",
+							"pt-BR": "Bastão Hi-DR0",
+							"ru-RU": "Дубинка \"Ги-ДР0\"",
+							"th-TH": "Hi-DR0 Baton",
+							"tr-TR": "Hi-DR0 Copu",
+							"vi-VN": "Dùi Cui Hi-DR0",
+							"zh-CN": "小鲸零号 甩棍",
+							"zh-TW": "深海歷險 燈棍"
+						}
+					}
+				}
+			],
+			"id": "9CF4B95C-4A42-C0AB-0D97-C0927ABFFD92",
+			"label": "9CF4B95C-4A42-C0AB-0D97-C0927ABFFD92",
+			"name":
+			{
+				"defaultText": "Hi-DR0 Baton",
+				"localizedByCulture":
+				{
+					"ar-AE": "هراوة Hi-DR0",
+					"de-DE": "Schlagstock – Hi-DR0",
+					"en-US": "Hi-DR0 Baton",
+					"es-ES": "Porra Hi-DR0",
+					"es-MX": "Bastón Hi-DR0",
+					"fr-FR": "Bâton (Hi-DR0)",
+					"id-ID": "Hi-DR0 Baton",
+					"it-IT": "Manganello Hi-DR0",
+					"ja-JP": "ハイドロ バトン",
+					"ko-KR": "Hi-DR0 진압봉",
+					"pl-PL": "Baton Hi-DR0",
+					"pt-BR": "Bastão Hi-DR0",
+					"ru-RU": "Дубинка \"Ги-ДР0\"",
+					"th-TH": "Hi-DR0 Baton",
+					"tr-TR": "Hi-DR0 Copu",
+					"vi-VN": "Dùi Cui Hi-DR0",
+					"zh-CN": "小鲸零号 甩棍",
+					"zh-TW": "深海歷險 燈棍"
 				}
 			}
 		},
@@ -229890,6 +230355,35 @@
 			}
 		},
 		{
+			"id": "6353EB92-4D0C-DA38-01E7-879685DAB974",
+			"label": "6353EB92-4D0C-DA38-01E7-879685DAB974",
+			"name":
+			{
+				"defaultText": "Give Back // V26 Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة رد الجميل \\\\ V26",
+					"de-DE": "Banner „Gute Tat // V26“",
+					"en-US": "Give Back // V26 Card",
+					"es-ES": "Tarjeta Retribución // V26",
+					"es-MX": "Tarjeta Retribución // V26",
+					"fr-FR": "Carte Juste retour // V26",
+					"id-ID": "Card Give Back // V26",
+					"it-IT": "Carta Ritorno // V26",
+					"ja-JP": "ギブ・バック // V26 カード",
+					"ko-KR": "자선 // V26 카드",
+					"pl-PL": "Karta „Podziel się // V26”",
+					"pt-BR": "Card Retribuição // V26",
+					"ru-RU": "Карточка \"Возвращение // V26\"",
+					"th-TH": "การ์ด Give Back // V26",
+					"tr-TR": "İyiliği Paylaş // V26 Kartı",
+					"vi-VN": "Thẻ Vì Cộng Đồng // V26",
+					"zh-CN": "回响 // V26 卡面",
+					"zh-TW": "公益回饋 // V26 玩家卡面"
+				}
+			}
+		},
+		{
 			"id": "EB741E28-4545-92A3-CB5A-6A8DE025E9B7",
 			"label": "EB741E28-4545-92A3-CB5A-6A8DE025E9B7",
 			"name":
@@ -230350,6 +230844,35 @@
 					"vi-VN": "Thẻ Sân Khấu Lớn",
 					"zh-CN": "最高舞台 卡面",
 					"zh-TW": "大賽舞台 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "5B8E9F56-4FF9-9135-9504-2E8916C4B481",
+			"label": "5B8E9F56-4FF9-9135-9504-2E8916C4B481",
+			"name":
+			{
+				"defaultText": "Count To Three Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "Count To Three Card",
+					"de-DE": "Count To Three Card",
+					"en-US": "Count To Three Card",
+					"es-ES": "Count To Three Card",
+					"es-MX": "Count To Three Card",
+					"fr-FR": "Count To Three Card",
+					"id-ID": "Count To Three Card",
+					"it-IT": "Count To Three Card",
+					"ja-JP": "Count To Three Card",
+					"ko-KR": "Count To Three Card",
+					"pl-PL": "Count To Three Card",
+					"pt-BR": "Count To Three Card",
+					"ru-RU": "Count To Three Card",
+					"th-TH": "Count To Three Card",
+					"tr-TR": "Count To Three Card",
+					"vi-VN": "Count To Three Card",
+					"zh-CN": "蜀道山 卡面",
+					"zh-TW": "Count To Three Card"
 				}
 			}
 		},
@@ -231775,6 +232298,35 @@
 			}
 		},
 		{
+			"id": "12F48C02-43E8-68A4-0E55-3C8FBA233CF2",
+			"label": "12F48C02-43E8-68A4-0E55-3C8FBA233CF2",
+			"name":
+			{
+				"defaultText": "PREMIER V26A3 Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة بريمير V26م3",
+					"de-DE": "Banner „PREMIER V26A3“",
+					"en-US": "PREMIER V26A3 Card",
+					"es-ES": "Tarjeta de PREMIER V26A3",
+					"es-MX": "Tarjeta V26A3: PREMIER",
+					"fr-FR": "Carte PREMIER V26A3",
+					"id-ID": "Card PREMIER V26A3",
+					"it-IT": "Carta PREMIER V26A3",
+					"ja-JP": "PREMIER V26A3 カード",
+					"ko-KR": "프리미어 V26A3 카드",
+					"pl-PL": "Karta „V26A3 PREMIER”",
+					"pt-BR": "Card PREMIER V26A3",
+					"ru-RU": "Карточка \"V26A3 PREMIER\"",
+					"th-TH": "การ์ด PREMIER V26A3",
+					"tr-TR": "PREMIER V26K3 Kartı",
+					"vi-VN": "Thẻ PREMIER V26P3",
+					"zh-CN": "超级赛//V26第三幕 卡面",
+					"zh-TW": "Premier V26第三章 玩家卡面"
+				}
+			}
+		},
+		{
 			"id": "BB5CEDCD-4ED9-EE2E-F129-48BF60A8E540",
 			"label": "BB5CEDCD-4ED9-EE2E-F129-48BF60A8E540",
 			"name":
@@ -231974,6 +232526,35 @@
 					"vi-VN": "Thẻ Siêu Lười",
 					"zh-CN": "树懒大作战 卡面",
 					"zh-TW": "樹懶特務 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "1B3C799C-47B8-4DA4-CF4A-02A088C85A86",
+			"label": "1B3C799C-47B8-4DA4-CF4A-02A088C85A86",
+			"name":
+			{
+				"defaultText": "Blissful Burn Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة حادثة حرق سعيدة",
+					"de-DE": "Banner „Herrliches Brennen“",
+					"en-US": "Blissful Burn Card",
+					"es-ES": "Tarjeta Vale la pena quemarse",
+					"es-MX": "Tarjeta Pica Rico",
+					"fr-FR": "Carte Douce brûlure",
+					"id-ID": "Card Blissful Burn",
+					"it-IT": "Carta Beata ustione",
+					"ja-JP": "痩せ我慢 カード",
+					"ko-KR": "황홀한 열기 카드",
+					"pl-PL": "Karta „Błogie pieczenie”",
+					"pt-BR": "Card Queimadura Feliz",
+					"ru-RU": "Карточка \"Благословенный огонь\"",
+					"th-TH": "การ์ด Blissful Burn",
+					"tr-TR": "Keyifli Yanık Kartı",
+					"vi-VN": "Thẻ Ngọn Lửa Dễ Chịu",
+					"zh-CN": "霸得蛮 卡面",
+					"zh-TW": "吃得辣中辣 玩家卡面"
 				}
 			}
 		},
@@ -235773,6 +236354,35 @@
 					"vi-VN": "Thẻ Blackthorn",
 					"zh-CN": "荆刺圣骸 卡面",
 					"zh-TW": "黑荊棘 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "D344D2B9-4C29-26DC-8728-D98EDC25D61E",
+			"label": "D344D2B9-4C29-26DC-8728-D98EDC25D61E",
+			"name":
+			{
+				"defaultText": "Hi-DR0 Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة Hi-DR0",
+					"de-DE": "Banner „Hi-DR0“",
+					"en-US": "Hi-DR0 Card",
+					"es-ES": "Tarjeta Hi-DR0",
+					"es-MX": "Tarjeta Hi-DR0",
+					"fr-FR": "Carte Hi-DR0",
+					"id-ID": "Card Hi-DR0",
+					"it-IT": "Carta Hi-DR0",
+					"ja-JP": "ハイドロ カード",
+					"ko-KR": "Hi-DR0 카드",
+					"pl-PL": "Karta „Hi-DR0”",
+					"pt-BR": "Card Hi-DR0",
+					"ru-RU": "Карточка \"Ги-ДР0\"",
+					"th-TH": "การ์ด Hi-DR0",
+					"tr-TR": "Hi-DR0 Kartı",
+					"vi-VN": "Thẻ Hi-DR0",
+					"zh-CN": "小鲸零号 卡面",
+					"zh-TW": "深海歷險 玩家卡面"
 				}
 			}
 		},
@@ -247468,6 +248078,60 @@
 		{
 			"titleText":
 			{
+				"defaultText": "GOOOOALLLL!!!",
+				"localizedByCulture":
+				{
+					"ar-AE": "جوووووووول!!!",
+					"de-DE": "TOOOOOOOOR!!!",
+					"en-US": "GOOOOALLLL!!!",
+					"es-ES": "¡¡¡GOOOOOL!!!",
+					"es-MX": "¡¡¡GOOOOOOL!!!",
+					"fr-FR": "BUUUUUUUUUT !!!",
+					"id-ID": "GOOOOALLLL!!!",
+					"it-IT": "GOOOOOL!!!",
+					"ja-JP": "ゴーーーーール！！",
+					"ko-KR": "골인!!!",
+					"pl-PL": "GOOOOL!!!",
+					"pt-BR": "Goooooool!!!",
+					"ru-RU": "ГО-О-ОЛ!!!",
+					"th-TH": "โกลลลลลล!!!",
+					"tr-TR": "GOOOOLLL!!!",
+					"vi-VN": "VÀOOOOOO!!!",
+					"zh-CN": "球进啦！！！",
+					"zh-TW": "進球啦！！！"
+				}
+			},
+			"id": "EC59E486-47A0-2CF2-4CFD-588BF95F2EF1",
+			"label": "EC59E486-47A0-2CF2-4CFD-588BF95F2EF1",
+			"name":
+			{
+				"defaultText": "GOOOOALLLL!!! Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب جوووووووول!!!",
+					"de-DE": "Titel „TOOOOOOOOR!!!“",
+					"en-US": "GOOOOALLLL!!! Title",
+					"es-ES": "¡¡¡GOOOOOL!!! Título",
+					"es-MX": "Título ¡¡¡GOOOOOOL!!!",
+					"fr-FR": "Titre BUUUUUUUUUT !!!",
+					"id-ID": "Gelar GOOOOALLLL!!!",
+					"it-IT": "Titolo GOOOOOL!!!",
+					"ja-JP": "ゴーーーーール！！タイトル",
+					"ko-KR": "골인!!! 칭호",
+					"pl-PL": "Tytuł „GOOOOL!!!”",
+					"pt-BR": "Título Goooooool!!!",
+					"ru-RU": "Звание \"ГО-О-ОЛ!!!\"",
+					"th-TH": "ฉายา โกลลลลลล!!!",
+					"tr-TR": "GOOOOLLL!!! Unvanı",
+					"vi-VN": "Danh Hiệu VÀOOOOOOO!!!",
+					"zh-CN": "球进啦！！！称号",
+					"zh-TW": "進球啦！！！稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
 				"defaultText": "Foxy",
 				"localizedByCulture":
 				{
@@ -255587,7 +256251,7 @@
 					"th-TH": "สุดห่วย",
 					"tr-TR": "Bırak Bu İşi",
 					"vi-VN": "Dở Tệ",
-					"zh-CN": "菜鸡",
+					"zh-CN": "拉完了",
 					"zh-TW": "亂七八糟"
 				}
 			},
@@ -255614,7 +256278,7 @@
 					"th-TH": "ฉายาสุดห่วย",
 					"tr-TR": "Bırak Bu İşi Unvanı",
 					"vi-VN": "Danh Hiệu Dở Tệ",
-					"zh-CN": "菜鸡 称号",
+					"zh-CN": "拉完了 称号",
 					"zh-TW": "亂七八糟 稱號"
 				}
 			}
@@ -260962,6 +261626,330 @@
 					"vi-VN": "Danh Hiệu VĐ PREMIER V26P2 // TD",
 					"zh-CN": "超级赛//V26第二幕冠军//初级 称号",
 					"zh-TW": "Premier V26第二章冠軍 // 初階 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V26A3 CHAMPION // ADV",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V26م3 // متقدم",
+					"de-DE": "PREMIER V26A3 CHAMPION // PRF",
+					"en-US": "PREMIER V26A3 CHAMPION // ADV",
+					"es-ES": "CAMP. PREMIER V26A3 // AVNZ",
+					"es-MX": "V26A3: AVAN. // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V26A3 // AVN",
+					"id-ID": "PREMIER V26A3 CHAMPION // ADV",
+					"it-IT": "CAMPIONE PREMIER V26A3 // AVZ",
+					"ja-JP": "PREMIER V26A3 チャンピオン // ADV",
+					"ko-KR": "프리미어 V26A3 챔피언 // 중상급",
+					"pl-PL": "BOHATER V26A3 PREMIER // ZWN",
+					"pt-BR": "CAMPEÃO PREMIER V26A3 // AV",
+					"ru-RU": "ЧЕМПИОН V26A3 PREMIER // АС",
+					"th-TH": "PREMIER V26A3 CHAMPION // ADV",
+					"tr-TR": "PREMIER V26K3 ŞAMP. // İLR",
+					"vi-VN": "VĐ PREMIER V26P3 // CC",
+					"zh-CN": "超级赛//V26第三幕冠军//高级",
+					"zh-TW": "Premier V26第三章冠軍 // 高階"
+				}
+			},
+			"id": "2FEFF759-47D3-434E-5E8A-979C1F5A8089",
+			"label": "2FEFF759-47D3-434E-5E8A-979C1F5A8089",
+			"name":
+			{
+				"defaultText": "PREMIER V26A3 CHAMPION // ADV Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V26م3 // متقدم",
+					"de-DE": "Titel „PREMIER V26A3 CHAMPION // PRF“",
+					"en-US": "PREMIER V26A3 CHAMPION // ADV Title",
+					"es-ES": "Título CAMP. PREMIER V26A3 // AVNZ",
+					"es-MX": "Título V26A3: AVAN. // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V26A3 // AVN",
+					"id-ID": "Gelar PREMIER V26A3 CHAMPION // ADV",
+					"it-IT": "Titolo CAMPIONE PREMIER V26A3 // AVZ",
+					"ja-JP": "PREMIER V26A3 チャンピオン // ADV タイトル",
+					"ko-KR": "프리미어 V26A3 챔피언 // 중상급 칭호",
+					"pl-PL": "Tytuł „BOHATER V26A3 PREMIER // ZWN”",
+					"pt-BR": "Título CAMPEÃO PREMIER V26A3 // AV",
+					"ru-RU": "Звание \"ЧЕМПИОН V26A3 PREMIER // АС\"",
+					"th-TH": "ฉายา PREMIER V26A3 CHAMPION // ADV",
+					"tr-TR": "PREMIER V26K3 ŞAMP. // İLR Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V26P3 // CC",
+					"zh-CN": "超级赛//V26第三幕冠军//高级 称号",
+					"zh-TW": "Premier V26第三章冠軍 // 高階 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V26A3 CHAMPION // CTD",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V26م3 // منافس",
+					"de-DE": "PREMIER V26A3 CHAMPION // KNDT",
+					"en-US": "PREMIER V26A3 CHAMPION // CTD",
+					"es-ES": "CAMP. PREMIER V26A3 // CNTD",
+					"es-MX": "V26A3: CONT. // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V26A3 // CCR",
+					"id-ID": "PREMIER V26A3 CHAMPION // CTD",
+					"it-IT": "CAMPIONE PREMIER V26A3 // SFD",
+					"ja-JP": "PREMIER V26A3 チャンピオン // CTD",
+					"ko-KR": "프리미어 V26A3 챔피언 // 최상급",
+					"pl-PL": "BOHATER V26A3 PREMIER // ZDK",
+					"pt-BR": "CAMPEÃO PREMIER V26A3 // DES",
+					"ru-RU": "ЧЕМПИОН V26A3 PREMIER // БОЕЦ",
+					"th-TH": "PREMIER V26A3 CHAMPION // CTD",
+					"tr-TR": "PREMIER V26K3 ŞAMP. // TTKÇİ",
+					"vi-VN": "VĐ PREMIER V26P3 // UVNK",
+					"zh-CN": "超级赛//V26第三幕冠军//竞争者",
+					"zh-TW": "Premier V26第三章冠軍 // 競爭者"
+				}
+			},
+			"id": "3FBCBB3C-4D42-5204-9F09-49ABD870E15A",
+			"label": "3FBCBB3C-4D42-5204-9F09-49ABD870E15A",
+			"name":
+			{
+				"defaultText": "PREMIER V26A3 CHAMPION // CTD Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V26م3 // منافس",
+					"de-DE": "Titel „PREMIER V26A3 CHAMPION // KNDT“",
+					"en-US": "PREMIER V26A3 CHAMPION // CTD Title",
+					"es-ES": "Título CAMP. PREMIER V26A3 // CNTD",
+					"es-MX": "Título V26A3: CONT. // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V26A3 // CCR",
+					"id-ID": "Gelar PREMIER V26A3 CHAMPION // CTD",
+					"it-IT": "Titolo CAMPIONE PREMIER V26A3 // SFD",
+					"ja-JP": "PREMIER V26A3 チャンピオン // CTD タイトル",
+					"ko-KR": "프리미어 V26A3 챔피언 // 최상급 칭호",
+					"pl-PL": "Tytuł „BOHATER V26A3 PREMIER // ZDK”",
+					"pt-BR": "Título CAMPEÃO PREMIER V26A3 // DES",
+					"ru-RU": "Звание \"ЧЕМПИОН V26A3 PREMIER // БОЕЦ\"",
+					"th-TH": "ฉายา PREMIER V26A3 CHAMPION // CTD",
+					"tr-TR": "PREMIER V26K3 ŞAMP. // TTKÇİ Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V26P3 // UVNK",
+					"zh-CN": "超级赛//V26第三幕冠军//竞争者 称号",
+					"zh-TW": "Premier V26第三章冠軍 // 競爭者 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V26A3 CHAMPION // ELT",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V26م3 // نخبة",
+					"de-DE": "PREMIER V26A3 CHAMPION // ELT",
+					"en-US": "PREMIER V26A3 CHAMPION // ELT",
+					"es-ES": "CAMP. PREMIER V26A3 // ÉLT",
+					"es-MX": "V26A3: ÉLITE // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V26A3 // ÉLT",
+					"id-ID": "PREMIER V26A3 CHAMPION // ELT",
+					"it-IT": "CAMPIONE PREMIER V26A3 // ÉLT",
+					"ja-JP": "PREMIER V26A3 チャンピオン // ELT",
+					"ko-KR": "프리미어 V26A3 챔피언 // 상급",
+					"pl-PL": "BOHATER V26A3 PREMIER // ELT",
+					"pt-BR": "CAMPEÃO PREMIER V26A3 // ELT",
+					"ru-RU": "ЧЕМПИОН V26A3 PREMIER // ЭЛИТА",
+					"th-TH": "PREMIER V26A3 CHAMPION // ELT",
+					"tr-TR": "PREMIER V26K3 ŞAMP. // SÇKN",
+					"vi-VN": "VĐ PREMIER V26P3 // TN",
+					"zh-CN": "超级赛//V26第三幕冠军//精英",
+					"zh-TW": "Premier V26第三章冠軍 // 菁英"
+				}
+			},
+			"id": "DB395948-4B1F-828E-C16A-8DBA54B4C4A9",
+			"label": "DB395948-4B1F-828E-C16A-8DBA54B4C4A9",
+			"name":
+			{
+				"defaultText": "PREMIER V26A3 CHAMPION // ELT Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V26م3 // نخبة",
+					"de-DE": "Titel „PREMIER V26A3 CHAMPION // ELT“",
+					"en-US": "PREMIER V26A3 CHAMPION // ELT Title",
+					"es-ES": "Título CAMP. PREMIER V26A3 // ÉLT",
+					"es-MX": "Título V26A3: ÉLITE // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V26A3 // ÉLT",
+					"id-ID": "Gelar PREMIER V26A3 CHAMPION // ELT",
+					"it-IT": "Titolo CAMPIONE PREMIER V26A3 // ÉLT",
+					"ja-JP": "PREMIER V26A3 チャンピオン // ELT タイトル",
+					"ko-KR": "프리미어 V26A3 챔피언 // 상급 칭호",
+					"pl-PL": "Tytuł „BOHATER V26A3 PREMIER // ELT”",
+					"pt-BR": "Título CAMPEÃO PREMIER V26A3 // ELT",
+					"ru-RU": "Звание \"ЧЕМПИОН V26A3 PREMIER // ЭЛИТА\"",
+					"th-TH": "ฉายา PREMIER V26A3 CHAMPION // ELT",
+					"tr-TR": "PREMIER V26K3 ŞAMP. // SÇKN Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V26P3 // TN",
+					"zh-CN": "超级赛//V26第三幕冠军//精英 称号",
+					"zh-TW": "Premier V26第三章冠軍 // 菁英 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V26A3 GRAND CHAMP",
+				"localizedByCulture":
+				{
+					"ar-AE": "البطل الأعظم بريمير V26م3",
+					"de-DE": "PREMIER V26A3 GROSSMEISTER",
+					"en-US": "PREMIER V26A3 GRAND CHAMP",
+					"es-ES": "GRAN CAMP. PREMIER V26A3",
+					"es-MX": "V26A3: MEGACAMPEONES PREMIER",
+					"fr-FR": "GRAND CHAMPION DE PREMIER V26A3",
+					"id-ID": "PREMIER V26A3 GRAND CHAMP",
+					"it-IT": "CAMPIONE ASSOLUTO PREMIER V26A3",
+					"ja-JP": "PREMIER V26A3 グランドチャンピオン",
+					"ko-KR": "프리미어 V26A3 그랜드 챔피언",
+					"pl-PL": "NAJWIĘKSZY BOHATER V26A3 PREMIER",
+					"pt-BR": "GRANDE CAMPEÃO PREMIER V26A3",
+					"ru-RU": "ГРАНД-ЧЕМПИОН V26A3 PREMIER",
+					"th-TH": "PREMIER V26A3 GRAND CHAMP",
+					"tr-TR": "PREMIER V26K3 BÜYÜK ŞAMP.",
+					"vi-VN": "NHÀ VĐ PREMIER V26P3",
+					"zh-CN": "超级赛//V26第三幕总冠军",
+					"zh-TW": "Premier V26第三章總冠軍"
+				}
+			},
+			"id": "EA60CF77-4603-0203-05AA-7E8E8739488D",
+			"label": "EA60CF77-4603-0203-05AA-7E8E8739488D",
+			"name":
+			{
+				"defaultText": "PREMIER V26A3 GRAND CHAMP Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب البطل الأعظم بريمير V26م3",
+					"de-DE": "Titel „PREMIER V26A3 GROSSMEISTER“",
+					"en-US": "PREMIER V26A3 GRAND CHAMP Title",
+					"es-ES": "Título GRAN CAMP. PREMIER V26A3",
+					"es-MX": "Título V26A3: MEGACAMPEONES PREMIER",
+					"fr-FR": "Titre GRAND CHAMPION DE PREMIER V26A3",
+					"id-ID": "Gelar PREMIER V26A3 GRAND CHAMP",
+					"it-IT": "Titolo CAMPIONE ASSOLUTO PREMIER V26A3",
+					"ja-JP": "PREMIER V26A3 グランドチャンピオン タイトル",
+					"ko-KR": "프리미어 V26A3 그랜드 챔피언 칭호",
+					"pl-PL": "Tytuł „NAJWIĘKSZY BOHATER V26A3 PREMIER”",
+					"pt-BR": "Título GRANDE CAMPEÃO PREMIER V26A3",
+					"ru-RU": "Звание \"ГРАНД-ЧЕМПИОН V26A3 PREMIER\"",
+					"th-TH": "ฉายา PREMIER V26A3 GRAND CHAMP",
+					"tr-TR": "PREMIER V26K3 BÜYÜK ŞAMP. Unvanı",
+					"vi-VN": "Danh Hiệu NHÀ VĐ PREMIER V26P3",
+					"zh-CN": "超级赛//V26第三幕总冠军 称号",
+					"zh-TW": "Premier V26第三章總冠軍 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V26A3 CHAMPION // INT",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V26م3 // متوسط",
+					"de-DE": "PREMIER V26A3 CHAMPION // FRTG",
+					"en-US": "PREMIER V26A3 CHAMPION // INT",
+					"es-ES": "CAMP. PREMIER V26A3 // INTM",
+					"es-MX": "V26A3: INT. // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V26A3 // INT",
+					"id-ID": "PREMIER V26A3 CHAMPION // INT",
+					"it-IT": "CAMPIONE PREMIER V26A3 // INT",
+					"ja-JP": "PREMIER V26A3 チャンピオン // INT",
+					"ko-KR": "프리미어 V26A3 챔피언 // 중급",
+					"pl-PL": "BOHATER V26A3 PREMIER // ŚRD",
+					"pt-BR": "CAMPEÃO PREMIER V26A3 // INT",
+					"ru-RU": "ЧЕМПИОН V26A3 PREMIER // СРЕД",
+					"th-TH": "PREMIER V26A3 CHAMPION // INT",
+					"tr-TR": "PREMIER V26K3 ŞAMP. // ORT",
+					"vi-VN": "VĐ PREMIER V26P3 // TC",
+					"zh-CN": "超级赛//V26第三幕冠军//中级",
+					"zh-TW": "Premier V26第三章冠軍 // 中階"
+				}
+			},
+			"id": "FA934387-4BA1-EAD8-0B11-89B8413D3721",
+			"label": "FA934387-4BA1-EAD8-0B11-89B8413D3721",
+			"name":
+			{
+				"defaultText": "PREMIER V26A3 CHAMPION // INT Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V26م3 // متوسط",
+					"de-DE": "Titel „PREMIER V26A3 CHAMPION // FRTG“",
+					"en-US": "PREMIER V26A3 CHAMPION // INT Title",
+					"es-ES": "Título CAMP. PREMIER V26A3 // INTM",
+					"es-MX": "Título V26A3: INT. // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V26A3 // INT",
+					"id-ID": "Gelar PREMIER V26A3 CHAMPION // INT",
+					"it-IT": "Titolo CAMPIONE PREMIER V26A3 // INT",
+					"ja-JP": "PREMIER V26A3 チャンピオン // INT タイトル",
+					"ko-KR": "프리미어 V26A3 챔피언 // 중급 칭호",
+					"pl-PL": "Tytuł „BOHATER V26A3 PREMIER // ŚRD”",
+					"pt-BR": "Título CAMPEÃO PREMIER V26A3 // INT",
+					"ru-RU": "Звание \"ЧЕМПИОН V26A3 PREMIER // СРЕД\"",
+					"th-TH": "ฉายา PREMIER V26A3 CHAMPION // INT",
+					"tr-TR": "PREMIER V26K3 ŞAMP. // ORT Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V26P3 // TC",
+					"zh-CN": "超级赛//V26第三幕冠军//中级 称号",
+					"zh-TW": "Premier V26第三章冠軍 // 中階 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V26A3 CHAMPION // OPN",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V26م3 // مفتوح",
+					"de-DE": "PREMIER V26A3 CHAMPION // OFFN",
+					"en-US": "PREMIER V26A3 CHAMPION // OPN",
+					"es-ES": "CAMP. PREMIER V26A3 // ABRT",
+					"es-MX": "V26A3: ABIERTO // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V26A3 // OUV",
+					"id-ID": "PREMIER V26A3 CHAMPION // OPN",
+					"it-IT": "CAMPIONE PREMIER V26A3 // APR",
+					"ja-JP": "PREMIER V26A3 チャンピオン // OPN",
+					"ko-KR": "프리미어 V26A3 챔피언 // 초급",
+					"pl-PL": "BOHATER V26A3 PREMIER // OTW",
+					"pt-BR": "CAMPEÃO PREMIER V26A3 // ABR",
+					"ru-RU": "ЧЕМПИОН V26A3 PREMIER // ОТКР",
+					"th-TH": "PREMIER V26A3 CHAMPION // OPN",
+					"tr-TR": "PREMIER V26K3 ŞAMP. // AÇK",
+					"vi-VN": "VĐ PREMIER V26P3 // TD",
+					"zh-CN": "超级赛//V26第三幕冠军//初级",
+					"zh-TW": "Premier V26第三章冠軍 // 初階"
+				}
+			},
+			"id": "B2B0B801-45E4-ED6F-28A4-D18CBBBD5D72",
+			"label": "B2B0B801-45E4-ED6F-28A4-D18CBBBD5D72",
+			"name":
+			{
+				"defaultText": "PREMIER V26A3 CHAMPION // OPN Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V26م3 // مفتوح",
+					"de-DE": "Titel „PREMIER V26A3 CHAMPION // OFFN“",
+					"en-US": "PREMIER V26A3 CHAMPION // OPN Title",
+					"es-ES": "Título CAMP. PREMIER V26A3 // ABRT",
+					"es-MX": "Título V26A3: ABIERTO // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V26A3 // OUV",
+					"id-ID": "Gelar PREMIER V26A3 CHAMPION // OPN",
+					"it-IT": "Titolo CAMPIONE PREMIER V26A3 // APR",
+					"ja-JP": "PREMIER V26A3 チャンピオン // OPN タイトル",
+					"ko-KR": "프리미어 V26A3 챔피언 // 초급 칭호",
+					"pl-PL": "Tytuł „BOHATER V26A3 PREMIER // OTW”",
+					"pt-BR": "Título CAMPEÃO PREMIER V26A3 // ABR",
+					"ru-RU": "Звание \"ЧЕМПИОН V26A3 PREMIER // ОТКР\"",
+					"th-TH": "ฉายา PREMIER V26A3 CHAMPION // OPN",
+					"tr-TR": "PREMIER V26K3 ŞAMP. // AÇK Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V26P3 // TD",
+					"zh-CN": "超级赛//V26第三幕冠军//初级 称号",
+					"zh-TW": "Premier V26第三章冠軍 // 初階 稱號"
 				}
 			}
 		},
@@ -280056,6 +281044,66 @@
 		{
 			"levels": [
 				{
+					"id": "5089CC06-4F6F-B691-4747-CBBECE397E3C",
+					"label": "5089CC06-4F6F-B691-4747-CBBECE397E3C",
+					"name":
+					{
+						"defaultText": "Givebackbundle26",
+						"localizedByCulture":
+						{
+							"ar-AE": "Givebackbundle26",
+							"de-DE": "Givebackbundle26",
+							"en-US": "Givebackbundle26",
+							"es-ES": "Givebackbundle26",
+							"es-MX": "Givebackbundle26",
+							"fr-FR": "Givebackbundle26",
+							"id-ID": "Givebackbundle26",
+							"it-IT": "Givebackbundle26",
+							"ja-JP": "Givebackbundle26",
+							"ko-KR": "Givebackbundle26",
+							"pl-PL": "Givebackbundle26",
+							"pt-BR": "Givebackbundle26",
+							"ru-RU": "Givebackbundle26",
+							"th-TH": "Givebackbundle26",
+							"tr-TR": "Givebackbundle26",
+							"vi-VN": "Givebackbundle26",
+							"zh-CN": "Givebackbundle26",
+							"zh-TW": "Givebackbundle26"
+						}
+					}
+				}
+			],
+			"id": "7EC6D6D9-4AF2-9E60-5531-A28C5F03FFB4",
+			"label": "7EC6D6D9-4AF2-9E60-5531-A28C5F03FFB4",
+			"name":
+			{
+				"defaultText": "Give Back // V26 Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق رد الجميل \\\\ V26",
+					"de-DE": "Talisman „Gute Tat // V26“",
+					"en-US": "Give Back // V26 Buddy",
+					"es-ES": "Amuleto Retribución // V26",
+					"es-MX": "Buddy Retribución // V26",
+					"fr-FR": "Porte-bonheur Juste retour // V26",
+					"id-ID": "Buddy Give Back // V26",
+					"it-IT": "Accessorio Ritorno // V26",
+					"ja-JP": "ギブ・バック // V26 バディー",
+					"ko-KR": "자선 // V26 총기 장식",
+					"pl-PL": "Przywieszka „Podziel się // V26”",
+					"pt-BR": "Chaveiro Retribuição // V26",
+					"ru-RU": "Брелок \"Возвращение // V26\"",
+					"th-TH": "บัดดี้ Give Back // V26",
+					"tr-TR": "İyiliği Paylaş // V26 Uğuru",
+					"vi-VN": "Phụ Kiện Vì Cộng Đồng // V26",
+					"zh-CN": "回响 // V26 挂饰",
+					"zh-TW": "公益回饋 // V26 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "76A353D2-4174-56BF-6DDD-27802507CB5B",
 					"label": "76A353D2-4174-56BF-6DDD-27802507CB5B",
 					"name":
@@ -295836,6 +296884,366 @@
 		{
 			"levels": [
 				{
+					"id": "C630FFD8-41CD-7C8D-D420-3A80D3DD53C8",
+					"label": "C630FFD8-41CD-7C8D-D420-3A80D3DD53C8",
+					"name":
+					{
+						"defaultText": "PremierV26A3_Advanced",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A3_Advanced",
+							"de-DE": "PremierV26A3_Advanced",
+							"en-US": "PremierV26A3_Advanced",
+							"es-ES": "PremierV26A3_Advanced",
+							"es-MX": "PremierV26A3_Advanced",
+							"fr-FR": "PremierV26A3_Advanced",
+							"id-ID": "PremierV26A3_Advanced",
+							"it-IT": "PremierV26A3_Advanced",
+							"ja-JP": "PremierV26A3_Advanced",
+							"ko-KR": "PremierV26A3_Advanced",
+							"pl-PL": "PremierV26A3_Advanced",
+							"pt-BR": "PremierV26A3_Advanced",
+							"ru-RU": "PremierV26A3_Advanced",
+							"th-TH": "PremierV26A3_Advanced",
+							"tr-TR": "PremierV26A3_Advanced",
+							"vi-VN": "PremierV26A3_Advanced",
+							"zh-CN": "PremierV26A3_Advanced",
+							"zh-TW": "PremierV26A3_Advanced"
+						}
+					}
+				}
+			],
+			"id": "7386EB10-4875-687A-10A5-F1944476C50F",
+			"label": "7386EB10-4875-687A-10A5-F1944476C50F",
+			"name":
+			{
+				"defaultText": "PREMIER V26A3 CHAMPION // ADV Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V26م3 // متقدم",
+					"de-DE": "Talisman „PREMIER V26A3 CHAMPION // PRF“",
+					"en-US": "PREMIER V26A3 CHAMPION // ADV Buddy",
+					"es-ES": "Amuleto CAMP. PREMIER V26A3 // AVNZ",
+					"es-MX": "Buddy V26A3: AVAN. // CAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V26A3 // AVN",
+					"id-ID": "Buddy PREMIER V26A3 CHAMPION // ADV",
+					"it-IT": "Accessorio CAMPIONE PREMIER V26A3 // AVZ",
+					"ja-JP": "PREMIER V26A3 チャンピオン // ADV バディー",
+					"ko-KR": "프리미어 V26A3 챔피언 // 중상급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V26A3 PREMIER // ZWN”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V26A3 // AV",
+					"ru-RU": "Брелок \"ЧЕМПИОН V26A3 PREMIER // АС\"",
+					"th-TH": "บัดดี้ PREMIER V26A3 CHAMPION // ADV",
+					"tr-TR": "PREMIER V26K3 ŞAMPİYONU // İLR DZY Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V26P3 // CC",
+					"zh-CN": "超级赛//V26第三幕冠军//高级 挂饰",
+					"zh-TW": "Premier V26第三章冠軍 // 高階 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "D4435299-4C3E-A7F9-0CD5-C28A77E4DACF",
+					"label": "D4435299-4C3E-A7F9-0CD5-C28A77E4DACF",
+					"name":
+					{
+						"defaultText": "PremierV26A3_Contender",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A3_Contender",
+							"de-DE": "PremierV26A3_Contender",
+							"en-US": "PremierV26A3_Contender",
+							"es-ES": "PremierV26A3_Contender",
+							"es-MX": "PremierV26A3_Contender",
+							"fr-FR": "PremierV26A3_Contender",
+							"id-ID": "PremierV26A3_Contender",
+							"it-IT": "PremierV26A3_Contender",
+							"ja-JP": "PremierV26A3_Contender",
+							"ko-KR": "PremierV26A3_Contender",
+							"pl-PL": "PremierV26A3_Contender",
+							"pt-BR": "PremierV26A3_Contender",
+							"ru-RU": "PremierV26A3_Contender",
+							"th-TH": "PremierV26A3_Contender",
+							"tr-TR": "PremierV26A3_Contender",
+							"vi-VN": "PremierV26A3_Contender",
+							"zh-CN": "PremierV26A3_Contender",
+							"zh-TW": "PremierV26A3_Contender"
+						}
+					}
+				}
+			],
+			"id": "39DED0CC-46D2-8614-BD7A-A6B6B45DCAF9",
+			"label": "39DED0CC-46D2-8614-BD7A-A6B6B45DCAF9",
+			"name":
+			{
+				"defaultText": "PREMIER V26A3 CHAMPION // CTD Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V26م3 // منافس",
+					"de-DE": "Talisman „PREMIER V26A3 CHAMPION // KNDT“",
+					"en-US": "PREMIER V26A3 CHAMPION // CTD Buddy",
+					"es-ES": "Amuleto CAMP. PREMIER V26A3 // CNTD",
+					"es-MX": "Buddy V26A3: CONT. // CAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V26A3 // CCR",
+					"id-ID": "Buddy PREMIER V26A3 CHAMPION // CTD",
+					"it-IT": "Accessorio CAMPIONE PREMIER V26A3 // SFD",
+					"ja-JP": "PREMIER V26A3 チャンピオン // CTD バディー",
+					"ko-KR": "프리미어 V26A3 챔피언 // 최상급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V26A3 PREMIER // ZDK”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V26A3 // DES",
+					"ru-RU": "Брелок \"ЧЕМПИОН V26A3 PREMIER // БОЕЦ\"",
+					"th-TH": "บัดดี้ PREMIER V26A3 CHAMPION // CTD",
+					"tr-TR": "PREMIER V26K3 ŞAMPİYONU // TTKÇİ Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V26P3 // UVNK",
+					"zh-CN": "超级赛//V26第三幕冠军//竞争者 挂饰",
+					"zh-TW": "Premier V26第三章冠軍 // 競爭者 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "60743243-49E4-197D-F707-8DAA32FC2D1C",
+					"label": "60743243-49E4-197D-F707-8DAA32FC2D1C",
+					"name":
+					{
+						"defaultText": "PremierV26A3_Elite",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A3_Elite",
+							"de-DE": "PremierV26A3_Elite",
+							"en-US": "PremierV26A3_Elite",
+							"es-ES": "PremierV26A3_Elite",
+							"es-MX": "PremierV26A3_Elite",
+							"fr-FR": "PremierV26A3_Elite",
+							"id-ID": "PremierV26A3_Elite",
+							"it-IT": "PremierV26A3_Elite",
+							"ja-JP": "PremierV26A3_Elite",
+							"ko-KR": "PremierV26A3_Elite",
+							"pl-PL": "PremierV26A3_Elite",
+							"pt-BR": "PremierV26A3_Elite",
+							"ru-RU": "PremierV26A3_Elite",
+							"th-TH": "PremierV26A3_Elite",
+							"tr-TR": "PremierV26A3_Elite",
+							"vi-VN": "PremierV26A3_Elite",
+							"zh-CN": "PremierV26A3_Elite",
+							"zh-TW": "PremierV26A3_Elite"
+						}
+					}
+				}
+			],
+			"id": "12CE1B50-407C-653C-612A-76B080499D5E",
+			"label": "12CE1B50-407C-653C-612A-76B080499D5E",
+			"name":
+			{
+				"defaultText": "PREMIER V26A3 CHAMPION // ELT Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V26م3 // نخبة",
+					"de-DE": "Talisman „PREMIER V26A3 CHAMPION // ELT“",
+					"en-US": "PREMIER V26A3 CHAMPION // ELT Buddy",
+					"es-ES": "Amuleto CAMP. PREMIER V26A3 // ÉLT",
+					"es-MX": "Buddy V26A3: ÉLITE // CAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V26A3 // ÉLT",
+					"id-ID": "Buddy PREMIER V26A3 CHAMPION // ELT",
+					"it-IT": "Accessorio CAMPIONE PREMIER V26A3 // ÉLT",
+					"ja-JP": "PREMIER V26A3 チャンピオン // ELT バディー",
+					"ko-KR": "프리미어 V26A3 챔피언 // 상급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V26A3 PREMIER // ELT”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V26A3 // ELT",
+					"ru-RU": "Брелок \"ЧЕМПИОН V26A3 PREMIER // ЭЛИТА\"",
+					"th-TH": "บัดดี้ PREMIER V26A3 CHAMPION // ELT",
+					"tr-TR": "PREMIER V26K3 ŞAMPİYONU // SÇKN DZY Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V26P3 // TN",
+					"zh-CN": "超级赛//V26第三幕冠军//精英 挂饰",
+					"zh-TW": "Premier V26第三章冠軍 // 菁英 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "D0BEAE4F-470A-3C3F-7679-55AF5CF7D1DA",
+					"label": "D0BEAE4F-470A-3C3F-7679-55AF5CF7D1DA",
+					"name":
+					{
+						"defaultText": "PremierV26A3_Intermediate",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A3_Intermediate",
+							"de-DE": "PremierV26A3_Intermediate",
+							"en-US": "PremierV26A3_Intermediate",
+							"es-ES": "PremierV26A3_Intermediate",
+							"es-MX": "PremierV26A3_Intermediate",
+							"fr-FR": "PremierV26A3_Intermediate",
+							"id-ID": "PremierV26A3_Intermediate",
+							"it-IT": "PremierV26A3_Intermediate",
+							"ja-JP": "PremierV26A3_Intermediate",
+							"ko-KR": "PremierV26A3_Intermediate",
+							"pl-PL": "PremierV26A3_Intermediate",
+							"pt-BR": "PremierV26A3_Intermediate",
+							"ru-RU": "PremierV26A3_Intermediate",
+							"th-TH": "PremierV26A3_Intermediate",
+							"tr-TR": "PremierV26A3_Intermediate",
+							"vi-VN": "PremierV26A3_Intermediate",
+							"zh-CN": "PremierV26A3_Intermediate",
+							"zh-TW": "PremierV26A3_Intermediate"
+						}
+					}
+				}
+			],
+			"id": "A841202A-4533-D3E7-901C-118906D379A7",
+			"label": "A841202A-4533-D3E7-901C-118906D379A7",
+			"name":
+			{
+				"defaultText": "PREMIER V26A3 CHAMPION // INT Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V26م3 // متوسط",
+					"de-DE": "Talisman „PREMIER V26A3 CHAMPION // FRTG“",
+					"en-US": "PREMIER V26A3 CHAMPION // INT Buddy",
+					"es-ES": "Amuleto CAMP. PREMIER V26A3 // INTM",
+					"es-MX": "Buddy V26A3: INT. // CAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V26A3 // INT",
+					"id-ID": "Buddy PREMIER V26A3 CHAMPION // INT",
+					"it-IT": "Accessorio CAMPIONE PREMIER V26A3 // INT",
+					"ja-JP": "PREMIER V26A3 チャンピオン // INT バディー",
+					"ko-KR": "프리미어 V26A3 챔피언 // 중급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V26A3 PREMIER // ŚRD”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V26A3 // INT",
+					"ru-RU": "Брелок \"ЧЕМПИОН V26A3 PREMIER // СРЕД\"",
+					"th-TH": "บัดดี้ PREMIER V26A3 CHAMPION // INT",
+					"tr-TR": "PREMIER V26K3 ŞAMPİYONU // ORT DZY Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V26P3 // TC",
+					"zh-CN": "超级赛//V26第三幕冠军//中级 挂饰",
+					"zh-TW": "Premier V26第三章冠軍 // 中階 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "2AA134A4-4974-C1A9-D13B-7B96A5052989",
+					"label": "2AA134A4-4974-C1A9-D13B-7B96A5052989",
+					"name":
+					{
+						"defaultText": "PremierV26A3_Invite",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A3_Invite",
+							"de-DE": "PremierV26A3_Invite",
+							"en-US": "PremierV26A3_Invite",
+							"es-ES": "PremierV26A3_Invite",
+							"es-MX": "PremierV26A3_Invite",
+							"fr-FR": "PremierV26A3_Invite",
+							"id-ID": "PremierV26A3_Invite",
+							"it-IT": "PremierV26A3_Invite",
+							"ja-JP": "PremierV26A3_Invite",
+							"ko-KR": "PremierV26A3_Invite",
+							"pl-PL": "PremierV26A3_Invite",
+							"pt-BR": "PremierV26A3_Invite",
+							"ru-RU": "PremierV26A3_Invite",
+							"th-TH": "PremierV26A3_Invite",
+							"tr-TR": "PremierV26A3_Invite",
+							"vi-VN": "PremierV26A3_Invite",
+							"zh-CN": "PremierV26A3_Invite",
+							"zh-TW": "PremierV26A3_Invite"
+						}
+					}
+				}
+			],
+			"id": "771852B4-4913-9D2F-6988-AE8D1CCF0D8D",
+			"label": "771852B4-4913-9D2F-6988-AE8D1CCF0D8D",
+			"name":
+			{
+				"defaultText": "PREMIER V26A3 GRAND CHAMP Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق البطل الأعظم بريمير V26م3",
+					"de-DE": "Talisman „PREMIER V26A3 GROSSMEISTER“",
+					"en-US": "PREMIER V26A3 GRAND CHAMP Buddy",
+					"es-ES": "Amuleto GRAN CAMP. PREMIER V26A3",
+					"es-MX": "Buddy V26A3: MEGACAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur GRAND CHAMPION DE PREMIER V26A3",
+					"id-ID": "Buddy PREMIER V26A3 GRAND CHAMP",
+					"it-IT": "Accessorio CAMPIONE ASSOLUTO PREMIER V26A3",
+					"ja-JP": "PREMIER V26A3 グランドチャンピオン バディー",
+					"ko-KR": "프리미어 V26A3 그랜드 챔피언 총기 장식",
+					"pl-PL": "Przywieszka „NAJWIĘKSZY BOHATER V26A3 PREMIER”",
+					"pt-BR": "Chaveiro GRANDE CAMPEÃO PREMIER V26A3",
+					"ru-RU": "Брелок \"ГРАНД-ЧЕМПИОН V26A3 PREMIER\"",
+					"th-TH": "บัดดี้ PREMIER V26A3 GRAND CHAMP",
+					"tr-TR": "PREMIER V26K3 BÜYÜK ŞAMPİYONU Uğuru",
+					"vi-VN": "Phụ Kiện NHÀ VĐ PREMIER V26P3",
+					"zh-CN": "超级赛//V26第三幕总冠军 挂饰",
+					"zh-TW": "Premier V26第三章總冠軍 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "760FF9A4-4151-D162-057E-D597DEC6F114",
+					"label": "760FF9A4-4151-D162-057E-D597DEC6F114",
+					"name":
+					{
+						"defaultText": "PremierV26A3_Open",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A3_Open",
+							"de-DE": "PremierV26A3_Open",
+							"en-US": "PremierV26A3_Open",
+							"es-ES": "PremierV26A3_Open",
+							"es-MX": "PremierV26A3_Open",
+							"fr-FR": "PremierV26A3_Open",
+							"id-ID": "PremierV26A3_Open",
+							"it-IT": "PremierV26A3_Open",
+							"ja-JP": "PremierV26A3_Open",
+							"ko-KR": "PremierV26A3_Open",
+							"pl-PL": "PremierV26A3_Open",
+							"pt-BR": "PremierV26A3_Open",
+							"ru-RU": "PremierV26A3_Open",
+							"th-TH": "PremierV26A3_Open",
+							"tr-TR": "PremierV26A3_Open",
+							"vi-VN": "PremierV26A3_Open",
+							"zh-CN": "PremierV26A3_Open",
+							"zh-TW": "PremierV26A3_Open"
+						}
+					}
+				}
+			],
+			"id": "489B4414-42C9-9AE3-3280-A38F714DC254",
+			"label": "489B4414-42C9-9AE3-3280-A38F714DC254",
+			"name":
+			{
+				"defaultText": "PREMIER V26A3 CHAMPION // OPN Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V26م3 // مفتوح",
+					"de-DE": "Talisman „PREMIER V26A3 CHAMPION // OFFN“",
+					"en-US": "PREMIER V26A3 CHAMPION // OPN Buddy",
+					"es-ES": "Amuleto CAMP. PREMIER V26A3 // ABRT",
+					"es-MX": "Buddy V26A3: ABIERTO // CAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V26A3 // OUV",
+					"id-ID": "Buddy PREMIER V26A3 CHAMPION // OPN",
+					"it-IT": "Accessorio CAMPIONE PREMIER V26A3 // APR",
+					"ja-JP": "PREMIER V26A3 チャンピオン // OPN バディー",
+					"ko-KR": "프리미어 V26A3 챔피언 // 초급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V26A3 PREMIER // OTW”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V26A3 // ABR",
+					"ru-RU": "Брелок \"ЧЕМПИОН V26A3 PREMIER // ОТКР\"",
+					"th-TH": "บัดดี้ PREMIER V26A3 CHAMPION // OPN",
+					"tr-TR": "PREMIER V26K3 ŞAMPİYONU // AÇK Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V26P3 // TD",
+					"zh-CN": "超级赛//V26第三幕冠军//初级 挂饰",
+					"zh-TW": "Premier V26第三章冠軍 // 初階 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "56F98991-43F8-DCC8-189E-08B7AE6C42AD",
 					"label": "56F98991-43F8-DCC8-189E-08B7AE6C42AD",
 					"name":
@@ -302436,6 +303844,546 @@
 		{
 			"levels": [
 				{
+					"id": "AA13D179-4052-3E1C-0AC0-FF8081D9499A",
+					"label": "AA13D179-4052-3E1C-0AC0-FF8081D9499A",
+					"name":
+					{
+						"defaultText": "RankV26A3_Ascendant",
+						"localizedByCulture":
+						{
+							"ar-AE": "RankV26A3_Ascendant",
+							"de-DE": "RankV26A3_Ascendant",
+							"en-US": "RankV26A3_Ascendant",
+							"es-ES": "RankV26A3_Ascendant",
+							"es-MX": "RankV26A3_Ascendant",
+							"fr-FR": "RankV26A3_Ascendant",
+							"id-ID": "RankV26A3_Ascendant",
+							"it-IT": "RankV26A3_Ascendant",
+							"ja-JP": "RankV26A3_Ascendant",
+							"ko-KR": "RankV26A3_Ascendant",
+							"pl-PL": "RankV26A3_Ascendant",
+							"pt-BR": "RankV26A3_Ascendant",
+							"ru-RU": "RankV26A3_Ascendant",
+							"th-TH": "RankV26A3_Ascendant",
+							"tr-TR": "RankV26A3_Ascendant",
+							"vi-VN": "RankV26A3_Ascendant",
+							"zh-CN": "RankV26A3_Ascendant",
+							"zh-TW": "RankV26A3_Ascendant"
+						}
+					}
+				}
+			],
+			"id": "546FE24F-4A0F-6F28-D3B1-24A04ED345B7",
+			"label": "546FE24F-4A0F-6F28-D3B1-24A04ED345B7",
+			"name":
+			{
+				"defaultText": "V26A3: Ascendant Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق V26م3: مرتقي",
+					"de-DE": "Talisman „V26A3: Aufgestiegen“",
+					"en-US": "V26A3: Ascendant Buddy",
+					"es-ES": "Amuleto Ascendente V26A3",
+					"es-MX": "Buddy V26A3: Ascendente",
+					"fr-FR": "Porte-bonheur V26A3 : Ascendant",
+					"id-ID": "Buddy V26A3: Ascendant",
+					"it-IT": "Accessorio V26A3: Ascendente",
+					"ja-JP": "V26A3: アセンダント バディー",
+					"ko-KR": "V26A3: 초월자 총기 장식",
+					"pl-PL": "Przywieszka „V26A3: Wschodzący”",
+					"pt-BR": "Chaveiro Ascendente // V26A3",
+					"ru-RU": "Брелок \"V26A3: Расцвет\"",
+					"th-TH": "บัดดี้ V26A3: Ascendant",
+					"tr-TR": "V26K3: Yücelik Uğuru",
+					"vi-VN": "Phụ Kiện V26P3: Thượng Nhân",
+					"zh-CN": "V26第三幕：超凡 挂饰",
+					"zh-TW": "V26第三章：超凡入聖 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "372348DB-4291-86DA-03D0-E5B902331588",
+					"label": "372348DB-4291-86DA-03D0-E5B902331588",
+					"name":
+					{
+						"defaultText": "RankV26A3_Bronze",
+						"localizedByCulture":
+						{
+							"ar-AE": "RankV26A3_Bronze",
+							"de-DE": "RankV26A3_Bronze",
+							"en-US": "RankV26A3_Bronze",
+							"es-ES": "RankV26A3_Bronze",
+							"es-MX": "RankV26A3_Bronze",
+							"fr-FR": "RankV26A3_Bronze",
+							"id-ID": "RankV26A3_Bronze",
+							"it-IT": "RankV26A3_Bronze",
+							"ja-JP": "RankV26A3_Bronze",
+							"ko-KR": "RankV26A3_Bronze",
+							"pl-PL": "RankV26A3_Bronze",
+							"pt-BR": "RankV26A3_Bronze",
+							"ru-RU": "RankV26A3_Bronze",
+							"th-TH": "RankV26A3_Bronze",
+							"tr-TR": "RankV26A3_Bronze",
+							"vi-VN": "RankV26A3_Bronze",
+							"zh-CN": "RankV26A3_Bronze",
+							"zh-TW": "RankV26A3_Bronze"
+						}
+					}
+				}
+			],
+			"id": "44B8C47F-4BF2-6B62-056B-ACAE8D2C3E25",
+			"label": "44B8C47F-4BF2-6B62-056B-ACAE8D2C3E25",
+			"name":
+			{
+				"defaultText": "V26A3: Bronze Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق V26م3: برونزي",
+					"de-DE": "Talisman „V26A3: Bronze“",
+					"en-US": "V26A3: Bronze Buddy",
+					"es-ES": "Amuleto Bronce V26A3",
+					"es-MX": "Buddy V26A3: Bronce",
+					"fr-FR": "Porte-bonheur V26A3 : Bronze",
+					"id-ID": "Buddy V26A3: Bronze",
+					"it-IT": "Accessorio V26A3: Bronzo",
+					"ja-JP": "V26A3: ブロンズ バディー",
+					"ko-KR": "V26A3: 브론즈 총기 장식",
+					"pl-PL": "Przywieszka „V26A3: Brąz”",
+					"pt-BR": "Chaveiro Bronze // V26A3",
+					"ru-RU": "Брелок \"V26A3: Бронза\"",
+					"th-TH": "บัดดี้ V26A3: Bronze",
+					"tr-TR": "V26K3: Bronz Uğuru",
+					"vi-VN": "Phụ Kiện V26P3: Đồng",
+					"zh-CN": "V26第三幕：青铜 挂饰",
+					"zh-TW": "V26第三章：銅牌 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "D6708074-4254-4497-D452-1BB1CA6153FE",
+					"label": "D6708074-4254-4497-D452-1BB1CA6153FE",
+					"name":
+					{
+						"defaultText": "RankV26A3_Diamond",
+						"localizedByCulture":
+						{
+							"ar-AE": "RankV26A3_Diamond",
+							"de-DE": "RankV26A3_Diamond",
+							"en-US": "RankV26A3_Diamond",
+							"es-ES": "RankV26A3_Diamond",
+							"es-MX": "RankV26A3_Diamond",
+							"fr-FR": "RankV26A3_Diamond",
+							"id-ID": "RankV26A3_Diamond",
+							"it-IT": "RankV26A3_Diamond",
+							"ja-JP": "RankV26A3_Diamond",
+							"ko-KR": "RankV26A3_Diamond",
+							"pl-PL": "RankV26A3_Diamond",
+							"pt-BR": "RankV26A3_Diamond",
+							"ru-RU": "RankV26A3_Diamond",
+							"th-TH": "RankV26A3_Diamond",
+							"tr-TR": "RankV26A3_Diamond",
+							"vi-VN": "RankV26A3_Diamond",
+							"zh-CN": "RankV26A3_Diamond",
+							"zh-TW": "RankV26A3_Diamond"
+						}
+					}
+				}
+			],
+			"id": "7F87473C-4E73-FF52-7CD8-58A4085F630A",
+			"label": "7F87473C-4E73-FF52-7CD8-58A4085F630A",
+			"name":
+			{
+				"defaultText": "V26A3: Diamond Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق V26م3: ألماسي",
+					"de-DE": "Talisman „V26A3: Diamant“",
+					"en-US": "V26A3: Diamond Buddy",
+					"es-ES": "Amuleto Diamante V26A3",
+					"es-MX": "Buddy V26A3: Diamante",
+					"fr-FR": "Porte-bonheur V26A3 : Diamant",
+					"id-ID": "Buddy V26A3: Diamond",
+					"it-IT": "Accessorio V26A3: Diamante",
+					"ja-JP": "V26A3: ダイヤモンド バディー",
+					"ko-KR": "V26A3: 다이아몬드 총기 장식",
+					"pl-PL": "Przywieszka „V26A3: Diament”",
+					"pt-BR": "Chaveiro Diamante // V26A3",
+					"ru-RU": "Брелок \"V26A3: Алмаз\"",
+					"th-TH": "บัดดี้ V26A3: Diamond",
+					"tr-TR": "V26K3: Elmas Uğuru",
+					"vi-VN": "Phụ Kiện V26P3: Kim Cương",
+					"zh-CN": "V26第三幕：钻石 挂饰",
+					"zh-TW": "V26第三章：鑽石 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "AD93AC3D-4AD3-34F6-123E-78A87EB1A8F8",
+					"label": "AD93AC3D-4AD3-34F6-123E-78A87EB1A8F8",
+					"name":
+					{
+						"defaultText": "RankV26A3_Gold",
+						"localizedByCulture":
+						{
+							"ar-AE": "RankV26A3_Gold",
+							"de-DE": "RankV26A3_Gold",
+							"en-US": "RankV26A3_Gold",
+							"es-ES": "RankV26A3_Gold",
+							"es-MX": "RankV26A3_Gold",
+							"fr-FR": "RankV26A3_Gold",
+							"id-ID": "RankV26A3_Gold",
+							"it-IT": "RankV26A3_Gold",
+							"ja-JP": "RankV26A3_Gold",
+							"ko-KR": "RankV26A3_Gold",
+							"pl-PL": "RankV26A3_Gold",
+							"pt-BR": "RankV26A3_Gold",
+							"ru-RU": "RankV26A3_Gold",
+							"th-TH": "RankV26A3_Gold",
+							"tr-TR": "RankV26A3_Gold",
+							"vi-VN": "RankV26A3_Gold",
+							"zh-CN": "RankV26A3_Gold",
+							"zh-TW": "RankV26A3_Gold"
+						}
+					}
+				}
+			],
+			"id": "5BB0E196-47B4-F20B-BD1C-428F41E02190",
+			"label": "5BB0E196-47B4-F20B-BD1C-428F41E02190",
+			"name":
+			{
+				"defaultText": "V26A3: Gold Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق V26م3: ذهبي",
+					"de-DE": "Talisman „V26A3: Gold“",
+					"en-US": "V26A3: Gold Buddy",
+					"es-ES": "Amuleto Oro V26A3",
+					"es-MX": "Buddy V26A3: Oro",
+					"fr-FR": "Porte-bonheur V26A3 : Or",
+					"id-ID": "Buddy V26A3: Gold",
+					"it-IT": "Accessorio V26A3: Oro",
+					"ja-JP": "V26A3: ゴールド バディー",
+					"ko-KR": "V26A3: 골드 총기 장식",
+					"pl-PL": "Przywieszka „V26A3: Złoto”",
+					"pt-BR": "Chaveiro Ouro // V26A3",
+					"ru-RU": "Брелок \"V26A3: Золото\"",
+					"th-TH": "บัดดี้ V26A3: Gold",
+					"tr-TR": "V26K3: Altın Uğuru",
+					"vi-VN": "Phụ Kiện V26P3: Vàng",
+					"zh-CN": "V26第三幕：黄金 挂饰",
+					"zh-TW": "V26第三章：金牌 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "5407930A-4AB4-5120-5B7A-78913A01696E",
+					"label": "5407930A-4AB4-5120-5B7A-78913A01696E",
+					"name":
+					{
+						"defaultText": "RankV26A3_Immortal",
+						"localizedByCulture":
+						{
+							"ar-AE": "RankV26A3_Immortal",
+							"de-DE": "RankV26A3_Immortal",
+							"en-US": "RankV26A3_Immortal",
+							"es-ES": "RankV26A3_Immortal",
+							"es-MX": "RankV26A3_Immortal",
+							"fr-FR": "RankV26A3_Immortal",
+							"id-ID": "RankV26A3_Immortal",
+							"it-IT": "RankV26A3_Immortal",
+							"ja-JP": "RankV26A3_Immortal",
+							"ko-KR": "RankV26A3_Immortal",
+							"pl-PL": "RankV26A3_Immortal",
+							"pt-BR": "RankV26A3_Immortal",
+							"ru-RU": "RankV26A3_Immortal",
+							"th-TH": "RankV26A3_Immortal",
+							"tr-TR": "RankV26A3_Immortal",
+							"vi-VN": "RankV26A3_Immortal",
+							"zh-CN": "RankV26A3_Immortal",
+							"zh-TW": "RankV26A3_Immortal"
+						}
+					}
+				}
+			],
+			"id": "46C2718F-4EB4-6288-1D4A-FBBDDB049724",
+			"label": "46C2718F-4EB4-6288-1D4A-FBBDDB049724",
+			"name":
+			{
+				"defaultText": "V26A3: Immortal Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق V26م3: أبدي",
+					"de-DE": "Talisman „V26A3: Unsterblich“",
+					"en-US": "V26A3: Immortal Buddy",
+					"es-ES": "Amuleto Inmortal V26A3",
+					"es-MX": "Buddy V26A3: Inmortal",
+					"fr-FR": "Porte-bonheur V26A3 : Immortel",
+					"id-ID": "Buddy V26A3: Immortal",
+					"it-IT": "Accessorio V26A3: Immortale",
+					"ja-JP": "V26A3: イモータル バディー",
+					"ko-KR": "V26A3: 불멸 총기 장식",
+					"pl-PL": "Przywieszka „V26A3: Nieśmiertelny”",
+					"pt-BR": "Chaveiro Imortal // V26A3",
+					"ru-RU": "Брелок \"V26A3: Бессмертный\"",
+					"th-TH": "บัดดี้ V26A3: Immortal",
+					"tr-TR": "V26K3: Ölümsüzlük Uğuru",
+					"vi-VN": "Phụ Kiện V26P3: Bất Tử",
+					"zh-CN": "V26第三幕：神话 挂饰",
+					"zh-TW": "V26第三章：神話 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "C7BF4682-4656-B5DE-4DC4-41BD61AA59DF",
+					"label": "C7BF4682-4656-B5DE-4DC4-41BD61AA59DF",
+					"name":
+					{
+						"defaultText": "RankV26A3_Iron",
+						"localizedByCulture":
+						{
+							"ar-AE": "RankV26A3_Iron",
+							"de-DE": "RankV26A3_Iron",
+							"en-US": "RankV26A3_Iron",
+							"es-ES": "RankV26A3_Iron",
+							"es-MX": "RankV26A3_Iron",
+							"fr-FR": "RankV26A3_Iron",
+							"id-ID": "RankV26A3_Iron",
+							"it-IT": "RankV26A3_Iron",
+							"ja-JP": "RankV26A3_Iron",
+							"ko-KR": "RankV26A3_Iron",
+							"pl-PL": "RankV26A3_Iron",
+							"pt-BR": "RankV26A3_Iron",
+							"ru-RU": "RankV26A3_Iron",
+							"th-TH": "RankV26A3_Iron",
+							"tr-TR": "RankV26A3_Iron",
+							"vi-VN": "RankV26A3_Iron",
+							"zh-CN": "RankV26A3_Iron",
+							"zh-TW": "RankV26A3_Iron"
+						}
+					}
+				}
+			],
+			"id": "71F81017-41DA-2B56-9B97-99A984E329F7",
+			"label": "71F81017-41DA-2B56-9B97-99A984E329F7",
+			"name":
+			{
+				"defaultText": "V26A3: Iron Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق V26م3: حديدي",
+					"de-DE": "Talisman „V26A3: Eisen“",
+					"en-US": "V26A3: Iron Buddy",
+					"es-ES": "Amuleto Hierro V26A3",
+					"es-MX": "Buddy V26A3: Hierro",
+					"fr-FR": "Porte-bonheur V26A3 : Fer",
+					"id-ID": "Buddy V26A3: Iron",
+					"it-IT": "Accessorio V26A3: Ferro",
+					"ja-JP": "V26A3: アイアン バディー",
+					"ko-KR": "V26A3: 아이언 총기 장식",
+					"pl-PL": "Przywieszka „V26A3: Żelazo”",
+					"pt-BR": "Chaveiro Ferro // V26A3",
+					"ru-RU": "Брелок \"V26A3: Железо\"",
+					"th-TH": "บัดดี้ V26A3: Iron",
+					"tr-TR": "V26K3: Demir Uğuru",
+					"vi-VN": "Phụ Kiện V26P3: Sắt",
+					"zh-CN": "V26第三幕：黑铁 挂饰",
+					"zh-TW": "V26第三章：鐵牌 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "9FB9164B-4748-98FB-6DB0-D8876E94BCE0",
+					"label": "9FB9164B-4748-98FB-6DB0-D8876E94BCE0",
+					"name":
+					{
+						"defaultText": "RankV26A3_Platinum",
+						"localizedByCulture":
+						{
+							"ar-AE": "RankV26A3_Platinum",
+							"de-DE": "RankV26A3_Platinum",
+							"en-US": "RankV26A3_Platinum",
+							"es-ES": "RankV26A3_Platinum",
+							"es-MX": "RankV26A3_Platinum",
+							"fr-FR": "RankV26A3_Platinum",
+							"id-ID": "RankV26A3_Platinum",
+							"it-IT": "RankV26A3_Platinum",
+							"ja-JP": "RankV26A3_Platinum",
+							"ko-KR": "RankV26A3_Platinum",
+							"pl-PL": "RankV26A3_Platinum",
+							"pt-BR": "RankV26A3_Platinum",
+							"ru-RU": "RankV26A3_Platinum",
+							"th-TH": "RankV26A3_Platinum",
+							"tr-TR": "RankV26A3_Platinum",
+							"vi-VN": "RankV26A3_Platinum",
+							"zh-CN": "RankV26A3_Platinum",
+							"zh-TW": "RankV26A3_Platinum"
+						}
+					}
+				}
+			],
+			"id": "501FC087-4A01-BAFD-C747-A58CE14215E0",
+			"label": "501FC087-4A01-BAFD-C747-A58CE14215E0",
+			"name":
+			{
+				"defaultText": "V26A3: Platinum Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق V26م3: بلاتيني",
+					"de-DE": "Talisman „V26A3: Platin“",
+					"en-US": "V26A3: Platinum Buddy",
+					"es-ES": "Amuleto Platino V26A3",
+					"es-MX": "Buddy V26A3: Platino",
+					"fr-FR": "Porte-bonheur V26A3 : Platine",
+					"id-ID": "Buddy V26A3: Platinum",
+					"it-IT": "Accessorio V26A3: Platino",
+					"ja-JP": "V26A3: プラチナ バディー",
+					"ko-KR": "V26A3: 플래티넘 총기 장식",
+					"pl-PL": "Przywieszka „V26A3: Platyna”",
+					"pt-BR": "Chaveiro Platina // V26A3",
+					"ru-RU": "Брелок \"V26A3: Платина\"",
+					"th-TH": "บัดดี้ V26A3: Platinum",
+					"tr-TR": "V26K3: Platin Uğuru",
+					"vi-VN": "Phụ Kiện V26P3: Bạch Kim",
+					"zh-CN": "V26第三幕：铂金 挂饰",
+					"zh-TW": "V26第三章：白金 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "1950D718-4E83-1C50-00FF-93A5D08A2BAE",
+					"label": "1950D718-4E83-1C50-00FF-93A5D08A2BAE",
+					"name":
+					{
+						"defaultText": "RankV26A3_Radiant",
+						"localizedByCulture":
+						{
+							"ar-AE": "RankV26A3_Radiant",
+							"de-DE": "RankV26A3_Radiant",
+							"en-US": "RankV26A3_Radiant",
+							"es-ES": "RankV26A3_Radiant",
+							"es-MX": "RankV26A3_Radiant",
+							"fr-FR": "RankV26A3_Radiant",
+							"id-ID": "RankV26A3_Radiant",
+							"it-IT": "RankV26A3_Radiant",
+							"ja-JP": "RankV26A3_Radiant",
+							"ko-KR": "RankV26A3_Radiant",
+							"pl-PL": "RankV26A3_Radiant",
+							"pt-BR": "RankV26A3_Radiant",
+							"ru-RU": "RankV26A3_Radiant",
+							"th-TH": "RankV26A3_Radiant",
+							"tr-TR": "RankV26A3_Radiant",
+							"vi-VN": "RankV26A3_Radiant",
+							"zh-CN": "RankV26A3_Radiant",
+							"zh-TW": "RankV26A3_Radiant"
+						}
+					}
+				}
+			],
+			"id": "66AC4F53-469D-AED0-F4FA-6CBACB41F8E4",
+			"label": "66AC4F53-469D-AED0-F4FA-6CBACB41F8E4",
+			"name":
+			{
+				"defaultText": "V26A3: Radiant Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق V26م3: راديانت",
+					"de-DE": "Talisman „V26A3: Radiant“",
+					"en-US": "V26A3: Radiant Buddy",
+					"es-ES": "Amuleto Radiante V26A3",
+					"es-MX": "Buddy V26A3: Radiante",
+					"fr-FR": "Porte-bonheur V26A3 : Radiant",
+					"id-ID": "Buddy V26A3: Radiant",
+					"it-IT": "Accessorio V26A3: Radiante",
+					"ja-JP": "V26A3: レディアント バディー",
+					"ko-KR": "V26A3: 레디언트 총기 장식",
+					"pl-PL": "Przywieszka „V26A3: Promienisty”",
+					"pt-BR": "Chaveiro Radiante // V26A3",
+					"ru-RU": "Брелок \"V26A3: Радиант\"",
+					"th-TH": "บัดดี้ V26A3: Radiant",
+					"tr-TR": "V26K3: Radyant Uğuru",
+					"vi-VN": "Phụ Kiện V26P3: Radiant",
+					"zh-CN": "V26第三幕：源能战魂 挂饰",
+					"zh-TW": "V26第三章：輻能戰魂 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "65DDF1E8-41A1-54CD-924E-B9B3AABED8A0",
+					"label": "65DDF1E8-41A1-54CD-924E-B9B3AABED8A0",
+					"name":
+					{
+						"defaultText": "RankV26A3_Silver",
+						"localizedByCulture":
+						{
+							"ar-AE": "RankV26A3_Silver",
+							"de-DE": "RankV26A3_Silver",
+							"en-US": "RankV26A3_Silver",
+							"es-ES": "RankV26A3_Silver",
+							"es-MX": "RankV26A3_Silver",
+							"fr-FR": "RankV26A3_Silver",
+							"id-ID": "RankV26A3_Silver",
+							"it-IT": "RankV26A3_Silver",
+							"ja-JP": "RankV26A3_Silver",
+							"ko-KR": "RankV26A3_Silver",
+							"pl-PL": "RankV26A3_Silver",
+							"pt-BR": "RankV26A3_Silver",
+							"ru-RU": "RankV26A3_Silver",
+							"th-TH": "RankV26A3_Silver",
+							"tr-TR": "RankV26A3_Silver",
+							"vi-VN": "RankV26A3_Silver",
+							"zh-CN": "RankV26A3_Silver",
+							"zh-TW": "RankV26A3_Silver"
+						}
+					}
+				}
+			],
+			"id": "E6333A1F-46C3-3078-657F-DDA9E133F1CE",
+			"label": "E6333A1F-46C3-3078-657F-DDA9E133F1CE",
+			"name":
+			{
+				"defaultText": "V26A3: Silver Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق V26م3: فضي",
+					"de-DE": "Talisman „V26A3: Silber“",
+					"en-US": "V26A3: Silver Buddy",
+					"es-ES": "Amuleto Plata V26A3",
+					"es-MX": "Buddy V26A3: Plata",
+					"fr-FR": "Porte-bonheur V26A3 : Argent",
+					"id-ID": "Buddy V26A3: Silver",
+					"it-IT": "Accessorio V26A3: Argento",
+					"ja-JP": "V26A3: シルバー バディー",
+					"ko-KR": "V26A3: 실버 총기 장식",
+					"pl-PL": "Przywieszka „V26A3: Srebro”",
+					"pt-BR": "Chaveiro Prata // V26A3",
+					"ru-RU": "Брелок \"V26A3: Серебро\"",
+					"th-TH": "บัดดี้ V26A3: Silver",
+					"tr-TR": "V26K3: Gümüş Uğuru",
+					"vi-VN": "Phụ Kiện V26P3: Bạc",
+					"zh-CN": "V26第三幕：白银 挂饰",
+					"zh-TW": "V26第三章：銀牌 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "2484E328-45E9-A5C0-960F-AD8B0F620D0E",
 					"label": "2484E328-45E9-A5C0-960F-AD8B0F620D0E",
 					"name":
@@ -303930,6 +305878,66 @@
 					"vi-VN": "Phụ Kiện Đeo Bám Chết Chóc",
 					"zh-CN": "夺命毒蝎 挂饰",
 					"zh-TW": "死亡潛伏者 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "50988B64-408C-E0A5-8474-F58EE35CAD84",
+					"label": "50988B64-408C-E0A5-8474-F58EE35CAD84",
+					"name":
+					{
+						"defaultText": "ScubaRobot",
+						"localizedByCulture":
+						{
+							"ar-AE": "ScubaRobot",
+							"de-DE": "ScubaRobot",
+							"en-US": "ScubaRobot",
+							"es-ES": "ScubaRobot",
+							"es-MX": "ScubaRobot",
+							"fr-FR": "ScubaRobot",
+							"id-ID": "ScubaRobot",
+							"it-IT": "ScubaRobot",
+							"ja-JP": "ScubaRobot",
+							"ko-KR": "ScubaRobot",
+							"pl-PL": "ScubaRobot",
+							"pt-BR": "ScubaRobot",
+							"ru-RU": "ScubaRobot",
+							"th-TH": "ScubaRobot",
+							"tr-TR": "ScubaRobot",
+							"vi-VN": "ScubaRobot",
+							"zh-CN": "ScubaRobot",
+							"zh-TW": "ScubaRobot"
+						}
+					}
+				}
+			],
+			"id": "4A1BD1BC-4600-B51A-98AA-729836BCBDB9",
+			"label": "4A1BD1BC-4600-B51A-98AA-729836BCBDB9",
+			"name":
+			{
+				"defaultText": "Hi-DR0 Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق Hi-DR0",
+					"de-DE": "Talisman „Hi-DR0“",
+					"en-US": "Hi-DR0 Buddy",
+					"es-ES": "Amuleto Hi-DR0",
+					"es-MX": "Buddy Hi-DR0",
+					"fr-FR": "Porte-bonheur Hi-DR0",
+					"id-ID": "Buddy Hi-DR0",
+					"it-IT": "Accessorio Hi-DR0",
+					"ja-JP": "ハイドロ バディー",
+					"ko-KR": "Hi-DR0 총기 장식",
+					"pl-PL": "Przywieszka „Hi-DR0”",
+					"pt-BR": "Chaveiro Hi-DR0",
+					"ru-RU": "Брелок \"Ги-ДР0\"",
+					"th-TH": "บัดดี้ Hi-DR0",
+					"tr-TR": "Hi-DR0 Uğuru",
+					"vi-VN": "Phụ Kiện Hi-DR0",
+					"zh-CN": "小鲸零号 挂饰",
+					"zh-TW": "深海歷險 吊飾"
 				}
 			}
 		},
@@ -305610,6 +307618,66 @@
 					"vi-VN": "Phụ Kiện Tuyết Rơi",
 					"zh-CN": "浪漫雪国 挂饰",
 					"zh-TW": "魔幻冬雪 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "F44D5233-41D7-89F8-EEAA-788E8F8029B0",
+					"label": "F44D5233-41D7-89F8-EEAA-788E8F8029B0",
+					"name":
+					{
+						"defaultText": "SoccerBall",
+						"localizedByCulture":
+						{
+							"ar-AE": "SoccerBall",
+							"de-DE": "SoccerBall",
+							"en-US": "SoccerBall",
+							"es-ES": "SoccerBall",
+							"es-MX": "SoccerBall",
+							"fr-FR": "SoccerBall",
+							"id-ID": "SoccerBall",
+							"it-IT": "SoccerBall",
+							"ja-JP": "SoccerBall",
+							"ko-KR": "SoccerBall",
+							"pl-PL": "SoccerBall",
+							"pt-BR": "SoccerBall",
+							"ru-RU": "SoccerBall",
+							"th-TH": "SoccerBall",
+							"tr-TR": "SoccerBall",
+							"vi-VN": "SoccerBall",
+							"zh-CN": "SoccerBall",
+							"zh-TW": "SoccerBall"
+						}
+					}
+				}
+			],
+			"id": "21DEA727-4B7A-A6E5-B9B5-AF8A17A1BA89",
+			"label": "21DEA727-4B7A-A6E5-B9B5-AF8A17A1BA89",
+			"name":
+			{
+				"defaultText": "Boom-Bola Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق الكرة المتفجرة",
+					"de-DE": "Talisman „Boom-Bot-Bola“",
+					"en-US": "Boom-Bola Buddy",
+					"es-ES": "Amuleto Explosigol",
+					"es-MX": "Buddy Robogol",
+					"fr-FR": "Porte-bonheur Boum-Bola",
+					"id-ID": "Buddy Boom-Bola",
+					"it-IT": "Accessorio Boom-Bola",
+					"ja-JP": "ブームボーラ バディー",
+					"ko-KR": "폭발 공 총기 장식",
+					"pl-PL": "Przywieszka „Bum-Bola”",
+					"pt-BR": "Chaveiro Bum-Bola",
+					"ru-RU": "Брелок \"Мяч\"",
+					"th-TH": "บัดดี้ Boom-Bola",
+					"tr-TR": "Bomtop Uğuru",
+					"vi-VN": "Phụ Kiện Bóng Nổ",
+					"zh-CN": "爆弹足球 挂饰",
+					"zh-TW": "炸彈球 吊飾"
 				}
 			}
 		},
@@ -343838,6 +345906,66 @@
 		{
 			"levels": [
 				{
+					"id": "F9BD9884-4AA3-386B-7D79-6C894BBDB07D",
+					"label": "F9BD9884-4AA3-386B-7D79-6C894BBDB07D",
+					"name":
+					{
+						"defaultText": "GiveBackBundle26",
+						"localizedByCulture":
+						{
+							"ar-AE": "GiveBackBundle26",
+							"de-DE": "GiveBackBundle26",
+							"en-US": "GiveBackBundle26",
+							"es-ES": "GiveBackBundle26",
+							"es-MX": "GiveBackBundle26",
+							"fr-FR": "GiveBackBundle26",
+							"id-ID": "GiveBackBundle26",
+							"it-IT": "GiveBackBundle26",
+							"ja-JP": "GiveBackBundle26",
+							"ko-KR": "GiveBackBundle26",
+							"pl-PL": "GiveBackBundle26",
+							"pt-BR": "GiveBackBundle26",
+							"ru-RU": "GiveBackBundle26",
+							"th-TH": "GiveBackBundle26",
+							"tr-TR": "GiveBackBundle26",
+							"vi-VN": "GiveBackBundle26",
+							"zh-CN": "GiveBackBundle26",
+							"zh-TW": "GiveBackBundle26"
+						}
+					}
+				}
+			],
+			"id": "4827294C-4B6C-AC49-8A01-849EC059EFFC",
+			"label": "4827294C-4B6C-AC49-8A01-849EC059EFFC",
+			"name":
+			{
+				"defaultText": "Give Back // V26 Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة رد الجميل \\\\ V26",
+					"de-DE": "Graffiti „Gute Tat // V26“",
+					"en-US": "Give Back // V26 Spray",
+					"es-ES": "Grafiti Retribución // V26",
+					"es-MX": "Spray Retribución // V26",
+					"fr-FR": "Graffiti Juste retour // V26",
+					"id-ID": "Spray Give Back // V26",
+					"it-IT": "Spray Ritorno // V26",
+					"ja-JP": "ギブ・バック // V26 スプレー",
+					"ko-KR": "자선 // V26 스프레이",
+					"pl-PL": "Graffiti „Podziel się // V26”",
+					"pt-BR": "Spray Retribuição // V26",
+					"ru-RU": "Граффити \"Возвращение // V26\"",
+					"th-TH": "สเปรย์ Give Back // V26",
+					"tr-TR": "İyiliği Paylaş // V26 Spreyi",
+					"vi-VN": "Hình Phun Sơn Vì Cộng Đồng // V26",
+					"zh-CN": "回响 // V26 喷漆",
+					"zh-TW": "公益回饋 // V26 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "18625BA0-4242-D570-4244-D297DDFAAD52",
 					"label": "18625BA0-4242-D570-4244-D297DDFAAD52",
 					"name":
@@ -346418,6 +348546,66 @@
 		{
 			"levels": [
 				{
+					"id": "722CF7A4-4877-0105-A41D-818C2DF26917",
+					"label": "722CF7A4-4877-0105-A41D-818C2DF26917",
+					"name":
+					{
+						"defaultText": "AgentJerseys",
+						"localizedByCulture":
+						{
+							"ar-AE": "AgentJerseys",
+							"de-DE": "AgentJerseys",
+							"en-US": "AgentJerseys",
+							"es-ES": "AgentJerseys",
+							"es-MX": "AgentJerseys",
+							"fr-FR": "AgentJerseys",
+							"id-ID": "AgentJerseys",
+							"it-IT": "AgentJerseys",
+							"ja-JP": "AgentJerseys",
+							"ko-KR": "AgentJerseys",
+							"pl-PL": "AgentJerseys",
+							"pt-BR": "AgentJerseys",
+							"ru-RU": "AgentJerseys",
+							"th-TH": "AgentJerseys",
+							"tr-TR": "AgentJerseys",
+							"vi-VN": "AgentJerseys",
+							"zh-CN": "AgentJerseys",
+							"zh-TW": "AgentJerseys"
+						}
+					}
+				}
+			],
+			"id": "ADB608C3-4139-6B0C-C9F3-4090D79E06B2",
+			"label": "ADB608C3-4139-6B0C-C9F3-4090D79E06B2",
+			"name":
+			{
+				"defaultText": "Vamos Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة لننطلق",
+					"de-DE": "Graffiti „Vamos“",
+					"en-US": "Vamos Spray",
+					"es-ES": "Grafiti Vamos",
+					"es-MX": "Spray ¡Vamos!",
+					"fr-FR": "Graffiti Vamos",
+					"id-ID": "Spray Vamos",
+					"it-IT": "Spray Vamos",
+					"ja-JP": "バモス スプレー",
+					"ko-KR": "빨리 가자 스프레이",
+					"pl-PL": "Graffiti „Vamos”",
+					"pt-BR": "Spray Vamos",
+					"ru-RU": "Граффити \"Vamos\"",
+					"th-TH": "สเปรย์ Vamos",
+					"tr-TR": "Bastır Spreyi",
+					"vi-VN": "Hình Phun Sơn Vamos",
+					"zh-CN": "Vamos 喷漆",
+					"zh-TW": "上吧 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "8037D0DD-45F9-6668-C5E6-739CFF7B76AD",
 					"label": "8037D0DD-45F9-6668-C5E6-739CFF7B76AD",
 					"name":
@@ -347012,6 +349200,66 @@
 					"vi-VN": "Hình Phun Sơn CLUUUTCH",
 					"zh-CN": "CLUUUTCH 喷漆",
 					"zh-TW": "Cluuutch 翻盤手 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "B4657CA0-443B-A10E-5F0C-DAAD78DF652A",
+					"label": "B4657CA0-443B-A10E-5F0C-DAAD78DF652A",
+					"name":
+					{
+						"defaultText": "CNYear3",
+						"localizedByCulture":
+						{
+							"ar-AE": "CNYear3",
+							"de-DE": "CNYear3",
+							"en-US": "CNYear3",
+							"es-ES": "CNYear3",
+							"es-MX": "CNYear3",
+							"fr-FR": "CNYear3",
+							"id-ID": "CNYear3",
+							"it-IT": "CNYear3",
+							"ja-JP": "CNYear3",
+							"ko-KR": "CNYear3",
+							"pl-PL": "CNYear3",
+							"pt-BR": "CNYear3",
+							"ru-RU": "CNYear3",
+							"th-TH": "CNYear3",
+							"tr-TR": "CNYear3",
+							"vi-VN": "CNYear3",
+							"zh-CN": "CNYear3",
+							"zh-TW": "CNYear3"
+						}
+					}
+				}
+			],
+			"id": "3F260476-419D-5937-5599-BFABD3AF30E3",
+			"label": "3F260476-419D-5937-5599-BFABD3AF30E3",
+			"name":
+			{
+				"defaultText": "Say Hi To Happiness Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "Say Hi To Happiness Spray",
+					"de-DE": "Say Hi To Happiness Spray",
+					"en-US": "Say Hi To Happiness Spray",
+					"es-ES": "Say Hi To Happiness Spray",
+					"es-MX": "Say Hi To Happiness Spray",
+					"fr-FR": "Say Hi To Happiness Spray",
+					"id-ID": "Say Hi To Happiness Spray",
+					"it-IT": "Say Hi To Happiness Spray",
+					"ja-JP": "Say Hi To Happiness Spray",
+					"ko-KR": "Say Hi To Happiness Spray",
+					"pl-PL": "Say Hi To Happiness Spray",
+					"pt-BR": "Say Hi To Happiness Spray",
+					"ru-RU": "Say Hi To Happiness Spray",
+					"th-TH": "Say Hi To Happiness Spray",
+					"tr-TR": "Say Hi To Happiness Spray",
+					"vi-VN": "Say Hi To Happiness Spray",
+					"zh-CN": "快乐燥起来 喷漆",
+					"zh-TW": "Say Hi To Happiness Spray"
 				}
 			}
 		},
@@ -371161,7 +373409,7 @@
 				"defaultText": "Plant/defuse mode. Unranked matches, full map pool, attack and defend, classic gameplay. First to 13 wins.",
 				"localizedByCulture":
 				{
-					"ar-AE": "نمط زرع\\تعطيل. مباريات غير مصنف على مجموعة الخرائط الكاملة بنمطي الهجوم والدفاع وبيئة لعب كلاسيكية. الفوز لأول من يربح 13 جولة.",
+					"ar-AE": "نمط زرع/تعطيل. مباريات غير مصنف على مجموعة الخرائط الكاملة بنمطي الهجوم والدفاع وبيئة لعب كلاسيكية. الفوز لأول من يربح 13 جولة.",
 					"de-DE": "Modus „Platzieren/Entschärfen“. Ungewertete Spiele, alle Karten, angreifen und verteidigen, klassisches Gameplay. Wer zuerst 13 gewonnene Runden verbuchen kann, gewinnt.",
 					"en-US": "Plant/defuse mode. Unranked matches, full map pool, attack and defend, classic gameplay. First to 13 wins.",
 					"es-ES": "Modo de colocar/desactivar. Partidas sin clasificación, todos los mapas, atacar y defender, experiencia de juego clásica. Quien gane 13 rondas se hace con la victoria.",
@@ -371215,7 +373463,7 @@
 				"defaultText": "Plant/defuse mode. Quicker matches, same core rules, same objectives, accelerated economy. First to 5 wins.",
 				"localizedByCulture":
 				{
-					"ar-AE": "نمط زرع\\تعطيل. مباريات أسرع مع الحفاظ على القواعد الأساسية والأهداف ذاتها ورصيد مالي متزايد بسرعة. الفوز لأول من يربح 5 جولات.",
+					"ar-AE": "نمط زرع/تعطيل. مباريات أسرع مع الحفاظ على القواعد الأساسية والأهداف ذاتها ورصيد مالي متزايد بسرعة. الفوز لأول من يربح 5 جولات.",
 					"de-DE": "Modus „Platzieren/Entschärfen“. Schnellere Matches, gleiche Grundregeln, gleiche Ziele, beschleunigte Ökonomie. Wer zuerst 5 gewonnene Runden verbuchen kann, gewinnt.",
 					"en-US": "Plant/defuse mode. Quicker matches, same core rules, same objectives, accelerated economy. First to 5 wins.",
 					"es-ES": "Modo de colocar/desactivar. Partidas más rápidas, mismas reglas básicas, mismos objetivos y economía acelerada. Quien gane 5 rondas se hace con la victoria.",
@@ -371269,7 +373517,7 @@
 				"defaultText": "Plant/defuse mode. Random weapons, powerup orbs, five spikes, shorter rounds. First to 4 wins.",
 				"localizedByCulture":
 				{
-					"ar-AE": "نمط زرع\\تعطيل. أسلحة عشوائية وكرات تعزيز وخمس قنابل سبايك وجولات أقصر. الفوز لأول من يربح في 4 جولات.",
+					"ar-AE": "نمط زرع/تعطيل. أسلحة عشوائية وكرات تعزيز وخمس قنابل سبايك وجولات أقصر. الفوز لأول من يربح في 4 جولات.",
 					"de-DE": "Modus „Platzieren/Entschärfen“. Zufällige Waffen, Verstärkungskugeln, fünf Spikes, kürzere Runden. Wer zuerst 4 gewonnen Runden verbuchen kann, gewinnt.",
 					"en-US": "Plant/defuse mode. Random weapons, powerup orbs, five spikes, shorter rounds. First to 4 wins.",
 					"es-ES": "Modo de colocar/desactivar. Armas aleatorias, orbes de mejora, cinco Spikes y rondas más cortas. Quien gane 4 rondas se hace con la victoria.",
@@ -371917,7 +374165,7 @@
 				"defaultText": "Plant/defuse mode. Unranked matches, full map pool, attack and defend, classic gameplay. First to 13 wins.",
 				"localizedByCulture":
 				{
-					"ar-AE": "نمط زرع\\تعطيل. مباريات غير مصنف على مجموعة الخرائط الكاملة بنمطي الهجوم والدفاع وبيئة لعب كلاسيكية. الفوز لأول من يربح 13 جولة.",
+					"ar-AE": "نمط زرع/تعطيل. مباريات غير مصنف على مجموعة الخرائط الكاملة بنمطي الهجوم والدفاع وبيئة لعب كلاسيكية. الفوز لأول من يربح 13 جولة.",
 					"de-DE": "Modus „Platzieren/Entschärfen“. Ungewertete Spiele, alle Karten, angreifen und verteidigen, klassisches Gameplay. Wer zuerst 13 gewonnene Runden verbuchen kann, gewinnt.",
 					"en-US": "Plant/defuse mode. Unranked matches, full map pool, attack and defend, classic gameplay. First to 13 wins.",
 					"es-ES": "Modo de colocar/desactivar. Partidas sin clasificación, todos los mapas, atacar y defender, experiencia de juego clásica. Quien gane 13 rondas se hace con la victoria.",
@@ -371971,7 +374219,7 @@
 				"defaultText": "Plant/defuse mode. Quicker matches, same core rules, same objectives, accelerated economy. First to 5 wins.",
 				"localizedByCulture":
 				{
-					"ar-AE": "نمط زرع\\تعطيل. مباريات أسرع مع الحفاظ على القواعد الأساسية والأهداف ذاتها ورصيد مالي متزايد بسرعة. الفوز لأول من يربح 5 جولات.",
+					"ar-AE": "نمط زرع/تعطيل. مباريات أسرع مع الحفاظ على القواعد الأساسية والأهداف ذاتها ورصيد مالي متزايد بسرعة. الفوز لأول من يربح 5 جولات.",
 					"de-DE": "Modus „Platzieren/Entschärfen“. Schnellere Matches, gleiche Grundregeln, gleiche Ziele, beschleunigte Ökonomie. Wer zuerst 5 gewonnene Runden verbuchen kann, gewinnt.",
 					"en-US": "Plant/defuse mode. Quicker matches, same core rules, same objectives, accelerated economy. First to 5 wins.",
 					"es-ES": "Modo de colocar/desactivar. Partidas más rápidas, mismas reglas básicas, mismos objetivos y economía acelerada. Quien gane 5 rondas se hace con la victoria.",
@@ -372403,7 +374651,7 @@
 				"defaultText": "Plant/defuse mode. Ranked matches, limited map pool, prove your skill, earn your rank. First to 13 wins.",
 				"localizedByCulture":
 				{
-					"ar-AE": "نمط زرع\\تعطيل. مباريات مصنف ضمن مجموعة خرائط محدودة. أثبت مهارتك لتكسب تصنيفك المستحق. الفوز لأول من يربح 13 جولة.",
+					"ar-AE": "نمط زرع/تعطيل. مباريات مصنف ضمن مجموعة خرائط محدودة. أثبت مهارتك لتكسب تصنيفك المستحق. الفوز لأول من يربح 13 جولة.",
 					"de-DE": "Modus „Platzieren/Entschärfen“. Gewertete Spiele, begrenzte Kartenauswahl, beweise dein Können, verdiene dir deinen Rang. Wer zuerst 13 gewonnene Runden verbuchen kann, gewinnt.",
 					"en-US": "Plant/defuse mode. Ranked matches, limited map pool, prove your skill, earn your rank. First to 13 wins.",
 					"es-ES": "Modo de colocar/desactivar. Partidas competitivas, mapas limitados; demuestra tus capacidades y asciende en la clasificación. Quien gane 13 rondas se hace con la victoria.",
@@ -372457,7 +374705,7 @@
 				"defaultText": "LIMITED TIME: Plant/defuse mode. One site, random agents, free loadouts, way more ultimates. First to 5 wins.",
 				"localizedByCulture":
 				{
-					"ar-AE": "نمط محدود المدة: الزرع\\التعطيل. موقع واحد وعملاء عشوائيون وعتاد مجاني وقدرات خارقة أكثر من أي وقت مضى. الفوز لأول من يربح 5 جولات.",
+					"ar-AE": "نمط محدود المدة: الزرع/التعطيل. موقع واحد وعملاء عشوائيون وعتاد مجاني وقدرات خارقة أكثر من أي وقت مضى. الفوز لأول من يربح 5 جولات.",
 					"de-DE": "ZEITLICH BEGRENZT: „Platzieren/Entschärfen“-Modus. Ein Areal, zufällige Agenten, kostenlose Ausrüstung, viel mehr Ults. Wer zuerst 5 gewonnene Runden verbuchen kann, gewinnt.",
 					"en-US": "LIMITED TIME: Plant/defuse mode. One site, random agents, free loadouts, way more ultimates. First to 5 wins.",
 					"es-ES": "TIEMPO LIMITADO: Modo colocar/desactivar. Un único site, agentes aleatorios, equipamiento sin restricciones y una barbaridad de definitivas. Quien gane 5 rondas se hace con la victoria.",
@@ -372511,7 +374759,7 @@
 				"defaultText": "Plant/defuse mode. Ranked matches, limited map pool, prove your skill, earn your rank. First to 13 wins.",
 				"localizedByCulture":
 				{
-					"ar-AE": "نمط زرع\\تعطيل. مباريات مصنف ضمن مجموعة خرائط محدودة. أثبت مهارتك لتكسب تصنيفك المستحق. الفوز لأول من يربح 13 جولة.",
+					"ar-AE": "نمط زرع/تعطيل. مباريات مصنف ضمن مجموعة خرائط محدودة. أثبت مهارتك لتكسب تصنيفك المستحق. الفوز لأول من يربح 13 جولة.",
 					"de-DE": "Modus „Platzieren/Entschärfen“. Gewertete Spiele, begrenzte Kartenauswahl, beweise dein Können, verdiene dir deinen Rang. Wer zuerst 13 gewonnene Runden verbuchen kann, gewinnt.",
 					"en-US": "Plant/defuse mode. Ranked matches, limited map pool, prove your skill, earn your rank. First to 13 wins.",
 					"es-ES": "Modo de colocar/desactivar. Partidas competitivas, mapas limitados; demuestra tus capacidades y asciende en la clasificación. Quien gane 13 rondas se hace con la victoria.",
@@ -372565,7 +374813,7 @@
 				"defaultText": "LIMITED TIME: Plant/defuse mode. One site, random agents, free loadouts, way more ultimates. First to 5 wins.",
 				"localizedByCulture":
 				{
-					"ar-AE": "نمط محدود المدة: الزرع\\التعطيل. موقع واحد وعملاء عشوائيون وعتاد مجاني وقدرات خارقة أكثر من أي وقت مضى. الفوز لأول من يربح 5 جولات.",
+					"ar-AE": "نمط محدود المدة: الزرع/التعطيل. موقع واحد وعملاء عشوائيون وعتاد مجاني وقدرات خارقة أكثر من أي وقت مضى. الفوز لأول من يربح 5 جولات.",
 					"de-DE": "ZEITLICH BEGRENZT: „Platzieren/Entschärfen“-Modus. Ein Areal, zufällige Agenten, kostenlose Ausrüstung, viel mehr Ults. Wer zuerst 5 gewonnene Runden verbuchen kann, gewinnt.",
 					"en-US": "LIMITED TIME: Plant/defuse mode. One site, random agents, free loadouts, way more ultimates. First to 5 wins.",
 					"es-ES": "TIEMPO LIMITADO: Modo colocar/desactivar. Un único site, agentes aleatorios, equipamiento sin restricciones y una barbaridad de definitivas. Quien gane 5 rondas se hace con la victoria.",
