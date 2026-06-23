@@ -23,18 +23,7 @@ The list below contains all patchs from current major version. For a list of all
 
 The date in front of each patch represents the date when the patch was pushed to this repository, not the date when it was released by Riot Games. Here's a list of all patchs of current seasons included in this repository :
 
-- (June 9th, 2026) 12.11
-- (May 27th, 2026) 12.10
-- (May 12th, 2026) 12.09
-- (April 29th, 2026) 12.08
-- (April 14th, 2026) 12.07
-- (March 31st, 2026) 12.06
-- (March 17th, 2026) 12.05
-- (March 3rd, 2026) 12.04
-- (February 18th, 2026) 12.03
-- (February 3rd, 2026) 12.02
-- (January 22nd, 2026) 12.01
-- (January 6th, 2026) 12.00
+- (June 23rd, 2026) 13.00
 
 ## Missing patchs for the current major version
 There is currently no missing patch for the current major version.
