@@ -1,5 +1,5 @@
 {
-	"version": "13.00.00.4928912",
+	"version": "13.01.00.4991932",
 	"characters": [
 		{
 			"description":
@@ -2750,7 +2750,7 @@
 					"pl-PL": "Sova to urodzony w skutej wieczną zimą rosyjskiej tundrze tropiciel, który śledzi, namierza i eliminuje wrogów z bezwzględną skutecznością i precyzją. Jego niestandardowy łuk w połączeniu z niesamowitymi umiejętnościami tropiącymi sprawiają, że nie ma przed nim ucieczki. ",
 					"pt-BR": "Nascido sob o eterno inverno das tundras russas, Sova rastreia, encontra e elimina inimigos com eficiência e precisão implacáveis. Seu arco personalizado e suas habilidades inigualáveis de reconhecimento garantem que nenhuma presa escape. ",
 					"ru-RU": "Рожденный в вечной мерзлоте российского заполярья, Sova выслеживает и уничтожает противников с холодной расчетливостью и эффективностью. Этот первоклассный разведчик, экипированный особым луком, найдет вас, где бы вы ни прятались. ",
-					"th-TH": "Sova เกิดในช่วงฤดูหนาวอันยาวนาน ณ ทุ้งทุนดราแห่งรัสเซีย เขาติดตาม ตามล่า กำจัดศัตรูได้อย่างเด็ดขาดและแม่นยำ ด้วยธนูพิเศษที่ดัดแปลงเอง พร้อมความสามารถในการล่าชั้นเลิศ ต่อให้คุณหนีไปสุดขอบฟ้าก็ไม่มีวันรอดพ้นจากเงื้อมมือของเขา",
+					"th-TH": "Sova เกิดในช่วงฤดูหนาวอันยาวนาน ณ ทุ่งทุนดราแห่งรัสเซีย เขาติดตาม ตามล่า กำจัดศัตรูได้อย่างเด็ดขาดและแม่นยำ ด้วยธนูพิเศษที่ดัดแปลงเอง พร้อมความสามารถในการล่าชั้นเลิศ ต่อให้คุณหนีไปสุดขอบฟ้าก็ไม่มีวันรอดพ้นจากเงื้อมมือของเขา",
 					"tr-TR": "Rusya'nın uçsuz bucaksız tundralarında yetişen Sova düşmanlarını acımasız bir verimlilik ve titizlikle tespit eder, izlerini sürer ve onları yok eder. Özel yayı ve sıra dışı iz sürme yetenekleri ile ondan kaçsanız da asla saklanamazsınız. ",
 					"vi-VN": "Sinh ra tại vùng lãnh nguyên lạnh giá của nước Nga, Sova có khả năng tìm kiếm, đánh dấu và tiêu diệt đối thủ một cách hiệu quả và chính xác. Sở hữu cây cung đặc chế và những kỹ năng trinh sát hiểm hóc, con mồi của Sova sẽ chẳng bao giờ có thể trốn thoát. ",
 					"zh-CN": "”猎枭“生长于终年严寒的北方冻原。他能够精准而高效地追踪、锁定和歼灭敌人。凭借一把特制战弓和无与伦比的侦察能力，他能让猎物无所遁形、无处可逃。 ",
@@ -375709,7 +375709,7 @@
 					"ko-KR": "폭발 공 플렉스",
 					"pl-PL": "Flex „Bum-Bola”",
 					"pt-BR": "Gesto Bum-Bola",
-					"ru-RU": "Брелок \"Дворовый мяч\"",
+					"ru-RU": "Флекс \"Дворовый мяч\"",
 					"th-TH": "Boom Ball Flex",
 					"tr-TR": "Bomtop Donatısı",
 					"vi-VN": "Flex Bóng Nổ",
@@ -376201,7 +376201,7 @@
 					"de-DE": "Rückeroberung",
 					"en-US": "Retake",
 					"es-ES": "Reconquista",
-					"es-MX": "Recuperación",
+					"es-MX": "Recaptura",
 					"fr-FR": "Retake",
 					"id-ID": "Retake",
 					"it-IT": "Riconquista",
@@ -379009,7 +379009,7 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "اربح مع فريقك في المباريات الأسبوعية وبطولات المباريات الفاصلة. تتأهل فرق بريمير الأبطال للحصول على فرص الاشتراك في دوري VCT Challengers الاحترافي في VALORANT.",
-					"de-DE": "Gewinne mit deinem Team in wöchentlichen Matches und Play-off-Turnieren. Die besten Premier-Teams qualifizieren sich für die Teilnahme an der professionellen VCT Challengers League von VALORANT.",
+					"de-DE": "Gewinne mit deinem Team in wöchentlichen Matches und Playoff-Turnieren. Die besten Premier-Teams qualifizieren sich für die Teilnahme an der professionellen VCT Challengers League von VALORANT.",
 					"en-US": "Win as a team in weekly matches and playoff tournaments. The Premier grand champion teams qualify for opportunities in VALORANT’s professional VCT Challengers League.",
 					"es-ES": "Gana partidas semanales y torneos de playoffs con tu equipo. El campeón de Premier disfrutará de oportunidades en la liga Challengers profesional del VCT de VALORANT.",
 					"es-MX": "Gana como equipo en partidas semanales y torneos de playoffs. Los mejores equipos de Premier se clasificarán para participar en la Liga profesional VCT Challengers de VALORANT.",
@@ -379309,7 +379309,7 @@
 					"de-DE": "Rückeroberung",
 					"en-US": "Retake",
 					"es-ES": "Reconquista",
-					"es-MX": "Recuperación",
+					"es-MX": "Recaptura",
 					"fr-FR": "Retake",
 					"id-ID": "Retake",
 					"it-IT": "Riconquista",
