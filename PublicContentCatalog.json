@@ -1,5 +1,5 @@
 {
-	"version": "13.01.00.4991932",
+	"version": "13.02.00.5092570",
 	"characters": [
 		{
 			"description":
@@ -29776,6 +29776,273 @@
 					"vi-VN": "Vandal .SYS",
 					"zh-CN": "赛博奇兵 狂徒",
 					"zh-TW": ".SYS 暴徒"
+				}
+			}
+		},
+		{
+			"weaponId": "9C82E19D-4575-0200-1A81-3EACF00CF872",
+			"defaultChromaId": "3B50ED7C-45D5-B5F6-2189-2293C0629EB6",
+			"chromas": [
+				{
+					"id": "3B50ED7C-45D5-B5F6-2189-2293C0629EB6",
+					"label": "3B50ED7C-45D5-B5F6-2189-2293C0629EB6",
+					"name":
+					{
+						"defaultText": "Neo Frontier Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "الحدود الجديدة فاندال",
+							"de-DE": "Vandal – Neue Grenzen",
+							"en-US": "Neo Frontier Vandal",
+							"es-ES": "Vandal Neo Frontier",
+							"es-MX": "Vandal Nuevo Oeste",
+							"fr-FR": "Vandal (Nouvelles frontières)",
+							"id-ID": "Neo Frontier Vandal",
+							"it-IT": "Vandal Nuova frontiera",
+							"ja-JP": "ネオフロンティア ヴァンダル",
+							"ko-KR": "네오 프런티어 밴달",
+							"pl-PL": "Vandal Neo Rubież",
+							"pt-BR": "Vandal Neo Oeste",
+							"ru-RU": "Vandal \"Новый фронтир\"",
+							"th-TH": "Neo Frontier Vandal",
+							"tr-TR": "Seri Tetik Vandal",
+							"vi-VN": "Vandal Neo Frontier",
+							"zh-CN": "西部未来//2.0 狂徒",
+							"zh-TW": "邊陲紀元 暴徒"
+						}
+					}
+				},
+				{
+					"id": "136B7CB7-404F-5E50-9384-AD92DE2C2A6F",
+					"label": "136B7CB7-404F-5E50-9384-AD92DE2C2A6F",
+					"name":
+					{
+						"defaultText": "Neo Frontier Vandal Level 4\n(Variant 1 Gold)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الحدود الجديدة فاندال المستوى 4\n(بديل 1 ذهبي)",
+							"de-DE": "Vandal – Neue Grenzen Level 4\n(Variante 1, Gold)",
+							"en-US": "Neo Frontier Vandal Level 4\n(Variant 1 Gold)",
+							"es-ES": "Vandal Neo Frontier de nivel 4\n(variante 1: oro)",
+							"es-MX": "Vandal Nuevo Oeste nivel 4\n(Variante 1 Dorada)",
+							"fr-FR": "Vandal (Nouvelles frontières) niveau 4\n(variante 1 Or)",
+							"id-ID": "Neo Frontier Vandal Level 4\n(Varian 1 Emas)",
+							"it-IT": "Vandal Nuova frontiera livello 4\n(variante 1 Oro)",
+							"ja-JP": "ネオフロンティア ヴァンダル Lv.4\n(ヴァリアント 1 ゴールド)",
+							"ko-KR": "네오 프런티어 밴달 4레벨\n(변형 1 금색)",
+							"pl-PL": "Vandal Neo Rubież (poziom 4)\n(Wersja 1 – złota)",
+							"pt-BR": "Vandal Neo Oeste Nível 4\n(Variante 1 Dourada)",
+							"ru-RU": "Vandal \"Новый фронтир\" уровень 4\n(расцветка 1 \"Золотой\")",
+							"th-TH": "Neo Frontier Vandal เลเวล 4\n(ตัวเลือกที่ 1 สีทอง)",
+							"tr-TR": "4. Seviye Seri Tetik Vandal\n(Stil 1 - Altın)",
+							"vi-VN": "Vandal Neo Frontier Cấp 4\n(Dạng 1 Ánh Vàng)",
+							"zh-CN": "西部未来//2.0 狂徒 等级4\n（炫彩1 金色）",
+							"zh-TW": "邊陲紀元 暴徒 等級4\n(幻彩1 金色)"
+						}
+					}
+				},
+				{
+					"id": "0D2F584C-464E-6F9C-5C2E-C88579E2EFE5",
+					"label": "0D2F584C-464E-6F9C-5C2E-C88579E2EFE5",
+					"name":
+					{
+						"defaultText": "Neo Frontier Vandal Level 4\n(Variant 2 Silver)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الحدود الجديدة فاندال المستوى 4\n(بديل 2 فضي)",
+							"de-DE": "Vandal – Neue Grenzen Level 4\n(Variante 2, Silber)",
+							"en-US": "Neo Frontier Vandal Level 4\n(Variant 2 Silver)",
+							"es-ES": "Vandal Neo Frontier de nivel 4\n(variante 2: plata)",
+							"es-MX": "Vandal Nuevo Oeste nivel 4\n(Variante 2 Plateada)",
+							"fr-FR": "Vandal (Nouvelles frontières) niveau 4\n(variante 2 Argent)",
+							"id-ID": "Neo Frontier Vandal Level 4\n(Varian 2 Perak)",
+							"it-IT": "Vandal Nuova frontiera livello 4\n(variante 2 Argento)",
+							"ja-JP": "ネオフロンティア ヴァンダル Lv.4\n(ヴァリアント 2 シルバー)",
+							"ko-KR": "네오 프런티어 밴달 4레벨\n(변형 2 은색)",
+							"pl-PL": "Vandal Neo Rubież (poziom 4)\n(wersja 2 – srebrna)",
+							"pt-BR": "Vandal Neo Oeste Nível 4\n(Variante 2 Prata)",
+							"ru-RU": "Vandal \"Новый фронтир\" уровень 4\n(расцветка 2 \"Серебряный\")",
+							"th-TH": "Neo Frontier Vandal เลเวล 4\n(ตัวเลือกที่ 2 สีเงิน)",
+							"tr-TR": "4. Seviye Seri Tetik Vandal\n(Stil 2 - Gümüş)",
+							"vi-VN": "Vandal Neo Frontier Cấp 4\n(Dạng 2 Ánh Bạc)",
+							"zh-CN": "西部未来//2.0 狂徒 等级4\n（炫彩2 银色）",
+							"zh-TW": "邊陲紀元 暴徒 等級4\n(幻彩2 銀色)"
+						}
+					}
+				},
+				{
+					"id": "BF3239FD-4C8F-0855-E795-A78CC411BF04",
+					"label": "BF3239FD-4C8F-0855-E795-A78CC411BF04",
+					"name":
+					{
+						"defaultText": "Neo Frontier Vandal Level 4\n(Variant 3 Copper)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الحدود الجديدة فاندال المستوى 4\n(بديل 3 نحاسي)",
+							"de-DE": "Vandal – Neue Grenzen Level 4\n(Variante 3, Bronze)",
+							"en-US": "Neo Frontier Vandal Level 4\n(Variant 3 Copper)",
+							"es-ES": "Vandal Neo Frontier de nivel 4\n(variante 3: cobre)",
+							"es-MX": "Vandal Nuevo Oeste nivel 4\n(Variante 3 Cobre)",
+							"fr-FR": "Vandal (Nouvelles frontières) niveau 4\n(variante 3 Cuivre)",
+							"id-ID": "Neo Frontier Vandal Level 4\n(Varian 3 Tembaga)",
+							"it-IT": "Vandal Nuova frontiera livello 4\n(variante 3 Rame)",
+							"ja-JP": "ネオフロンティア ヴァンダル Lv.4\n(ヴァリアント 3 コッパー)",
+							"ko-KR": "네오 프런티어 밴달 4레벨\n(변형 3 동색)",
+							"pl-PL": "Vandal Neo Rubież (poziom 4)\n(wersja 3 – miedziana)",
+							"pt-BR": "Vandal Neo Oeste Nível 4\n(Variante 3 Cobre)",
+							"ru-RU": "Vandal \"Новый фронтир\" уровень 4\n(расцветка 3 \"Медный\")",
+							"th-TH": "Neo Frontier Vandal เลเวล 4\n(ตัวเลือกที่ 3 สีทองแดง)",
+							"tr-TR": "4. Seviye Seri Tetik Vandal\n(Stil 3 - Bakır)",
+							"vi-VN": "Vandal Neo Frontier Cấp 4\n(Dạng 3 Ánh Đồng)",
+							"zh-CN": "西部未来//2.0 狂徒 等级4\n（炫彩3 铜色）",
+							"zh-TW": "邊陲紀元 暴徒 等級4\n(幻彩3 銅色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "349BD9E2-479F-49A9-B70B-38ACA900E11A",
+					"label": "349BD9E2-479F-49A9-B70B-38ACA900E11A",
+					"name":
+					{
+						"defaultText": "Neo Frontier Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "الحدود الجديدة فاندال",
+							"de-DE": "Vandal – Neue Grenzen",
+							"en-US": "Neo Frontier Vandal",
+							"es-ES": "Vandal Neo Frontier",
+							"es-MX": "Vandal Nuevo Oeste",
+							"fr-FR": "Vandal (Nouvelles frontières)",
+							"id-ID": "Neo Frontier Vandal",
+							"it-IT": "Vandal Nuova frontiera",
+							"ja-JP": "ネオフロンティア ヴァンダル",
+							"ko-KR": "네오 프런티어 밴달",
+							"pl-PL": "Vandal Neo Rubież",
+							"pt-BR": "Vandal Neo Oeste",
+							"ru-RU": "Vandal \"Новый фронтир\"",
+							"th-TH": "Neo Frontier Vandal",
+							"tr-TR": "Seri Tetik Vandal",
+							"vi-VN": "Vandal Neo Frontier",
+							"zh-CN": "西部未来//2.0 狂徒",
+							"zh-TW": "邊陲紀元 暴徒"
+						}
+					}
+				},
+				{
+					"id": "B69CE1B7-46C9-1D2C-A73A-DC8F6298D76B",
+					"label": "B69CE1B7-46C9-1D2C-A73A-DC8F6298D76B",
+					"name":
+					{
+						"defaultText": "Neo Frontier Vandal Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "الحدود الجديدة فاندال المستوى 2",
+							"de-DE": "Vandal – Neue Grenzen Level 2",
+							"en-US": "Neo Frontier Vandal Level 2",
+							"es-ES": "Vandal Neo Frontier de nivel 2",
+							"es-MX": "Vandal Nuevo Oeste nivel 2",
+							"fr-FR": "Vandal (Nouvelles frontières) niveau 2",
+							"id-ID": "Neo Frontier Vandal Level 2",
+							"it-IT": "Vandal Nuova frontiera livello 2",
+							"ja-JP": "ネオフロンティア ヴァンダル Lv.2",
+							"ko-KR": "네오 프런티어 밴달 2레벨",
+							"pl-PL": "Vandal Neo Rubież (poziom 2)",
+							"pt-BR": "Vandal Neo Oeste Nível 2",
+							"ru-RU": "Vandal \"Новый фронтир\" уровень 2",
+							"th-TH": "Neo Frontier Vandal เลเวล 2",
+							"tr-TR": "2. Seviye Seri Tetik Vandal",
+							"vi-VN": "Vandal Neo Frontier Cấp 2",
+							"zh-CN": "西部未来//2.0 狂徒 等级2",
+							"zh-TW": "邊陲紀元 暴徒 等級2"
+						}
+					}
+				},
+				{
+					"id": "67698187-4B27-9BD4-8ACD-16B6EBCC9A7C",
+					"label": "67698187-4B27-9BD4-8ACD-16B6EBCC9A7C",
+					"name":
+					{
+						"defaultText": "Neo Frontier Vandal Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "الحدود الجديدة فاندال المستوى 3",
+							"de-DE": "Vandal – Neue Grenzen Level 3",
+							"en-US": "Neo Frontier Vandal Level 3",
+							"es-ES": "Vandal Neo Frontier de nivel 3",
+							"es-MX": "Vandal Nuevo Oeste nivel 3",
+							"fr-FR": "Vandal (Nouvelles frontières) niveau 3",
+							"id-ID": "Neo Frontier Vandal Level 3",
+							"it-IT": "Vandal Nuova frontiera livello 3",
+							"ja-JP": "ネオフロンティア ヴァンダル Lv.3",
+							"ko-KR": "네오 프런티어 밴달 3레벨",
+							"pl-PL": "Vandal Neo Rubież (poziom 3)",
+							"pt-BR": "Vandal Neo Oeste Nível 3",
+							"ru-RU": "Vandal \"Новый фронтир\" уровень 3",
+							"th-TH": "Neo Frontier Vandal เลเวล 3",
+							"tr-TR": "3. Seviye Seri Tetik Vandal",
+							"vi-VN": "Vandal Neo Frontier Cấp 3",
+							"zh-CN": "西部未来//2.0 狂徒 等级3",
+							"zh-TW": "邊陲紀元 暴徒 等級3"
+						}
+					}
+				},
+				{
+					"id": "D37573DB-49C9-9245-FEA9-EB90129CD7DA",
+					"label": "D37573DB-49C9-9245-FEA9-EB90129CD7DA",
+					"name":
+					{
+						"defaultText": "Neo Frontier Vandal Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "الحدود الجديدة فاندال المستوى 4",
+							"de-DE": "Vandal – Neue Grenzen Level 4",
+							"en-US": "Neo Frontier Vandal Level 4",
+							"es-ES": "Vandal Neo Frontier de nivel 4",
+							"es-MX": "Vandal Nuevo Oeste nivel 4",
+							"fr-FR": "Vandal (Nouvelles frontières) niveau 4",
+							"id-ID": "Neo Frontier Vandal Level 4",
+							"it-IT": "Vandal Nuova frontiera livello 4",
+							"ja-JP": "ネオフロンティア ヴァンダル Lv.4",
+							"ko-KR": "네오 프런티어 밴달 4레벨",
+							"pl-PL": "Vandal Neo Rubież (poziom 4)",
+							"pt-BR": "Vandal Neo Oeste Nível 4",
+							"ru-RU": "Vandal \"Новый фронтир\" уровень 4",
+							"th-TH": "Neo Frontier Vandal เลเวล 4",
+							"tr-TR": "4. Seviye Seri Tetik Vandal",
+							"vi-VN": "Vandal Neo Frontier Cấp 4",
+							"zh-CN": "西部未来//2.0 狂徒 等级4",
+							"zh-TW": "邊陲紀元 暴徒 等級4"
+						}
+					}
+				}
+			],
+			"id": "5EF15ADA-4332-093F-EA15-8A8891D863D0",
+			"label": "5EF15ADA-4332-093F-EA15-8A8891D863D0",
+			"name":
+			{
+				"defaultText": "Neo Frontier Vandal",
+				"localizedByCulture":
+				{
+					"ar-AE": "الحدود الجديدة فاندال",
+					"de-DE": "Vandal – Neue Grenzen",
+					"en-US": "Neo Frontier Vandal",
+					"es-ES": "Vandal Neo Frontier",
+					"es-MX": "Vandal Nuevo Oeste",
+					"fr-FR": "Vandal (Nouvelles frontières)",
+					"id-ID": "Neo Frontier Vandal",
+					"it-IT": "Vandal Nuova frontiera",
+					"ja-JP": "ネオフロンティア ヴァンダル",
+					"ko-KR": "네오 프런티어 밴달",
+					"pl-PL": "Vandal Neo Rubież",
+					"pt-BR": "Vandal Neo Oeste",
+					"ru-RU": "Vandal \"Новый фронтир\"",
+					"th-TH": "Neo Frontier Vandal",
+					"tr-TR": "Seri Tetik Vandal",
+					"vi-VN": "Vandal Neo Frontier",
+					"zh-CN": "西部未来//2.0 狂徒",
+					"zh-TW": "邊陲紀元 暴徒"
 				}
 			}
 		},
@@ -140611,6 +140878,273 @@
 		},
 		{
 			"weaponId": "42DA8CCC-40D5-AFFC-BEEC-15AA47B42EDA",
+			"defaultChromaId": "23193FEE-42C2-E7E4-9E76-60A2AEE12057",
+			"chromas": [
+				{
+					"id": "23193FEE-42C2-E7E4-9E76-60A2AEE12057",
+					"label": "23193FEE-42C2-E7E4-9E76-60A2AEE12057",
+					"name":
+					{
+						"defaultText": "Neo Frontier Shorty",
+						"localizedByCulture":
+						{
+							"ar-AE": "الحدود الجديدة شورتي",
+							"de-DE": "Shorty – Neue Grenzen",
+							"en-US": "Neo Frontier Shorty",
+							"es-ES": "Shorty Neo Frontier",
+							"es-MX": "Shorty Nuevo Oeste",
+							"fr-FR": "Shorty (Nouvelles frontières)",
+							"id-ID": "Neo Frontier Shorty",
+							"it-IT": "Shorty Nuova frontiera",
+							"ja-JP": "ネオフロンティア ショーティー",
+							"ko-KR": "네오 프런티어 쇼티",
+							"pl-PL": "Shorty Neo Rubież",
+							"pt-BR": "Shorty Neo Oeste",
+							"ru-RU": "Shorty \"Новый фронтир\"",
+							"th-TH": "Neo Frontier Shorty",
+							"tr-TR": "Seri Tetik Shorty",
+							"vi-VN": "Shorty Neo Frontier",
+							"zh-CN": "西部未来//2.0 短炮",
+							"zh-TW": "邊陲紀元 短管"
+						}
+					}
+				},
+				{
+					"id": "3984A625-411F-2E56-2D8B-32BDB8636700",
+					"label": "3984A625-411F-2E56-2D8B-32BDB8636700",
+					"name":
+					{
+						"defaultText": "Neo Frontier Shorty Level 4\n(Variant 1 Gold)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الحدود الجديدة شورتي المستوى 4\n(بديل 1 ذهبي)",
+							"de-DE": "Shorty – Neue Grenzen Level 4\n(Variante 1, Gold)",
+							"en-US": "Neo Frontier Shorty Level 4\n(Variant 1 Gold)",
+							"es-ES": "Shorty Neo Frontier de nivel 4\n(variante 1: oro)",
+							"es-MX": "Shorty Nuevo Oeste nivel 4\n(Variante 1 Dorada)",
+							"fr-FR": "Shorty (Nouvelles frontières) niveau 4\n(variante 1 Or)",
+							"id-ID": "Neo Frontier Shorty Level 4\n(Varian 1 Emas)",
+							"it-IT": "Shorty Nuova frontiera livello 4\n(variante 1 Oro)",
+							"ja-JP": "ネオフロンティア ショーティー Lv.4\n(ヴァリアント 1 ゴールド)",
+							"ko-KR": "네오 프런티어 쇼티 4레벨\n(변형 1 금색)",
+							"pl-PL": "Shorty Neo Rubież (poziom 4)\n(Wersja 1 – złota)",
+							"pt-BR": "Shorty Neo Oeste Nível 4\n(Variante 1 Dourada)",
+							"ru-RU": "Shorty \"Новый фронтир\" уровень 4\n(расцветка 1 \"Золотой\")",
+							"th-TH": "Neo Frontier Shorty เลเวล 4\n(ตัวเลือกที่ 1 สีทอง)",
+							"tr-TR": "4. Seviye Seri Tetik Shorty\n(Stil 1 - Altın)",
+							"vi-VN": "Shorty Neo Frontier Cấp 4\n(Dạng 1 Ánh Vàng)",
+							"zh-CN": "西部未来//2.0 短炮 等级4\n（炫彩1 金色）",
+							"zh-TW": "邊陲紀元 短管 等級4\n(幻彩1 金色)"
+						}
+					}
+				},
+				{
+					"id": "0A91C670-4AE3-EC59-A557-7C97EBD969D4",
+					"label": "0A91C670-4AE3-EC59-A557-7C97EBD969D4",
+					"name":
+					{
+						"defaultText": "Neo Frontier Shorty Level 4\n(Variant 2 Silver)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الحدود الجديدة شورتي المستوى 4\n(بديل 2 فضي)",
+							"de-DE": "Shorty – Neue Grenzen Level 4\n(Variante 2, Silber)",
+							"en-US": "Neo Frontier Shorty Level 4\n(Variant 2 Silver)",
+							"es-ES": "Shorty Neo Frontier de nivel 4\n(variante 2: plata)",
+							"es-MX": "Shorty Nuevo Oeste nivel 4\n(Variante 2 Plateada)",
+							"fr-FR": "Shorty (Nouvelles frontières) niveau 4\n(variante 2 Argent)",
+							"id-ID": "Neo Frontier Shorty Level 4\n(Varian 2 Perak)",
+							"it-IT": "Shorty Nuova frontiera livello 4\n(variante 2 Argento)",
+							"ja-JP": "ネオフロンティア ショーティー Lv.4\n(ヴァリアント 2 シルバー)",
+							"ko-KR": "네오 프런티어 쇼티 4레벨\n(변형 2 은색)",
+							"pl-PL": "Shorty Neo Rubież (poziom 4)\n(wersja 2 – srebrna)",
+							"pt-BR": "Shorty Neo Oeste Nível 4\n(Variante 2 Prata)",
+							"ru-RU": "Shorty \"Новый фронтир\" уровень 4\n(расцветка 2 \"Серебряный\")",
+							"th-TH": "Neo Frontier Shorty เลเวล 4\n(ตัวเลือกที่ 2 สีเงิน)",
+							"tr-TR": "4. Seviye Seri Tetik Shorty\n(Stil 2 - Gümüş)",
+							"vi-VN": "Shorty Neo Frontier Cấp 4\n(Dạng 2 Ánh Bạc)",
+							"zh-CN": "西部未来//2.0 短炮 等级4\n（炫彩2 银色）",
+							"zh-TW": "邊陲紀元 短管 等級4\n(幻彩2 銀色)"
+						}
+					}
+				},
+				{
+					"id": "83D8268D-481C-7D3E-4D96-33B5F1A725B6",
+					"label": "83D8268D-481C-7D3E-4D96-33B5F1A725B6",
+					"name":
+					{
+						"defaultText": "Neo Frontier Shorty Level 4\n(Variant 3 Copper)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الحدود الجديدة شورتي المستوى 4\n(بديل 3 نحاسي)",
+							"de-DE": "Shorty – Neue Grenzen Level 4\n(Variante 3, Bronze)",
+							"en-US": "Neo Frontier Shorty Level 4\n(Variant 3 Copper)",
+							"es-ES": "Shorty Neo Frontier de nivel 4\n(variante 3: cobre)",
+							"es-MX": "Shorty Nuevo Oeste nivel 4\n(Variante 3 Cobre)",
+							"fr-FR": "Shorty (Nouvelles frontières) niveau 4\n(variante 3 Cuivre)",
+							"id-ID": "Neo Frontier Shorty Level 4\n(Varian 3 Tembaga)",
+							"it-IT": "Shorty Nuova frontiera livello 4\n(variante 3 Rame)",
+							"ja-JP": "ネオフロンティア ショーティー Lv.4\n(ヴァリアント 3 コッパー)",
+							"ko-KR": "네오 프런티어 쇼티 4레벨\n(변형 3 동색)",
+							"pl-PL": "Shorty Neo Rubież (poziom 4)\n(wersja 3 – miedziana)",
+							"pt-BR": "Shorty Neo Oeste Nível 4\n(Variante 3 Cobre)",
+							"ru-RU": "Shorty \"Новый фронтир\" уровень 4\n(расцветка 3 \"Медный\")",
+							"th-TH": "Neo Frontier Shorty เลเวล 4\n(ตัวเลือกที่ 3 สีทองแดง)",
+							"tr-TR": "4. Seviye Seri Tetik Shorty\n(Stil 3 - Bakır)",
+							"vi-VN": "Shorty Neo Frontier Cấp 4\n(Dạng 3 Ánh Đồng)",
+							"zh-CN": "西部未来//2.0 短炮 等级4\n（炫彩3 铜色）",
+							"zh-TW": "邊陲紀元 短管 等級4\n(幻彩3 銅色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "AF1619FA-42C0-31E3-CFAF-EDAED2B1A055",
+					"label": "AF1619FA-42C0-31E3-CFAF-EDAED2B1A055",
+					"name":
+					{
+						"defaultText": "Neo Frontier Shorty",
+						"localizedByCulture":
+						{
+							"ar-AE": "الحدود الجديدة شورتي",
+							"de-DE": "Shorty – Neue Grenzen",
+							"en-US": "Neo Frontier Shorty",
+							"es-ES": "Shorty Neo Frontier",
+							"es-MX": "Shorty Nuevo Oeste",
+							"fr-FR": "Shorty (Nouvelles frontières)",
+							"id-ID": "Neo Frontier Shorty",
+							"it-IT": "Shorty Nuova frontiera",
+							"ja-JP": "ネオフロンティア ショーティー",
+							"ko-KR": "네오 프런티어 쇼티",
+							"pl-PL": "Shorty Neo Rubież",
+							"pt-BR": "Shorty Neo Oeste",
+							"ru-RU": "Shorty \"Новый фронтир\"",
+							"th-TH": "Neo Frontier Shorty",
+							"tr-TR": "Seri Tetik Shorty",
+							"vi-VN": "Shorty Neo Frontier",
+							"zh-CN": "西部未来//2.0 短炮",
+							"zh-TW": "邊陲紀元 短管"
+						}
+					}
+				},
+				{
+					"id": "A310AA66-4E4B-D80C-BEE7-9F9BA061D8FA",
+					"label": "A310AA66-4E4B-D80C-BEE7-9F9BA061D8FA",
+					"name":
+					{
+						"defaultText": "Neo Frontier Shorty Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "الحدود الجديدة شورتي المستوى 2",
+							"de-DE": "Shorty – Neue Grenzen Level 2",
+							"en-US": "Neo Frontier Shorty Level 2",
+							"es-ES": "Shorty Neo Frontier de nivel 2",
+							"es-MX": "Shorty Nuevo Oeste nivel 2",
+							"fr-FR": "Shorty (Nouvelles frontières) niveau 2",
+							"id-ID": "Neo Frontier Shorty Level 2",
+							"it-IT": "Shorty Nuova frontiera livello 2",
+							"ja-JP": "ネオフロンティア ショーティー Lv.2",
+							"ko-KR": "네오 프런티어 쇼티 2레벨",
+							"pl-PL": "Shorty Neo Rubież (poziom 2)",
+							"pt-BR": "Shorty Neo Oeste Nível 2",
+							"ru-RU": "Shorty \"Новый фронтир\" уровень 2",
+							"th-TH": "Neo Frontier Shorty เลเวล 2",
+							"tr-TR": "2. Seviye Seri Tetik Shorty",
+							"vi-VN": "Shorty Neo Frontier Cấp 2",
+							"zh-CN": "西部未来//2.0 短炮 等级2",
+							"zh-TW": "邊陲紀元 短管 等級2"
+						}
+					}
+				},
+				{
+					"id": "8F45F007-40FC-C78B-8841-25ACA160F6CD",
+					"label": "8F45F007-40FC-C78B-8841-25ACA160F6CD",
+					"name":
+					{
+						"defaultText": "Neo Frontier Shorty Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "الحدود الجديدة شورتي المستوى 3",
+							"de-DE": "Shorty – Neue Grenzen Level 3",
+							"en-US": "Neo Frontier Shorty Level 3",
+							"es-ES": "Shorty Neo Frontier de nivel 3",
+							"es-MX": "Shorty Nuevo Oeste nivel 3",
+							"fr-FR": "Shorty (Nouvelles frontières) niveau 3",
+							"id-ID": "Neo Frontier Shorty Level 3",
+							"it-IT": "Shorty Nuova frontiera livello 3",
+							"ja-JP": "ネオフロンティア ショーティー Lv.3",
+							"ko-KR": "네오 프런티어 쇼티 3레벨",
+							"pl-PL": "Shorty Neo Rubież (poziom 3)",
+							"pt-BR": "Shorty Neo Oeste Nível 3",
+							"ru-RU": "Shorty \"Новый фронтир\" уровень 3",
+							"th-TH": "Neo Frontier Shorty เลเวล 3",
+							"tr-TR": "3. Seviye Seri Tetik Shorty",
+							"vi-VN": "Shorty Neo Frontier Cấp 3",
+							"zh-CN": "西部未来//2.0 短炮 等级3",
+							"zh-TW": "邊陲紀元 短管 等級3"
+						}
+					}
+				},
+				{
+					"id": "D31E4F0E-4048-4474-DD43-109EE72D4555",
+					"label": "D31E4F0E-4048-4474-DD43-109EE72D4555",
+					"name":
+					{
+						"defaultText": "Neo Frontier Shorty Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "الحدود الجديدة شورتي المستوى 4",
+							"de-DE": "Shorty – Neue Grenzen Level 4",
+							"en-US": "Neo Frontier Shorty Level 4",
+							"es-ES": "Shorty Neo Frontier de nivel 4",
+							"es-MX": "Shorty Nuevo Oeste nivel 4",
+							"fr-FR": "Shorty (Nouvelles frontières) niveau 4",
+							"id-ID": "Neo Frontier Shorty Level 4",
+							"it-IT": "Shorty Nuova frontiera livello 4",
+							"ja-JP": "ネオフロンティア ショーティー Lv.4",
+							"ko-KR": "네오 프런티어 쇼티 4레벨",
+							"pl-PL": "Shorty Neo Rubież (poziom 4)",
+							"pt-BR": "Shorty Neo Oeste Nível 4",
+							"ru-RU": "Shorty \"Новый фронтир\" уровень 4",
+							"th-TH": "Neo Frontier Shorty เลเวล 4",
+							"tr-TR": "4. Seviye Seri Tetik Shorty",
+							"vi-VN": "Shorty Neo Frontier Cấp 4",
+							"zh-CN": "西部未来//2.0 短炮 等级4",
+							"zh-TW": "邊陲紀元 短管 等級4"
+						}
+					}
+				}
+			],
+			"id": "DE88D366-4D2B-655F-345C-719B97DDF9D9",
+			"label": "DE88D366-4D2B-655F-345C-719B97DDF9D9",
+			"name":
+			{
+				"defaultText": "Neo Frontier Shorty",
+				"localizedByCulture":
+				{
+					"ar-AE": "الحدود الجديدة شورتي",
+					"de-DE": "Shorty – Neue Grenzen",
+					"en-US": "Neo Frontier Shorty",
+					"es-ES": "Shorty Neo Frontier",
+					"es-MX": "Shorty Nuevo Oeste",
+					"fr-FR": "Shorty (Nouvelles frontières)",
+					"id-ID": "Neo Frontier Shorty",
+					"it-IT": "Shorty Nuova frontiera",
+					"ja-JP": "ネオフロンティア ショーティー",
+					"ko-KR": "네오 프런티어 쇼티",
+					"pl-PL": "Shorty Neo Rubież",
+					"pt-BR": "Shorty Neo Oeste",
+					"ru-RU": "Shorty \"Новый фронтир\"",
+					"th-TH": "Neo Frontier Shorty",
+					"tr-TR": "Seri Tetik Shorty",
+					"vi-VN": "Shorty Neo Frontier",
+					"zh-CN": "西部未来//2.0 短炮",
+					"zh-TW": "邊陲紀元 短管"
+				}
+			}
+		},
+		{
+			"weaponId": "42DA8CCC-40D5-AFFC-BEEC-15AA47B42EDA",
 			"defaultChromaId": "E08406AE-45BB-9065-9EF0-F4B08ACC4CDC",
 			"chromas": [
 				{
@@ -202638,6 +203172,215 @@
 		},
 		{
 			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
+			"defaultChromaId": "6A10CA7A-4EC8-4CE2-ADED-2EBC4BA6C351",
+			"chromas": [
+				{
+					"id": "6A10CA7A-4EC8-4CE2-ADED-2EBC4BA6C351",
+					"label": "6A10CA7A-4EC8-4CE2-ADED-2EBC4BA6C351",
+					"name":
+					{
+						"defaultText": "Neo Frontier Lasso",
+						"localizedByCulture":
+						{
+							"ar-AE": "أنشوطة الحدود الجديدة",
+							"de-DE": "Lasso – Neue Grenzen",
+							"en-US": "Neo Frontier Lasso",
+							"es-ES": "Lazo Neo Frontier",
+							"es-MX": "Lazo Nuevo Oeste",
+							"fr-FR": "Lasso (Nouvelles frontières)",
+							"id-ID": "Neo Frontier Lasso",
+							"it-IT": "Lazo Nuova frontiera",
+							"ja-JP": "ネオフロンティア 投げ縄",
+							"ko-KR": "네오 프런티어 올가미",
+							"pl-PL": "Lasso Neo Rubież",
+							"pt-BR": "Laço Neo Oeste",
+							"ru-RU": "Лассо \"Новый фронтир\"",
+							"th-TH": "Neo Frontier Lasso",
+							"tr-TR": "Seri Kement",
+							"vi-VN": "Thòng Lọng Neo Frontier",
+							"zh-CN": "西部未来//2.0 套索",
+							"zh-TW": "邊陲紀元 套索"
+						}
+					}
+				},
+				{
+					"id": "D023E7B4-4860-A0F7-34F8-AD950556AE18",
+					"label": "D023E7B4-4860-A0F7-34F8-AD950556AE18",
+					"name":
+					{
+						"defaultText": "Neo Frontier Lasso Level 2\n(Variant 1 Gold)",
+						"localizedByCulture":
+						{
+							"ar-AE": "أنشوطة الحدود الجديدة المستوى 2\n(بديل 1 ذهبي)",
+							"de-DE": "Lasso – Neue Grenzen Level 2\n(Variante 1, Gold)",
+							"en-US": "Neo Frontier Lasso Level 2\n(Variant 1 Gold)",
+							"es-ES": "Lazo Neo Frontier de nivel 2\n(variante 1: oro)",
+							"es-MX": "Lazo Nuevo Oeste nivel 2\n(Variante 1 Dorada)",
+							"fr-FR": "Lasso (Nouvelles frontières) niveau 2\n(variante 1 Or)",
+							"id-ID": "Neo Frontier Lasso Level 2\n(Varian 1 Emas)",
+							"it-IT": "Lazo Nuova frontiera livello 2\n(variante 1 Oro)",
+							"ja-JP": "ネオフロンティア 投げ縄 Lv.2\n(ヴァリアント 1 ゴールド)",
+							"ko-KR": "네오 프런티어 올가미 2레벨\n(변형 1 금색)",
+							"pl-PL": "Lasso Neo Rubież (poziom 2)\n(Wersja 1 – złota)",
+							"pt-BR": "Laço Neo Oeste Nível 2\n(Variante 1 Dourada)",
+							"ru-RU": "Лассо \"Новый фронтир\" уровень 2\n(расцветка 1 \"Золотой\")",
+							"th-TH": "Neo Frontier Lasso เลเวล 2\n(ตัวเลือกที่ 1 สีทอง)",
+							"tr-TR": "2. Seviye Seri Kement\n(Stil 1 - Altın)",
+							"vi-VN": "Thòng Lọng Neo Frontier Cấp 2\n(Dạng 1 Ánh Vàng)",
+							"zh-CN": "西部未来//2.0 套索 等级2\n（炫彩1 金色）",
+							"zh-TW": "邊陲紀元 套索 等級2\n(幻彩1 金色)"
+						}
+					}
+				},
+				{
+					"id": "D6D036DE-4D13-C4B2-0FB3-A5A218064124",
+					"label": "D6D036DE-4D13-C4B2-0FB3-A5A218064124",
+					"name":
+					{
+						"defaultText": "Neo Frontier Lasso Level 2\n(Variant 2 Silver)",
+						"localizedByCulture":
+						{
+							"ar-AE": "أنشوطة الحدود الجديدة المستوى 2\n(بديل 2 فضي)",
+							"de-DE": "Lasso – Neue Grenzen Level 2\n(Variante 2, Silber)",
+							"en-US": "Neo Frontier Lasso Level 2\n(Variant 2 Silver)",
+							"es-ES": "Lazo Neo Frontier de nivel 2\n(variante 2: plata)",
+							"es-MX": "Lazo Nuevo Oeste nivel 2\n(Variante 2 Plateada)",
+							"fr-FR": "Lasso (Nouvelles frontières) niveau 2\n(variante 2 Argent)",
+							"id-ID": "Neo Frontier Lasso Level 2\n(Varian 2 Perak)",
+							"it-IT": "Lazo Nuova frontiera livello 2\n(variante 2 Argento)",
+							"ja-JP": "ネオフロンティア 投げ縄 Lv.2\n(ヴァリアント 2 シルバー)",
+							"ko-KR": "네오 프런티어 올가미 2레벨\n(변형 2 은색)",
+							"pl-PL": "Lasso Neo Rubież (poziom 2)\n(wersja 2 – srebrna)",
+							"pt-BR": "Laço Neo Oeste Nível 2\n(Variante 2 Prata)",
+							"ru-RU": "Лассо \"Новый фронтир\" уровень 2\n(расцветка 2 \"Серебряный\")",
+							"th-TH": "Neo Frontier Lasso เลเวล 2\n(ตัวเลือกที่ 2 สีเงิน)",
+							"tr-TR": "2. Seviye Seri Kement\n(Stil 2 - Gümüş)",
+							"vi-VN": "Thòng Lọng Neo Frontier Cấp 2\n(Dạng 2 Ánh Bạc)",
+							"zh-CN": "西部未来//2.0 套索 等级2\n（炫彩2 银色）",
+							"zh-TW": "邊陲紀元 套索 等級2\n(幻彩2 銀色)"
+						}
+					}
+				},
+				{
+					"id": "66452371-492A-AB09-2B25-13A517272F86",
+					"label": "66452371-492A-AB09-2B25-13A517272F86",
+					"name":
+					{
+						"defaultText": "Neo Frontier Lasso Level 2\n(Variant 3 Copper)",
+						"localizedByCulture":
+						{
+							"ar-AE": "أنشوطة الحدود الجديدة المستوى 2\n(بديل 3 نحاسي)",
+							"de-DE": "Lasso – Neue Grenzen Level 2\n(Variante 3, Bronze)",
+							"en-US": "Neo Frontier Lasso Level 2\n(Variant 3 Copper)",
+							"es-ES": "Lazo Neo Frontier de nivel 2\n(variante 3: cobre)",
+							"es-MX": "Lazo Nuevo Oeste nivel 2\n(Variante 3 Cobre)",
+							"fr-FR": "Lasso (Nouvelles frontières) niveau 2\n(variante 3 Cuivre)",
+							"id-ID": "Neo Frontier Lasso Level 2\n(Varian 3 Tembaga)",
+							"it-IT": "Lazo Nuova frontiera livello 2\n(variante 3 Rame)",
+							"ja-JP": "ネオフロンティア 投げ縄 Lv.2\n(ヴァリアント 3 コッパー)",
+							"ko-KR": "네오 프런티어 올가미 2레벨\n(변형 3 동색)",
+							"pl-PL": "Lasso Neo Rubież (poziom 2)\n(wersja 3 – miedziana)",
+							"pt-BR": "Laço Neo Oeste Nível 2\n(Variante 3 Cobre)",
+							"ru-RU": "Лассо \"Новый фронтир\" уровень 2\n(расцветка 3 \"Медный\")",
+							"th-TH": "Neo Frontier Lasso เลเวล 2\n(ตัวเลือกที่ 3 สีทองแดง)",
+							"tr-TR": "2. Seviye Seri Kement\n(Stil 3 - Bakır)",
+							"vi-VN": "Thòng Lọng Neo Frontier Cấp 2\n(Dạng 3 Ánh Đồng)",
+							"zh-CN": "西部未来//2.0 套索 等级2\n（炫彩3 铜色）",
+							"zh-TW": "邊陲紀元 套索 等級2\n(幻彩3 銅色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "A5E0E761-472C-8287-2514-26A1C88F4D08",
+					"label": "A5E0E761-472C-8287-2514-26A1C88F4D08",
+					"name":
+					{
+						"defaultText": "Neo Frontier Lasso",
+						"localizedByCulture":
+						{
+							"ar-AE": "أنشوطة الحدود الجديدة",
+							"de-DE": "Lasso – Neue Grenzen",
+							"en-US": "Neo Frontier Lasso",
+							"es-ES": "Lazo Neo Frontier",
+							"es-MX": "Lazo Nuevo Oeste",
+							"fr-FR": "Lasso (Nouvelles frontières)",
+							"id-ID": "Neo Frontier Lasso",
+							"it-IT": "Lazo Nuova frontiera",
+							"ja-JP": "ネオフロンティア 投げ縄",
+							"ko-KR": "네오 프런티어 올가미",
+							"pl-PL": "Lasso Neo Rubież",
+							"pt-BR": "Laço Neo Oeste",
+							"ru-RU": "Лассо \"Новый фронтир\"",
+							"th-TH": "Neo Frontier Lasso",
+							"tr-TR": "Seri Kement",
+							"vi-VN": "Thòng Lọng Neo Frontier",
+							"zh-CN": "西部未来//2.0 套索",
+							"zh-TW": "邊陲紀元 套索"
+						}
+					}
+				},
+				{
+					"id": "9AACB9C3-4440-06AC-294A-2CBCC75250A1",
+					"label": "9AACB9C3-4440-06AC-294A-2CBCC75250A1",
+					"name":
+					{
+						"defaultText": "Neo Frontier Lasso Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "أنشوطة الحدود الجديدة المستوى 2",
+							"de-DE": "Lasso – Neue Grenzen Level 2",
+							"en-US": "Neo Frontier Lasso Level 2",
+							"es-ES": "Lazo Neo Frontier de nivel 2",
+							"es-MX": "Lazo Nuevo Oeste nivel 2",
+							"fr-FR": "Lasso (Nouvelles frontières) niveau 2",
+							"id-ID": "Neo Frontier Lasso Level 2",
+							"it-IT": "Lazo Nuova frontiera livello 2",
+							"ja-JP": "ネオフロンティア 投げ縄 Lv.2",
+							"ko-KR": "네오 프런티어 올가미 2레벨",
+							"pl-PL": "Lasso Neo Rubież (poziom 2)",
+							"pt-BR": "Laço Neo Oeste Nível 2",
+							"ru-RU": "Лассо \"Новый фронтир\" уровень 2",
+							"th-TH": "Neo Frontier Lasso เลเวล 2",
+							"tr-TR": "2. Seviye Seri Kement",
+							"vi-VN": "Thòng Lọng Neo Frontier Cấp 2",
+							"zh-CN": "西部未来//2.0 套索 等级2",
+							"zh-TW": "邊陲紀元 套索 等級2"
+						}
+					}
+				}
+			],
+			"id": "38D47EE7-414D-8CEE-5BBD-ACA16656CDA9",
+			"label": "38D47EE7-414D-8CEE-5BBD-ACA16656CDA9",
+			"name":
+			{
+				"defaultText": "Neo Frontier Lasso",
+				"localizedByCulture":
+				{
+					"ar-AE": "أنشوطة الحدود الجديدة",
+					"de-DE": "Lasso – Neue Grenzen",
+					"en-US": "Neo Frontier Lasso",
+					"es-ES": "Lazo Neo Frontier",
+					"es-MX": "Lazo Nuevo Oeste",
+					"fr-FR": "Lasso (Nouvelles frontières)",
+					"id-ID": "Neo Frontier Lasso",
+					"it-IT": "Lazo Nuova frontiera",
+					"ja-JP": "ネオフロンティア 投げ縄",
+					"ko-KR": "네오 프런티어 올가미",
+					"pl-PL": "Lasso Neo Rubież",
+					"pt-BR": "Laço Neo Oeste",
+					"ru-RU": "Лассо \"Новый фронтир\"",
+					"th-TH": "Neo Frontier Lasso",
+					"tr-TR": "Seri Kement",
+					"vi-VN": "Thòng Lọng Neo Frontier",
+					"zh-CN": "西部未来//2.0 套索",
+					"zh-TW": "邊陲紀元 套索"
+				}
+			}
+		},
+		{
+			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
 			"defaultChromaId": "252C202E-4F8F-C064-8059-0EA0C851CC3C",
 			"chromas": [
 				{
@@ -235068,6 +235811,35 @@
 			}
 		},
 		{
+			"id": "B3C21B54-4C07-5857-7F28-83BA1A7C83B5",
+			"label": "B3C21B54-4C07-5857-7F28-83BA1A7C83B5",
+			"name":
+			{
+				"defaultText": "PREMIER V26A4 Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة بريمير V26م4",
+					"de-DE": "Banner „PREMIER V26A4“",
+					"en-US": "PREMIER V26A4 Card",
+					"es-ES": "Tarjeta de PREMIER V26A4",
+					"es-MX": "Tarjeta V26A4 DE PREMIER",
+					"fr-FR": "Carte PREMIER V26A4",
+					"id-ID": "Card PREMIER V26A4",
+					"it-IT": "Carta PREMIER V26A4",
+					"ja-JP": "PREMIER V26A4 カード",
+					"ko-KR": "프리미어 V26A4 카드",
+					"pl-PL": "Karta „V26A4 PREMIER”",
+					"pt-BR": "Card PREMIER V26A4",
+					"ru-RU": "Карточка \"V26A4 PREMIER\"",
+					"th-TH": "การ์ด PREMIER V26A4",
+					"tr-TR": "PREMIER V26K4 Kartı",
+					"vi-VN": "Thẻ PREMIER V26P4",
+					"zh-CN": "超级赛//V26第四幕 卡面",
+					"zh-TW": "Premier V26第四章 玩家卡面"
+				}
+			}
+		},
+		{
 			"id": "BB5CEDCD-4ED9-EE2E-F129-48BF60A8E540",
 			"label": "BB5CEDCD-4ED9-EE2E-F129-48BF60A8E540",
 			"name":
@@ -235296,6 +236068,35 @@
 					"vi-VN": "Thẻ Ngọn Lửa Dễ Chịu",
 					"zh-CN": "霸得蛮 卡面",
 					"zh-TW": "吃得辣中辣 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "F963C514-44E3-AD75-5263-148B7D6FE088",
+			"label": "F963C514-44E3-AD75-5263-148B7D6FE088",
+			"name":
+			{
+				"defaultText": "Land of Heaven Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة أرض النعيم",
+					"de-DE": "Banner „Himmel auf Erden“",
+					"en-US": "Land of Heaven Card",
+					"es-ES": "Tarjeta Tierra celestial",
+					"es-MX": "Tarjeta Tierra Celestial",
+					"fr-FR": "Carte Terre de paradis",
+					"id-ID": "Card Land of Heaven",
+					"it-IT": "Carta Terra del paradiso",
+					"ja-JP": "天の国 カード",
+					"ko-KR": "낙원의 땅 카드",
+					"pl-PL": "Karta „Kraina niebios”",
+					"pt-BR": "Card Terra da Abundância",
+					"ru-RU": "Карточка \"Поднебесная\"",
+					"th-TH": "การ์ด Land of Heaven",
+					"tr-TR": "Heaven Bölgesi Kartı",
+					"vi-VN": "Thẻ Vùng Đất Trù Phú",
+					"zh-CN": "巴适得板 卡面",
+					"zh-TW": "祥和之地 玩家卡面"
 				}
 			}
 		},
@@ -238196,6 +238997,64 @@
 					"vi-VN": "Thẻ Neo Frontier",
 					"zh-CN": "西部未来 卡面",
 					"zh-TW": "邊陲紀元 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "5E5A435F-4A0D-0320-39C9-3FBE8FF65AE2",
+			"label": "5E5A435F-4A0D-0320-39C9-3FBE8FF65AE2",
+			"name":
+			{
+				"defaultText": "Frontier, V26 Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة الحدود، V26",
+					"de-DE": "Banner „Grenze, V26“",
+					"en-US": "Frontier, V26 Card",
+					"es-ES": "Tarjeta Frontier V26",
+					"es-MX": "Tarjeta V26: Oeste",
+					"fr-FR": "Carte Frontières, V26",
+					"id-ID": "Card Frontier, V26",
+					"it-IT": "Carta Frontiera V26",
+					"ja-JP": "フロンティア V26 カード",
+					"ko-KR": "프런티어, V26 카드",
+					"pl-PL": "Karta „Rubież, V26”",
+					"pt-BR": "Card Oeste V26",
+					"ru-RU": "Карточка \"Фронтир, V26\"",
+					"th-TH": "การ์ด Frontier, V26",
+					"tr-TR": "Geçmişin Tetikçisi, V26 Kartı",
+					"vi-VN": "Thẻ Frontier, V26",
+					"zh-CN": "西部牛仔 卡面",
+					"zh-TW": "西部邊陲 V26 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "E9A3D874-4893-B17A-00CA-0B88017F7919",
+			"label": "E9A3D874-4893-B17A-00CA-0B88017F7919",
+			"name":
+			{
+				"defaultText": "Neo Frontier, V26 Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة الحدود الجديدة، V26",
+					"de-DE": "Banner „Neue Grenzen, V26“",
+					"en-US": "Neo Frontier, V26 Card",
+					"es-ES": "Tarjeta Neo Frontier V26",
+					"es-MX": "Tarjeta V26: Nuevo Oeste",
+					"fr-FR": "Carte Nouvelles frontières, V26",
+					"id-ID": "Card Neo Frontier, V26",
+					"it-IT": "Carta Nuova frontiera V26",
+					"ja-JP": "ネオフロンティア V26 カード",
+					"ko-KR": "네오 프런티어, V26 카드",
+					"pl-PL": "Karta „Neo Rubież, V26”",
+					"pt-BR": "Card Neo Oeste V26",
+					"ru-RU": "Карточка \"Новый фронтир, V26\"",
+					"th-TH": "การ์ด Neo Frontier, V26",
+					"tr-TR": "Geleceğin Tetikçisi, V26 Kartı",
+					"vi-VN": "Thẻ Neo Frontier, V26",
+					"zh-CN": "西部未来//2.0 卡面",
+					"zh-TW": "邊陲紀元 V26 玩家卡面"
 				}
 			}
 		},
@@ -241256,7 +242115,7 @@
 					"de-DE": "Banner „5 Years: Rückeroberung“",
 					"en-US": "5 Years: Retake Card",
 					"es-ES": "Tarjeta 5 Years: Reconquista",
-					"es-MX": "5 Years: Tarjeta Recuperación",
+					"es-MX": "5 Years: Tarjeta Recaptura",
 					"fr-FR": "Carte 5 Years : Retake",
 					"id-ID": "Card 5 Years: Retake",
 					"it-IT": "Carta 5 Years: Riconquista",
@@ -265097,6 +265956,330 @@
 					"vi-VN": "Danh Hiệu VĐ PREMIER V26P3 // TD",
 					"zh-CN": "超级赛//V26第三幕冠军//初级 称号",
 					"zh-TW": "Premier V26第三章冠軍 // 初階 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V26A4 CHAMPION // ADV",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V26م4 // متقدم",
+					"de-DE": "PREMIER V26A4 CHAMPION // PRF",
+					"en-US": "PREMIER V26A4 CHAMPION // ADV",
+					"es-ES": "CAMP. PREMIER V26A4 // AVNZ",
+					"es-MX": "AVAN. // CAMPEONES PREMIER V26A4",
+					"fr-FR": "CHAMPION DE PREMIER V26A4 // AVN",
+					"id-ID": "PREMIER V26A4 CHAMPION // ADV",
+					"it-IT": "CAMPIONE PREMIER V26A4 // AVZ",
+					"ja-JP": "PREMIER V26A4 チャンピオン // ADV",
+					"ko-KR": "프리미어 V26A4 챔피언 // 중상급",
+					"pl-PL": "BOHATER V26A4 PREMIER // ZWN",
+					"pt-BR": "CAMPEÃO PREMIER V26A4 // AV",
+					"ru-RU": "ЧЕМПИОН V26A4 PREMIER // АС",
+					"th-TH": "PREMIER V26A4 CHAMPION // ADV",
+					"tr-TR": "PREMIER V26K4 ŞAMP. // İLR",
+					"vi-VN": "VĐ PREMIER V26P4 // CC",
+					"zh-CN": "超级赛//V26第四幕冠军//高级",
+					"zh-TW": "Premier V26第四章冠軍 // 高階"
+				}
+			},
+			"id": "13AE4B95-4763-7CAD-6ED8-FC876B1A02AA",
+			"label": "13AE4B95-4763-7CAD-6ED8-FC876B1A02AA",
+			"name":
+			{
+				"defaultText": "PREMIER V26A4 CHAMPION // ADV Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V26م4 // متقدم",
+					"de-DE": "Titel „PREMIER V26A4 CHAMPION // PRF“",
+					"en-US": "PREMIER V26A4 CHAMPION // ADV Title",
+					"es-ES": "Título CAMP. PREMIER V26A4 // AVNZ",
+					"es-MX": "Título AVAN. // CAMPEONES PREMIER V26A4",
+					"fr-FR": "Titre CHAMPION DE PREMIER V26A4 // AVN",
+					"id-ID": "Gelar PREMIER V26A4 CHAMPION // ADV",
+					"it-IT": "Titolo CAMPIONE PREMIER V26A4 // AVZ",
+					"ja-JP": "PREMIER V26A4 チャンピオン // ADV タイトル",
+					"ko-KR": "프리미어 V26A4 챔피언 // 중상급 칭호",
+					"pl-PL": "Tytuł „BOHATER V26A4 PREMIER // ZWN”",
+					"pt-BR": "Título CAMPEÃO PREMIER V26A4 // AV",
+					"ru-RU": "Звание \"ЧЕМПИОН V26A4 PREMIER // АС\"",
+					"th-TH": "ฉายา PREMIER V26A4 CHAMPION // ADV",
+					"tr-TR": "PREMIER V26K4 ŞAMP. // İLR Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V26P4 // CC",
+					"zh-CN": "超级赛//V26第四幕冠军//高级 称号",
+					"zh-TW": "Premier V26第四章冠軍 // 高階 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V26A4 CHAMPION // CTD",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V26م4 // منافس",
+					"de-DE": "PREMIER V26A4 CHAMPION // KNDT",
+					"en-US": "PREMIER V26A4 CHAMPION // CTD",
+					"es-ES": "CAMP. PREMIER V26A4 // CNTD",
+					"es-MX": "CONT. // CAMPEONES PREMIER V26A4",
+					"fr-FR": "CHAMPION DE PREMIER V26A4 // CCR",
+					"id-ID": "PREMIER V26A4 CHAMPION // CTD",
+					"it-IT": "CAMPIONE PREMIER V26A4 // SFD",
+					"ja-JP": "PREMIER V26A4 チャンピオン // CTD",
+					"ko-KR": "프리미어 V26A4 챔피언 // 최상급",
+					"pl-PL": "BOHATER V26A4 PREMIER // ZDK",
+					"pt-BR": "CAMPEÃO PREMIER V26A4 // DES",
+					"ru-RU": "ЧЕМПИОН V26A4 PREMIER // БОЕЦ",
+					"th-TH": "PREMIER V26A4 CHAMPION // CTD",
+					"tr-TR": "PREMIER V26K4 ŞAMP. // TTKÇİ",
+					"vi-VN": "VĐ PREMIER V26P4 // UVNK",
+					"zh-CN": "超级赛//V26第四幕冠军//竞争者",
+					"zh-TW": "Premier V26第四章冠軍 // 競爭者"
+				}
+			},
+			"id": "CF91E843-4C68-C3E4-E4F3-61842E844FA3",
+			"label": "CF91E843-4C68-C3E4-E4F3-61842E844FA3",
+			"name":
+			{
+				"defaultText": "PREMIER V26A4 CHAMPION // CTD Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V26م4 // منافس",
+					"de-DE": "Titel „PREMIER V26A4 CHAMPION // KNDT“",
+					"en-US": "PREMIER V26A4 CHAMPION // CTD Title",
+					"es-ES": "Título CAMP. PREMIER V26A4 // CNTD",
+					"es-MX": "Título CONT. // CAMPEONES PREMIER V26A4",
+					"fr-FR": "Titre CHAMPION DE PREMIER V26A4 // CCR",
+					"id-ID": "Gelar PREMIER V26A4 CHAMPION // CTD",
+					"it-IT": "Titolo CAMPIONE PREMIER V26A4 // SFD",
+					"ja-JP": "PREMIER V26A4 チャンピオン // CTD タイトル",
+					"ko-KR": "프리미어 V26A4 챔피언 // 최상급 칭호",
+					"pl-PL": "Tytuł „BOHATER V26A4 PREMIER // ZDK”",
+					"pt-BR": "Título CAMPEÃO PREMIER V26A4 // DES",
+					"ru-RU": "Звание \"ЧЕМПИОН V26A4 PREMIER // БОЕЦ\"",
+					"th-TH": "ฉายา PREMIER V26A4 CHAMPION // CTD",
+					"tr-TR": "PREMIER V26K4 ŞAMP. // TTKÇİ Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V26P4 // UVNK",
+					"zh-CN": "超级赛//V26第四幕冠军//竞争者 称号",
+					"zh-TW": "Premier V26第四章冠軍 // 競爭者 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V26A4 CHAMPION // ELT",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V26م4 // نخبة",
+					"de-DE": "PREMIER V26A4 CHAMPION // ELT",
+					"en-US": "PREMIER V26A4 CHAMPION // ELT",
+					"es-ES": "CAMP. PREMIER V26A4 // ÉLT",
+					"es-MX": "ÉLITE // CAMPEONES PREMIER V26A4",
+					"fr-FR": "CHAMPION DE PREMIER V26A4 // ÉLT",
+					"id-ID": "PREMIER V26A4 CHAMPION // ELT",
+					"it-IT": "CAMPIONE PREMIER V26A4 // ÉLT",
+					"ja-JP": "PREMIER V26A4 チャンピオン // ELT",
+					"ko-KR": "프리미어 V26A4 챔피언 // 상급",
+					"pl-PL": "BOHATER V26A4 PREMIER // ELT",
+					"pt-BR": "CAMPEÃO PREMIER V26A4 // ELT",
+					"ru-RU": "ЧЕМПИОН V26A4 PREMIER // ЭЛИТА",
+					"th-TH": "PREMIER V26A4 CHAMPION // ELT",
+					"tr-TR": "PREMIER V26K4 ŞAMP. // SÇKN",
+					"vi-VN": "VĐ PREMIER V26P4 // TN",
+					"zh-CN": "超级赛//V26第四幕冠军//精英",
+					"zh-TW": "Premier V26第四章冠軍 // 菁英"
+				}
+			},
+			"id": "CAC05CAA-4BAC-8DD0-66AE-F48AC9EE3F9E",
+			"label": "CAC05CAA-4BAC-8DD0-66AE-F48AC9EE3F9E",
+			"name":
+			{
+				"defaultText": "PREMIER V26A4 CHAMPION // ELT Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V26م4 // نخبة",
+					"de-DE": "Titel „PREMIER V26A4 CHAMPION // ELT“",
+					"en-US": "PREMIER V26A4 CHAMPION // ELT Title",
+					"es-ES": "Título CAMP. PREMIER V26A4 // ÉLT",
+					"es-MX": "Título ÉLITE // CAMPEONES PREMIER V26A4",
+					"fr-FR": "Titre CHAMPION DE PREMIER V26A4 // ÉLT",
+					"id-ID": "Gelar PREMIER V26A4 CHAMPION // ELT",
+					"it-IT": "Titolo CAMPIONE PREMIER V26A4 // ÉLT",
+					"ja-JP": "PREMIER V26A4 チャンピオン // ELT タイトル",
+					"ko-KR": "프리미어 V26A4 챔피언 // 상급 칭호",
+					"pl-PL": "Tytuł „BOHATER V26A4 PREMIER // ELT”",
+					"pt-BR": "Título CAMPEÃO PREMIER V26A4 // ELT",
+					"ru-RU": "Звание \"ЧЕМПИОН V26A4 PREMIER // ЭЛИТА\"",
+					"th-TH": "ฉายา PREMIER V26A4 CHAMPION // ELT",
+					"tr-TR": "PREMIER V26K4 ŞAMP. // SÇKN Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V26P4 // TN",
+					"zh-CN": "超级赛//V26第四幕冠军//精英 称号",
+					"zh-TW": "Premier V26第四章冠軍 // 菁英 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V26A4 GRAND CHAMP",
+				"localizedByCulture":
+				{
+					"ar-AE": "البطل الأعظم بريمير V26م4",
+					"de-DE": "PREMIER V26A4 GROSSMEISTER",
+					"en-US": "PREMIER V26A4 GRAND CHAMP",
+					"es-ES": "GRAN CAMP. PREMIER V26A4",
+					"es-MX": "MEGACAMPEONES PREMIER V26A4",
+					"fr-FR": "GRAND CHAMPION DE PREMIER V26A4",
+					"id-ID": "PREMIER V26A4 GRAND CHAMP",
+					"it-IT": "CAMPIONE ASSOLUTO PREMIER V26A4",
+					"ja-JP": "PREMIER V26A4 グランドチャンピオン",
+					"ko-KR": "프리미어 V26A4 그랜드 챔피언",
+					"pl-PL": "NAJWIĘKSZY BOHATER V26A4 PREMIER",
+					"pt-BR": "GRANDE CAMPEÃO PREMIER V26A4",
+					"ru-RU": "ГРАНД-ЧЕМПИОН V26A4 PREMIER",
+					"th-TH": "PREMIER V26A4 GRAND CHAMP",
+					"tr-TR": "PREMIER V26K4 BÜYÜK ŞAMP.",
+					"vi-VN": "NHÀ VĐ PREMIER V26P4",
+					"zh-CN": "超级赛//V26第四幕总冠军",
+					"zh-TW": "Premier V26第四章總冠軍"
+				}
+			},
+			"id": "7F9FCA41-443E-DB60-871B-2796C1B1E5A0",
+			"label": "7F9FCA41-443E-DB60-871B-2796C1B1E5A0",
+			"name":
+			{
+				"defaultText": "PREMIER V26A4 GRAND CHAMP Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب البطل الأعظم بريمير V26م4",
+					"de-DE": "Titel „PREMIER V26A4 GROSSMEISTER“",
+					"en-US": "PREMIER V26A4 GRAND CHAMP Title",
+					"es-ES": "Título GRAN CAMP. PREMIER V26A4",
+					"es-MX": "Título MEGACAMPEONES PREMIER V26A4",
+					"fr-FR": "Titre GRAND CHAMPION DE PREMIER V26A4",
+					"id-ID": "Gelar PREMIER V26A4 GRAND CHAMP",
+					"it-IT": "Titolo CAMPIONE ASSOLUTO PREMIER V26A4",
+					"ja-JP": "PREMIER V26A4 グランドチャンピオン タイトル",
+					"ko-KR": "프리미어 V26A4 그랜드 챔피언 칭호",
+					"pl-PL": "Tytuł „NAJWIĘKSZY BOHATER V26A4 PREMIER”",
+					"pt-BR": "Título GRANDE CAMPEÃO PREMIER V26A4",
+					"ru-RU": "Звание \"ГРАНД-ЧЕМПИОН V26A4 PREMIER\"",
+					"th-TH": "ฉายา PREMIER V26A4 GRAND CHAMP",
+					"tr-TR": "PREMIER V26K4 BÜYÜK ŞAMP. Unvanı",
+					"vi-VN": "Danh Hiệu NHÀ VĐ PREMIER V26P4",
+					"zh-CN": "超级赛//V26第四幕总冠军 称号",
+					"zh-TW": "Premier V26第四章總冠軍 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V26A4 CHAMPION // INT",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V26م4 // متوسط",
+					"de-DE": "PREMIER V26A4 CHAMPION // FRTG",
+					"en-US": "PREMIER V26A4 CHAMPION // INT",
+					"es-ES": "CAMP. PREMIER V26A4 // INTM",
+					"es-MX": "INT. // CAMPEONES PREMIER V26A4",
+					"fr-FR": "CHAMPION DE PREMIER V26A4 // INT",
+					"id-ID": "PREMIER V26A4 CHAMPION // INT",
+					"it-IT": "CAMPIONE PREMIER V26A4 // INT",
+					"ja-JP": "PREMIER V26A4 チャンピオン // INT",
+					"ko-KR": "프리미어 V26A4 챔피언 // 중급",
+					"pl-PL": "BOHATER V26A4 PREMIER // ŚRD",
+					"pt-BR": "CAMPEÃO PREMIER V26A4 // INT",
+					"ru-RU": "ЧЕМПИОН V26A4 PREMIER // СРЕД",
+					"th-TH": "PREMIER V26A4 CHAMPION // INT",
+					"tr-TR": "PREMIER V26K4 ŞAMP. // ORT",
+					"vi-VN": "VĐ PREMIER V26P4 // TC",
+					"zh-CN": "超级赛//V26第四幕冠军//中级",
+					"zh-TW": "Premier V26第四章冠軍 // 中階"
+				}
+			},
+			"id": "32EDE102-433C-3D54-FCFF-D9BC5280887A",
+			"label": "32EDE102-433C-3D54-FCFF-D9BC5280887A",
+			"name":
+			{
+				"defaultText": "PREMIER V26A4 CHAMPION // INT Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V26م4 // متوسط",
+					"de-DE": "Titel „PREMIER V26A4 CHAMPION // FRTG“",
+					"en-US": "PREMIER V26A4 CHAMPION // INT Title",
+					"es-ES": "Título CAMP. PREMIER V26A4 // INTM",
+					"es-MX": "Título INT. // CAMPEONES PREMIER V26A4",
+					"fr-FR": "Titre CHAMPION DE PREMIER V26A4 // INT",
+					"id-ID": "Gelar PREMIER V26A4 CHAMPION // INT",
+					"it-IT": "Titolo CAMPIONE PREMIER V26A4 // INT",
+					"ja-JP": "PREMIER V26A4 チャンピオン // INT タイトル",
+					"ko-KR": "프리미어 V26A4 챔피언 // 중급 칭호",
+					"pl-PL": "Tytuł „BOHATER V26A4 PREMIER // ŚRD”",
+					"pt-BR": "Título CAMPEÃO PREMIER V26A4 // INT",
+					"ru-RU": "Звание \"ЧЕМПИОН V26A4 PREMIER // СРЕД\"",
+					"th-TH": "ฉายา PREMIER V26A4 CHAMPION // INT",
+					"tr-TR": "PREMIER V26K4 ŞAMP. // ORT Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V26P4 // TC",
+					"zh-CN": "超级赛//V26第四幕冠军//中级 称号",
+					"zh-TW": "Premier V26第四章冠軍 // 中階 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V26A4 CHAMPION // OPN",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V26م4 // مفتوح",
+					"de-DE": "PREMIER V26A4 CHAMPION // OFFN",
+					"en-US": "PREMIER V26A4 CHAMPION // OPN",
+					"es-ES": "CAMP. PREMIER V26A4 // ABRT",
+					"es-MX": "ABIERTO // CAMPEONES PREMIER V26A4",
+					"fr-FR": "CHAMPION DE PREMIER V26A4 // OUV",
+					"id-ID": "PREMIER V26A4 CHAMPION // OPN",
+					"it-IT": "CAMPIONE PREMIER V26A4 // APR",
+					"ja-JP": "PREMIER V26A4 チャンピオン // OPN",
+					"ko-KR": "프리미어 V26A4 챔피언 // 초급",
+					"pl-PL": "BOHATER V26A4 PREMIER // OTW",
+					"pt-BR": "CAMPEÃO PREMIER V26A4 // ABR",
+					"ru-RU": "ЧЕМПИОН V26A4 PREMIER // ОТКР",
+					"th-TH": "PREMIER V26A4 CHAMPION // OPN",
+					"tr-TR": "PREMIER V26K4 ŞAMP. // AÇK",
+					"vi-VN": "VĐ PREMIER V26P4 // TD",
+					"zh-CN": "超级赛//V26第四幕冠军//初级",
+					"zh-TW": "Premier V26第四章冠軍 // 初階"
+				}
+			},
+			"id": "01C94BED-442C-3FFA-2E9E-BF8E23DBCA9E",
+			"label": "01C94BED-442C-3FFA-2E9E-BF8E23DBCA9E",
+			"name":
+			{
+				"defaultText": "PREMIER V26A4 CHAMPION // OPN Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V26م4 // مفتوح",
+					"de-DE": "Titel „PREMIER V26A4 CHAMPION // OFFN“",
+					"en-US": "PREMIER V26A4 CHAMPION // OPN Title",
+					"es-ES": "Título CAMP. PREMIER V26A4 // ABRT",
+					"es-MX": "Título ABIERTO // CAMPEONES PREMIER V26A4",
+					"fr-FR": "Titre CHAMPION DE PREMIER V26A4 // OUV",
+					"id-ID": "Gelar PREMIER V26A4 CHAMPION // OPN",
+					"it-IT": "Titolo CAMPIONE PREMIER V26A4 // APR",
+					"ja-JP": "PREMIER V26A4 チャンピオン // OPN タイトル",
+					"ko-KR": "프리미어 V26A4 챔피언 // 초급 칭호",
+					"pl-PL": "Tytuł „BOHATER V26A4 PREMIER // OTW”",
+					"pt-BR": "Título CAMPEÃO PREMIER V26A4 // ABR",
+					"ru-RU": "Звание \"ЧЕМПИОН V26A4 PREMIER // ОТКР\"",
+					"th-TH": "ฉายา PREMIER V26A4 CHAMPION // OPN",
+					"tr-TR": "PREMIER V26K4 ŞAMP. // AÇK Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V26P4 // TD",
+					"zh-CN": "超级赛//V26第四幕冠军//初级 称号",
+					"zh-TW": "Premier V26第四章冠軍 // 初階 稱號"
 				}
 			}
 		},
@@ -301027,6 +302210,366 @@
 					"vi-VN": "Phụ Kiện VĐ PREMIER V26P3 // TD",
 					"zh-CN": "超级赛//V26第三幕冠军//初级 挂饰",
 					"zh-TW": "Premier V26第三章冠軍 // 初階 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "277B2FA0-4E67-53C1-7D61-9CBEBCB8E4E7",
+					"label": "277B2FA0-4E67-53C1-7D61-9CBEBCB8E4E7",
+					"name":
+					{
+						"defaultText": "PremierV26A4_Advanced",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A4_Advanced",
+							"de-DE": "PremierV26A4_Advanced",
+							"en-US": "PremierV26A4_Advanced",
+							"es-ES": "PremierV26A4_Advanced",
+							"es-MX": "PremierV26A4_Advanced",
+							"fr-FR": "PremierV26A4_Advanced",
+							"id-ID": "PremierV26A4_Advanced",
+							"it-IT": "PremierV26A4_Advanced",
+							"ja-JP": "PremierV26A4_Advanced",
+							"ko-KR": "PremierV26A4_Advanced",
+							"pl-PL": "PremierV26A4_Advanced",
+							"pt-BR": "PremierV26A4_Advanced",
+							"ru-RU": "PremierV26A4_Advanced",
+							"th-TH": "PremierV26A4_Advanced",
+							"tr-TR": "PremierV26A4_Advanced",
+							"vi-VN": "PremierV26A4_Advanced",
+							"zh-CN": "PremierV26A4_Advanced",
+							"zh-TW": "PremierV26A4_Advanced"
+						}
+					}
+				}
+			],
+			"id": "435035C0-4B44-3F8A-392B-4FA3FD70D9DF",
+			"label": "435035C0-4B44-3F8A-392B-4FA3FD70D9DF",
+			"name":
+			{
+				"defaultText": "PREMIER V26A4 CHAMPION // ADV Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V26م4 // متقدم",
+					"de-DE": "Talisman „PREMIER V26A4 CHAMPION // PRF“",
+					"en-US": "PREMIER V26A4 CHAMPION // ADV Buddy",
+					"es-ES": "Amuleto CAMP. PREMIER V26A4 // AVNZ",
+					"es-MX": "Buddy AVAN. // CAMPEONES PREMIER V26A4",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V26A4 // AVN",
+					"id-ID": "Buddy PREMIER V26A4 CHAMPION // ADV",
+					"it-IT": "Accessorio CAMPIONE PREMIER V26A4 // AVZ",
+					"ja-JP": "PREMIER V26A4 チャンピオン // ADV バディー",
+					"ko-KR": "프리미어 V26A4 챔피언 // 중상급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V26A4 PREMIER // ZWN”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V26A4 // AV",
+					"ru-RU": "Брелок \"ЧЕМПИОН V26A4 PREMIER // АС\"",
+					"th-TH": "บัดดี้ PREMIER V26A4 CHAMPION // ADV",
+					"tr-TR": "PREMIER V26K4 ŞAMPİYONU // İLR DZY Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V26P4 // CC",
+					"zh-CN": "超级赛//V26第四幕冠军//高级 挂饰",
+					"zh-TW": "Premier V26第四章冠軍 // 高階 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "D849ED95-4501-FC4C-FA32-95A736A9706E",
+					"label": "D849ED95-4501-FC4C-FA32-95A736A9706E",
+					"name":
+					{
+						"defaultText": "PremierV26A4_Contender",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A4_Contender",
+							"de-DE": "PremierV26A4_Contender",
+							"en-US": "PremierV26A4_Contender",
+							"es-ES": "PremierV26A4_Contender",
+							"es-MX": "PremierV26A4_Contender",
+							"fr-FR": "PremierV26A4_Contender",
+							"id-ID": "PremierV26A4_Contender",
+							"it-IT": "PremierV26A4_Contender",
+							"ja-JP": "PremierV26A4_Contender",
+							"ko-KR": "PremierV26A4_Contender",
+							"pl-PL": "PremierV26A4_Contender",
+							"pt-BR": "PremierV26A4_Contender",
+							"ru-RU": "PremierV26A4_Contender",
+							"th-TH": "PremierV26A4_Contender",
+							"tr-TR": "PremierV26A4_Contender",
+							"vi-VN": "PremierV26A4_Contender",
+							"zh-CN": "PremierV26A4_Contender",
+							"zh-TW": "PremierV26A4_Contender"
+						}
+					}
+				}
+			],
+			"id": "E46E56FF-4A55-6889-ED85-B1B7215CFB8B",
+			"label": "E46E56FF-4A55-6889-ED85-B1B7215CFB8B",
+			"name":
+			{
+				"defaultText": "PREMIER V26A4 CHAMPION // CTD Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V26م4 // منافس",
+					"de-DE": "Talisman „PREMIER V26A4 CHAMPION // KNDT“",
+					"en-US": "PREMIER V26A4 CHAMPION // CTD Buddy",
+					"es-ES": "Amuleto CAMP. PREMIER V26A4 // CNTD",
+					"es-MX": "Buddy CONT. // CAMPEONES PREMIER V26A4",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V26A4 // CCR",
+					"id-ID": "Buddy PREMIER V26A4 CHAMPION // CTD",
+					"it-IT": "Accessorio CAMPIONE PREMIER V26A4 // SFD",
+					"ja-JP": "PREMIER V26A4 チャンピオン // CTD バディー",
+					"ko-KR": "프리미어 V26A4 챔피언 // 최상급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V26A4 PREMIER // ZDK”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V26A4 // DES",
+					"ru-RU": "Брелок \"ЧЕМПИОН V26A4 PREMIER // БОЕЦ\"",
+					"th-TH": "บัดดี้ PREMIER V26A4 CHAMPION // CTD",
+					"tr-TR": "PREMIER V26K4 ŞAMPİYONU // TTKÇİ Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V26P4 // UVNK",
+					"zh-CN": "超级赛//V26第四幕冠军//竞争者 挂饰",
+					"zh-TW": "Premier V26第四章冠軍 // 競爭者 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "EC6D06AD-4C08-4983-9230-D89E1898B3C8",
+					"label": "EC6D06AD-4C08-4983-9230-D89E1898B3C8",
+					"name":
+					{
+						"defaultText": "PremierV26A4_Elite",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A4_Elite",
+							"de-DE": "PremierV26A4_Elite",
+							"en-US": "PremierV26A4_Elite",
+							"es-ES": "PremierV26A4_Elite",
+							"es-MX": "PremierV26A4_Elite",
+							"fr-FR": "PremierV26A4_Elite",
+							"id-ID": "PremierV26A4_Elite",
+							"it-IT": "PremierV26A4_Elite",
+							"ja-JP": "PremierV26A4_Elite",
+							"ko-KR": "PremierV26A4_Elite",
+							"pl-PL": "PremierV26A4_Elite",
+							"pt-BR": "PremierV26A4_Elite",
+							"ru-RU": "PremierV26A4_Elite",
+							"th-TH": "PremierV26A4_Elite",
+							"tr-TR": "PremierV26A4_Elite",
+							"vi-VN": "PremierV26A4_Elite",
+							"zh-CN": "PremierV26A4_Elite",
+							"zh-TW": "PremierV26A4_Elite"
+						}
+					}
+				}
+			],
+			"id": "D2620559-4EC1-7BD3-34B9-11826F39E0FB",
+			"label": "D2620559-4EC1-7BD3-34B9-11826F39E0FB",
+			"name":
+			{
+				"defaultText": "PREMIER V26A4 CHAMPION // ELT Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V26م4 // نخبة",
+					"de-DE": "Talisman „PREMIER V26A4 CHAMPION // ELT“",
+					"en-US": "PREMIER V26A4 CHAMPION // ELT Buddy",
+					"es-ES": "Amuleto CAMP. PREMIER V26A4 // ÉLT",
+					"es-MX": "Buddy ÉLITE // CAMPEONES PREMIER V26A4",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V26A4 // ÉLT",
+					"id-ID": "Buddy PREMIER V26A4 CHAMPION // ELT",
+					"it-IT": "Accessorio CAMPIONE PREMIER V26A4 // ÉLT",
+					"ja-JP": "PREMIER V26A4 チャンピオン // ELT バディー",
+					"ko-KR": "프리미어 V26A4 챔피언 // 상급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V26A4 PREMIER // ELT”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V26A4 // ELT",
+					"ru-RU": "Брелок \"ЧЕМПИОН V26A4 PREMIER // ЭЛИТА\"",
+					"th-TH": "บัดดี้ PREMIER V26A4 CHAMPION // ELT",
+					"tr-TR": "PREMIER V26K4 ŞAMPİYONU // SÇKN DZY Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V26P4 // TN",
+					"zh-CN": "超级赛//V26第四幕冠军//精英 挂饰",
+					"zh-TW": "Premier V26第四章冠軍 // 菁英 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "1004E13D-44BA-05F3-5491-C48D18B9211B",
+					"label": "1004E13D-44BA-05F3-5491-C48D18B9211B",
+					"name":
+					{
+						"defaultText": "PremierV26A4_Intermediate",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A4_Intermediate",
+							"de-DE": "PremierV26A4_Intermediate",
+							"en-US": "PremierV26A4_Intermediate",
+							"es-ES": "PremierV26A4_Intermediate",
+							"es-MX": "PremierV26A4_Intermediate",
+							"fr-FR": "PremierV26A4_Intermediate",
+							"id-ID": "PremierV26A4_Intermediate",
+							"it-IT": "PremierV26A4_Intermediate",
+							"ja-JP": "PremierV26A4_Intermediate",
+							"ko-KR": "PremierV26A4_Intermediate",
+							"pl-PL": "PremierV26A4_Intermediate",
+							"pt-BR": "PremierV26A4_Intermediate",
+							"ru-RU": "PremierV26A4_Intermediate",
+							"th-TH": "PremierV26A4_Intermediate",
+							"tr-TR": "PremierV26A4_Intermediate",
+							"vi-VN": "PremierV26A4_Intermediate",
+							"zh-CN": "PremierV26A4_Intermediate",
+							"zh-TW": "PremierV26A4_Intermediate"
+						}
+					}
+				}
+			],
+			"id": "3A32D17E-4F07-989F-3A83-7E979FC2D93A",
+			"label": "3A32D17E-4F07-989F-3A83-7E979FC2D93A",
+			"name":
+			{
+				"defaultText": "PREMIER V26A4 CHAMPION // INT Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V26م4 // متوسط",
+					"de-DE": "Talisman „PREMIER V26A4 CHAMPION // FRTG“",
+					"en-US": "PREMIER V26A4 CHAMPION // INT Buddy",
+					"es-ES": "Amuleto CAMP. PREMIER V26A4 // INTM",
+					"es-MX": "Buddy INT. // CAMPEONES PREMIER V26A4",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V26A4 // INT",
+					"id-ID": "Buddy PREMIER V26A4 CHAMPION // INT",
+					"it-IT": "Accessorio CAMPIONE PREMIER V26A4 // INT",
+					"ja-JP": "PREMIER V26A4 チャンピオン // INT バディー",
+					"ko-KR": "프리미어 V26A4 챔피언 // 중급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V26A4 PREMIER // ŚRD”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V26A4 // INT",
+					"ru-RU": "Брелок \"ЧЕМПИОН V26A4 PREMIER // СРЕД\"",
+					"th-TH": "บัดดี้ PREMIER V26A4 CHAMPION // INT",
+					"tr-TR": "PREMIER V26K4 ŞAMPİYONU // ORT DZY Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V26P4 // TC",
+					"zh-CN": "超级赛//V26第四幕冠军//中级 挂饰",
+					"zh-TW": "Premier V26第四章冠軍 // 中階 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "FB5DADC9-4FF2-2E6D-D496-2E88CF603684",
+					"label": "FB5DADC9-4FF2-2E6D-D496-2E88CF603684",
+					"name":
+					{
+						"defaultText": "PremierV26A4_Invite",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A4_Invite",
+							"de-DE": "PremierV26A4_Invite",
+							"en-US": "PremierV26A4_Invite",
+							"es-ES": "PremierV26A4_Invite",
+							"es-MX": "PremierV26A4_Invite",
+							"fr-FR": "PremierV26A4_Invite",
+							"id-ID": "PremierV26A4_Invite",
+							"it-IT": "PremierV26A4_Invite",
+							"ja-JP": "PremierV26A4_Invite",
+							"ko-KR": "PremierV26A4_Invite",
+							"pl-PL": "PremierV26A4_Invite",
+							"pt-BR": "PremierV26A4_Invite",
+							"ru-RU": "PremierV26A4_Invite",
+							"th-TH": "PremierV26A4_Invite",
+							"tr-TR": "PremierV26A4_Invite",
+							"vi-VN": "PremierV26A4_Invite",
+							"zh-CN": "PremierV26A4_Invite",
+							"zh-TW": "PremierV26A4_Invite"
+						}
+					}
+				}
+			],
+			"id": "ED619365-4E2D-1B96-2132-3DB249B0337E",
+			"label": "ED619365-4E2D-1B96-2132-3DB249B0337E",
+			"name":
+			{
+				"defaultText": "PREMIER V26A4 GRAND CHAMP Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق البطل الأعظم بريمير V26م4",
+					"de-DE": "Talisman „PREMIER V26A4 GROSSMEISTER“",
+					"en-US": "PREMIER V26A4 GRAND CHAMP Buddy",
+					"es-ES": "Amuleto GRAN CAMP. PREMIER V26A4",
+					"es-MX": "Buddy MEGACAMPEONES PREMIER V26A4",
+					"fr-FR": "Porte-bonheur GRAND CHAMPION DE PREMIER V26A4",
+					"id-ID": "Buddy PREMIER V26A4 GRAND CHAMP",
+					"it-IT": "Accessorio CAMPIONE ASSOLUTO PREMIER V26A4",
+					"ja-JP": "PREMIER V26A4 グランドチャンピオン バディー",
+					"ko-KR": "프리미어 V26A4 그랜드 챔피언 총기 장식",
+					"pl-PL": "Przywieszka „NAJWIĘKSZY BOHATER V26A4 PREMIER”",
+					"pt-BR": "Chaveiro GRANDE CAMPEÃO PREMIER V26A4",
+					"ru-RU": "Брелок \"ГРАНД-ЧЕМПИОН V26A4 PREMIER\"",
+					"th-TH": "บัดดี้ PREMIER V26A4 GRAND CHAMP",
+					"tr-TR": "PREMIER V26K4 BÜYÜK ŞAMPİYONU Uğuru",
+					"vi-VN": "Phụ Kiện NHÀ VĐ PREMIER V26P4",
+					"zh-CN": "超级赛//V26第四幕总冠军 挂饰",
+					"zh-TW": "Premier V26第四章總冠軍 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "716A055F-4B92-CC50-F454-519E78F2B808",
+					"label": "716A055F-4B92-CC50-F454-519E78F2B808",
+					"name":
+					{
+						"defaultText": "PremierV26A4_Open",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A4_Open",
+							"de-DE": "PremierV26A4_Open",
+							"en-US": "PremierV26A4_Open",
+							"es-ES": "PremierV26A4_Open",
+							"es-MX": "PremierV26A4_Open",
+							"fr-FR": "PremierV26A4_Open",
+							"id-ID": "PremierV26A4_Open",
+							"it-IT": "PremierV26A4_Open",
+							"ja-JP": "PremierV26A4_Open",
+							"ko-KR": "PremierV26A4_Open",
+							"pl-PL": "PremierV26A4_Open",
+							"pt-BR": "PremierV26A4_Open",
+							"ru-RU": "PremierV26A4_Open",
+							"th-TH": "PremierV26A4_Open",
+							"tr-TR": "PremierV26A4_Open",
+							"vi-VN": "PremierV26A4_Open",
+							"zh-CN": "PremierV26A4_Open",
+							"zh-TW": "PremierV26A4_Open"
+						}
+					}
+				}
+			],
+			"id": "952DA407-4BD6-3D06-ED47-53AE7C745999",
+			"label": "952DA407-4BD6-3D06-ED47-53AE7C745999",
+			"name":
+			{
+				"defaultText": "PREMIER V26A4 CHAMPION // OPN Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V26م4 // مفتوح",
+					"de-DE": "Talisman „PREMIER V26A4 CHAMPION // OFFN“",
+					"en-US": "PREMIER V26A4 CHAMPION // OPN Buddy",
+					"es-ES": "Amuleto CAMP. PREMIER V26A4 // ABRT",
+					"es-MX": "Buddy ABIERTO // CAMPEONES PREMIER V26A4",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V26A4 // OUV",
+					"id-ID": "Buddy PREMIER V26A4 CHAMPION // OPN",
+					"it-IT": "Accessorio CAMPIONE PREMIER V26A4 // APR",
+					"ja-JP": "PREMIER V26A4 チャンピオン // OPN バディー",
+					"ko-KR": "프리미어 V26A4 챔피언 // 초급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V26A4 PREMIER // OTW”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V26A4 // ABR",
+					"ru-RU": "Брелок \"ЧЕМПИОН V26A4 PREMIER // ОТКР\"",
+					"th-TH": "บัดดี้ PREMIER V26A4 CHAMPION // OPN",
+					"tr-TR": "PREMIER V26K4 ŞAMPİYONU // AÇK Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V26P4 // TD",
+					"zh-CN": "超级赛//V26第四幕冠军//初级 挂饰",
+					"zh-TW": "Premier V26第四章冠軍 // 初階 吊飾"
 				}
 			}
 		},
@@ -350775,6 +352318,66 @@
 		{
 			"levels": [
 				{
+					"id": "15952214-46FF-D8A2-E5CB-F4A84D6932D2",
+					"label": "15952214-46FF-D8A2-E5CB-F4A84D6932D2",
+					"name":
+					{
+						"defaultText": "Gunslinger2",
+						"localizedByCulture":
+						{
+							"ar-AE": "Gunslinger2",
+							"de-DE": "Gunslinger2",
+							"en-US": "Gunslinger2",
+							"es-ES": "Gunslinger2",
+							"es-MX": "Gunslinger2",
+							"fr-FR": "Gunslinger2",
+							"id-ID": "Gunslinger2",
+							"it-IT": "Gunslinger2",
+							"ja-JP": "Gunslinger2",
+							"ko-KR": "Gunslinger2",
+							"pl-PL": "Gunslinger2",
+							"pt-BR": "Gunslinger2",
+							"ru-RU": "Gunslinger2",
+							"th-TH": "Gunslinger2",
+							"tr-TR": "Gunslinger2",
+							"vi-VN": "Gunslinger2",
+							"zh-CN": "Gunslinger2",
+							"zh-TW": "Gunslinger2"
+						}
+					}
+				}
+			],
+			"id": "5D3CDE59-4D50-E54B-9126-D7BFAC8D18BC",
+			"label": "5D3CDE59-4D50-E54B-9126-D7BFAC8D18BC",
+			"name":
+			{
+				"defaultText": "Neo Frontier, V26 Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة الحدود الجديدة، V26",
+					"de-DE": "Graffiti „Neue Grenzen, V26“",
+					"en-US": "Neo Frontier, V26 Spray",
+					"es-ES": "Grafiti Neo Frontier V26",
+					"es-MX": "Spray V26: Nuevo Oeste",
+					"fr-FR": "Graffiti Nouvelles frontières, V26",
+					"id-ID": "Spray Neo Frontier, V26",
+					"it-IT": "Spray Nuova frontiera V26",
+					"ja-JP": "ネオフロンティア V26 スプレー",
+					"ko-KR": "네오 프런티어, V26 스프레이",
+					"pl-PL": "Graffiti „Neo Rubież, V26”",
+					"pt-BR": "Spray Neo Oeste V26",
+					"ru-RU": "Граффити \"Новый фронтир, V26\"",
+					"th-TH": "สเปรย์ Neo Frontier, V26",
+					"tr-TR": "Seri Tetik, V26 Spreyi",
+					"vi-VN": "Hình Phun Sơn Neo Frontier, V26",
+					"zh-CN": "西部未来//2.0 喷漆",
+					"zh-TW": "邊陲紀元 V26 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "BC2C6453-4FF5-321F-B35F-07BAE25AA8C0",
 					"label": "BC2C6453-4FF5-321F-B35F-07BAE25AA8C0",
 					"name":
@@ -371042,7 +372645,7 @@
 					"ja-JP": "二人乗り スプレー",
 					"ko-KR": "함께 그네타기 스프레이",
 					"pl-PL": "Graffiti „Huśtawka dla dwojga”",
-					"pt-BR": "Spray Abre Junto",
+					"pt-BR": "Spray No Balanço",
 					"ru-RU": "Граффити \"Качели для двоих\"",
 					"th-TH": "สเปรย์ Double Swing",
 					"tr-TR": "İkili Salıncak Spreyi",
