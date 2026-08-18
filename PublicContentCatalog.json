@@ -1,5 +1,5 @@
 {
-	"version": "13.02.00.5092570",
+	"version": "13.04.00.5304478",
 	"characters": [
 		{
 			"description":
@@ -6094,7 +6094,7 @@
 						"localizedByCulture":
 						{
 							"ar-AE": "بعد الموت، قم بالتفعيل للعودة إلى الحياة. بعد العودة إلى الحياة، يجب أن تحقق كلوف عملية قتل أو مساعدة في إلحاق الضرر ضمن فترة معينة كي تتجنب الموت. أعد التفعيل للإلغاء مبكرًا.",
-							"de-DE": "Nach dem Tod AKTIVIEREN zum Wiederbeleben. Nach der Wiederbelebung muss Clove innerhalb einer bestimmten Zeit einen Kill oder eine Schadensunterstützung erzielen, oder der Tod tritt erneut ein. REAKTIVIERE zum vorzeitigen Abbrechen.",
+							"de-DE": "Nach dem Tod AKTIVIEREN zum Wiederbeleben. Nach der Wiederbelebung muss Clove innerhalb einer bestimmten Zeit einen Kill oder Assist erzielen, oder der Tod tritt erneut ein. REAKTIVIERE zum vorzeitigen Abbrechen.",
 							"en-US": "After dying, ACTIVATE to resurrect. Once resurrected, Clove must earn a kill or a damaging assist within a set time or they will die. REACTIVATE to cancel early.",
 							"es-ES": "Tras morir, ACTIVA para resucitar. Al resucitar, Clove debe conseguir un asesinato o una asistencia de daño durante un periodo de tiempo determinado o morirá. REACTIVA para cancelar antes de tiempo.",
 							"es-MX": "Tras morir, ACTIVA para resucitar. Una vez que resucita, Clove debe conseguir un asesinato o una asistencia de daño dentro de un periodo de tiempo determinado o morirá. REACTIVA para cancelar antes de tiempo.",
@@ -17975,6 +17975,99 @@
 		},
 		{
 			"weaponId": "55D8A0F4-4274-CA67-FE2C-06AB45EFDF58",
+			"defaultChromaId": "08E01856-4DB1-9D05-734A-78964E2D6192",
+			"chromas": [
+				{
+					"id": "08E01856-4DB1-9D05-734A-78964E2D6192",
+					"label": "08E01856-4DB1-9D05-734A-78964E2D6192",
+					"name":
+					{
+						"defaultText": "Gourmand Ares",
+						"localizedByCulture":
+						{
+							"ar-AE": "الذواق آريز",
+							"de-DE": "Ares – Feinschmecker",
+							"en-US": "Gourmand Ares",
+							"es-ES": "Ares Gourmand",
+							"es-MX": "Ares Exquisitez",
+							"fr-FR": "Ares (Gourmet)",
+							"id-ID": "Gourmand Ares",
+							"it-IT": "Ares Buongustaio",
+							"ja-JP": "グルマン アレス",
+							"ko-KR": "미식가 아레스",
+							"pl-PL": "Ares Haute Cuisine",
+							"pt-BR": "Ares Gourmet",
+							"ru-RU": "Ares \"Гурман\"",
+							"th-TH": "Gourmand Ares",
+							"tr-TR": "Gurme Ares",
+							"vi-VN": "Ares Gourmand",
+							"zh-CN": "美食家 战神",
+							"zh-TW": "白金盛宴 戰神"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "4F1719AE-4399-2530-81D5-42837ED0DDB5",
+					"label": "4F1719AE-4399-2530-81D5-42837ED0DDB5",
+					"name":
+					{
+						"defaultText": "Gourmand Ares",
+						"localizedByCulture":
+						{
+							"ar-AE": "الذواق آريز",
+							"de-DE": "Ares – Feinschmecker",
+							"en-US": "Gourmand Ares",
+							"es-ES": "Ares Gourmand",
+							"es-MX": "Ares Exquisitez",
+							"fr-FR": "Ares (Gourmet)",
+							"id-ID": "Gourmand Ares",
+							"it-IT": "Ares Buongustaio",
+							"ja-JP": "グルマン アレス",
+							"ko-KR": "미식가 아레스",
+							"pl-PL": "Ares Haute Cuisine",
+							"pt-BR": "Ares Gourmet",
+							"ru-RU": "Ares \"Гурман\"",
+							"th-TH": "Gourmand Ares",
+							"tr-TR": "Gurme Ares",
+							"vi-VN": "Ares Gourmand",
+							"zh-CN": "美食家 战神",
+							"zh-TW": "白金盛宴 戰神"
+						}
+					}
+				}
+			],
+			"id": "E434418B-4A79-5353-3CFC-5A85AF91EF0B",
+			"label": "E434418B-4A79-5353-3CFC-5A85AF91EF0B",
+			"name":
+			{
+				"defaultText": "Gourmand Ares",
+				"localizedByCulture":
+				{
+					"ar-AE": "الذواق آريز",
+					"de-DE": "Ares – Feinschmecker",
+					"en-US": "Gourmand Ares",
+					"es-ES": "Ares Gourmand",
+					"es-MX": "Ares Exquisitez",
+					"fr-FR": "Ares (Gourmet)",
+					"id-ID": "Gourmand Ares",
+					"it-IT": "Ares Buongustaio",
+					"ja-JP": "グルマン アレス",
+					"ko-KR": "미식가 아레스",
+					"pl-PL": "Ares Haute Cuisine",
+					"pt-BR": "Ares Gourmet",
+					"ru-RU": "Ares \"Гурман\"",
+					"th-TH": "Gourmand Ares",
+					"tr-TR": "Gurme Ares",
+					"vi-VN": "Ares Gourmand",
+					"zh-CN": "美食家 战神",
+					"zh-TW": "白金盛宴 戰神"
+				}
+			}
+		},
+		{
+			"weaponId": "55D8A0F4-4274-CA67-FE2C-06AB45EFDF58",
 			"defaultChromaId": "F72769F3-4A87-FA60-B4EF-8287A718760D",
 			"chromas": [
 				{
@@ -26501,6 +26594,157 @@
 					"vi-VN": "Vandal Hành Trình Tinh Vân",
 					"zh-CN": "星光漫游 狂徒",
 					"zh-TW": "星光漫旅 暴徒"
+				}
+			}
+		},
+		{
+			"weaponId": "9C82E19D-4575-0200-1A81-3EACF00CF872",
+			"defaultChromaId": "FEA30A69-4B86-2A75-A97B-D1949CFC4D41",
+			"chromas": [
+				{
+					"id": "FEA30A69-4B86-2A75-A97B-D1949CFC4D41",
+					"label": "FEA30A69-4B86-2A75-A97B-D1949CFC4D41",
+					"name":
+					{
+						"defaultText": "Verdant Cafe Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "المقهى الأخضر فاندال",
+							"de-DE": "Vandal – Grünes Cafe",
+							"en-US": "Verdant Cafe Vandal",
+							"es-ES": "Vandal Verdant Cafe",
+							"es-MX": "Vandal Verde Espresso",
+							"fr-FR": "Vandal (Café verdoyant)",
+							"id-ID": "Verdant Cafe Vandal",
+							"it-IT": "Vandal Verdant Cafe",
+							"ja-JP": "ヴァーダントカフェ ヴァンダル",
+							"ko-KR": "신록의 카페 밴달",
+							"pl-PL": "Herbaciany Vandal",
+							"pt-BR": "Vandal Cafeteria Verdejante",
+							"ru-RU": "Vandal \"Зеленое кафе\"",
+							"th-TH": "Verdant Cafe Vandal",
+							"tr-TR": "Zümrüt Kafe Vandal",
+							"vi-VN": "Vandal Cafe Xanh Mát",
+							"zh-CN": "绿意咖啡馆 狂徒",
+							"zh-TW": "翠綠咖啡 暴徒"
+						}
+					}
+				},
+				{
+					"id": "C9BD169C-466D-52FE-12E8-7F989C0DEF0B",
+					"label": "C9BD169C-466D-52FE-12E8-7F989C0DEF0B",
+					"name":
+					{
+						"defaultText": "Verdant Cafe Vandal\n(Variant 1 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "المقهى الأخضر فاندال\n(بديل 1 أزرق)",
+							"de-DE": "Vandal – Grünes Cafe\n(Variante 1, Blau)",
+							"en-US": "Verdant Cafe Vandal\n(Variant 1 Blue)",
+							"es-ES": "Vandal Verdant Cafe\n(variante 1: azul)",
+							"es-MX": "Vandal Verde Espresso\n(Variante 1 Azul)",
+							"fr-FR": "Vandal (Café verdoyant)\n(variante 1 Bleu)",
+							"id-ID": "Verdant Cafe Vandal\n(Varian 1 Biru)",
+							"it-IT": "Vandal Verdant Cafe\n(variante 1 Blu)",
+							"ja-JP": "ヴァーダントカフェ ヴァンダル\n(ヴァリアント 1 ブルー)",
+							"ko-KR": "신록의 카페 밴달\n(변형 1 파란색)",
+							"pl-PL": "Herbaciany Vandal\n(wersja 1 – niebieska)",
+							"pt-BR": "Vandal Cafeteria Verdejante\n(Variante 1 Azul)",
+							"ru-RU": "Vandal \"Зеленое кафе\"\n(расцветка 1 \"Синий\")",
+							"th-TH": "Verdant Cafe Vandal\n(ตัวเลือกที่ 1 สีฟ้า)",
+							"tr-TR": "Zümrüt Kafe Vandal\n(Stil 1 - Mavi)",
+							"vi-VN": "Vandal Cafe Xanh Mát\n(Dạng 1 Ánh Lam)",
+							"zh-CN": "绿意咖啡馆 狂徒\n（炫彩1 蓝色）",
+							"zh-TW": "翠綠咖啡 暴徒\n(幻彩1 藍色)"
+						}
+					}
+				},
+				{
+					"id": "A7236B7D-471B-3A4B-E51C-E5B531D513C3",
+					"label": "A7236B7D-471B-3A4B-E51C-E5B531D513C3",
+					"name":
+					{
+						"defaultText": "Verdant Cafe Vandal\n(Variant 2 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "المقهى الأخضر فاندال\n(بديل 2 وردي)",
+							"de-DE": "Vandal – Grünes Cafe\n(Variante 2, Rosa)",
+							"en-US": "Verdant Cafe Vandal\n(Variant 2 Pink)",
+							"es-ES": "Vandal Verdant Cafe\n(variante 2: rosa)",
+							"es-MX": "Vandal Verde Espresso\n(Variante 2 Rosa)",
+							"fr-FR": "Vandal (Café verdoyant)\n(variante 2 Rose)",
+							"id-ID": "Verdant Cafe Vandal\n(Varian 2 Merah Muda)",
+							"it-IT": "Vandal Verdant Cafe\n(variante 2 Rosa)",
+							"ja-JP": "ヴァーダントカフェ ヴァンダル\n(ヴァリアント 2 ピンク)",
+							"ko-KR": "신록의 카페 밴달\n(변형 2 분홍색)",
+							"pl-PL": "Herbaciany Vandal\n(wersja 2 – różowa)",
+							"pt-BR": "Vandal Cafeteria Verdejante\n(Variante 2 Rosa)",
+							"ru-RU": "Vandal \"Зеленое кафе\"\n(расцветка 2 \"Розовый\")",
+							"th-TH": "Verdant Cafe Vandal\n(ตัวเลือกที่ 2 สีชมพู)",
+							"tr-TR": "Zümrüt Kafe Vandal\n(Stil 2 - Pembe)",
+							"vi-VN": "Vandal Cafe Xanh Mát\n(Dạng 2 Ánh Hồng)",
+							"zh-CN": "绿意咖啡馆 狂徒\n（炫彩2 粉色）",
+							"zh-TW": "翠綠咖啡 暴徒\n(幻彩2 粉色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "BC465BDB-4A85-7981-3E31-409D093E9C12",
+					"label": "BC465BDB-4A85-7981-3E31-409D093E9C12",
+					"name":
+					{
+						"defaultText": "Verdant Cafe Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "المقهى الأخضر فاندال",
+							"de-DE": "Vandal – Grünes Cafe",
+							"en-US": "Verdant Cafe Vandal",
+							"es-ES": "Vandal Verdant Cafe",
+							"es-MX": "Vandal Verde Espresso",
+							"fr-FR": "Vandal (Café verdoyant)",
+							"id-ID": "Verdant Cafe Vandal",
+							"it-IT": "Vandal Verdant Cafe",
+							"ja-JP": "ヴァーダントカフェ ヴァンダル",
+							"ko-KR": "신록의 카페 밴달",
+							"pl-PL": "Herbaciany Vandal",
+							"pt-BR": "Vandal Cafeteria Verdejante",
+							"ru-RU": "Vandal \"Зеленое кафе\"",
+							"th-TH": "Verdant Cafe Vandal",
+							"tr-TR": "Zümrüt Kafe Vandal",
+							"vi-VN": "Vandal Cafe Xanh Mát",
+							"zh-CN": "绿意咖啡馆 狂徒",
+							"zh-TW": "翠綠咖啡 暴徒"
+						}
+					}
+				}
+			],
+			"id": "7F26D04C-44FB-1D65-16F0-4F827686D72B",
+			"label": "7F26D04C-44FB-1D65-16F0-4F827686D72B",
+			"name":
+			{
+				"defaultText": "Verdant Cafe Vandal",
+				"localizedByCulture":
+				{
+					"ar-AE": "المقهى الأخضر فاندال",
+					"de-DE": "Vandal – Grünes Cafe",
+					"en-US": "Verdant Cafe Vandal",
+					"es-ES": "Vandal Verdant Cafe",
+					"es-MX": "Vandal Verde Espresso",
+					"fr-FR": "Vandal (Café verdoyant)",
+					"id-ID": "Verdant Cafe Vandal",
+					"it-IT": "Vandal Verdant Cafe",
+					"ja-JP": "ヴァーダントカフェ ヴァンダル",
+					"ko-KR": "신록의 카페 밴달",
+					"pl-PL": "Herbaciany Vandal",
+					"pt-BR": "Vandal Cafeteria Verdejante",
+					"ru-RU": "Vandal \"Зеленое кафе\"",
+					"th-TH": "Verdant Cafe Vandal",
+					"tr-TR": "Zümrüt Kafe Vandal",
+					"vi-VN": "Vandal Cafe Xanh Mát",
+					"zh-CN": "绿意咖啡馆 狂徒",
+					"zh-TW": "翠綠咖啡 暴徒"
 				}
 			}
 		},
@@ -37266,6 +37510,273 @@
 		},
 		{
 			"weaponId": "9C82E19D-4575-0200-1A81-3EACF00CF872",
+			"defaultChromaId": "AFF9BC95-4C4F-8E5F-2325-1CBFF7AA7BFD",
+			"chromas": [
+				{
+					"id": "AFF9BC95-4C4F-8E5F-2325-1CBFF7AA7BFD",
+					"label": "AFF9BC95-4C4F-8E5F-2325-1CBFF7AA7BFD",
+					"name":
+					{
+						"defaultText": "Aeris Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير فاندال",
+							"de-DE": "Vandal – Aeris",
+							"en-US": "Aeris Vandal",
+							"es-ES": "Vandal Aeris",
+							"es-MX": "Vandal Aeris",
+							"fr-FR": "Vandal (Aeris)",
+							"id-ID": "Aeris Vandal",
+							"it-IT": "Vandal Aeris",
+							"ja-JP": "エアリス ヴァンダル",
+							"ko-KR": "에리스 밴달",
+							"pl-PL": "Vandal Aeris",
+							"pt-BR": "Vandal Aeris",
+							"ru-RU": "Vandal \"Аэромантия\"",
+							"th-TH": "Aeris Vandal",
+							"tr-TR": "Göksel Vandal",
+							"vi-VN": "Vandal Aeris",
+							"zh-CN": "圣契命澜 狂徒",
+							"zh-TW": "至高聖使 暴徒"
+						}
+					}
+				},
+				{
+					"id": "5DAE3D09-47E4-1646-268D-99B9A25FABCD",
+					"label": "5DAE3D09-47E4-1646-268D-99B9A25FABCD",
+					"name":
+					{
+						"defaultText": "Aeris Vandal Level 4\n(Variant 1 Red)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير فاندال المستوى 4\n(بديل 1 أحمر)",
+							"de-DE": "Vandal – Aeris Level 4\n(Variante 1, Rot)",
+							"en-US": "Aeris Vandal Level 4\n(Variant 1 Red)",
+							"es-ES": "Vandal Aeris de nivel 4\n(variante 1: rojo)",
+							"es-MX": "Vandal Aeris nivel 4\n(Variante 1 Roja)",
+							"fr-FR": "Vandal (Aeris) niveau 4\n(variante 1 Rouge)",
+							"id-ID": "Aeris Vandal Level 4\n(Varian 1 Merah)",
+							"it-IT": "Vandal Aeris livello 4\n(variante 1 Rossa)",
+							"ja-JP": "エアリス ヴァンダル Lv.4\n(ヴァリアント 1 レッド)",
+							"ko-KR": "에리스 밴달 4레벨\n(변형 1 빨간색)",
+							"pl-PL": "Vandal Aeris (poziom 4)\n(wersja 1 – czerwona)",
+							"pt-BR": "Vandal Aeris Nível 4\n(Variante 1 Vermelha)",
+							"ru-RU": "Vandal \"Аэромантия\" уровень 4\n(расцветка 1 \"Красный\")",
+							"th-TH": "Aeris Vandal เลเวล 4\n(ตัวเลือกที่ 1 สีแดง)",
+							"tr-TR": "4. Seviye Göksel Vandal\n(Stil 1 - Kırmızı)",
+							"vi-VN": "Vandal Aeris Cấp 4\n(Dạng 1 Ánh Đỏ)",
+							"zh-CN": "圣契命澜 狂徒 等级4\n（炫彩1 红色）",
+							"zh-TW": "至高聖使 暴徒 等級4\n(幻彩1 紅色)"
+						}
+					}
+				},
+				{
+					"id": "19C4E9E7-431F-7BCA-D94C-6EBE740DEBDF",
+					"label": "19C4E9E7-431F-7BCA-D94C-6EBE740DEBDF",
+					"name":
+					{
+						"defaultText": "Aeris Vandal Level 4\r\n(Variant 2 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير فاندال المستوى 4\r\n(بديل 2 وردي)",
+							"de-DE": "Vandal – Aeris Level 4\r\n(Variante 2, Rosa)",
+							"en-US": "Aeris Vandal Level 4\r\n(Variant 2 Pink)",
+							"es-ES": "Vandal Aeris de nivel 4\r\n(variante 2: rosa)",
+							"es-MX": "Vandal Aeris nivel 4\r\n(Variante 2 Rosa)",
+							"fr-FR": "Vandal (Aeris) niveau 4\r\n(variante 2 Rose)",
+							"id-ID": "Aeris Vandal Level 4\r\n(Varian 2 Merah Muda)",
+							"it-IT": "Vandal Aeris livello 4\r\n(variante 2 Rosa)",
+							"ja-JP": "エアリス ヴァンダル Lv.4\r\n(ヴァリアント 2 ピンク)",
+							"ko-KR": "에리스 밴달 4레벨\r\n(변형 2 분홍색)",
+							"pl-PL": "Vandal Aeris (poziom 4)\r\n(wersja 2 – różowa)",
+							"pt-BR": "Vandal Aeris Nível 4\r\n(Variante 2 Rosa)",
+							"ru-RU": "Vandal \"Аэромантия\" уровень 4\r\n(расцветка 2 \"Розовый\")",
+							"th-TH": "Aeris Vandal เลเวล 4\r\n(ตัวเลือกที่ 2 สีชมพู)",
+							"tr-TR": "4. Seviye Göksel Vandal\r\n(Stil 2 - Pembe)",
+							"vi-VN": "Vandal Aeris Cấp 4\r\n(Dạng 2 Ánh Hồng)",
+							"zh-CN": "圣契命澜 狂徒 等级4\r\n（炫彩2 粉色）",
+							"zh-TW": "至高聖使 暴徒 等級4\r\n(幻彩2 粉色)"
+						}
+					}
+				},
+				{
+					"id": "56AA2AAA-4555-B3BB-E0C4-1284A8CB55DC",
+					"label": "56AA2AAA-4555-B3BB-E0C4-1284A8CB55DC",
+					"name":
+					{
+						"defaultText": "Aeris Vandal Level 4\n(Variant 3 Purple)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير فاندال المستوى 4\n(بديل 3 أرجواني)",
+							"de-DE": "Vandal – Aeris Level 4\n(Variante 3, Violett)",
+							"en-US": "Aeris Vandal Level 4\n(Variant 3 Purple)",
+							"es-ES": "Vandal Aeris de nivel 4\n(variante 3: púrpura)",
+							"es-MX": "Vandal Aeris nivel 4\n(Variante 3 Morada)",
+							"fr-FR": "Vandal (Aeris) niveau 4\n(variante 3 Violet)",
+							"id-ID": "Aeris Vandal Level 4\n(Varian 3 Ungu)",
+							"it-IT": "Vandal Aeris livello 4\n(variante 3 Viola)",
+							"ja-JP": "エアリス ヴァンダル Lv.4\n(ヴァリアント 3 パープル)",
+							"ko-KR": "에리스 밴달 4레벨\n(변형 3 보라색)",
+							"pl-PL": "Vandal Aeris (poziom 4)\n(wersja 3 – fioletowa)",
+							"pt-BR": "Vandal Aeris Nível 4\n(Variante 3 Roxa)",
+							"ru-RU": "Vandal \"Аэромантия\" уровень 4\n(расцветка 3 \"Фиолетовый\")",
+							"th-TH": "Aeris Vandal เลเวล 4\n(ตัวเลือกที่ 3 สีม่วง)",
+							"tr-TR": "4. Seviye Göksel Vandal\n(Stil 3 - Mor)",
+							"vi-VN": "Vandal Aeris Cấp 4\n(Dạng 3 Ánh Tím)",
+							"zh-CN": "圣契命澜 狂徒 等级4\n（炫彩3 紫色）",
+							"zh-TW": "至高聖使 暴徒 等級4\n(幻彩3 紫色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "13860846-441E-D781-D60F-24AEAA2992BE",
+					"label": "13860846-441E-D781-D60F-24AEAA2992BE",
+					"name":
+					{
+						"defaultText": "Aeris Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير فاندال",
+							"de-DE": "Vandal – Aeris",
+							"en-US": "Aeris Vandal",
+							"es-ES": "Vandal Aeris",
+							"es-MX": "Vandal Aeris",
+							"fr-FR": "Vandal (Aeris)",
+							"id-ID": "Aeris Vandal",
+							"it-IT": "Vandal Aeris",
+							"ja-JP": "エアリス ヴァンダル",
+							"ko-KR": "에리스 밴달",
+							"pl-PL": "Vandal Aeris",
+							"pt-BR": "Vandal Aeris",
+							"ru-RU": "Vandal \"Аэромантия\"",
+							"th-TH": "Aeris Vandal",
+							"tr-TR": "Göksel Vandal",
+							"vi-VN": "Vandal Aeris",
+							"zh-CN": "圣契命澜 狂徒",
+							"zh-TW": "至高聖使 暴徒"
+						}
+					}
+				},
+				{
+					"id": "6EABEABD-4739-452A-CB6E-8CADA37E26A9",
+					"label": "6EABEABD-4739-452A-CB6E-8CADA37E26A9",
+					"name":
+					{
+						"defaultText": "Aeris Vandal Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير فاندال المستوى 2",
+							"de-DE": "Vandal – Aeris Level 2",
+							"en-US": "Aeris Vandal Level 2",
+							"es-ES": "Vandal Aeris de nivel 2",
+							"es-MX": "Vandal Aeris nivel 2",
+							"fr-FR": "Vandal (Aeris) niveau 2",
+							"id-ID": "Aeris Vandal Level 2",
+							"it-IT": "Vandal Aeris livello 2",
+							"ja-JP": "エアリス ヴァンダル Lv.2",
+							"ko-KR": "에리스 밴달 2레벨",
+							"pl-PL": "Vandal Aeris (poziom 2)",
+							"pt-BR": "Vandal Aeris Nível 2",
+							"ru-RU": "Vandal \"Аэромантия\" уровень 2",
+							"th-TH": "Aeris Vandal เลเวล 2",
+							"tr-TR": "2. Seviye Göksel Vandal",
+							"vi-VN": "Vandal Aeris Cấp 2",
+							"zh-CN": "圣契命澜 狂徒 等级2",
+							"zh-TW": "至高聖使 暴徒 等級2"
+						}
+					}
+				},
+				{
+					"id": "96085641-4F34-B589-6895-68BAF91AE83D",
+					"label": "96085641-4F34-B589-6895-68BAF91AE83D",
+					"name":
+					{
+						"defaultText": "Aeris Vandal Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير فاندال المستوى 3",
+							"de-DE": "Vandal – Aeris Level 3",
+							"en-US": "Aeris Vandal Level 3",
+							"es-ES": "Vandal Aeris de nivel 3",
+							"es-MX": "Vandal Aeris nivel 3",
+							"fr-FR": "Vandal (Aeris) niveau 3",
+							"id-ID": "Aeris Vandal Level 3",
+							"it-IT": "Vandal Aeris livello 3",
+							"ja-JP": "エアリス ヴァンダル Lv.3",
+							"ko-KR": "에리스 밴달 3레벨",
+							"pl-PL": "Vandal Aeris (poziom 3)",
+							"pt-BR": "Vandal Aeris Nível 3",
+							"ru-RU": "Vandal \"Аэромантия\" уровень 3",
+							"th-TH": "Aeris Vandal เลเวล 3",
+							"tr-TR": "3. Seviye Göksel Vandal",
+							"vi-VN": "Vandal Aeris Cấp 3",
+							"zh-CN": "圣契命澜 狂徒 等级3",
+							"zh-TW": "至高聖使 暴徒 等級3"
+						}
+					}
+				},
+				{
+					"id": "9776CB67-4CAE-E504-75BC-DA94D571BDE2",
+					"label": "9776CB67-4CAE-E504-75BC-DA94D571BDE2",
+					"name":
+					{
+						"defaultText": "Aeris Vandal Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير فاندال المستوى 4",
+							"de-DE": "Vandal – Aeris Level 4",
+							"en-US": "Aeris Vandal Level 4",
+							"es-ES": "Vandal Aeris de nivel 4",
+							"es-MX": "Vandal Aeris nivel 4",
+							"fr-FR": "Vandal (Aeris) niveau 4",
+							"id-ID": "Aeris Vandal Level 4",
+							"it-IT": "Vandal Aeris livello 4",
+							"ja-JP": "エアリス ヴァンダル Lv.4",
+							"ko-KR": "에리스 밴달 4레벨",
+							"pl-PL": "Vandal Aeris (poziom 4)",
+							"pt-BR": "Vandal Aeris Nível 4",
+							"ru-RU": "Vandal \"Аэромантия\" уровень 4",
+							"th-TH": "Aeris Vandal เลเวล 4",
+							"tr-TR": "4. Seviye Göksel Vandal",
+							"vi-VN": "Vandal Aeris Cấp 4",
+							"zh-CN": "圣契命澜 狂徒 等级4",
+							"zh-TW": "至高聖使 暴徒 等級4"
+						}
+					}
+				}
+			],
+			"id": "B494DDD1-4459-6976-6736-00A563A74376",
+			"label": "B494DDD1-4459-6976-6736-00A563A74376",
+			"name":
+			{
+				"defaultText": "Aeris Vandal",
+				"localizedByCulture":
+				{
+					"ar-AE": "الأثير فاندال",
+					"de-DE": "Vandal – Aeris",
+					"en-US": "Aeris Vandal",
+					"es-ES": "Vandal Aeris",
+					"es-MX": "Vandal Aeris",
+					"fr-FR": "Vandal (Aeris)",
+					"id-ID": "Aeris Vandal",
+					"it-IT": "Vandal Aeris",
+					"ja-JP": "エアリス ヴァンダル",
+					"ko-KR": "에리스 밴달",
+					"pl-PL": "Vandal Aeris",
+					"pt-BR": "Vandal Aeris",
+					"ru-RU": "Vandal \"Аэромантия\"",
+					"th-TH": "Aeris Vandal",
+					"tr-TR": "Göksel Vandal",
+					"vi-VN": "Vandal Aeris",
+					"zh-CN": "圣契命澜 狂徒",
+					"zh-TW": "至高聖使 暴徒"
+				}
+			}
+		},
+		{
+			"weaponId": "9C82E19D-4575-0200-1A81-3EACF00CF872",
 			"defaultChromaId": "693F951B-43E8-1128-BB8D-3680FC2EF86A",
 			"chromas": [
 				{
@@ -43231,6 +43742,157 @@
 					"vi-VN": "Bulldog Nocturnum",
 					"zh-CN": "黯夜怪谈 獠犬",
 					"zh-TW": "暗夜行者 鬥牛犬"
+				}
+			}
+		},
+		{
+			"weaponId": "AE3DE142-4D85-2547-DD26-4E90BED35CF7",
+			"defaultChromaId": "2E0F85E1-4315-7660-4A61-7B989499ABEA",
+			"chromas": [
+				{
+					"id": "2E0F85E1-4315-7660-4A61-7B989499ABEA",
+					"label": "2E0F85E1-4315-7660-4A61-7B989499ABEA",
+					"name":
+					{
+						"defaultText": "Verdant Cafe Bulldog",
+						"localizedByCulture":
+						{
+							"ar-AE": "المقهى الأخضر بولدوغ",
+							"de-DE": "Bulldog – Grünes Cafe",
+							"en-US": "Verdant Cafe Bulldog",
+							"es-ES": "Bulldog Verdant Cafe",
+							"es-MX": "Bulldog Verde Espresso",
+							"fr-FR": "Bulldog (Café verdoyant)",
+							"id-ID": "Verdant Cafe Bulldog",
+							"it-IT": "Bulldog Verdant Cafe",
+							"ja-JP": "ヴァーダントカフェ ブルドッグ",
+							"ko-KR": "신록의 카페 불독",
+							"pl-PL": "Herbaciany Bulldog",
+							"pt-BR": "Bulldog Cafeteria Verdejante",
+							"ru-RU": "Bulldog \"Зеленое кафе\"",
+							"th-TH": "Verdant Cafe Bulldog",
+							"tr-TR": "Zümrüt Kafe Bulldog",
+							"vi-VN": "Bulldog Cafe Xanh Mát",
+							"zh-CN": "绿意咖啡馆 獠犬",
+							"zh-TW": "翠綠咖啡 鬥牛犬"
+						}
+					}
+				},
+				{
+					"id": "7894A28E-4D1F-E3AE-BE83-1AACD1959406",
+					"label": "7894A28E-4D1F-E3AE-BE83-1AACD1959406",
+					"name":
+					{
+						"defaultText": "Verdant Cafe Bulldog\n(Variant 1 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "المقهى الأخضر بولدوغ\n(بديل 1 أزرق)",
+							"de-DE": "Bulldog – Grünes Cafe\n(Variante 1, Blau)",
+							"en-US": "Verdant Cafe Bulldog\n(Variant 1 Blue)",
+							"es-ES": "Bulldog Verdant Cafe\n(variante 1: azul)",
+							"es-MX": "Bulldog Verde Espresso\n(Variante 1 Azul)",
+							"fr-FR": "Bulldog (Café verdoyant)\n(variante 1 Bleu)",
+							"id-ID": "Verdant Cafe Bulldog\n(Varian 1 Biru)",
+							"it-IT": "Bulldog Verdant Cafe\n(variante 1 Blu)",
+							"ja-JP": "ヴァーダントカフェ ブルドッグ\n(ヴァリアント 1 ブルー)",
+							"ko-KR": "신록의 카페 불독\n(변형 1 파란색)",
+							"pl-PL": "Herbaciany Bulldog\n(wersja 1 – niebieska)",
+							"pt-BR": "Bulldog Cafeteria Verdejante\n(Variante 1 Azul)",
+							"ru-RU": "Bulldog \"Зеленое кафе\"\n(расцветка 1 \"Синий\")",
+							"th-TH": "Verdant Cafe Bulldog\n(ตัวเลือกที่ 1 สีฟ้า)",
+							"tr-TR": "Zümrüt Kafe Bulldog\n(Stil 1 - Mavi)",
+							"vi-VN": "Bulldog Cafe Xanh Mát\n(Dạng 1 Ánh Lam)",
+							"zh-CN": "绿意咖啡馆 獠犬\n（炫彩1 蓝色）",
+							"zh-TW": "翠綠咖啡 鬥牛犬\n(幻彩1 藍色)"
+						}
+					}
+				},
+				{
+					"id": "4100C65C-43B3-2F70-1557-52916C8F4E37",
+					"label": "4100C65C-43B3-2F70-1557-52916C8F4E37",
+					"name":
+					{
+						"defaultText": "Verdant Cafe Bulldog\n(Variant 2 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "المقهى الأخضر بولدوغ\n(بديل 2 وردي)",
+							"de-DE": "Bulldog – Grünes Cafe\n(Variante 2, Rosa)",
+							"en-US": "Verdant Cafe Bulldog\n(Variant 2 Pink)",
+							"es-ES": "Bulldog Verdant Cafe\n(variante 2: rosa)",
+							"es-MX": "Bulldog Verde Espresso\n(Variante 2 Rosa)",
+							"fr-FR": "Bulldog (Café verdoyant)\n(variante 2 Rose)",
+							"id-ID": "Verdant Cafe Bulldog\n(Varian 2 Merah Muda)",
+							"it-IT": "Bulldog Verdant Cafe\n(variante 2 Rosa)",
+							"ja-JP": "ヴァーダントカフェ ブルドッグ\n(ヴァリアント 2 ピンク)",
+							"ko-KR": "신록의 카페 불독\n(변형 2 분홍색)",
+							"pl-PL": "Herbaciany Bulldog\n(wersja 2 – różowa)",
+							"pt-BR": "Bulldog Cafeteria Verdejante\n(Variante 2 Rosa)",
+							"ru-RU": "Bulldog \"Зеленое кафе\"\n(расцветка 2 \"Розовый\")",
+							"th-TH": "Verdant Cafe Bulldog\n(ตัวเลือกที่ 2 สีชมพู)",
+							"tr-TR": "Zümrüt Kafe Bulldog\n(Stil 2 - Pembe)",
+							"vi-VN": "Bulldog Cafe Xanh Mát\n(Dạng 2 Ánh Hồng)",
+							"zh-CN": "绿意咖啡馆 獠犬\n（炫彩2 粉色）",
+							"zh-TW": "翠綠咖啡 鬥牛犬\n(幻彩2 粉色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "CDB8A4E8-499F-9419-5C38-97A3C10105DE",
+					"label": "CDB8A4E8-499F-9419-5C38-97A3C10105DE",
+					"name":
+					{
+						"defaultText": "Verdant Cafe Bulldog",
+						"localizedByCulture":
+						{
+							"ar-AE": "المقهى الأخضر بولدوغ",
+							"de-DE": "Bulldog – Grünes Cafe",
+							"en-US": "Verdant Cafe Bulldog",
+							"es-ES": "Bulldog Verdant Cafe",
+							"es-MX": "Bulldog Verde Espresso",
+							"fr-FR": "Bulldog (Café verdoyant)",
+							"id-ID": "Verdant Cafe Bulldog",
+							"it-IT": "Bulldog Verdant Cafe",
+							"ja-JP": "ヴァーダントカフェ ブルドッグ",
+							"ko-KR": "신록의 카페 불독",
+							"pl-PL": "Herbaciany Bulldog",
+							"pt-BR": "Bulldog Cafeteria Verdejante",
+							"ru-RU": "Bulldog \"Зеленое кафе\"",
+							"th-TH": "Verdant Cafe Bulldog",
+							"tr-TR": "Zümrüt Kafe Bulldog",
+							"vi-VN": "Bulldog Cafe Xanh Mát",
+							"zh-CN": "绿意咖啡馆 獠犬",
+							"zh-TW": "翠綠咖啡 鬥牛犬"
+						}
+					}
+				}
+			],
+			"id": "6C3B641C-4702-4EB6-CD26-AB851C04B8BA",
+			"label": "6C3B641C-4702-4EB6-CD26-AB851C04B8BA",
+			"name":
+			{
+				"defaultText": "Verdant Cafe Bulldog",
+				"localizedByCulture":
+				{
+					"ar-AE": "المقهى الأخضر بولدوغ",
+					"de-DE": "Bulldog – Grünes Cafe",
+					"en-US": "Verdant Cafe Bulldog",
+					"es-ES": "Bulldog Verdant Cafe",
+					"es-MX": "Bulldog Verde Espresso",
+					"fr-FR": "Bulldog (Café verdoyant)",
+					"id-ID": "Verdant Cafe Bulldog",
+					"it-IT": "Bulldog Verdant Cafe",
+					"ja-JP": "ヴァーダントカフェ ブルドッグ",
+					"ko-KR": "신록의 카페 불독",
+					"pl-PL": "Herbaciany Bulldog",
+					"pt-BR": "Bulldog Cafeteria Verdejante",
+					"ru-RU": "Bulldog \"Зеленое кафе\"",
+					"th-TH": "Verdant Cafe Bulldog",
+					"tr-TR": "Zümrüt Kafe Bulldog",
+					"vi-VN": "Bulldog Cafe Xanh Mát",
+					"zh-CN": "绿意咖啡馆 獠犬",
+					"zh-TW": "翠綠咖啡 鬥牛犬"
 				}
 			}
 		},
@@ -52215,7 +52877,7 @@
 							"tr-TR": "3. Seviye Champions 2024 Phantom\nÖzel bitiriş animasyonunun içinde silahı inceleyerek şampiyon pozunu tetikle.",
 							"vi-VN": "Phantom Champions 2024 Cấp 3\nChiêm ngưỡng khẩu Phantom của bạn trong hiệu ứng Kết Liễu để kích hoạt tư thế của Nhà Vô Địch",
 							"zh-CN": "2024全球冠军赛 幻影 等级3\n在终结特效内检视幻影，即可触发英雄姿态",
-							"zh-TW": "Champions 2024 幻象 等級3\n在終結特效內檢視幻象，可觸發特務的姿勢"
+							"zh-TW": "Champions 2024 幻象 等級3\n在終結特效內檢視幻象，可觸發特務的姿態"
 						}
 					}
 				},
@@ -56072,6 +56734,99 @@
 					"vi-VN": "Phantom Interhelm",
 					"zh-CN": "星际猎兵 幻影",
 					"zh-TW": "宇宙霸者 幻象"
+				}
+			}
+		},
+		{
+			"weaponId": "EE8E8D15-496B-07AC-E5F6-8FAE5D4C7B1A",
+			"defaultChromaId": "FD7FFD4A-4DE7-43B5-D346-06B470C4E54A",
+			"chromas": [
+				{
+					"id": "FD7FFD4A-4DE7-43B5-D346-06B470C4E54A",
+					"label": "FD7FFD4A-4DE7-43B5-D346-06B470C4E54A",
+					"name":
+					{
+						"defaultText": "Last Stop Phantom",
+						"localizedByCulture":
+						{
+							"ar-AE": "المحطة الأخيرة فانتوم",
+							"de-DE": "Phantom – Endstation",
+							"en-US": "Last Stop Phantom",
+							"es-ES": "Phantom Last Stop",
+							"es-MX": "Phantom Última Parada",
+							"fr-FR": "Phantom (Dernier arrêt)",
+							"id-ID": "Last Stop Phantom",
+							"it-IT": "Phantom Ultima fermata",
+							"ja-JP": "ラストストップ ファントム",
+							"ko-KR": "종착지 팬텀",
+							"pl-PL": "Phantom Ostatniego Postoju",
+							"pt-BR": "Phantom Última Parada",
+							"ru-RU": "Phantom \"Последняя остановка\"",
+							"th-TH": "Last Stop Phantom",
+							"tr-TR": "Son Durak Phantom",
+							"vi-VN": "Phantom Trạm Dừng Cuối",
+							"zh-CN": "终点站餐吧 幻影",
+							"zh-TW": "霓虹餐館 幻象"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "C7FE18C4-47EF-BE69-B172-A68DDB7F1615",
+					"label": "C7FE18C4-47EF-BE69-B172-A68DDB7F1615",
+					"name":
+					{
+						"defaultText": "Last Stop Phantom",
+						"localizedByCulture":
+						{
+							"ar-AE": "المحطة الأخيرة فانتوم",
+							"de-DE": "Phantom – Endstation",
+							"en-US": "Last Stop Phantom",
+							"es-ES": "Phantom Last Stop",
+							"es-MX": "Phantom Última Parada",
+							"fr-FR": "Phantom (Dernier arrêt)",
+							"id-ID": "Last Stop Phantom",
+							"it-IT": "Phantom Ultima fermata",
+							"ja-JP": "ラストストップ ファントム",
+							"ko-KR": "종착지 팬텀",
+							"pl-PL": "Phantom Ostatniego Postoju",
+							"pt-BR": "Phantom Última Parada",
+							"ru-RU": "Phantom \"Последняя остановка\"",
+							"th-TH": "Last Stop Phantom",
+							"tr-TR": "Son Durak Phantom",
+							"vi-VN": "Phantom Trạm Dừng Cuối",
+							"zh-CN": "终点站餐吧 幻影",
+							"zh-TW": "霓虹餐館 幻象"
+						}
+					}
+				}
+			],
+			"id": "5FAAC1FF-41E3-0675-EE8A-9F8B42970F3B",
+			"label": "5FAAC1FF-41E3-0675-EE8A-9F8B42970F3B",
+			"name":
+			{
+				"defaultText": "Last Stop Phantom",
+				"localizedByCulture":
+				{
+					"ar-AE": "المحطة الأخيرة فانتوم",
+					"de-DE": "Phantom – Endstation",
+					"en-US": "Last Stop Phantom",
+					"es-ES": "Phantom Last Stop",
+					"es-MX": "Phantom Última Parada",
+					"fr-FR": "Phantom (Dernier arrêt)",
+					"id-ID": "Last Stop Phantom",
+					"it-IT": "Phantom Ultima fermata",
+					"ja-JP": "ラストストップ ファントム",
+					"ko-KR": "종착지 팬텀",
+					"pl-PL": "Phantom Ostatniego Postoju",
+					"pt-BR": "Phantom Última Parada",
+					"ru-RU": "Phantom \"Последняя остановка\"",
+					"th-TH": "Last Stop Phantom",
+					"tr-TR": "Son Durak Phantom",
+					"vi-VN": "Phantom Trạm Dừng Cuối",
+					"zh-CN": "终点站餐吧 幻影",
+					"zh-TW": "霓虹餐館 幻象"
 				}
 			}
 		},
@@ -89816,6 +90571,157 @@
 		},
 		{
 			"weaponId": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
+			"defaultChromaId": "C0B3B15B-473A-71E1-8471-348B66F1259F",
+			"chromas": [
+				{
+					"id": "C0B3B15B-473A-71E1-8471-348B66F1259F",
+					"label": "C0B3B15B-473A-71E1-8471-348B66F1259F",
+					"name":
+					{
+						"defaultText": "Verdant Cafe Classic",
+						"localizedByCulture":
+						{
+							"ar-AE": "المقهى الأخضر كلاسيك",
+							"de-DE": "Classic – Grünes Cafe",
+							"en-US": "Verdant Cafe Classic",
+							"es-ES": "Classic Verdant Cafe",
+							"es-MX": "Classic Verde Espresso",
+							"fr-FR": "Classic (Café verdoyant)",
+							"id-ID": "Verdant Cafe Classic",
+							"it-IT": "Classic Verdant Cafe",
+							"ja-JP": "ヴァーダントカフェ クラシック",
+							"ko-KR": "신록의 카페 클래식",
+							"pl-PL": "Herbaciany Classic",
+							"pt-BR": "Classic Cafeteria Verdejante",
+							"ru-RU": "Classic \"Зеленое кафе\"",
+							"th-TH": "Verdant Cafe Classic",
+							"tr-TR": "Zümrüt Kafe Classic",
+							"vi-VN": "Classic Cafe Xanh Mát",
+							"zh-CN": "绿意咖啡馆 标配",
+							"zh-TW": "翠綠咖啡 制式手槍"
+						}
+					}
+				},
+				{
+					"id": "5DC4B7B6-4AD4-C930-100D-7A8C07B76309",
+					"label": "5DC4B7B6-4AD4-C930-100D-7A8C07B76309",
+					"name":
+					{
+						"defaultText": "Verdant Cafe Classic\n(Variant 1 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "المقهى الأخضر كلاسيك\n(بديل 1 أزرق)",
+							"de-DE": "Classic – Grünes Cafe\n(Variante 1, Blau)",
+							"en-US": "Verdant Cafe Classic\n(Variant 1 Blue)",
+							"es-ES": "Classic Verdant Cafe\n(variante 1: azul)",
+							"es-MX": "Classic Verde Espresso\n(Variante 1 Azul)",
+							"fr-FR": "Classic (Café verdoyant)\n(variante 1 Bleu)",
+							"id-ID": "Verdant Cafe Classic\n(Varian 1 Biru)",
+							"it-IT": "Classic Verdant Cafe\n(variante 1 Blu)",
+							"ja-JP": "ヴァーダントカフェ クラシック\n(ヴァリアント 1 ブルー)",
+							"ko-KR": "신록의 카페 클래식\n(변형 1 파란색)",
+							"pl-PL": "Herbaciany Classic\n(wersja 1 – niebieska)",
+							"pt-BR": "Classic Cafeteria Verdejante\n(Variante 1 Azul)",
+							"ru-RU": "Classic \"Зеленое кафе\"\n(расцветка 1 \"Синий\")",
+							"th-TH": "Verdant Cafe Classic\n(ตัวเลือกที่ 1 สีฟ้า)",
+							"tr-TR": "Zümrüt Kafe Classic\n(Stil 1 - Mavi)",
+							"vi-VN": "Classic Cafe Xanh Mát\n(Dạng 1 Ánh Lam)",
+							"zh-CN": "绿意咖啡馆 标配\n（炫彩1 蓝色）",
+							"zh-TW": "翠綠咖啡 制式手槍\n(幻彩1 藍色)"
+						}
+					}
+				},
+				{
+					"id": "5D3B6B87-46EE-72C2-2DFA-ECA50B4109B2",
+					"label": "5D3B6B87-46EE-72C2-2DFA-ECA50B4109B2",
+					"name":
+					{
+						"defaultText": "Verdant Cafe Classic\n(Variant 2 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "المقهى الأخضر كلاسيك\n(بديل 2 وردي)",
+							"de-DE": "Classic – Grünes Cafe\n(Variante 2, Rosa)",
+							"en-US": "Verdant Cafe Classic\n(Variant 2 Pink)",
+							"es-ES": "Classic Verdant Cafe\n(variante 2: rosa)",
+							"es-MX": "Classic Verde Espresso\n(Variante 2 Rosa)",
+							"fr-FR": "Classic (Café verdoyant)\n(variante 2 Rose)",
+							"id-ID": "Verdant Cafe Classic\n(Varian 2 Merah Muda)",
+							"it-IT": "Classic Verdant Cafe\n(variante 2 Rosa)",
+							"ja-JP": "ヴァーダントカフェ クラシック\n(ヴァリアント 2 ピンク)",
+							"ko-KR": "신록의 카페 클래식\n(변형 2 분홍색)",
+							"pl-PL": "Herbaciany Classic\n(wersja 2 – różowa)",
+							"pt-BR": "Classic Cafeteria Verdejante\n(Variante 2 Rosa)",
+							"ru-RU": "Classic \"Зеленое кафе\"\n(расцветка 2 \"Розовый\")",
+							"th-TH": "Verdant Cafe Classic\n(ตัวเลือกที่ 2 สีชมพู)",
+							"tr-TR": "Zümrüt Kafe Classic\n(Stil 2 - Pembe)",
+							"vi-VN": "Classic Cafe Xanh Mát\n(Dạng 2 Ánh Hồng)",
+							"zh-CN": "绿意咖啡馆 标配\n（炫彩2 粉色）",
+							"zh-TW": "翠綠咖啡 制式手槍\n(幻彩2 粉色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "CAD66677-4340-742C-B737-99B706B5AF93",
+					"label": "CAD66677-4340-742C-B737-99B706B5AF93",
+					"name":
+					{
+						"defaultText": "Verdant Cafe Classic",
+						"localizedByCulture":
+						{
+							"ar-AE": "المقهى الأخضر كلاسيك",
+							"de-DE": "Classic – Grünes Cafe",
+							"en-US": "Verdant Cafe Classic",
+							"es-ES": "Classic Verdant Cafe",
+							"es-MX": "Classic Verde Espresso",
+							"fr-FR": "Classic (Café verdoyant)",
+							"id-ID": "Verdant Cafe Classic",
+							"it-IT": "Classic Verdant Cafe",
+							"ja-JP": "ヴァーダントカフェ クラシック",
+							"ko-KR": "신록의 카페 클래식",
+							"pl-PL": "Herbaciany Classic",
+							"pt-BR": "Classic Cafeteria Verdejante",
+							"ru-RU": "Classic \"Зеленое кафе\"",
+							"th-TH": "Verdant Cafe Classic",
+							"tr-TR": "Zümrüt Kafe Classic",
+							"vi-VN": "Classic Cafe Xanh Mát",
+							"zh-CN": "绿意咖啡馆 标配",
+							"zh-TW": "翠綠咖啡 制式手槍"
+						}
+					}
+				}
+			],
+			"id": "BC298988-4951-4D72-4845-01B0986246DD",
+			"label": "BC298988-4951-4D72-4845-01B0986246DD",
+			"name":
+			{
+				"defaultText": "Verdant Cafe Classic",
+				"localizedByCulture":
+				{
+					"ar-AE": "المقهى الأخضر كلاسيك",
+					"de-DE": "Classic – Grünes Cafe",
+					"en-US": "Verdant Cafe Classic",
+					"es-ES": "Classic Verdant Cafe",
+					"es-MX": "Classic Verde Espresso",
+					"fr-FR": "Classic (Café verdoyant)",
+					"id-ID": "Verdant Cafe Classic",
+					"it-IT": "Classic Verdant Cafe",
+					"ja-JP": "ヴァーダントカフェ クラシック",
+					"ko-KR": "신록의 카페 클래식",
+					"pl-PL": "Herbaciany Classic",
+					"pt-BR": "Classic Cafeteria Verdejante",
+					"ru-RU": "Classic \"Зеленое кафе\"",
+					"th-TH": "Verdant Cafe Classic",
+					"tr-TR": "Zümrüt Kafe Classic",
+					"vi-VN": "Classic Cafe Xanh Mát",
+					"zh-CN": "绿意咖啡馆 标配",
+					"zh-TW": "翠綠咖啡 制式手槍"
+				}
+			}
+		},
+		{
+			"weaponId": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
 			"defaultChromaId": "900BECAB-4E59-38D1-C668-449A236142CC",
 			"chromas": [
 				{
@@ -116945,6 +117851,99 @@
 		},
 		{
 			"weaponId": "410B2E0B-4CEB-1321-1727-20858F7F3477",
+			"defaultChromaId": "0E5B5221-4F91-2C76-2330-8883AB13B51F",
+			"chromas": [
+				{
+					"id": "0E5B5221-4F91-2C76-2330-8883AB13B51F",
+					"label": "0E5B5221-4F91-2C76-2330-8883AB13B51F",
+					"name":
+					{
+						"defaultText": "Gourmand Bandit",
+						"localizedByCulture":
+						{
+							"ar-AE": "الذواق بانديت",
+							"de-DE": "Bandit – Feinschmecker",
+							"en-US": "Gourmand Bandit",
+							"es-ES": "Bandit Gourmand",
+							"es-MX": "Bandit Exquisitez",
+							"fr-FR": "Bandit (Gourmet)",
+							"id-ID": "Gourmand Bandit",
+							"it-IT": "Bandit Buongustaio",
+							"ja-JP": "グルマン バンディット",
+							"ko-KR": "미식가 밴딧",
+							"pl-PL": "Bandit Haute Cuisine",
+							"pt-BR": "Bandit Gourmet",
+							"ru-RU": "Bandit \"Гурман\"",
+							"th-TH": "Gourmand Bandit",
+							"tr-TR": "Gurme Bandit",
+							"vi-VN": "Bandit Gourmand",
+							"zh-CN": "美食家 追猎",
+							"zh-TW": "白金盛宴 盜賊"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "D538EAC0-4990-F84D-93BF-4D9CE09BF75A",
+					"label": "D538EAC0-4990-F84D-93BF-4D9CE09BF75A",
+					"name":
+					{
+						"defaultText": "Gourmand Bandit",
+						"localizedByCulture":
+						{
+							"ar-AE": "الذواق بانديت",
+							"de-DE": "Bandit – Feinschmecker",
+							"en-US": "Gourmand Bandit",
+							"es-ES": "Bandit Gourmand",
+							"es-MX": "Bandit Exquisitez",
+							"fr-FR": "Bandit (Gourmet)",
+							"id-ID": "Gourmand Bandit",
+							"it-IT": "Bandit Buongustaio",
+							"ja-JP": "グルマン バンディット",
+							"ko-KR": "미식가 밴딧",
+							"pl-PL": "Bandit Haute Cuisine",
+							"pt-BR": "Bandit Gourmet",
+							"ru-RU": "Bandit \"Гурман\"",
+							"th-TH": "Gourmand Bandit",
+							"tr-TR": "Gurme Bandit",
+							"vi-VN": "Bandit Gourmand",
+							"zh-CN": "美食家 追猎",
+							"zh-TW": "白金盛宴 盜賊"
+						}
+					}
+				}
+			],
+			"id": "F6CDB486-426F-D890-D78B-A88D0640CE61",
+			"label": "F6CDB486-426F-D890-D78B-A88D0640CE61",
+			"name":
+			{
+				"defaultText": "Gourmand Bandit",
+				"localizedByCulture":
+				{
+					"ar-AE": "الذواق بانديت",
+					"de-DE": "Bandit – Feinschmecker",
+					"en-US": "Gourmand Bandit",
+					"es-ES": "Bandit Gourmand",
+					"es-MX": "Bandit Exquisitez",
+					"fr-FR": "Bandit (Gourmet)",
+					"id-ID": "Gourmand Bandit",
+					"it-IT": "Bandit Buongustaio",
+					"ja-JP": "グルマン バンディット",
+					"ko-KR": "미식가 밴딧",
+					"pl-PL": "Bandit Haute Cuisine",
+					"pt-BR": "Bandit Gourmet",
+					"ru-RU": "Bandit \"Гурман\"",
+					"th-TH": "Gourmand Bandit",
+					"tr-TR": "Gurme Bandit",
+					"vi-VN": "Bandit Gourmand",
+					"zh-CN": "美食家 追猎",
+					"zh-TW": "白金盛宴 盜賊"
+				}
+			}
+		},
+		{
+			"weaponId": "410B2E0B-4CEB-1321-1727-20858F7F3477",
 			"defaultChromaId": "716281C1-454D-D454-142D-03AE37B913CE",
 			"chromas": [
 				{
@@ -117573,6 +118572,273 @@
 					"vi-VN": "Bandit Rogue",
 					"zh-CN": "逆命中队 追猎",
 					"zh-TW": "孤影叛客 盜賊"
+				}
+			}
+		},
+		{
+			"weaponId": "410B2E0B-4CEB-1321-1727-20858F7F3477",
+			"defaultChromaId": "F3630728-4219-5C04-5D0E-29895C83F1CE",
+			"chromas": [
+				{
+					"id": "F3630728-4219-5C04-5D0E-29895C83F1CE",
+					"label": "F3630728-4219-5C04-5D0E-29895C83F1CE",
+					"name":
+					{
+						"defaultText": "Aeris Bandit",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير بانديت",
+							"de-DE": "Bandit – Aeris",
+							"en-US": "Aeris Bandit",
+							"es-ES": "Bandit Aeris",
+							"es-MX": "Bandit Aeris",
+							"fr-FR": "Bandit (Aeris)",
+							"id-ID": "Aeris Bandit",
+							"it-IT": "Bandit Aeris",
+							"ja-JP": "エアリス バンディット",
+							"ko-KR": "에리스 밴딧",
+							"pl-PL": "Bandit Aeris",
+							"pt-BR": "Bandit Aeris",
+							"ru-RU": "Bandit \"Аэромантия\"",
+							"th-TH": "Aeris Bandit",
+							"tr-TR": "Göksel Bandit",
+							"vi-VN": "Bandit Aeris",
+							"zh-CN": "圣契命澜 追猎",
+							"zh-TW": "至高聖使 盜賊"
+						}
+					}
+				},
+				{
+					"id": "E5C64444-419F-F023-7FF5-75865ED873DA",
+					"label": "E5C64444-419F-F023-7FF5-75865ED873DA",
+					"name":
+					{
+						"defaultText": "Aeris Bandit Level 4\n(Variant 1 Red)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير بانديت المستوى 4\n(بديل 1 أحمر)",
+							"de-DE": "Bandit – Aeris Level 4\n(Variante 1, Rot)",
+							"en-US": "Aeris Bandit Level 4\n(Variant 1 Red)",
+							"es-ES": "Bandit Aeris de nivel 4\n(variante 1: rojo)",
+							"es-MX": "Bandit Aeris nivel 4\n(Variante 1 Roja)",
+							"fr-FR": "Bandit (Aeris) niveau 4\n(variante 1 Rouge)",
+							"id-ID": "Aeris Bandit Level 4\n(Varian 1 Merah)",
+							"it-IT": "Bandit Aeris livello 4\n(variante 1 Rossa)",
+							"ja-JP": "エアリス バンディット Lv.4\n(ヴァリアント 1 レッド)",
+							"ko-KR": "에리스 밴딧 4레벨\n(변형 1 빨간색)",
+							"pl-PL": "Bandit Aeris (poziom 4)\n(wersja 1 – czerwona)",
+							"pt-BR": "Bandit Aeris Nível 4\n(Variante 1 Vermelha)",
+							"ru-RU": "Bandit \"Аэромантия\" уровень 4\n(расцветка 1 \"Красный\")",
+							"th-TH": "Aeris Bandit เลเวล 4\n(ตัวเลือกที่ 1 สีแดง)",
+							"tr-TR": "4. Seviye Göksel Bandit\n(Stil 1 - Kırmızı)",
+							"vi-VN": "Bandit Aeris Cấp 4\n(Dạng 1 Ánh Đỏ)",
+							"zh-CN": "圣契命澜 追猎 等级4\n（炫彩1 红色）",
+							"zh-TW": "至高聖使 盜賊 等級4\n(幻彩1 紅色)"
+						}
+					}
+				},
+				{
+					"id": "88DFDDC0-4AAA-230D-5095-CEA039F59F36",
+					"label": "88DFDDC0-4AAA-230D-5095-CEA039F59F36",
+					"name":
+					{
+						"defaultText": "Aeris Bandit Level 4\n(Variant 2 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير بانديت المستوى 4\n(بديل 2 وردي)",
+							"de-DE": "Bandit – Aeris Level 4\n(Variante 2, Rosa)",
+							"en-US": "Aeris Bandit Level 4\n(Variant 2 Pink)",
+							"es-ES": "Bandit Aeris de nivel 4\n(variante 2: rosa)",
+							"es-MX": "Bandit Aeris nivel 4\n(Variante 2 Rosa)",
+							"fr-FR": "Bandit (Aeris) niveau 4\n(variante 2 Rose)",
+							"id-ID": "Aeris Bandit Level 4\n(Varian 2 Merah Muda)",
+							"it-IT": "Bandit Aeris livello 4\n(variante 2 Rosa)",
+							"ja-JP": "エアリス バンディット Lv.4\n(ヴァリアント 2 ピンク)",
+							"ko-KR": "에리스 밴딧 4레벨\n(변형 2 분홍색)",
+							"pl-PL": "Bandit Aeris (poziom 4)\n(wersja 2 – różowa)",
+							"pt-BR": "Bandit Aeris Nível 4\n(Variante 2 Rosa)",
+							"ru-RU": "Bandit \"Аэромантия\" уровень 4\n(расцветка 2 \"Розовый\")",
+							"th-TH": "Aeris Bandit เลเวล 4\n(ตัวเลือกที่ 2 สีชมพู)",
+							"tr-TR": "4. Seviye Göksel Bandit\n(Stil 2 - Pembe)",
+							"vi-VN": "Bandit Aeris Cấp 4\n(Dạng 2 Ánh Hồng)",
+							"zh-CN": "圣契命澜 追猎 等级4\n（炫彩2 粉色）",
+							"zh-TW": "至高聖使 盜賊 等級4\n(幻彩2 粉色)"
+						}
+					}
+				},
+				{
+					"id": "90C68A17-4619-5845-30B6-CF8F866B1273",
+					"label": "90C68A17-4619-5845-30B6-CF8F866B1273",
+					"name":
+					{
+						"defaultText": "Aeris Bandit Level 4\n(Variant 3 Purple)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير بانديت المستوى 4\n(بديل 3 أرجواني)",
+							"de-DE": "Bandit – Aeris Level 4\n(Variante 3, Violett)",
+							"en-US": "Aeris Bandit Level 4\n(Variant 3 Purple)",
+							"es-ES": "Bandit Aeris de nivel 4\n(variante 3: púrpura)",
+							"es-MX": "Bandit Aeris nivel 4\n(Variante 3 Morada)",
+							"fr-FR": "Bandit (Aeris) niveau 4\n(variante 3 Violet)",
+							"id-ID": "Aeris Bandit Level 4\n(Varian 3 Ungu)",
+							"it-IT": "Bandit Aeris livello 4\n(variante 3 Viola)",
+							"ja-JP": "エアリス バンディット Lv.4\n(ヴァリアント 3 パープル)",
+							"ko-KR": "에리스 밴딧 4레벨\n(변형 3 보라색)",
+							"pl-PL": "Bandit Aeris (poziom 4)\n(wersja 3 – fioletowa)",
+							"pt-BR": "Bandit Aeris Nível 4\n(Variante 3 Roxa)",
+							"ru-RU": "Bandit \"Аэромантия\" уровень 4\n(расцветка 3 \"Фиолетовый\")",
+							"th-TH": "Aeris Bandit เลเวล 4\n(ตัวเลือกที่ 3 สีม่วง)",
+							"tr-TR": "4. Seviye Göksel Bandit\n(Stil 3 - Mor)",
+							"vi-VN": "Bandit Aeris Cấp 4\n(Dạng 3 Ánh Tím)",
+							"zh-CN": "圣契命澜 追猎 等级4\n（炫彩3 紫色）",
+							"zh-TW": "至高聖使 盜賊 等級4\n(幻彩3 紫色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "EA0F8ECA-4A3C-0DD2-726F-2A9D53203443",
+					"label": "EA0F8ECA-4A3C-0DD2-726F-2A9D53203443",
+					"name":
+					{
+						"defaultText": "Aeris Bandit",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير بانديت",
+							"de-DE": "Bandit – Aeris",
+							"en-US": "Aeris Bandit",
+							"es-ES": "Bandit Aeris",
+							"es-MX": "Bandit Aeris",
+							"fr-FR": "Bandit (Aeris)",
+							"id-ID": "Aeris Bandit",
+							"it-IT": "Bandit Aeris",
+							"ja-JP": "エアリス バンディット",
+							"ko-KR": "에리스 밴딧",
+							"pl-PL": "Bandit Aeris",
+							"pt-BR": "Bandit Aeris",
+							"ru-RU": "Bandit \"Аэромантия\"",
+							"th-TH": "Aeris Bandit",
+							"tr-TR": "Göksel Bandit",
+							"vi-VN": "Bandit Aeris",
+							"zh-CN": "圣契命澜 追猎",
+							"zh-TW": "至高聖使 盜賊"
+						}
+					}
+				},
+				{
+					"id": "40041D1A-4DF9-9D99-7530-13AECDFF6074",
+					"label": "40041D1A-4DF9-9D99-7530-13AECDFF6074",
+					"name":
+					{
+						"defaultText": "Aeris Bandit Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير بانديت المستوى 2",
+							"de-DE": "Bandit – Aeris Level 2",
+							"en-US": "Aeris Bandit Level 2",
+							"es-ES": "Bandit Aeris de nivel 2",
+							"es-MX": "Bandit Aeris nivel 2",
+							"fr-FR": "Bandit (Aeris) niveau 2",
+							"id-ID": "Aeris Bandit Level 2",
+							"it-IT": "Bandit Aeris livello 2",
+							"ja-JP": "エアリス バンディット Lv.2",
+							"ko-KR": "에리스 밴딧 2레벨",
+							"pl-PL": "Bandit Aeris (poziom 2)",
+							"pt-BR": "Bandit Aeris Nível 2",
+							"ru-RU": "Bandit \"Аэромантия\" уровень 2",
+							"th-TH": "Aeris Bandit เลเวล 2",
+							"tr-TR": "2. Seviye Göksel Bandit",
+							"vi-VN": "Bandit Aeris Cấp 2",
+							"zh-CN": "圣契命澜 追猎 等级2",
+							"zh-TW": "至高聖使 盜賊 等級2"
+						}
+					}
+				},
+				{
+					"id": "305726A2-4CAD-E609-641C-EBB1B00D3AF4",
+					"label": "305726A2-4CAD-E609-641C-EBB1B00D3AF4",
+					"name":
+					{
+						"defaultText": "Aeris Bandit Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير بانديت المستوى 3",
+							"de-DE": "Bandit – Aeris Level 3",
+							"en-US": "Aeris Bandit Level 3",
+							"es-ES": "Bandit Aeris de nivel 3",
+							"es-MX": "Bandit Aeris nivel 3",
+							"fr-FR": "Bandit (Aeris) niveau 3",
+							"id-ID": "Aeris Bandit Level 3",
+							"it-IT": "Bandit Aeris livello 3",
+							"ja-JP": "エアリス バンディット Lv.3",
+							"ko-KR": "에리스 밴딧 3레벨",
+							"pl-PL": "Bandit Aeris (poziom 3)",
+							"pt-BR": "Bandit Aeris Nível 3",
+							"ru-RU": "Bandit \"Аэромантия\" уровень 3",
+							"th-TH": "Aeris Bandit เลเวล 3",
+							"tr-TR": "3. Seviye Göksel Bandit",
+							"vi-VN": "Bandit Aeris Cấp 3",
+							"zh-CN": "圣契命澜 追猎 等级3",
+							"zh-TW": "至高聖使 盜賊 等級3"
+						}
+					}
+				},
+				{
+					"id": "86437466-440E-54E9-62F8-3182F53D7F3B",
+					"label": "86437466-440E-54E9-62F8-3182F53D7F3B",
+					"name":
+					{
+						"defaultText": "Aeris Bandit Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير بانديت المستوى 4",
+							"de-DE": "Bandit – Aeris Level 4",
+							"en-US": "Aeris Bandit Level 4",
+							"es-ES": "Bandit Aeris de nivel 4",
+							"es-MX": "Bandit Aeris nivel 4",
+							"fr-FR": "Bandit (Aeris) niveau 4",
+							"id-ID": "Aeris Bandit Level 4",
+							"it-IT": "Bandit Aeris livello 4",
+							"ja-JP": "エアリス バンディット Lv.4",
+							"ko-KR": "에리스 밴딧 4레벨",
+							"pl-PL": "Bandit Aeris (poziom 4)",
+							"pt-BR": "Bandit Aeris Nível 4",
+							"ru-RU": "Bandit \"Аэромантия\" уровень 4",
+							"th-TH": "Aeris Bandit เลเวล 4",
+							"tr-TR": "4. Seviye Göksel Bandit",
+							"vi-VN": "Bandit Aeris Cấp 4",
+							"zh-CN": "圣契命澜 追猎 等级4",
+							"zh-TW": "至高聖使 盜賊 等級4"
+						}
+					}
+				}
+			],
+			"id": "F3333480-459F-CC15-DA7A-34869A8FC9DF",
+			"label": "F3333480-459F-CC15-DA7A-34869A8FC9DF",
+			"name":
+			{
+				"defaultText": "Aeris Bandit",
+				"localizedByCulture":
+				{
+					"ar-AE": "الأثير بانديت",
+					"de-DE": "Bandit – Aeris",
+					"en-US": "Aeris Bandit",
+					"es-ES": "Bandit Aeris",
+					"es-MX": "Bandit Aeris",
+					"fr-FR": "Bandit (Aeris)",
+					"id-ID": "Aeris Bandit",
+					"it-IT": "Bandit Aeris",
+					"ja-JP": "エアリス バンディット",
+					"ko-KR": "에리스 밴딧",
+					"pl-PL": "Bandit Aeris",
+					"pt-BR": "Bandit Aeris",
+					"ru-RU": "Bandit \"Аэромантия\"",
+					"th-TH": "Aeris Bandit",
+					"tr-TR": "Göksel Bandit",
+					"vi-VN": "Bandit Aeris",
+					"zh-CN": "圣契命澜 追猎",
+					"zh-TW": "至高聖使 盜賊"
 				}
 			}
 		},
@@ -131395,6 +132661,99 @@
 					"vi-VN": "Sheriff Moon Scout",
 					"zh-CN": "月球哨兵 正义",
 					"zh-TW": "月面斥侯 神射"
+				}
+			}
+		},
+		{
+			"weaponId": "E336C6B8-418D-9340-D77F-7A9E4CFE0702",
+			"defaultChromaId": "00953C82-4F18-09A1-BF69-00B425AD7345",
+			"chromas": [
+				{
+					"id": "00953C82-4F18-09A1-BF69-00B425AD7345",
+					"label": "00953C82-4F18-09A1-BF69-00B425AD7345",
+					"name":
+					{
+						"defaultText": "Last Stop Sheriff",
+						"localizedByCulture":
+						{
+							"ar-AE": "المحطة الأخيرة شيريف",
+							"de-DE": "Sheriff – Endstation",
+							"en-US": "Last Stop Sheriff",
+							"es-ES": "Sheriff Last Stop",
+							"es-MX": "Sheriff Última Parada",
+							"fr-FR": "Sheriff (Dernier arrêt)",
+							"id-ID": "Last Stop Sheriff",
+							"it-IT": "Sheriff Ultima fermata",
+							"ja-JP": "ラストストップ シェリフ",
+							"ko-KR": "종착지 셰리프",
+							"pl-PL": "Sheriff Ostatniego Postoju",
+							"pt-BR": "Sheriff Última Parada",
+							"ru-RU": "Sheriff \"Последняя остановка\"",
+							"th-TH": "Last Stop Sheriff",
+							"tr-TR": "Son Durak Sheriff",
+							"vi-VN": "Sheriff Trạm Dừng Cuối",
+							"zh-CN": "终点站餐吧 正义",
+							"zh-TW": "霓虹餐館 神射"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "0757ADDE-438C-91E5-F755-44801B371250",
+					"label": "0757ADDE-438C-91E5-F755-44801B371250",
+					"name":
+					{
+						"defaultText": "Last Stop Sheriff",
+						"localizedByCulture":
+						{
+							"ar-AE": "المحطة الأخيرة شيريف",
+							"de-DE": "Sheriff – Endstation",
+							"en-US": "Last Stop Sheriff",
+							"es-ES": "Sheriff Last Stop",
+							"es-MX": "Sheriff Última Parada",
+							"fr-FR": "Sheriff (Dernier arrêt)",
+							"id-ID": "Last Stop Sheriff",
+							"it-IT": "Sheriff Ultima fermata",
+							"ja-JP": "ラストストップ シェリフ",
+							"ko-KR": "종착지 셰리프",
+							"pl-PL": "Sheriff Ostatniego Postoju",
+							"pt-BR": "Sheriff Última Parada",
+							"ru-RU": "Sheriff \"Последняя остановка\"",
+							"th-TH": "Last Stop Sheriff",
+							"tr-TR": "Son Durak Sheriff",
+							"vi-VN": "Sheriff Trạm Dừng Cuối",
+							"zh-CN": "终点站餐吧 正义",
+							"zh-TW": "霓虹餐館 神射"
+						}
+					}
+				}
+			],
+			"id": "F9E29F78-4ADC-9E49-8FE6-A7B1D6D22743",
+			"label": "F9E29F78-4ADC-9E49-8FE6-A7B1D6D22743",
+			"name":
+			{
+				"defaultText": "Last Stop Sheriff",
+				"localizedByCulture":
+				{
+					"ar-AE": "المحطة الأخيرة شيريف",
+					"de-DE": "Sheriff – Endstation",
+					"en-US": "Last Stop Sheriff",
+					"es-ES": "Sheriff Last Stop",
+					"es-MX": "Sheriff Última Parada",
+					"fr-FR": "Sheriff (Dernier arrêt)",
+					"id-ID": "Last Stop Sheriff",
+					"it-IT": "Sheriff Ultima fermata",
+					"ja-JP": "ラストストップ シェリフ",
+					"ko-KR": "종착지 셰리프",
+					"pl-PL": "Sheriff Ostatniego Postoju",
+					"pt-BR": "Sheriff Última Parada",
+					"ru-RU": "Sheriff \"Последняя остановка\"",
+					"th-TH": "Last Stop Sheriff",
+					"tr-TR": "Son Durak Sheriff",
+					"vi-VN": "Sheriff Trạm Dừng Cuối",
+					"zh-CN": "终点站餐吧 正义",
+					"zh-TW": "霓虹餐館 神射"
 				}
 			}
 		},
@@ -148172,6 +149531,99 @@
 		},
 		{
 			"weaponId": "A03B24D3-4319-996D-0F8C-94BBFBA1DFC7",
+			"defaultChromaId": "CBB926A1-4AE3-DC92-DB1B-39A4BDE7E088",
+			"chromas": [
+				{
+					"id": "CBB926A1-4AE3-DC92-DB1B-39A4BDE7E088",
+					"label": "CBB926A1-4AE3-DC92-DB1B-39A4BDE7E088",
+					"name":
+					{
+						"defaultText": "Gourmand Operator",
+						"localizedByCulture":
+						{
+							"ar-AE": "الذواق أوبيريتور",
+							"de-DE": "Operator – Feinschmecker",
+							"en-US": "Gourmand Operator",
+							"es-ES": "Operator Gourmand",
+							"es-MX": "Operator Exquisitez",
+							"fr-FR": "Operator (Gourmet)",
+							"id-ID": "Gourmand Operator",
+							"it-IT": "Operator Buongustaio",
+							"ja-JP": "グルマン オペレーター",
+							"ko-KR": "미식가 오퍼레이터",
+							"pl-PL": "Operator Haute Cuisine",
+							"pt-BR": "Operator Gourmet",
+							"ru-RU": "Operator \"Гурман\"",
+							"th-TH": "Gourmand Operator",
+							"tr-TR": "Gurme Operator",
+							"vi-VN": "Operator Gourmand",
+							"zh-CN": "美食家 冥驹",
+							"zh-TW": "白金盛宴 間諜"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "006D217F-4C9E-67CC-8FD2-488BD5AD3D48",
+					"label": "006D217F-4C9E-67CC-8FD2-488BD5AD3D48",
+					"name":
+					{
+						"defaultText": "Gourmand Operator",
+						"localizedByCulture":
+						{
+							"ar-AE": "الذواق أوبيريتور",
+							"de-DE": "Operator – Feinschmecker",
+							"en-US": "Gourmand Operator",
+							"es-ES": "Operator Gourmand",
+							"es-MX": "Operator Exquisitez",
+							"fr-FR": "Operator (Gourmet)",
+							"id-ID": "Gourmand Operator",
+							"it-IT": "Operator Buongustaio",
+							"ja-JP": "グルマン オペレーター",
+							"ko-KR": "미식가 오퍼레이터",
+							"pl-PL": "Operator Haute Cuisine",
+							"pt-BR": "Operator Gourmet",
+							"ru-RU": "Operator \"Гурман\"",
+							"th-TH": "Gourmand Operator",
+							"tr-TR": "Gurme Operator",
+							"vi-VN": "Operator Gourmand",
+							"zh-CN": "美食家 冥驹",
+							"zh-TW": "白金盛宴 間諜"
+						}
+					}
+				}
+			],
+			"id": "38E99CAC-42B7-70B3-6EA6-4AA42E8C478E",
+			"label": "38E99CAC-42B7-70B3-6EA6-4AA42E8C478E",
+			"name":
+			{
+				"defaultText": "Gourmand Operator",
+				"localizedByCulture":
+				{
+					"ar-AE": "الذواق أوبيريتور",
+					"de-DE": "Operator – Feinschmecker",
+					"en-US": "Gourmand Operator",
+					"es-ES": "Operator Gourmand",
+					"es-MX": "Operator Exquisitez",
+					"fr-FR": "Operator (Gourmet)",
+					"id-ID": "Gourmand Operator",
+					"it-IT": "Operator Buongustaio",
+					"ja-JP": "グルマン オペレーター",
+					"ko-KR": "미식가 오퍼레이터",
+					"pl-PL": "Operator Haute Cuisine",
+					"pt-BR": "Operator Gourmet",
+					"ru-RU": "Operator \"Гурман\"",
+					"th-TH": "Gourmand Operator",
+					"tr-TR": "Gurme Operator",
+					"vi-VN": "Operator Gourmand",
+					"zh-CN": "美食家 冥驹",
+					"zh-TW": "白金盛宴 間諜"
+				}
+			}
+		},
+		{
+			"weaponId": "A03B24D3-4319-996D-0F8C-94BBFBA1DFC7",
 			"defaultChromaId": "728D6C82-478B-7924-2729-DCA5A1473963",
 			"chromas": [
 				{
@@ -157476,6 +158928,99 @@
 		},
 		{
 			"weaponId": "4ADE7FAA-4CF1-8376-95EF-39884480959B",
+			"defaultChromaId": "A9AF310D-479F-9A8B-0FB1-95B9A021646A",
+			"chromas": [
+				{
+					"id": "A9AF310D-479F-9A8B-0FB1-95B9A021646A",
+					"label": "A9AF310D-479F-9A8B-0FB1-95B9A021646A",
+					"name":
+					{
+						"defaultText": "Last Stop Guardian",
+						"localizedByCulture":
+						{
+							"ar-AE": "المحطة الأخيرة غارديان",
+							"de-DE": "Guardian – Endstation",
+							"en-US": "Last Stop Guardian",
+							"es-ES": "Guardian Last Stop",
+							"es-MX": "Guardian Última Parada",
+							"fr-FR": "Guardian (Dernier arrêt)",
+							"id-ID": "Last Stop Guardian",
+							"it-IT": "Guardian Ultima fermata",
+							"ja-JP": "ラストストップ ガーディアン",
+							"ko-KR": "종착지 가디언",
+							"pl-PL": "Guardian Ostatniego Postoju",
+							"pt-BR": "Guardian Última Parada",
+							"ru-RU": "Guardian \"Последняя остановка\"",
+							"th-TH": "Last Stop Guardian",
+							"tr-TR": "Son Durak Guardian",
+							"vi-VN": "Guardian Trạm Dừng Cuối",
+							"zh-CN": "终点站餐吧 戍卫",
+							"zh-TW": "霓虹餐館 捍衛者"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "40CB3C28-4A20-E942-D210-87B029409B88",
+					"label": "40CB3C28-4A20-E942-D210-87B029409B88",
+					"name":
+					{
+						"defaultText": "Last Stop Guardian",
+						"localizedByCulture":
+						{
+							"ar-AE": "المحطة الأخيرة غارديان",
+							"de-DE": "Guardian – Endstation",
+							"en-US": "Last Stop Guardian",
+							"es-ES": "Guardian Last Stop",
+							"es-MX": "Guardian Última Parada",
+							"fr-FR": "Guardian (Dernier arrêt)",
+							"id-ID": "Last Stop Guardian",
+							"it-IT": "Guardian Ultima fermata",
+							"ja-JP": "ラストストップ ガーディアン",
+							"ko-KR": "종착지 가디언",
+							"pl-PL": "Guardian Ostatniego Postoju",
+							"pt-BR": "Guardian Última Parada",
+							"ru-RU": "Guardian \"Последняя остановка\"",
+							"th-TH": "Last Stop Guardian",
+							"tr-TR": "Son Durak Guardian",
+							"vi-VN": "Guardian Trạm Dừng Cuối",
+							"zh-CN": "终点站餐吧 戍卫",
+							"zh-TW": "霓虹餐館 捍衛者"
+						}
+					}
+				}
+			],
+			"id": "875CE5DA-44CF-E6FD-6C63-B9873AB950D4",
+			"label": "875CE5DA-44CF-E6FD-6C63-B9873AB950D4",
+			"name":
+			{
+				"defaultText": "Last Stop Guardian",
+				"localizedByCulture":
+				{
+					"ar-AE": "المحطة الأخيرة غارديان",
+					"de-DE": "Guardian – Endstation",
+					"en-US": "Last Stop Guardian",
+					"es-ES": "Guardian Last Stop",
+					"es-MX": "Guardian Última Parada",
+					"fr-FR": "Guardian (Dernier arrêt)",
+					"id-ID": "Last Stop Guardian",
+					"it-IT": "Guardian Ultima fermata",
+					"ja-JP": "ラストストップ ガーディアン",
+					"ko-KR": "종착지 가디언",
+					"pl-PL": "Guardian Ostatniego Postoju",
+					"pt-BR": "Guardian Última Parada",
+					"ru-RU": "Guardian \"Последняя остановка\"",
+					"th-TH": "Last Stop Guardian",
+					"tr-TR": "Son Durak Guardian",
+					"vi-VN": "Guardian Trạm Dừng Cuối",
+					"zh-CN": "终点站餐吧 戍卫",
+					"zh-TW": "霓虹餐館 捍衛者"
+				}
+			}
+		},
+		{
+			"weaponId": "4ADE7FAA-4CF1-8376-95EF-39884480959B",
 			"defaultChromaId": "46C6B89B-4F4A-A70E-7793-88B8072F4D82",
 			"chromas": [
 				{
@@ -161884,6 +163429,273 @@
 		},
 		{
 			"weaponId": "4ADE7FAA-4CF1-8376-95EF-39884480959B",
+			"defaultChromaId": "6516C969-4D41-0B48-F1DF-FC8094B8E46D",
+			"chromas": [
+				{
+					"id": "6516C969-4D41-0B48-F1DF-FC8094B8E46D",
+					"label": "6516C969-4D41-0B48-F1DF-FC8094B8E46D",
+					"name":
+					{
+						"defaultText": "Aeris Guardian",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير غارديان",
+							"de-DE": "Guardian – Aeris",
+							"en-US": "Aeris Guardian",
+							"es-ES": "Guardian Aeris",
+							"es-MX": "Guardian Aeris",
+							"fr-FR": "Guardian (Aeris)",
+							"id-ID": "Aeris Guardian",
+							"it-IT": "Guardian Aeris",
+							"ja-JP": "エアリス ガーディアン",
+							"ko-KR": "에리스 가디언",
+							"pl-PL": "Guardian Aeris",
+							"pt-BR": "Guardian Aeris",
+							"ru-RU": "Guardian \"Аэромантия\"",
+							"th-TH": "Aeris Guardian",
+							"tr-TR": "Göksel Guardian",
+							"vi-VN": "Guardian Aeris",
+							"zh-CN": "圣契命澜 戍卫",
+							"zh-TW": "至高聖使 捍衛者"
+						}
+					}
+				},
+				{
+					"id": "853BA39D-4E46-24D9-A7F7-008D6183D7CB",
+					"label": "853BA39D-4E46-24D9-A7F7-008D6183D7CB",
+					"name":
+					{
+						"defaultText": "Aeris Guardian Level 4\n(Variant 1 Red)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير غارديان المستوى 4\n(بديل 1 أحمر)",
+							"de-DE": "Guardian – Aeris Level 4\n(Variante 1, Rot)",
+							"en-US": "Aeris Guardian Level 4\n(Variant 1 Red)",
+							"es-ES": "Guardian Aeris de nivel 4\n(variante 1: rojo)",
+							"es-MX": "Guardian Aeris nivel 4\n(Variante 1 Roja)",
+							"fr-FR": "Guardian (Aeris) niveau 4\n(variante 1 Rouge)",
+							"id-ID": "Aeris Guardian Level 4\n(Varian 1 Merah)",
+							"it-IT": "Guardian Aeris livello 4\n(variante 1 Rossa)",
+							"ja-JP": "エアリス ガーディアン Lv.4\n(ヴァリアント 1 レッド)",
+							"ko-KR": "에리스 가디언 4레벨\n(변형 1 빨간색)",
+							"pl-PL": "Guardian Aeris (poziom 4)\n(wersja 1 – czerwona)",
+							"pt-BR": "Guardian Aeris Nível 4\n(Variante 1 Vermelha)",
+							"ru-RU": "Guardian \"Аэромантия\" уровень 4\n(расцветка 1 \"Красный\")",
+							"th-TH": "Aeris Guardian เลเวล 4\n(ตัวเลือกที่ 1 สีแดง)",
+							"tr-TR": "4. Seviye Göksel Guardian\n(Stil 1 - Kırmızı)",
+							"vi-VN": "Guardian Aeris Cấp 4\n(Dạng 1 Ánh Đỏ)",
+							"zh-CN": "圣契命澜 戍卫 等级4\n（炫彩1 红色）",
+							"zh-TW": "至高聖使 捍衛者 等級4\n(幻彩1 紅色)"
+						}
+					}
+				},
+				{
+					"id": "68C8EE65-4618-7A0F-38C0-538E3DF5200E",
+					"label": "68C8EE65-4618-7A0F-38C0-538E3DF5200E",
+					"name":
+					{
+						"defaultText": "Aeris Guardian Level 4\n(Variant 2 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير غارديان المستوى 4\n(بديل 2 وردي)",
+							"de-DE": "Guardian – Aeris Level 4\n(Variante 2, Rosa)",
+							"en-US": "Aeris Guardian Level 4\n(Variant 2 Pink)",
+							"es-ES": "Guardian Aeris de nivel 4\n(variante 2: rosa)",
+							"es-MX": "Guardian Aeris nivel 4\n(Variante 2 Rosa)",
+							"fr-FR": "Guardian (Aeris) niveau 4\n(variante 2 Rose)",
+							"id-ID": "Aeris Guardian Level 4\n(Varian 2 Merah Muda)",
+							"it-IT": "Guardian Aeris livello 4\n(variante 2 Rosa)",
+							"ja-JP": "エアリス ガーディアン Lv.4\n(ヴァリアント 2 ピンク)",
+							"ko-KR": "에리스 가디언 4레벨\n(변형 2 분홍색)",
+							"pl-PL": "Guardian Aeris (poziom 4)\n(wersja 2 – różowa)",
+							"pt-BR": "Guardian Aeris Nível 4\n(Variante 2 Rosa)",
+							"ru-RU": "Guardian \"Аэромантия\" уровень 4\n(расцветка 2 \"Розовый\")",
+							"th-TH": "Aeris Guardian เลเวล 4\n(ตัวเลือกที่ 2 สีชมพู)",
+							"tr-TR": "4. Seviye Göksel Guardian\n(Stil 2 - Pembe)",
+							"vi-VN": "Guardian Aeris Cấp 4\n(Dạng 2 Ánh Hồng)",
+							"zh-CN": "圣契命澜 戍卫 等级4\n（炫彩2 粉色）",
+							"zh-TW": "至高聖使 捍衛者 等級4\n(幻彩2 粉色)"
+						}
+					}
+				},
+				{
+					"id": "63CB5D06-4D07-C8B8-BE24-DEADE79CBDD4",
+					"label": "63CB5D06-4D07-C8B8-BE24-DEADE79CBDD4",
+					"name":
+					{
+						"defaultText": "Aeris Guardian Level 4\n(Variant 3 Purple)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير غارديان المستوى 4\n(بديل 3 أرجواني)",
+							"de-DE": "Guardian – Aeris Level 4\n(Variante 3, Violett)",
+							"en-US": "Aeris Guardian Level 4\n(Variant 3 Purple)",
+							"es-ES": "Guardian Aeris de nivel 4\n(variante 3: púrpura)",
+							"es-MX": "Guardian Aeris nivel 4\n(Variante 3 Morada)",
+							"fr-FR": "Guardian (Aeris) niveau 4\n(variante 3 Violet)",
+							"id-ID": "Aeris Guardian Level 4\n(Varian 3 Ungu)",
+							"it-IT": "Guardian Aeris livello 4\n(variante 3 Viola)",
+							"ja-JP": "エアリス ガーディアン Lv.4\n(ヴァリアント 3 パープル)",
+							"ko-KR": "에리스 가디언 4레벨\n(변형 3 보라색)",
+							"pl-PL": "Guardian Aeris (poziom 4)\n(wersja 3 – fioletowa)",
+							"pt-BR": "Guardian Aeris Nível 4\n(Variante 3 Roxa)",
+							"ru-RU": "Guardian \"Аэромантия\" уровень 4\n(расцветка 3 \"Фиолетовый\")",
+							"th-TH": "Aeris Guardian เลเวล 4\n(ตัวเลือกที่ 3 สีม่วง)",
+							"tr-TR": "4. Seviye Göksel Guardian\n(Stil 3 - Mor)",
+							"vi-VN": "Guardian Aeris Cấp 4\n(Dạng 3 Ánh Tím)",
+							"zh-CN": "圣契命澜 戍卫 等级4\n（炫彩3 紫色）",
+							"zh-TW": "至高聖使 捍衛者 等級4\n(幻彩3 紫色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "261CA576-45B6-C16A-762E-CA86C89D10E0",
+					"label": "261CA576-45B6-C16A-762E-CA86C89D10E0",
+					"name":
+					{
+						"defaultText": "Aeris Guardian",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير غارديان",
+							"de-DE": "Guardian – Aeris",
+							"en-US": "Aeris Guardian",
+							"es-ES": "Guardian Aeris",
+							"es-MX": "Guardian Aeris",
+							"fr-FR": "Guardian (Aeris)",
+							"id-ID": "Aeris Guardian",
+							"it-IT": "Guardian Aeris",
+							"ja-JP": "エアリス ガーディアン",
+							"ko-KR": "에리스 가디언",
+							"pl-PL": "Guardian Aeris",
+							"pt-BR": "Guardian Aeris",
+							"ru-RU": "Guardian \"Аэромантия\"",
+							"th-TH": "Aeris Guardian",
+							"tr-TR": "Göksel Guardian",
+							"vi-VN": "Guardian Aeris",
+							"zh-CN": "圣契命澜 戍卫",
+							"zh-TW": "至高聖使 捍衛者"
+						}
+					}
+				},
+				{
+					"id": "4CB423EA-4E0F-922D-0B28-C3B35334329C",
+					"label": "4CB423EA-4E0F-922D-0B28-C3B35334329C",
+					"name":
+					{
+						"defaultText": "Aeris Guardian Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير غارديان المستوى 2",
+							"de-DE": "Guardian – Aeris Level 2",
+							"en-US": "Aeris Guardian Level 2",
+							"es-ES": "Guardian Aeris de nivel 2",
+							"es-MX": "Guardian Aeris nivel 2",
+							"fr-FR": "Guardian (Aeris) niveau 2",
+							"id-ID": "Aeris Guardian Level 2",
+							"it-IT": "Guardian Aeris livello 2",
+							"ja-JP": "エアリス ガーディアン Lv.2",
+							"ko-KR": "에리스 가디언 2레벨",
+							"pl-PL": "Guardian Aeris (poziom 2)",
+							"pt-BR": "Guardian Aeris Nível 2",
+							"ru-RU": "Guardian \"Аэромантия\" уровень 2",
+							"th-TH": "Aeris Guardian เลเวล 2",
+							"tr-TR": "2. Seviye Göksel Guardian",
+							"vi-VN": "Guardian Aeris Cấp 2",
+							"zh-CN": "圣契命澜 戍卫 等级2",
+							"zh-TW": "至高聖使 捍衛者 等級2"
+						}
+					}
+				},
+				{
+					"id": "446D1606-41C9-4970-E91D-AE9B71FF8B34",
+					"label": "446D1606-41C9-4970-E91D-AE9B71FF8B34",
+					"name":
+					{
+						"defaultText": "Aeris Guardian Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير غارديان المستوى 3",
+							"de-DE": "Guardian – Aeris Level 3",
+							"en-US": "Aeris Guardian Level 3",
+							"es-ES": "Guardian Aeris de nivel 3",
+							"es-MX": "Guardian Aeris nivel 3",
+							"fr-FR": "Guardian (Aeris) niveau 3",
+							"id-ID": "Aeris Guardian Level 3",
+							"it-IT": "Guardian Aeris livello 3",
+							"ja-JP": "エアリス ガーディアン Lv.3",
+							"ko-KR": "에리스 가디언 3레벨",
+							"pl-PL": "Guardian Aeris (poziom 3)",
+							"pt-BR": "Guardian Aeris Nível 3",
+							"ru-RU": "Guardian \"Аэромантия\" уровень 3",
+							"th-TH": "Aeris Guardian เลเวล 3",
+							"tr-TR": "3. Seviye Göksel Guardian",
+							"vi-VN": "Guardian Aeris Cấp 3",
+							"zh-CN": "圣契命澜 戍卫 等级3",
+							"zh-TW": "至高聖使 捍衛者 等級3"
+						}
+					}
+				},
+				{
+					"id": "9AB8A522-42D9-28A1-2B3A-A48647353257",
+					"label": "9AB8A522-42D9-28A1-2B3A-A48647353257",
+					"name":
+					{
+						"defaultText": "Aeris Guardian Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير غارديان المستوى 4",
+							"de-DE": "Guardian – Aeris Level 4",
+							"en-US": "Aeris Guardian Level 4",
+							"es-ES": "Guardian Aeris de nivel 4",
+							"es-MX": "Guardian Aeris nivel 4",
+							"fr-FR": "Guardian (Aeris) niveau 4",
+							"id-ID": "Aeris Guardian Level 4",
+							"it-IT": "Guardian Aeris livello 4",
+							"ja-JP": "エアリス ガーディアン Lv.4",
+							"ko-KR": "에리스 가디언 4레벨",
+							"pl-PL": "Guardian Aeris (poziom 4)",
+							"pt-BR": "Guardian Aeris Nível 4",
+							"ru-RU": "Guardian \"Аэромантия\" уровень 4",
+							"th-TH": "Aeris Guardian เลเวล 4",
+							"tr-TR": "4. Seviye Göksel Guardian",
+							"vi-VN": "Guardian Aeris Cấp 4",
+							"zh-CN": "圣契命澜 戍卫 等级4",
+							"zh-TW": "至高聖使 捍衛者 等級4"
+						}
+					}
+				}
+			],
+			"id": "56F74904-457E-B08B-0CBD-D6BD7C39D267",
+			"label": "56F74904-457E-B08B-0CBD-D6BD7C39D267",
+			"name":
+			{
+				"defaultText": "Aeris Guardian",
+				"localizedByCulture":
+				{
+					"ar-AE": "الأثير غارديان",
+					"de-DE": "Guardian – Aeris",
+					"en-US": "Aeris Guardian",
+					"es-ES": "Guardian Aeris",
+					"es-MX": "Guardian Aeris",
+					"fr-FR": "Guardian (Aeris)",
+					"id-ID": "Aeris Guardian",
+					"it-IT": "Guardian Aeris",
+					"ja-JP": "エアリス ガーディアン",
+					"ko-KR": "에리스 가디언",
+					"pl-PL": "Guardian Aeris",
+					"pt-BR": "Guardian Aeris",
+					"ru-RU": "Guardian \"Аэромантия\"",
+					"th-TH": "Aeris Guardian",
+					"tr-TR": "Göksel Guardian",
+					"vi-VN": "Guardian Aeris",
+					"zh-CN": "圣契命澜 戍卫",
+					"zh-TW": "至高聖使 捍衛者"
+				}
+			}
+		},
+		{
+			"weaponId": "4ADE7FAA-4CF1-8376-95EF-39884480959B",
 			"defaultChromaId": "BB9F9FB7-46CA-4DDF-1B83-B8B1FC0401D9",
 			"chromas": [
 				{
@@ -165700,6 +167512,99 @@
 					"vi-VN": "Outlaw Phaseguard",
 					"zh-CN": "超时空卫队 莽侠",
 					"zh-TW": "相位衛士 逃犯"
+				}
+			}
+		},
+		{
+			"weaponId": "5F0AAF7A-4289-3998-D5FF-EB9A5CF7EF5C",
+			"defaultChromaId": "52374AEA-4DB0-3DD2-105D-A9A9031867AF",
+			"chromas": [
+				{
+					"id": "52374AEA-4DB0-3DD2-105D-A9A9031867AF",
+					"label": "52374AEA-4DB0-3DD2-105D-A9A9031867AF",
+					"name":
+					{
+						"defaultText": "Gourmand Outlaw",
+						"localizedByCulture":
+						{
+							"ar-AE": "الذواق آوت لو",
+							"de-DE": "Outlaw – Feinschmecker",
+							"en-US": "Gourmand Outlaw",
+							"es-ES": "Outlaw Gourmand",
+							"es-MX": "Outlaw Exquisitez",
+							"fr-FR": "Outlaw (Gourmet)",
+							"id-ID": "Gourmand Outlaw",
+							"it-IT": "Outlaw Buongustaio",
+							"ja-JP": "グルマン アウトロー",
+							"ko-KR": "미식가 아웃로",
+							"pl-PL": "Outlaw Haute Cuisine",
+							"pt-BR": "Outlaw Gourmet",
+							"ru-RU": "Outlaw \"Гурман\"",
+							"th-TH": "Gourmand Outlaw",
+							"tr-TR": "Gurme Outlaw",
+							"vi-VN": "Outlaw Gourmand",
+							"zh-CN": "美食家 莽侠",
+							"zh-TW": "白金盛宴 逃犯"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "D642B410-40F1-DC0D-175C-3BB0A85A2B86",
+					"label": "D642B410-40F1-DC0D-175C-3BB0A85A2B86",
+					"name":
+					{
+						"defaultText": "Gourmand Outlaw",
+						"localizedByCulture":
+						{
+							"ar-AE": "الذواق آوت لو",
+							"de-DE": "Outlaw – Feinschmecker",
+							"en-US": "Gourmand Outlaw",
+							"es-ES": "Outlaw Gourmand",
+							"es-MX": "Outlaw Exquisitez",
+							"fr-FR": "Outlaw (Gourmet)",
+							"id-ID": "Gourmand Outlaw",
+							"it-IT": "Outlaw Buongustaio",
+							"ja-JP": "グルマン アウトロー",
+							"ko-KR": "미식가 아웃로",
+							"pl-PL": "Outlaw Haute Cuisine",
+							"pt-BR": "Outlaw Gourmet",
+							"ru-RU": "Outlaw \"Гурман\"",
+							"th-TH": "Gourmand Outlaw",
+							"tr-TR": "Gurme Outlaw",
+							"vi-VN": "Outlaw Gourmand",
+							"zh-CN": "美食家 莽侠",
+							"zh-TW": "白金盛宴 逃犯"
+						}
+					}
+				}
+			],
+			"id": "30E38547-4D4B-F0BD-6416-DEAB45D74493",
+			"label": "30E38547-4D4B-F0BD-6416-DEAB45D74493",
+			"name":
+			{
+				"defaultText": "Gourmand Outlaw",
+				"localizedByCulture":
+				{
+					"ar-AE": "الذواق آوت لو",
+					"de-DE": "Outlaw – Feinschmecker",
+					"en-US": "Gourmand Outlaw",
+					"es-ES": "Outlaw Gourmand",
+					"es-MX": "Outlaw Exquisitez",
+					"fr-FR": "Outlaw (Gourmet)",
+					"id-ID": "Gourmand Outlaw",
+					"it-IT": "Outlaw Buongustaio",
+					"ja-JP": "グルマン アウトロー",
+					"ko-KR": "미식가 아웃로",
+					"pl-PL": "Outlaw Haute Cuisine",
+					"pt-BR": "Outlaw Gourmet",
+					"ru-RU": "Outlaw \"Гурман\"",
+					"th-TH": "Gourmand Outlaw",
+					"tr-TR": "Gurme Outlaw",
+					"vi-VN": "Outlaw Gourmand",
+					"zh-CN": "美食家 莽侠",
+					"zh-TW": "白金盛宴 逃犯"
 				}
 			}
 		},
@@ -169823,6 +171728,99 @@
 		},
 		{
 			"weaponId": "C4883E50-4494-202C-3EC3-6B8A9284F00B",
+			"defaultChromaId": "04B7099E-49D0-19C5-BBF1-FBA03707AE89",
+			"chromas": [
+				{
+					"id": "04B7099E-49D0-19C5-BBF1-FBA03707AE89",
+					"label": "04B7099E-49D0-19C5-BBF1-FBA03707AE89",
+					"name":
+					{
+						"defaultText": "Last Stop Marshal",
+						"localizedByCulture":
+						{
+							"ar-AE": "المحطة الأخيرة مارشال",
+							"de-DE": "Marshal – Endstation",
+							"en-US": "Last Stop Marshal",
+							"es-ES": "Marshal Last Stop",
+							"es-MX": "Marshal Última Parada",
+							"fr-FR": "Marshal (Dernier arrêt)",
+							"id-ID": "Last Stop Marshal",
+							"it-IT": "Marshal Ultima fermata",
+							"ja-JP": "ラストストップ マーシャル",
+							"ko-KR": "종착지 마샬",
+							"pl-PL": "Marshal Ostatniego Postoju",
+							"pt-BR": "Marshal Última Parada",
+							"ru-RU": "Marshal \"Последняя остановка\"",
+							"th-TH": "Last Stop Marshal",
+							"tr-TR": "Son Durak Marshal",
+							"vi-VN": "Marshal Trạm Dừng Cuối",
+							"zh-CN": "终点站餐吧 飞将",
+							"zh-TW": "霓虹餐館 警長"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "5BCCA3AD-4B89-CB2F-44B3-13BCFD886AB5",
+					"label": "5BCCA3AD-4B89-CB2F-44B3-13BCFD886AB5",
+					"name":
+					{
+						"defaultText": "Last Stop Marshal",
+						"localizedByCulture":
+						{
+							"ar-AE": "المحطة الأخيرة مارشال",
+							"de-DE": "Marshal – Endstation",
+							"en-US": "Last Stop Marshal",
+							"es-ES": "Marshal Last Stop",
+							"es-MX": "Marshal Última Parada",
+							"fr-FR": "Marshal (Dernier arrêt)",
+							"id-ID": "Last Stop Marshal",
+							"it-IT": "Marshal Ultima fermata",
+							"ja-JP": "ラストストップ マーシャル",
+							"ko-KR": "종착지 마샬",
+							"pl-PL": "Marshal Ostatniego Postoju",
+							"pt-BR": "Marshal Última Parada",
+							"ru-RU": "Marshal \"Последняя остановка\"",
+							"th-TH": "Last Stop Marshal",
+							"tr-TR": "Son Durak Marshal",
+							"vi-VN": "Marshal Trạm Dừng Cuối",
+							"zh-CN": "终点站餐吧 飞将",
+							"zh-TW": "霓虹餐館 警長"
+						}
+					}
+				}
+			],
+			"id": "301233CB-442B-402B-BF7D-199D0F54CAD8",
+			"label": "301233CB-442B-402B-BF7D-199D0F54CAD8",
+			"name":
+			{
+				"defaultText": "Last Stop Marshal",
+				"localizedByCulture":
+				{
+					"ar-AE": "المحطة الأخيرة مارشال",
+					"de-DE": "Marshal – Endstation",
+					"en-US": "Last Stop Marshal",
+					"es-ES": "Marshal Last Stop",
+					"es-MX": "Marshal Última Parada",
+					"fr-FR": "Marshal (Dernier arrêt)",
+					"id-ID": "Last Stop Marshal",
+					"it-IT": "Marshal Ultima fermata",
+					"ja-JP": "ラストストップ マーシャル",
+					"ko-KR": "종착지 마샬",
+					"pl-PL": "Marshal Ostatniego Postoju",
+					"pt-BR": "Marshal Última Parada",
+					"ru-RU": "Marshal \"Последняя остановка\"",
+					"th-TH": "Last Stop Marshal",
+					"tr-TR": "Son Durak Marshal",
+					"vi-VN": "Marshal Trạm Dừng Cuối",
+					"zh-CN": "终点站餐吧 飞将",
+					"zh-TW": "霓虹餐館 警長"
+				}
+			}
+		},
+		{
+			"weaponId": "C4883E50-4494-202C-3EC3-6B8A9284F00B",
 			"defaultChromaId": "7BD25A14-4F21-D4D2-CAD2-75843E4EDAB2",
 			"chromas": [
 				{
@@ -173437,6 +175435,273 @@
 					"vi-VN": "Marshal Rupture",
 					"zh-CN": "原子裂解 飞将",
 					"zh-TW": "裂痕交鋒 警長"
+				}
+			}
+		},
+		{
+			"weaponId": "C4883E50-4494-202C-3EC3-6B8A9284F00B",
+			"defaultChromaId": "35927F01-4500-9F9C-82D2-61B8D474EC41",
+			"chromas": [
+				{
+					"id": "35927F01-4500-9F9C-82D2-61B8D474EC41",
+					"label": "35927F01-4500-9F9C-82D2-61B8D474EC41",
+					"name":
+					{
+						"defaultText": "Aeris Marshal",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير مارشال",
+							"de-DE": "Marshal – Aeris",
+							"en-US": "Aeris Marshal",
+							"es-ES": "Marshal Aeris",
+							"es-MX": "Marshal Aeris",
+							"fr-FR": "Marshal (Aeris)",
+							"id-ID": "Aeris Marshal",
+							"it-IT": "Marshal Aeris",
+							"ja-JP": "エアリス マーシャル",
+							"ko-KR": "에리스 마샬",
+							"pl-PL": "Marshal Aeris",
+							"pt-BR": "Marshal Aeris",
+							"ru-RU": "Marshal \"Аэромантия\"",
+							"th-TH": "Aeris Marshal",
+							"tr-TR": "Göksel Marshal",
+							"vi-VN": "Marshal Aeris",
+							"zh-CN": "圣契命澜 飞将",
+							"zh-TW": "至高聖使 警長"
+						}
+					}
+				},
+				{
+					"id": "502F1D1F-4A2E-364C-CF78-EAB56EB4B77A",
+					"label": "502F1D1F-4A2E-364C-CF78-EAB56EB4B77A",
+					"name":
+					{
+						"defaultText": "Aeris Marshal Level 4\n(Variant 1 Red)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير مارشال المستوى 4\n(بديل 1 أحمر)",
+							"de-DE": "Marshal – Aeris Level 4\n(Variante 1, Rot)",
+							"en-US": "Aeris Marshal Level 4\n(Variant 1 Red)",
+							"es-ES": "Marshal Aeris de nivel 4\n(variante 1: rojo)",
+							"es-MX": "Marshal Aeris nivel 4\n(Variante 1 Roja)",
+							"fr-FR": "Marshal (Aeris) niveau 4\n(variante 1 Rouge)",
+							"id-ID": "Aeris Marshal Level 4\n(Varian 1 Merah)",
+							"it-IT": "Marshal Aeris livello 4\n(variante 1 Rossa)",
+							"ja-JP": "エアリス マーシャル Lv.4\n(ヴァリアント 1 レッド)",
+							"ko-KR": "에리스 마샬 4레벨\n(변형 1 빨간색)",
+							"pl-PL": "Marshal Aeris (poziom 4)\n(wersja 1 – czerwona)",
+							"pt-BR": "Marshal Aeris Nível 4\n(Variante 1 Vermelha)",
+							"ru-RU": "Marshal \"Аэромантия\" уровень 4\n(расцветка 1 \"Красный\")",
+							"th-TH": "Aeris Marshal เลเวล 4\n(ตัวเลือกที่ 1 สีแดง)",
+							"tr-TR": "4. Seviye Göksel Marshal\n(Stil 1 - Kırmızı)",
+							"vi-VN": "Marshal Aeris Cấp 4\n(Dạng 1 Ánh Đỏ)",
+							"zh-CN": "圣契命澜 飞将 等级4\n（炫彩1 红色）",
+							"zh-TW": "至高聖使 警長 等級4\n(幻彩1 紅色)"
+						}
+					}
+				},
+				{
+					"id": "E94B435B-4C9E-E52A-5148-3A9A21547A4F",
+					"label": "E94B435B-4C9E-E52A-5148-3A9A21547A4F",
+					"name":
+					{
+						"defaultText": "Aeris Marshal Level 4\n(Variant 2 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير مارشال المستوى 4\n(بديل 2 وردي)",
+							"de-DE": "Marshal – Aeris Level 4\n(Variante 2, Rosa)",
+							"en-US": "Aeris Marshal Level 4\n(Variant 2 Pink)",
+							"es-ES": "Marshal Aeris de nivel 4\n(variante 2: rosa)",
+							"es-MX": "Marshal Aeris nivel 4\n(Variante 2 Rosa)",
+							"fr-FR": "Marshal (Aeris) niveau 4\n(variante 2 Rose)",
+							"id-ID": "Aeris Marshal Level 4\n(Varian 2 Merah Muda)",
+							"it-IT": "Marshal Aeris livello 4\n(variante 2 Rosa)",
+							"ja-JP": "エアリス マーシャル Lv.4\n(ヴァリアント 2 ピンク)",
+							"ko-KR": "에리스 마샬 4레벨\n(변형 2 분홍색)",
+							"pl-PL": "Marshal Aeris (poziom 4)\n(wersja 2 – różowa)",
+							"pt-BR": "Marshal Aeris Nível 4\n(Variante 2 Rosa)",
+							"ru-RU": "Marshal \"Аэромантия\" уровень 4\n(расцветка 2 \"Розовый\")",
+							"th-TH": "Aeris Marshal เลเวล 4\n(ตัวเลือกที่ 2 สีชมพู)",
+							"tr-TR": "4. Seviye Göksel Marshal\n(Stil 2 - Pembe)",
+							"vi-VN": "Marshal Aeris Cấp 4\n(Dạng 2 Ánh Hồng)",
+							"zh-CN": "圣契命澜 飞将 等级4\n（炫彩2 粉色）",
+							"zh-TW": "至高聖使 警長 等級4\n(幻彩2 粉色)"
+						}
+					}
+				},
+				{
+					"id": "A9E041BD-41D3-C71F-5075-E08AE7587D68",
+					"label": "A9E041BD-41D3-C71F-5075-E08AE7587D68",
+					"name":
+					{
+						"defaultText": "Aeris Marshal Level 4\n(Variant 3 Purple)",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير مارشال المستوى 4\n(بديل 3 أرجواني)",
+							"de-DE": "Marshal – Aeris Level 4\n(Variante 3, Violett)",
+							"en-US": "Aeris Marshal Level 4\n(Variant 3 Purple)",
+							"es-ES": "Marshal Aeris de nivel 4\n(variante 3: púrpura)",
+							"es-MX": "Marshal Aeris nivel 4\n(Variante 3 Morada)",
+							"fr-FR": "Marshal (Aeris) niveau 4\n(variante 3 Violet)",
+							"id-ID": "Aeris Marshal Level 4\n(Varian 3 Ungu)",
+							"it-IT": "Marshal Aeris livello 4\n(variante 3 Viola)",
+							"ja-JP": "エアリス マーシャル Lv.4\n(ヴァリアント 3 パープル)",
+							"ko-KR": "에리스 마샬 4레벨\n(변형 3 보라색)",
+							"pl-PL": "Marshal Aeris (poziom 4)\n(wersja 3 – fioletowa)",
+							"pt-BR": "Marshal Aeris Nível 4\n(Variante 3 Roxa)",
+							"ru-RU": "Marshal \"Аэромантия\" уровень 4\n(расцветка 3 \"Фиолетовый\")",
+							"th-TH": "Aeris Marshal เลเวล 4\n(ตัวเลือกที่ 3 สีม่วง)",
+							"tr-TR": "4. Seviye Göksel Marshal\n(Stil 3 - Mor)",
+							"vi-VN": "Marshal Aeris Cấp 4\n(Dạng 3 Ánh Tím)",
+							"zh-CN": "圣契命澜 飞将 等级4\n（炫彩3 紫色）",
+							"zh-TW": "至高聖使 警長 等級4\n(幻彩3 紫色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "6E4496B5-441D-BF1B-044E-EE914BAAC95C",
+					"label": "6E4496B5-441D-BF1B-044E-EE914BAAC95C",
+					"name":
+					{
+						"defaultText": "Aeris Marshal",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير مارشال",
+							"de-DE": "Marshal – Aeris",
+							"en-US": "Aeris Marshal",
+							"es-ES": "Marshal Aeris",
+							"es-MX": "Marshal Aeris",
+							"fr-FR": "Marshal (Aeris)",
+							"id-ID": "Aeris Marshal",
+							"it-IT": "Marshal Aeris",
+							"ja-JP": "エアリス マーシャル",
+							"ko-KR": "에리스 마샬",
+							"pl-PL": "Marshal Aeris",
+							"pt-BR": "Marshal Aeris",
+							"ru-RU": "Marshal \"Аэромантия\"",
+							"th-TH": "Aeris Marshal",
+							"tr-TR": "Göksel Marshal",
+							"vi-VN": "Marshal Aeris",
+							"zh-CN": "圣契命澜 飞将",
+							"zh-TW": "至高聖使 警長"
+						}
+					}
+				},
+				{
+					"id": "EFB9730C-4F13-4695-199C-53A81BD72408",
+					"label": "EFB9730C-4F13-4695-199C-53A81BD72408",
+					"name":
+					{
+						"defaultText": "Aeris Marshal Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير مارشال المستوى 2",
+							"de-DE": "Marshal – Aeris Level 2",
+							"en-US": "Aeris Marshal Level 2",
+							"es-ES": "Marshal Aeris de nivel 2",
+							"es-MX": "Marshal Aeris nivel 2",
+							"fr-FR": "Marshal (Aeris) niveau 2",
+							"id-ID": "Aeris Marshal Level 2",
+							"it-IT": "Marshal Aeris livello 2",
+							"ja-JP": "エアリス マーシャル Lv.2",
+							"ko-KR": "에리스 마샬 2레벨",
+							"pl-PL": "Marshal Aeris (poziom 2)",
+							"pt-BR": "Marshal Aeris Nível 2",
+							"ru-RU": "Marshal \"Аэромантия\" уровень 2",
+							"th-TH": "Aeris Marshal เลเวล 2",
+							"tr-TR": "2. Seviye Göksel Marshal",
+							"vi-VN": "Marshal Aeris Cấp 2",
+							"zh-CN": "圣契命澜 飞将 等级2",
+							"zh-TW": "至高聖使 警長 等級2"
+						}
+					}
+				},
+				{
+					"id": "2BBA6D17-438C-11C2-159A-8EB9A9B39C1A",
+					"label": "2BBA6D17-438C-11C2-159A-8EB9A9B39C1A",
+					"name":
+					{
+						"defaultText": "Aeris Marshal Level 3",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير مارشال المستوى 3",
+							"de-DE": "Marshal – Aeris Level 3",
+							"en-US": "Aeris Marshal Level 3",
+							"es-ES": "Marshal Aeris de nivel 3",
+							"es-MX": "Marshal Aeris nivel 3",
+							"fr-FR": "Marshal (Aeris) niveau 3",
+							"id-ID": "Aeris Marshal Level 3",
+							"it-IT": "Marshal Aeris livello 3",
+							"ja-JP": "エアリス マーシャル Lv.3",
+							"ko-KR": "에리스 마샬 3레벨",
+							"pl-PL": "Marshal Aeris (poziom 3)",
+							"pt-BR": "Marshal Aeris Nível 3",
+							"ru-RU": "Marshal \"Аэромантия\" уровень 3",
+							"th-TH": "Aeris Marshal เลเวล 3",
+							"tr-TR": "3. Seviye Göksel Marshal",
+							"vi-VN": "Marshal Aeris Cấp 3",
+							"zh-CN": "圣契命澜 飞将 等级3",
+							"zh-TW": "至高聖使 警長 等級3"
+						}
+					}
+				},
+				{
+					"id": "0760C947-47FD-50A3-4AB9-E082528C3BB5",
+					"label": "0760C947-47FD-50A3-4AB9-E082528C3BB5",
+					"name":
+					{
+						"defaultText": "Aeris Marshal Level 4",
+						"localizedByCulture":
+						{
+							"ar-AE": "الأثير مارشال المستوى 4",
+							"de-DE": "Marshal – Aeris Level 4",
+							"en-US": "Aeris Marshal Level 4",
+							"es-ES": "Marshal Aeris de nivel 4",
+							"es-MX": "Marshal Aeris nivel 4",
+							"fr-FR": "Marshal (Aeris) niveau 4",
+							"id-ID": "Aeris Marshal Level 4",
+							"it-IT": "Marshal Aeris livello 4",
+							"ja-JP": "エアリス マーシャル Lv.4",
+							"ko-KR": "에리스 마샬 4레벨",
+							"pl-PL": "Marshal Aeris (poziom 4)",
+							"pt-BR": "Marshal Aeris Nível 4",
+							"ru-RU": "Marshal \"Аэромантия\" уровень 4",
+							"th-TH": "Aeris Marshal เลเวล 4",
+							"tr-TR": "4. Seviye Göksel Marshal",
+							"vi-VN": "Marshal Aeris Cấp 4",
+							"zh-CN": "圣契命澜 飞将 等级4",
+							"zh-TW": "至高聖使 警長 等級4"
+						}
+					}
+				}
+			],
+			"id": "9FF57B38-4222-1C1E-B775-E682B7E6379B",
+			"label": "9FF57B38-4222-1C1E-B775-E682B7E6379B",
+			"name":
+			{
+				"defaultText": "Aeris Marshal",
+				"localizedByCulture":
+				{
+					"ar-AE": "الأثير مارشال",
+					"de-DE": "Marshal – Aeris",
+					"en-US": "Aeris Marshal",
+					"es-ES": "Marshal Aeris",
+					"es-MX": "Marshal Aeris",
+					"fr-FR": "Marshal (Aeris)",
+					"id-ID": "Aeris Marshal",
+					"it-IT": "Marshal Aeris",
+					"ja-JP": "エアリス マーシャル",
+					"ko-KR": "에리스 마샬",
+					"pl-PL": "Marshal Aeris",
+					"pt-BR": "Marshal Aeris",
+					"ru-RU": "Marshal \"Аэромантия\"",
+					"th-TH": "Aeris Marshal",
+					"tr-TR": "Göksel Marshal",
+					"vi-VN": "Marshal Aeris",
+					"zh-CN": "圣契命澜 飞将",
+					"zh-TW": "至高聖使 警長"
 				}
 			}
 		},
@@ -187827,6 +190092,157 @@
 		},
 		{
 			"weaponId": "F7E1B454-4AD4-1063-EC0A-159E56B58941",
+			"defaultChromaId": "C9580B87-4F21-5B5B-F447-F8985526AAFD",
+			"chromas": [
+				{
+					"id": "C9580B87-4F21-5B5B-F447-F8985526AAFD",
+					"label": "C9580B87-4F21-5B5B-F447-F8985526AAFD",
+					"name":
+					{
+						"defaultText": "Verdant Cafe Stinger",
+						"localizedByCulture":
+						{
+							"ar-AE": "المقهى الأخضر ستينغر",
+							"de-DE": "Stinger – Grünes Cafe",
+							"en-US": "Verdant Cafe Stinger",
+							"es-ES": "Stinger Verdant Cafe",
+							"es-MX": "Stinger Verde Espresso",
+							"fr-FR": "Stinger (Café verdoyant)",
+							"id-ID": "Verdant Cafe Stinger",
+							"it-IT": "Stinger Verdant Cafe",
+							"ja-JP": "ヴァーダントカフェ スティンガー",
+							"ko-KR": "신록의 카페 스팅어",
+							"pl-PL": "Herbaciany Stinger",
+							"pt-BR": "Stinger Cafeteria Verdejante",
+							"ru-RU": "Stinger \"Зеленое кафе\"",
+							"th-TH": "Verdant Cafe Stinger",
+							"tr-TR": "Zümrüt Kafe Stinger",
+							"vi-VN": "Stinger Cafe Xanh Mát",
+							"zh-CN": "绿意咖啡馆 蜂刺",
+							"zh-TW": "翠綠咖啡 刺針"
+						}
+					}
+				},
+				{
+					"id": "12D565B8-4F80-5766-091E-6A906D93CFC9",
+					"label": "12D565B8-4F80-5766-091E-6A906D93CFC9",
+					"name":
+					{
+						"defaultText": "Verdant Cafe Stinger\n(Variant 1 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "المقهى الأخضر ستينغر\n(بديل 1 أزرق)",
+							"de-DE": "Stinger – Grünes Cafe\n(Variante 1, Blau)",
+							"en-US": "Verdant Cafe Stinger\n(Variant 1 Blue)",
+							"es-ES": "Stinger Verdant Cafe\n(variante 1: azul)",
+							"es-MX": "Stinger Verde Espresso\n(Variante 1 Azul)",
+							"fr-FR": "Stinger (Café verdoyant)\n(variante 1 Bleu)",
+							"id-ID": "Verdant Cafe Stinger\n(Varian 1 Biru)",
+							"it-IT": "Stinger Verdant Cafe\n(variante 1 Blu)",
+							"ja-JP": "ヴァーダントカフェ スティンガー\n(ヴァリアント 1 ブルー)",
+							"ko-KR": "신록의 카페 스팅어\n(변형 1 파란색)",
+							"pl-PL": "Herbaciany Stinger\n(wersja 1 – niebieska)",
+							"pt-BR": "Stinger Cafeteria Verdejante\n(Variante 1 Azul)",
+							"ru-RU": "Stinger \"Зеленое кафе\"\n(расцветка 1 \"Синий\")",
+							"th-TH": "Verdant Cafe Stinger\n(ตัวเลือกที่ 1 สีฟ้า)",
+							"tr-TR": "Zümrüt Kafe Stinger\n(Stil 1 - Mavi)",
+							"vi-VN": "Stinger Cafe Xanh Mát\n(Dạng 1 Ánh Lam)",
+							"zh-CN": "绿意咖啡馆 蜂刺\n（炫彩1 蓝色）",
+							"zh-TW": "翠綠咖啡 刺針\n(幻彩1 藍色)"
+						}
+					}
+				},
+				{
+					"id": "A1BA2404-4E91-5CB7-B04E-868A2EDEC725",
+					"label": "A1BA2404-4E91-5CB7-B04E-868A2EDEC725",
+					"name":
+					{
+						"defaultText": "Verdant Cafe Stinger\n(Variant 2 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "المقهى الأخضر ستينغر\n(بديل 2 وردي)",
+							"de-DE": "Stinger – Grünes Cafe\n(Variante 2, Rosa)",
+							"en-US": "Verdant Cafe Stinger\n(Variant 2 Pink)",
+							"es-ES": "Stinger Verdant Cafe\n(variante 2: rosa)",
+							"es-MX": "Stinger Verde Espresso\n(Variante 2 Rosa)",
+							"fr-FR": "Stinger (Café verdoyant)\n(variante 2 Rose)",
+							"id-ID": "Verdant Cafe Stinger\n(Varian 2 Merah Muda)",
+							"it-IT": "Stinger Verdant Cafe\n(variante 2 Rosa)",
+							"ja-JP": "ヴァーダントカフェ スティンガー\n(ヴァリアント 2 ピンク)",
+							"ko-KR": "신록의 카페 스팅어\n(변형 2 분홍색)",
+							"pl-PL": "Herbaciany Stinger\n(wersja 2 – różowa)",
+							"pt-BR": "Stinger Cafeteria Verdejante\n(Variante 2 Rosa)",
+							"ru-RU": "Stinger \"Зеленое кафе\"\n(расцветка 2 \"Розовый\")",
+							"th-TH": "Verdant Cafe Stinger\n(ตัวเลือกที่ 2 สีชมพู)",
+							"tr-TR": "Zümrüt Kafe Stinger\n(Stil 2 - Pembe)",
+							"vi-VN": "Stinger Cafe Xanh Mát\n(Dạng 2 Ánh Hồng)",
+							"zh-CN": "绿意咖啡馆 蜂刺\n（炫彩2 粉色）",
+							"zh-TW": "翠綠咖啡 刺針\n(幻彩2 粉色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "9C6B2900-4ECF-D5C9-FA1E-9DA6D02EBC6D",
+					"label": "9C6B2900-4ECF-D5C9-FA1E-9DA6D02EBC6D",
+					"name":
+					{
+						"defaultText": "Verdant Cafe Stinger",
+						"localizedByCulture":
+						{
+							"ar-AE": "المقهى الأخضر ستينغر",
+							"de-DE": "Stinger – Grünes Cafe",
+							"en-US": "Verdant Cafe Stinger",
+							"es-ES": "Stinger Verdant Cafe",
+							"es-MX": "Stinger Verde Espresso",
+							"fr-FR": "Stinger (Café verdoyant)",
+							"id-ID": "Verdant Cafe Stinger",
+							"it-IT": "Stinger Verdant Cafe",
+							"ja-JP": "ヴァーダントカフェ スティンガー",
+							"ko-KR": "신록의 카페 스팅어",
+							"pl-PL": "Herbaciany Stinger",
+							"pt-BR": "Stinger Cafeteria Verdejante",
+							"ru-RU": "Stinger \"Зеленое кафе\"",
+							"th-TH": "Verdant Cafe Stinger",
+							"tr-TR": "Zümrüt Kafe Stinger",
+							"vi-VN": "Stinger Cafe Xanh Mát",
+							"zh-CN": "绿意咖啡馆 蜂刺",
+							"zh-TW": "翠綠咖啡 刺針"
+						}
+					}
+				}
+			],
+			"id": "D83FECFA-41FF-9DCE-0241-0980C6A087D7",
+			"label": "D83FECFA-41FF-9DCE-0241-0980C6A087D7",
+			"name":
+			{
+				"defaultText": "Verdant Cafe Stinger",
+				"localizedByCulture":
+				{
+					"ar-AE": "المقهى الأخضر ستينغر",
+					"de-DE": "Stinger – Grünes Cafe",
+					"en-US": "Verdant Cafe Stinger",
+					"es-ES": "Stinger Verdant Cafe",
+					"es-MX": "Stinger Verde Espresso",
+					"fr-FR": "Stinger (Café verdoyant)",
+					"id-ID": "Verdant Cafe Stinger",
+					"it-IT": "Stinger Verdant Cafe",
+					"ja-JP": "ヴァーダントカフェ スティンガー",
+					"ko-KR": "신록의 카페 스팅어",
+					"pl-PL": "Herbaciany Stinger",
+					"pt-BR": "Stinger Cafeteria Verdejante",
+					"ru-RU": "Stinger \"Зеленое кафе\"",
+					"th-TH": "Verdant Cafe Stinger",
+					"tr-TR": "Zümrüt Kafe Stinger",
+					"vi-VN": "Stinger Cafe Xanh Mát",
+					"zh-CN": "绿意咖啡馆 蜂刺",
+					"zh-TW": "翠綠咖啡 刺針"
+				}
+			}
+		},
+		{
+			"weaponId": "F7E1B454-4AD4-1063-EC0A-159E56B58941",
 			"defaultChromaId": "6AAFB330-4CE9-1545-182B-6FB28A805140",
 			"chromas": [
 				{
@@ -198729,6 +201145,157 @@
 		},
 		{
 			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
+			"defaultChromaId": "0C12C2F9-47E0-698D-F091-4398C43B4ACE",
+			"chromas": [
+				{
+					"id": "0C12C2F9-47E0-698D-F091-4398C43B4ACE",
+					"label": "0C12C2F9-47E0-698D-F091-4398C43B4ACE",
+					"name":
+					{
+						"defaultText": "Verdant Cafe Chef's Knife",
+						"localizedByCulture":
+						{
+							"ar-AE": "سكين طاهي المقهى الأخضر",
+							"de-DE": "Kochmesser – Grünes Cafe",
+							"en-US": "Verdant Cafe Chef's Knife",
+							"es-ES": "CUCHILLO DE CHEF VERDANT CAFE",
+							"es-MX": "Cuchillo de Chef Verde Espresso",
+							"fr-FR": "Couteau de chef (Café verdoyant)",
+							"id-ID": "Verdant Cafe Chef's Knife",
+							"it-IT": "Coltello Verdant Cafe",
+							"ja-JP": "ヴァーダントカフェ シェフナイフ",
+							"ko-KR": "신록의 카페 식칼",
+							"pl-PL": "Herbaciany Nóż Szefa Kuchni",
+							"pt-BR": "Faca de Chef Cafeteria Verdejante",
+							"ru-RU": "Поварской нож \"Зеленое кафе\"",
+							"th-TH": "Verdant Cafe Chef's Knife",
+							"tr-TR": "Zümrüt Kafe Şef Bıçağı",
+							"vi-VN": "Dao Đầu Bếp Cafe Xanh Mát",
+							"zh-CN": "绿意咖啡馆 主厨刀",
+							"zh-TW": "翠綠咖啡 廚刀"
+						}
+					}
+				},
+				{
+					"id": "81DF4207-4220-B509-C0B1-1AB5D6618584",
+					"label": "81DF4207-4220-B509-C0B1-1AB5D6618584",
+					"name":
+					{
+						"defaultText": "Verdant Cafe Chef's Knife\n(Variant 1 Blue)",
+						"localizedByCulture":
+						{
+							"ar-AE": "سكين طاهي المقهى الأخضر\n(بديل 1 أزرق)",
+							"de-DE": "Kochmesser – Grünes Cafe\n(Variante 1, Blau)",
+							"en-US": "Verdant Cafe Chef's Knife\n(Variant 1 Blue)",
+							"es-ES": "CUCHILLO DE CHEF VERDANT CAFE\n(variante 1: azul)",
+							"es-MX": "Cuchillo de Chef Verde Espresso\n(Variante 1 Azul)",
+							"fr-FR": "Couteau de chef (Café verdoyant)\n(variante 1 Bleu)",
+							"id-ID": "Verdant Cafe Chef's Knife\n(Varian 1 Biru)",
+							"it-IT": "Coltello Verdant Cafe\n(variante 1 Blu)",
+							"ja-JP": "ヴァーダントカフェ シェフナイフ\n(ヴァリアント 1 ブルー)",
+							"ko-KR": "신록의 카페 식칼\n(변형 1 파란색)",
+							"pl-PL": "Herbaciany Nóż Szefa Kuchni\n(wersja 1 – niebieska)",
+							"pt-BR": "Faca de Chef Cafeteria Verdejante\n(Variante 1 Azul)",
+							"ru-RU": "Поварской нож \"Зеленое кафе\"\n(расцветка 1 \"Синий\")",
+							"th-TH": "Verdant Cafe Chef's Knife\n(ตัวเลือกที่ 1 สีฟ้า)",
+							"tr-TR": "Zümrüt Kafe Şef Bıçağı\n(Stil 1 - Mavi)",
+							"vi-VN": "Dao Đầu Bếp Cafe Xanh Mát\n(Dạng 1 Ánh Lam)",
+							"zh-CN": "绿意咖啡馆 主厨刀\n（炫彩1 蓝色）",
+							"zh-TW": "翠綠咖啡 廚刀\n(幻彩1 藍色)"
+						}
+					}
+				},
+				{
+					"id": "5DE1AAB0-4918-A607-F6D1-36BD9B59E610",
+					"label": "5DE1AAB0-4918-A607-F6D1-36BD9B59E610",
+					"name":
+					{
+						"defaultText": "Verdant Cafe Chef's Knife\n(Variant 2 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "سكين طاهي المقهى الأخضر\n(بديل 2 وردي)",
+							"de-DE": "Kochmesser – Grünes Cafe\n(Variante 2, Rosa)",
+							"en-US": "Verdant Cafe Chef's Knife\n(Variant 2 Pink)",
+							"es-ES": "CUCHILLO DE CHEF VERDANT CAFE\n(variante 2: rosa)",
+							"es-MX": "Cuchillo de Chef Verde Espresso\n(Variante 2 Rosa)",
+							"fr-FR": "Couteau de chef (Café verdoyant)\n(variante 2 Rose)",
+							"id-ID": "Verdant Cafe Chef's Knife\n(Varian 2 Merah Muda)",
+							"it-IT": "Coltello Verdant Cafe\n(variante 2 Rosa)",
+							"ja-JP": "ヴァーダントカフェ シェフナイフ\n(ヴァリアント 2 ピンク)",
+							"ko-KR": "신록의 카페 식칼\n(변형 2 분홍색)",
+							"pl-PL": "Herbaciany Nóż Szefa Kuchni\n(wersja 2 – różowa)",
+							"pt-BR": "Faca de Chef Cafeteria Verdejante\n(Variante 2 Rosa)",
+							"ru-RU": "Поварской нож \"Зеленое кафе\"\n(расцветка 2 \"Розовый\")",
+							"th-TH": "Verdant Cafe Chef's Knife\n(ตัวเลือกที่ 2 สีชมพู)",
+							"tr-TR": "Zümrüt Kafe Şef Bıçağı\n(Stil 2 - Pembe)",
+							"vi-VN": "Dao Đầu Bếp Cafe Xanh Mát\n(Dạng 2 Ánh Hồng)",
+							"zh-CN": "绿意咖啡馆 主厨刀\n（炫彩2 粉色）",
+							"zh-TW": "翠綠咖啡 廚刀\n(幻彩2 粉色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "C92DEDCB-4461-5A6E-8740-BCBA900A19A2",
+					"label": "C92DEDCB-4461-5A6E-8740-BCBA900A19A2",
+					"name":
+					{
+						"defaultText": "Verdant Cafe Chef's Knife",
+						"localizedByCulture":
+						{
+							"ar-AE": "سكين طاهي المقهى الأخضر",
+							"de-DE": "Kochmesser – Grünes Cafe",
+							"en-US": "Verdant Cafe Chef's Knife",
+							"es-ES": "CUCHILLO DE CHEF VERDANT CAFE",
+							"es-MX": "Cuchillo de Chef Verde Espresso",
+							"fr-FR": "Couteau de chef (Café verdoyant)",
+							"id-ID": "Verdant Cafe Chef's Knife",
+							"it-IT": "Coltello Verdant Cafe",
+							"ja-JP": "ヴァーダントカフェ シェフナイフ",
+							"ko-KR": "신록의 카페 식칼",
+							"pl-PL": "Herbaciany Nóż Szefa Kuchni",
+							"pt-BR": "Faca de Chef Cafeteria Verdejante",
+							"ru-RU": "Поварской нож \"Зеленое кафе\"",
+							"th-TH": "Verdant Cafe Chef's Knife",
+							"tr-TR": "Zümrüt Kafe Şef Bıçağı",
+							"vi-VN": "Dao Đầu Bếp Cafe Xanh Mát",
+							"zh-CN": "绿意咖啡馆 主厨刀",
+							"zh-TW": "翠綠咖啡 廚刀"
+						}
+					}
+				}
+			],
+			"id": "25F7A66F-41A3-13DA-53D9-FF94BE3ACE42",
+			"label": "25F7A66F-41A3-13DA-53D9-FF94BE3ACE42",
+			"name":
+			{
+				"defaultText": "Verdant Cafe Chef's Knife",
+				"localizedByCulture":
+				{
+					"ar-AE": "سكين طاهي المقهى الأخضر",
+					"de-DE": "Kochmesser – Grünes Cafe",
+					"en-US": "Verdant Cafe Chef's Knife",
+					"es-ES": "CUCHILLO DE CHEF VERDANT CAFE",
+					"es-MX": "Cuchillo de Chef Verde Espresso",
+					"fr-FR": "Couteau de chef (Café verdoyant)",
+					"id-ID": "Verdant Cafe Chef's Knife",
+					"it-IT": "Coltello Verdant Cafe",
+					"ja-JP": "ヴァーダントカフェ シェフナイフ",
+					"ko-KR": "신록의 카페 식칼",
+					"pl-PL": "Herbaciany Nóż Szefa Kuchni",
+					"pt-BR": "Faca de Chef Cafeteria Verdejante",
+					"ru-RU": "Поварской нож \"Зеленое кафе\"",
+					"th-TH": "Verdant Cafe Chef's Knife",
+					"tr-TR": "Zümrüt Kafe Şef Bıçağı",
+					"vi-VN": "Dao Đầu Bếp Cafe Xanh Mát",
+					"zh-CN": "绿意咖啡馆 主厨刀",
+					"zh-TW": "翠綠咖啡 廚刀"
+				}
+			}
+		},
+		{
+			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
 			"defaultChromaId": "2E59D7F8-4932-8196-77C0-C182FB0DC259",
 			"chromas": [
 				{
@@ -204247,7 +206814,7 @@
 							"pt-BR": "Machado Sublime",
 							"ru-RU": "Топорик \"Прайм\"",
 							"th-TH": "Prime Axe",
-							"tr-TR": "ASİL BALTA",
+							"tr-TR": "Asil Balta",
 							"vi-VN": "Rìu Hoàng Gia",
 							"zh-CN": "金琅斧",
 							"zh-TW": "紫金狂潮 戰斧"
@@ -204278,7 +206845,7 @@
 							"pt-BR": "Machado Sublime",
 							"ru-RU": "Топорик \"Прайм\"",
 							"th-TH": "Prime Axe",
-							"tr-TR": "ASİL BALTA",
+							"tr-TR": "Asil Balta",
 							"vi-VN": "Rìu Hoàng Gia",
 							"zh-CN": "金琅斧",
 							"zh-TW": "紫金狂潮 戰斧"
@@ -204336,7 +206903,7 @@
 					"pt-BR": "Machado Sublime",
 					"ru-RU": "Топорик \"Прайм\"",
 					"th-TH": "Prime Axe",
-					"tr-TR": "ASİL BALTA",
+					"tr-TR": "Asil Balta",
 					"vi-VN": "Rìu Hoàng Gia",
 					"zh-CN": "金琅斧",
 					"zh-TW": "紫金狂潮 戰斧"
@@ -212570,6 +215137,215 @@
 					"vi-VN": "Dao Găm Transition",
 					"zh-CN": "弧光异彩 军刀",
 					"zh-TW": "千變萬花筒 小刀"
+				}
+			}
+		},
+		{
+			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
+			"defaultChromaId": "4126D4B1-4371-A64D-0FBF-20BAA6891A3F",
+			"chromas": [
+				{
+					"id": "4126D4B1-4371-A64D-0FBF-20BAA6891A3F",
+					"label": "4126D4B1-4371-A64D-0FBF-20BAA6891A3F",
+					"name":
+					{
+						"defaultText": "Suit of Aeris",
+						"localizedByCulture":
+						{
+							"ar-AE": "بدلة الأثير",
+							"de-DE": "Farben von Aeris",
+							"en-US": "Suit of Aeris",
+							"es-ES": "As de Aeris",
+							"es-MX": "Traje de Aeris",
+							"fr-FR": "Enseigne d’Aeris",
+							"id-ID": "Suit of Aeris",
+							"it-IT": "Armatura di Aeris",
+							"ja-JP": "スーツ・オブ・エアリス",
+							"ko-KR": "에리스 슈트",
+							"pl-PL": "Zbroja Aeris",
+							"pt-BR": "Adaga Aeris",
+							"ru-RU": "Колода аэроманта",
+							"th-TH": "Suit of Aeris",
+							"tr-TR": "Göksel Sembolü",
+							"vi-VN": "Dao Găm Aeris",
+							"zh-CN": "命轮",
+							"zh-TW": "聖使套組"
+						}
+					}
+				},
+				{
+					"id": "4CE0073C-45FA-B094-50EB-9B9C33941FF3",
+					"label": "4CE0073C-45FA-B094-50EB-9B9C33941FF3",
+					"name":
+					{
+						"defaultText": "Suit of Aeris Level 2\n(Variant 1 Red)",
+						"localizedByCulture":
+						{
+							"ar-AE": "بدلة الأثير المستوى 2\n(بديل 1 أحمر)",
+							"de-DE": "Farben von Aeris Level 2\n(Variante 1, Rot)",
+							"en-US": "Suit of Aeris Level 2\n(Variant 1 Red)",
+							"es-ES": "As de Aeris de nivel 2\n(variante 1: rojo)",
+							"es-MX": "Traje de Aeris nivel 2\n(Variante 1 Roja)",
+							"fr-FR": "Enseigne d’Aeris\n(variante 1 Rouge)",
+							"id-ID": "Suit of Aeris Level 2\n(Varian 1 Merah)",
+							"it-IT": "Armatura di Aeris livello 2\n(variante 1 Rossa)",
+							"ja-JP": "スーツ・オブ・エアリス Lv.2\n(ヴァリアント 1 レッド)",
+							"ko-KR": "에리스 슈트 2레벨\n(변형 1 빨간색)",
+							"pl-PL": "Zbroja Aeris (poziom 2)\n(wersja 1 – czerwona)",
+							"pt-BR": "Adaga Aeris Nível 2\n(Variante 1 Vermelha)",
+							"ru-RU": "Колода аэроманта, уровень 2\n(расцветка 1 \"Красный\")",
+							"th-TH": "Suit of Aeris เลเวล 2\n(ตัวเลือกที่ 1 สีแดง)",
+							"tr-TR": "2. Seviye Göksel Sembolü\n(Stil 1 - Kırmızı)",
+							"vi-VN": "Dao Găm Aeris Cấp 2\n(Dạng 1 Ánh Đỏ)",
+							"zh-CN": "命轮 等级2\n（炫彩1 红色）",
+							"zh-TW": "聖使套組 等級2\n(幻彩1 紅色)"
+						}
+					}
+				},
+				{
+					"id": "5FA14708-4284-ABEE-E19F-5D81022BEF05",
+					"label": "5FA14708-4284-ABEE-E19F-5D81022BEF05",
+					"name":
+					{
+						"defaultText": "Suit of Aeris Level 2\n(Variant 2 Pink)",
+						"localizedByCulture":
+						{
+							"ar-AE": "بدلة الأثير المستوى 2\n(بديل 2 وردي)",
+							"de-DE": "Farben von Aeris Level 2\n(Variante 2, Rosa)",
+							"en-US": "Suit of Aeris Level 2\n(Variant 2 Pink)",
+							"es-ES": "As de Aeris de nivel 2\n(variante 2: rosa)",
+							"es-MX": "Traje de Aeris nivel 2\n(Variante 2 Rosa)",
+							"fr-FR": "Enseigne d’Aeris niveau 2\n(variante 2 Rose)",
+							"id-ID": "Suit of Aeris Level 2\n(Varian 2 Merah Muda)",
+							"it-IT": "Armatura di Aeris livello 2\n(variante 2 Rosa)",
+							"ja-JP": "スーツ・オブ・エアリス Lv.2\n(ヴァリアント 2 ピンク)",
+							"ko-KR": "에리스 슈트 2레벨\n(변형 2 분홍색)",
+							"pl-PL": "Zbroja Aeris (poziom 2)\n(wersja 2 – różowa)",
+							"pt-BR": "Adaga Aeris Nível 2\n(Variante 2 Rosa)",
+							"ru-RU": "Колода аэроманта, уровень 2\n(расцветка 2 \"Розовый\")",
+							"th-TH": "Suit of Aeris เลเวล 2\n(ตัวเลือกที่ 2 สีชมพู)",
+							"tr-TR": "2. Seviye Göksel Sembolü\n(Stil 2 - Pembe)",
+							"vi-VN": "Dao Găm Aeris Cấp 2\n(Dạng 2 Ánh Hồng)",
+							"zh-CN": "命轮 等级2\n（炫彩2 粉色）",
+							"zh-TW": "聖使套組 等級2\n(幻彩2 粉色)"
+						}
+					}
+				},
+				{
+					"id": "3915AF89-410B-BD8F-2676-0C96C9755ED5",
+					"label": "3915AF89-410B-BD8F-2676-0C96C9755ED5",
+					"name":
+					{
+						"defaultText": "Suit of Aeris Level 2\r\n(Variant 3 Purple)",
+						"localizedByCulture":
+						{
+							"ar-AE": "بدلة الأثير المستوى 2\r\n(بديل 3 أرجواني)",
+							"de-DE": "Farben von Aeris Level 2\r\n(Variante 3, Violett)",
+							"en-US": "Suit of Aeris Level 2\r\n(Variant 3 Purple)",
+							"es-ES": "As de Aeris de nivel 2\r\n(variante 3: púrpura)",
+							"es-MX": "Traje de Aeris nivel 2\r\n(Variante 3 Morada)",
+							"fr-FR": "Enseigne d’Aeris niveau 2\r\n(variante 3 Violet)",
+							"id-ID": "Suit of Aeris Level 2\r\n(Varian 3 Ungu)",
+							"it-IT": "Armatura di Aeris livello 2\r\n(variante 3 Viola)",
+							"ja-JP": "スーツ・オブ・エアリス Lv.2\r\n(ヴァリアント 3 パープル)",
+							"ko-KR": "에리스 슈트 2레벨\r\n(변형 3 보라색)",
+							"pl-PL": "Zbroja Aeris (poziom 2)\r\n(wersja 3 – fioletowa)",
+							"pt-BR": "Adaga Aeris Nível 2\r\n(Variante 3 Roxa)",
+							"ru-RU": "Колода аэроманта, уровень 2\r\n(расцветка 3 \"Фиолетовый\")",
+							"th-TH": "Suit of Aeris เลเวล 2\r\n(ตัวเลือกที่ 3 สีม่วง)",
+							"tr-TR": "2. Seviye Göksel Sembolü\r\n(Stil 3 - Mor)",
+							"vi-VN": "Dao Găm Aeris Cấp 2\r\n(Dạng 3 Ánh Tím)",
+							"zh-CN": "命轮 等级2\r\n（炫彩3 紫色）",
+							"zh-TW": "聖使套組 等級2\r\n(幻彩3 紫色)"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "74D9E46E-417F-C4E2-F70C-FD84A25C72CB",
+					"label": "74D9E46E-417F-C4E2-F70C-FD84A25C72CB",
+					"name":
+					{
+						"defaultText": "Suit of Aeris",
+						"localizedByCulture":
+						{
+							"ar-AE": "بدلة الأثير",
+							"de-DE": "Farben von Aeris",
+							"en-US": "Suit of Aeris",
+							"es-ES": "As de Aeris",
+							"es-MX": "Traje de Aeris",
+							"fr-FR": "Enseigne d’Aeris",
+							"id-ID": "Suit of Aeris",
+							"it-IT": "Armatura di Aeris",
+							"ja-JP": "スーツ・オブ・エアリス",
+							"ko-KR": "에리스 슈트",
+							"pl-PL": "Zbroja Aeris",
+							"pt-BR": "Adaga Aeris",
+							"ru-RU": "Колода аэроманта",
+							"th-TH": "Suit of Aeris",
+							"tr-TR": "Göksel Sembolü",
+							"vi-VN": "Dao Găm Aeris",
+							"zh-CN": "命轮",
+							"zh-TW": "聖使套組"
+						}
+					}
+				},
+				{
+					"id": "A518D446-4BBD-21F6-C4B9-49BDFF14FC10",
+					"label": "A518D446-4BBD-21F6-C4B9-49BDFF14FC10",
+					"name":
+					{
+						"defaultText": "Suit of Aeris Level 2",
+						"localizedByCulture":
+						{
+							"ar-AE": "بدلة الأثير المستوى 2",
+							"de-DE": "Farben von Aeris Level 2",
+							"en-US": "Suit of Aeris Level 2",
+							"es-ES": "As de Aeris de nivel 2",
+							"es-MX": "Traje de Aeris nivel 2",
+							"fr-FR": "Enseigne d’Aeris niveau 2",
+							"id-ID": "Suit of Aeris Level 2",
+							"it-IT": "Armatura di Aeris livello 2",
+							"ja-JP": "スーツ・オブ・エアリス Lv.2",
+							"ko-KR": "에리스 슈트 2레벨",
+							"pl-PL": "Zbroja Aeris (poziom 2)",
+							"pt-BR": "Adaga Aeris Nível 2",
+							"ru-RU": "Колода аэроманта, уровень 2",
+							"th-TH": "Suit of Aeris เลเวล 2",
+							"tr-TR": "2. Seviye Göksel Sembolü",
+							"vi-VN": "Dao Găm Aeris Cấp 2",
+							"zh-CN": "命轮 等级2",
+							"zh-TW": "聖使套組 等級2"
+						}
+					}
+				}
+			],
+			"id": "80F3DB03-4B8E-BAC2-B62F-4A85E63CB2B2",
+			"label": "80F3DB03-4B8E-BAC2-B62F-4A85E63CB2B2",
+			"name":
+			{
+				"defaultText": "Suit of Aeris",
+				"localizedByCulture":
+				{
+					"ar-AE": "بدلة الأثير",
+					"de-DE": "Farben von Aeris",
+					"en-US": "Suit of Aeris",
+					"es-ES": "As de Aeris",
+					"es-MX": "Traje de Aeris",
+					"fr-FR": "Enseigne d’Aeris",
+					"id-ID": "Suit of Aeris",
+					"it-IT": "Armatura di Aeris",
+					"ja-JP": "スーツ・オブ・エアリス",
+					"ko-KR": "에리스 슈트",
+					"pl-PL": "Zbroja Aeris",
+					"pt-BR": "Adaga Aeris",
+					"ru-RU": "Колода аэроманта",
+					"th-TH": "Suit of Aeris",
+					"tr-TR": "Göksel Sembolü",
+					"vi-VN": "Dao Găm Aeris",
+					"zh-CN": "命轮",
+					"zh-TW": "聖使套組"
 				}
 			}
 		},
@@ -224319,7 +227095,7 @@
 					"pt-BR": "Card Sublime",
 					"ru-RU": "Карточка \"Прайм\"",
 					"th-TH": "การ์ด Prime",
-					"tr-TR": "ASİL KARTI",
+					"tr-TR": "Asil Kartı",
 					"vi-VN": "Thẻ Hoàng Gia",
 					"zh-CN": "紫阙金琅 卡面",
 					"zh-TW": "紫金狂潮 玩家卡面"
@@ -226224,7 +229000,7 @@
 					"en-US": "Versus // Phoenix + Phoenix Card",
 					"es-ES": "Tarjeta VERSUS // Phoenix + Phoenix",
 					"es-MX": "Tarjeta Versus // Phoenix + Phoenix",
-					"fr-FR": "Carte Versus // Phoenix + Phoenix",
+					"fr-FR": "Carte VERSUS // Phoenix + Phoenix",
 					"id-ID": "Card Versus // Phoenix + Phoenix",
 					"it-IT": "Carta Versus // Phoenix e Phoenix",
 					"ja-JP": "VERSUS // フェニックス + フェニックス カード",
@@ -226601,7 +229377,7 @@
 					"en-US": "Versus // KAY/O + Brimstone Card",
 					"es-ES": "Tarjeta VERSUS // KAY/O + Brimstone",
 					"es-MX": "Tarjeta Versus // KAY/O + Brimstone",
-					"fr-FR": "Carte Versus // KAY/O + Brimstone",
+					"fr-FR": "Carte VERSUS // KAY/O + Brimstone",
 					"id-ID": "Card Versus // KAY/O + Brimstone",
 					"it-IT": "Carta Versus // KAY/O e Brimstone",
 					"ja-JP": "VERSUS // KAY/O + ブリムストーン カード",
@@ -229420,7 +232196,7 @@
 					"ja-JP": "デュオ // 戦場の指揮官 カード",
 					"ko-KR": "듀오 // 야전 지휘 카드",
 					"pl-PL": "Karta „DUET // Dowództwo”",
-					"pt-BR": "DUO // Card Comando de Campo",
+					"pt-BR": "Card DUO // Comando de Campo",
 					"ru-RU": "Карточка \"ДУЭТ // Боевое командование\"",
 					"th-TH": "การ์ด DUO // Field Command",
 					"tr-TR": "İKİLİ // Saha Komutası Kartı",
@@ -235214,7 +237990,7 @@
 					"en-US": "Versus // Yoru + Phoenix Card",
 					"es-ES": "Tarjeta VERSUS // Yoru + Phoenix",
 					"es-MX": "Tarjeta Versus // Yoru + Phoenix",
-					"fr-FR": "Carte Versus // Yoru + Phoenix",
+					"fr-FR": "Carte VERSUS // Yoru + Phoenix",
 					"id-ID": "Card Versus // Yoru + Phoenix",
 					"it-IT": "Carta VERSUS // Yoru e Phoenix",
 					"ja-JP": "VERSUS // ヨル + フェニックス カード",
@@ -239167,7 +241943,7 @@
 					"pt-BR": "Card Sublime//2.0",
 					"ru-RU": "Карточка \"Прайм//2.0\"",
 					"th-TH": "การ์ด Prime//2.0",
-					"tr-TR": "ASİL//2.0 KARTI",
+					"tr-TR": "Asil//2.0 Kartı",
 					"vi-VN": "Thẻ Hoàng Gia//2.0",
 					"zh-CN": "紫阙金琅//2.0 卡面",
 					"zh-TW": "紫金狂潮//2.0 玩家卡面"
@@ -240012,6 +242788,35 @@
 					"vi-VN": "Thẻ Holo Meridian",
 					"zh-CN": "银河子午线 卡面",
 					"zh-TW": "幻光星軌 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "7FB96942-4E17-F92D-7BDB-F6AB40170DF0",
+			"label": "7FB96942-4E17-F92D-7BDB-F6AB40170DF0",
+			"name":
+			{
+				"defaultText": "Aeris Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة الأثير",
+					"de-DE": "Banner „Aeris“",
+					"en-US": "Aeris Card",
+					"es-ES": "Tarjeta Aeris",
+					"es-MX": "Tarjeta Aeris",
+					"fr-FR": "Carte Aeris",
+					"id-ID": "Card Aeris",
+					"it-IT": "Carta Aeris",
+					"ja-JP": "エアリス カード",
+					"ko-KR": "에리스 카드",
+					"pl-PL": "Karta „Aeris”",
+					"pt-BR": "Card Aeris",
+					"ru-RU": "Карточка \"Аэромантия\"",
+					"th-TH": "การ์ด Aeris",
+					"tr-TR": "Göksel Kartı",
+					"vi-VN": "Thẻ Aeris",
+					"zh-CN": "圣契命澜 卡面",
+					"zh-TW": "至高聖使 玩家卡面"
 				}
 			}
 		},
@@ -243781,7 +246586,7 @@
 					"tr-TR": "Kişisel Kurulum // Sova Kartı",
 					"vi-VN": "Thẻ Bàn Cá Nhân // Sova",
 					"zh-CN": "个人配置//猎枭 卡面",
-					"zh-TW": "辦公小物 // 蘇法 玩家卡面"
+					"zh-TW": "個性小物 // 蘇法 玩家卡面"
 				}
 			}
 		},
@@ -244507,6 +247312,383 @@
 					"vi-VN": "Thẻ Mềm Mại Và Nguy Hiểm",
 					"zh-CN": "柔软而致命 卡面",
 					"zh-TW": "柔軟卻致命 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "DA0C1560-4A9D-99CB-F27C-FBB1A1FB65D9",
+			"label": "DA0C1560-4A9D-99CB-F27C-FBB1A1FB65D9",
+			"name":
+			{
+				"defaultText": "One Last Bite Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة آخر لقمة",
+					"de-DE": "Banner „Ein letzter Biss“",
+					"en-US": "One Last Bite Card",
+					"es-ES": "Tarjeta Último bocado",
+					"es-MX": "Tarjeta Un Último Bocado",
+					"fr-FR": "Carte Une dernière bouchée",
+					"id-ID": "Card One Last Bite",
+					"it-IT": "Carta Ultimo morso",
+					"ja-JP": "あと一口だけ カード",
+					"ko-KR": "딱 한 입만 카드",
+					"pl-PL": "Karta „Jeszcze jeden gryz”",
+					"pt-BR": "Card Só Mais Um Pedaço",
+					"ru-RU": "Карточка \"Перекус напоследок\"",
+					"th-TH": "การ์ด One Last Bite",
+					"tr-TR": "Bir Isırık Daha Kartı",
+					"vi-VN": "Thẻ Nốt Miếng Thôi Mà",
+					"zh-CN": "就吃最后一口 卡面",
+					"zh-TW": "偷閒時光 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "09051D24-41C2-966A-447E-C09DC4E9D5C2",
+			"label": "09051D24-41C2-966A-447E-C09DC4E9D5C2",
+			"name":
+			{
+				"defaultText": "Personal Setup // Clove Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة المكتب الشخصي // كلوف",
+					"de-DE": "Banner „Persönliches Setup // Clove“",
+					"en-US": "Personal Setup // Clove Card",
+					"es-ES": "Tarjeta Equipo personal // Clove",
+					"es-MX": "Tarjeta Setup Propio // Clove",
+					"fr-FR": "Carte Configuration personnelle // Clove",
+					"id-ID": "Card Personal Setup // Clove",
+					"it-IT": "Carta Postazione personale // Clove",
+					"ja-JP": "パーソナルセットアップ // クローヴ カード",
+					"ko-KR": "개인 맞춤 설정 // 클로브 카드",
+					"pl-PL": "Karta „Konfiguracja osobista // Clove”",
+					"pt-BR": "Card Meu Setup // Clove",
+					"ru-RU": "Карточка \"Рабочий стол // Clove\"",
+					"th-TH": "การ์ด Personal Setup // Clove",
+					"tr-TR": "Kişisel Kurulum // Clove Kartı",
+					"vi-VN": "Thẻ Bàn Cá Nhân // Clove",
+					"zh-CN": "专属桌搭//暮蝶 卡面",
+					"zh-TW": "個性小物 // 珂樂芙 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "3B8A10D9-489B-77A4-A93C-7EAF6B970CE0",
+			"label": "3B8A10D9-489B-77A4-A93C-7EAF6B970CE0",
+			"name":
+			{
+				"defaultText": "Brushstroke // Corrode Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة ضربة فرشاة // كورود",
+					"de-DE": "Banner „Pinselstrich // Corrode“",
+					"en-US": "Brushstroke // Corrode Card",
+					"es-ES": "Tarjeta Pincelada // Corrode",
+					"es-MX": "Tarjeta Pincelada // Corrode",
+					"fr-FR": "Carte Coup de pinceau // Corrode",
+					"id-ID": "Card Brushstroke // Corrode",
+					"it-IT": "Carta Pennellata // Corrode",
+					"ja-JP": "ブラッシュストローク // カロード カード",
+					"ko-KR": "붓놀림 // 코로드 카드",
+					"pl-PL": "Karta „Muśnięcie pędzla // Corrode”",
+					"pt-BR": "Card Pinceladas // Corrode",
+					"ru-RU": "Карточка \"Живопись // Corrode\"",
+					"th-TH": "การ์ด Brushstroke // Corrode",
+					"tr-TR": "Fırça Darbesi // Corrode Kartı",
+					"vi-VN": "Thẻ Vẽ Cọ // Corrode",
+					"zh-CN": "绘画//盐海矿镇 卡面",
+					"zh-TW": "筆觸 // 晶蝕之地 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "4D9B68DD-4676-10DF-0455-AE8D82DCA206",
+			"label": "4D9B68DD-4676-10DF-0455-AE8D82DCA206",
+			"name":
+			{
+				"defaultText": "Verdant Cafe Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة المقهى الأخضر",
+					"de-DE": "Banner „Grünes Café“",
+					"en-US": "Verdant Cafe Card",
+					"es-ES": "Tarjeta Verdant Cafe",
+					"es-MX": "Tarjeta Verde Espresso",
+					"fr-FR": "Carte Café verdoyant",
+					"id-ID": "Card Verdant Cafe",
+					"it-IT": "Carta Verdant Cafe",
+					"ja-JP": "ヴァーダントカフェ カード",
+					"ko-KR": "신록의 카페 카드",
+					"pl-PL": "Karta „Herbaciarnia”",
+					"pt-BR": "Card Cafeteria Verdejante",
+					"ru-RU": "Карточка \"Зеленое кафе\"",
+					"th-TH": "การ์ด Verdant Cafe",
+					"tr-TR": "Zümrüt Kafe Kartı",
+					"vi-VN": "Thẻ Cafe Xanh Mát",
+					"zh-CN": "绿意咖啡馆 卡面",
+					"zh-TW": "翠綠咖啡 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "7C00E96C-48FA-E79A-8BF7-DE9EDB529E54",
+			"label": "7C00E96C-48FA-E79A-8BF7-DE9EDB529E54",
+			"name":
+			{
+				"defaultText": "Chef's Choice Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة اختيار الطاهي",
+					"de-DE": "Banner „Empfehlung des Küchenchefs“",
+					"en-US": "Chef's Choice Card",
+					"es-ES": "Tarjeta Selección del chef",
+					"es-MX": "Tarjeta Elección del Chef",
+					"fr-FR": "Carte Suggestion du Chef",
+					"id-ID": "Card Chef's Choice",
+					"it-IT": "Carta Scelta dello chef",
+					"ja-JP": "板前の一皿 カード",
+					"ko-KR": "셰프 특선 카드",
+					"pl-PL": "Karta „Szef kuchni poleca”",
+					"pt-BR": "Card Escolha do Chef",
+					"ru-RU": "Карточка \"Выбор шефа\"",
+					"th-TH": "การ์ด Chef's Choice",
+					"tr-TR": "Şefin Seçimi Kartı",
+					"vi-VN": "Thẻ Bếp Trưởng Tuyển Chọn",
+					"zh-CN": "主厨甄选 卡面",
+					"zh-TW": "主廚特製 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "EFA04383-442E-0DB8-B195-BE9375794956",
+			"label": "EFA04383-442E-0DB8-B195-BE9375794956",
+			"name":
+			{
+				"defaultText": "Epilogue: Chef's Choice Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة الخاتمة: اختيار الطاهي",
+					"de-DE": "Banner „Epilog: Empfehlung des Küchenchefs“",
+					"en-US": "Epilogue: Chef's Choice Card",
+					"es-ES": "Epílogo: Tarjeta Selección del chef",
+					"es-MX": "Tarjeta Epílogo: Elección del Chef",
+					"fr-FR": "Carte Épilogue : Suggestion du Chef",
+					"id-ID": "Card Epilogue: Chef's Choice",
+					"it-IT": "Carta Epilogo: Scelta dello chef",
+					"ja-JP": "エピローグ: 板前の一皿 カード",
+					"ko-KR": "에필로그: 셰프 특선 카드",
+					"pl-PL": "Karta „Epilog: Szef kuchni poleca”",
+					"pt-BR": "Epílogo: Card Escolha do Chef",
+					"ru-RU": "Карточка \"Эпилог: Выбор шефа\"",
+					"th-TH": "การ์ด Epilogue: Chef's Choice",
+					"tr-TR": "Kapanış: Şefin Seçimi Kartı",
+					"vi-VN": "Hồi Kết: Thẻ Bếp Trưởng Tuyển Chọn",
+					"zh-CN": "终章：主厨甄选 卡面",
+					"zh-TW": "後記：主廚特製 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "1433F361-4AA5-927A-5923-2ABD84E639C0",
+			"label": "1433F361-4AA5-927A-5923-2ABD84E639C0",
+			"name":
+			{
+				"defaultText": "Gourmand Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة الذواق",
+					"de-DE": "Banner „Feinschmecker“",
+					"en-US": "Gourmand Card",
+					"es-ES": "Tarjeta Gourmand",
+					"es-MX": "Tarjeta Exquisitez",
+					"fr-FR": "Carte Gourmet",
+					"id-ID": "Card Gourmand",
+					"it-IT": "Carta Buongustaio",
+					"ja-JP": "グルマン カード",
+					"ko-KR": "미식가 카드",
+					"pl-PL": "Karta „Haute cuisine”",
+					"pt-BR": "Card Gourmet",
+					"ru-RU": "Карточка \"Гурман\"",
+					"th-TH": "การ์ด Gourmand",
+					"tr-TR": "Gurme Kartı",
+					"vi-VN": "Thẻ Gourmand",
+					"zh-CN": "美食家 卡面",
+					"zh-TW": "白金盛宴 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "9D3842FC-4E2F-CAC6-EC31-95BA7FB8C8BC",
+			"label": "9D3842FC-4E2F-CAC6-EC31-95BA7FB8C8BC",
+			"name":
+			{
+				"defaultText": "Combo Crew Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة فريق الكومبو",
+					"de-DE": "Banner „Combo-Crew“",
+					"en-US": "Combo Crew Card",
+					"es-ES": "Tarjeta Colegas de combos",
+					"es-MX": "Tarjeta Combinamiguis",
+					"fr-FR": "Carte Machine à pince",
+					"id-ID": "Card Combo Crew",
+					"it-IT": "Carta Squadra combo",
+					"ja-JP": "コンボクルー カード",
+					"ko-KR": "연속 콤보 카드",
+					"pl-PL": "Karta „Ekipa kombo”",
+					"pt-BR": "Card Tropa do Combo",
+					"ru-RU": "Карточка \"Комбо из питомцев\"",
+					"th-TH": "การ์ด Combo Crew",
+					"tr-TR": "Kombo Ekibi Kartı",
+					"vi-VN": "Thẻ Tiểu Đội Kết Hợp",
+					"zh-CN": "消消乐小分队 卡面",
+					"zh-TW": "連擊小隊 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "4CE870D3-46B9-FA4C-19CF-CDB13A3E8F52",
+			"label": "4CE870D3-46B9-FA4C-19CF-CDB13A3E8F52",
+			"name":
+			{
+				"defaultText": "Last Stop Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة المحطة الأخيرة",
+					"de-DE": "Banner „Endstation“",
+					"en-US": "Last Stop Card",
+					"es-ES": "Tarjeta Last Stop",
+					"es-MX": "Tarjeta Última Parada",
+					"fr-FR": "Carte Dernier arrêt",
+					"id-ID": "Card Last Stop",
+					"it-IT": "Carta Ultima fermata",
+					"ja-JP": "ラストストップ カード",
+					"ko-KR": "종착지 카드",
+					"pl-PL": "Karta „Ostatni postój”",
+					"pt-BR": "Card Última Parada",
+					"ru-RU": "Карточка \"Последняя остановка\"",
+					"th-TH": "การ์ด Last Stop",
+					"tr-TR": "Son Durak Kartı",
+					"vi-VN": "Thẻ Trạm Dừng Cuối",
+					"zh-CN": "终点站餐吧 卡面",
+					"zh-TW": "霓虹餐館 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "F2E6241D-4C6F-5B6D-F871-10952E6E085C",
+			"label": "F2E6241D-4C6F-5B6D-F871-10952E6E085C",
+			"name":
+			{
+				"defaultText": "Too Many Cooks Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة كثرة الطباخين",
+					"de-DE": "Banner „Zu viele Köche“",
+					"en-US": "Too Many Cooks Card",
+					"es-ES": "Tarjeta Demasiados cocineros",
+					"es-MX": "Tarjeta Demasiados Cocineros",
+					"fr-FR": "Carte Trop de cuistots",
+					"id-ID": "Card Too Many Cooks",
+					"it-IT": "Carta Troppi cuochi",
+					"ja-JP": "料理人が多すぎる カード",
+					"ko-KR": "우당탕탕 주방 카드",
+					"pl-PL": "Karta „Piekielna kuchnia”",
+					"pt-BR": "Card O Caldo Vai Entornar",
+					"ru-RU": "Карточка \"Толкотня на кухне\"",
+					"th-TH": "การ์ด Too Many Cooks",
+					"tr-TR": "Çok Fazla Aşçı Kartı",
+					"vi-VN": "Thẻ Lắm Thầy Nhiều Ma",
+					"zh-CN": "人多手杂 卡面",
+					"zh-TW": "胡鬧主廚 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "99BBBB50-438C-8348-B071-CCAC8B7E8D9B",
+			"label": "99BBBB50-438C-8348-B071-CCAC8B7E8D9B",
+			"name":
+			{
+				"defaultText": "Duelist Dinner Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة عشاء المبارزين",
+					"de-DE": "Banner „Dinner der Duellanten“",
+					"en-US": "Duelist Dinner Card",
+					"es-ES": "Tarjeta Cena de duelistas",
+					"es-MX": "Tarjeta Cena de Duelistas",
+					"fr-FR": "Carte Dîner du duelliste",
+					"id-ID": "Card Duelist Dinner",
+					"it-IT": "Carta Cena dell'Assassino",
+					"ja-JP": "デュエリスト ディナー カード",
+					"ko-KR": "타격대 회식 카드",
+					"pl-PL": "Karta „Pojedynek na noże”",
+					"pt-BR": "Card Jantar dos Duelistas",
+					"ru-RU": "Карточка \"Ужин дуэлянтов\"",
+					"th-TH": "การ์ด Duelist Dinner",
+					"tr-TR": "Düellocu Akşam Yemeği Kartı",
+					"vi-VN": "Thẻ Bữa Tối Đối Đầu",
+					"zh-CN": "决斗者盛宴 卡面",
+					"zh-TW": "決鬥者晚宴 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "5F766078-4C91-DEDD-6302-E3B7A11E0374",
+			"label": "5F766078-4C91-DEDD-6302-E3B7A11E0374",
+			"name":
+			{
+				"defaultText": "VERSUS // Viper + Sage Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة المواجهة // فايبر + سايج",
+					"de-DE": "Banner „VERSUS // Viper + Sage“",
+					"en-US": "VERSUS // Viper + Sage Card",
+					"es-ES": "Tarjeta VERSUS // Viper + Sage",
+					"es-MX": "Tarjeta VERSUS // Viper + Sage",
+					"fr-FR": "Carte VERSUS // Viper + Sage",
+					"id-ID": "Card VERSUS // Viper + Sage",
+					"it-IT": "Carta VERSUS // Viper e Sage",
+					"ja-JP": "VERSUS // ヴァイパー + セージ カード",
+					"ko-KR": "VS // 바이퍼 + 세이지 카드",
+					"pl-PL": "KONTRA // Karta „Viper + Sage”",
+					"pt-BR": "Card VERSUS // Viper + Sage",
+					"ru-RU": "Карточка \"Противостояние\" (Viper + Sage)",
+					"th-TH": "การ์ด VERSUS // Viper + Sage",
+					"tr-TR": "KARŞI KARŞIYA // Viper ve Sage Kartı",
+					"vi-VN": "Thẻ ĐỐI ĐẦU // Viper + Sage",
+					"zh-CN": "蝰蛇vs贤者 卡面",
+					"zh-TW": "宿命對決//薇蝮 vs 聖祈 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "D010298A-48E7-5EB9-528E-569C44644084",
+			"label": "D010298A-48E7-5EB9-528E-569C44644084",
+			"name":
+			{
+				"defaultText": "Today's Specials Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة أطباق اليوم",
+					"de-DE": "Banner „Tageskarte“",
+					"en-US": "Today's Specials Card",
+					"es-ES": "Tarjeta Platos del día",
+					"es-MX": "Tarjeta Especiales del Día",
+					"fr-FR": "Carte Plats du jour",
+					"id-ID": "Card Today's Specials",
+					"it-IT": "Carta Menù del giorno",
+					"ja-JP": "本日のおすすめ カード",
+					"ko-KR": "오늘의 메뉴 카드",
+					"pl-PL": "Karta „Specjały dnia”",
+					"pt-BR": "Card Pratos do Dia",
+					"ru-RU": "Карточка \"Сегодня в меню\"",
+					"th-TH": "การ์ด Today's Specials",
+					"tr-TR": "Günün Spesiyalleri Kartı",
+					"vi-VN": "Thẻ Món Tủ Hôm Nay",
+					"zh-CN": "今日特供 卡面",
+					"zh-TW": "今日特餐 玩家卡面"
 				}
 			}
 		},
@@ -269418,6 +272600,168 @@
 		{
 			"titleText":
 			{
+				"defaultText": "Fried",
+				"localizedByCulture":
+				{
+					"ar-AE": "المقلي",
+					"de-DE": "Gebraten",
+					"en-US": "Fried",
+					"es-ES": "Refrito",
+					"es-MX": "Frito",
+					"fr-FR": "C'est cuit",
+					"id-ID": "Fried",
+					"it-IT": "Fritto",
+					"ja-JP": "フライド",
+					"ko-KR": "녹초",
+					"pl-PL": "Spalony",
+					"pt-BR": "Frito",
+					"ru-RU": "Полная прожарка",
+					"th-TH": "สติหลุด",
+					"tr-TR": "Kızartma",
+					"vi-VN": "Cháy Khét",
+					"zh-CN": "外焦里嫩",
+					"zh-TW": "新鮮現炸"
+				}
+			},
+			"id": "8E757BD9-4A56-7B66-314F-97A99BF6DD01",
+			"label": "8E757BD9-4A56-7B66-314F-97A99BF6DD01",
+			"name":
+			{
+				"defaultText": "Fried Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب المقلي",
+					"de-DE": "Titel „Gebraten“",
+					"en-US": "Fried Title",
+					"es-ES": "Título Refrito",
+					"es-MX": "Título Frito",
+					"fr-FR": "Titre C'est cuit",
+					"id-ID": "Gelar Fried",
+					"it-IT": "Titolo Fritto",
+					"ja-JP": "フライド タイトル",
+					"ko-KR": "녹초 칭호",
+					"pl-PL": "Tytuł „Spalony”",
+					"pt-BR": "Título Frito",
+					"ru-RU": "Звание \"Полная прожарка\"",
+					"th-TH": "ฉายาสติหลุด",
+					"tr-TR": "Kızartma Unvanı",
+					"vi-VN": "Danh Hiệu Cháy Khét",
+					"zh-CN": "外焦里嫩 称号",
+					"zh-TW": "新鮮現炸 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Left No Crumbs",
+				"localizedByCulture":
+				{
+					"ar-AE": "حتى آخر لقمة",
+					"de-DE": "Kein Krümelchen übrig gelassen",
+					"en-US": "Left No Crumbs",
+					"es-ES": "Ni las migas",
+					"es-MX": "Ni Migajas Quedan",
+					"fr-FR": "Plus une miette",
+					"id-ID": "Left No Crumbs",
+					"it-IT": "Neanche una briciola",
+					"ja-JP": "跡形もなく",
+					"ko-KR": "깔끔한 마무리",
+					"pl-PL": "Żadnych okruszków",
+					"pt-BR": "Não Sobra Nem Farelo",
+					"ru-RU": "Ни крошки врагу",
+					"th-TH": "ฟาดเรียบ",
+					"tr-TR": "Kırıntı Bile Yok",
+					"vi-VN": "Không Chừa Lại Gì",
+					"zh-CN": "光盘行动",
+					"zh-TW": "滴水不漏"
+				}
+			},
+			"id": "6B20E6B1-455D-C733-568F-DFBE9C2B2ED2",
+			"label": "6B20E6B1-455D-C733-568F-DFBE9C2B2ED2",
+			"name":
+			{
+				"defaultText": "Left No Crumbs Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب حتى آخر لقمة",
+					"de-DE": "Titel „Kein Krümelchen übrig gelassen“",
+					"en-US": "Left No Crumbs Title",
+					"es-ES": "Título Ni las migas",
+					"es-MX": "Título Ni Migajas Quedan",
+					"fr-FR": "Titre Plus une miette",
+					"id-ID": "Gelar Left No Crumbs",
+					"it-IT": "Titolo Neanche una briciola",
+					"ja-JP": "跡形もなく タイトル",
+					"ko-KR": "깔끔한 마무리 칭호",
+					"pl-PL": "Tytuł „Żadnych okruszków”",
+					"pt-BR": "Título Não Sobra Nem Farelo",
+					"ru-RU": "Звание \"Ни крошки врагу\"",
+					"th-TH": "ฉายาฟาดเรียบ",
+					"tr-TR": "Kırıntı Bile Yok Unvanı",
+					"vi-VN": "Danh Hiệu Không Chừa Lại Gì",
+					"zh-CN": "光盘行动 称号",
+					"zh-TW": "滴水不漏 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Serving Tea",
+				"localizedByCulture":
+				{
+					"ar-AE": "تقديم الشاي",
+					"de-DE": "Serviert Tee",
+					"en-US": "Serving Tea",
+					"es-ES": "Hora del té",
+					"es-MX": "Sirviendo el Té",
+					"fr-FR": "Le thé est servi",
+					"id-ID": "Serving Tea",
+					"it-IT": "Servendo il tè",
+					"ja-JP": "茶の給仕",
+					"ko-KR": "차 대접",
+					"pl-PL": "Tytuł „Herbatka podana”",
+					"pt-BR": "Fofoca? Aceito",
+					"ru-RU": "Главный по тарелочкам",
+					"th-TH": "สายเม้าธ์",
+					"tr-TR": "Çay Servisi",
+					"vi-VN": "Phục Vụ Trà",
+					"zh-CN": "端茶倒水",
+					"zh-TW": "來人奉茶"
+				}
+			},
+			"id": "A1DCBB64-4C9C-2CCD-E4C9-8E85A33F97F3",
+			"label": "A1DCBB64-4C9C-2CCD-E4C9-8E85A33F97F3",
+			"name":
+			{
+				"defaultText": "Serving Tea Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب تقديم الشاي",
+					"de-DE": "Titel „Serviert Tee“",
+					"en-US": "Serving Tea Title",
+					"es-ES": "Título Hora del té",
+					"es-MX": "Título Sirviendo el Té",
+					"fr-FR": "Titre Le thé est servi",
+					"id-ID": "Gelar Serving Tea",
+					"it-IT": "Titolo Servendo il tè",
+					"ja-JP": "茶の給仕 タイトル",
+					"ko-KR": "차 대접 칭호",
+					"pl-PL": "Tytuł „Herbatka podana”",
+					"pt-BR": "Título Fofoca? Aceito",
+					"ru-RU": "Звание \"Главный по тарелочкам\"",
+					"th-TH": "ฉายาสายเม้าธ์",
+					"tr-TR": "Çay Servisi Unvanı",
+					"vi-VN": "Danh Hiệu Phục Vụ Trà",
+					"zh-CN": "端茶倒水 称号",
+					"zh-TW": "來人奉茶 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
 				"defaultText": "β",
 				"localizedByCulture":
 				{
@@ -270708,6 +274052,60 @@
 					"vi-VN": "Danh Hiệu Chỉ Tay Năm Ngón",
 					"zh-CN": "纸上谈兵 称号",
 					"zh-TW": "鍵盤指揮官 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Unpaid Analyst",
+				"localizedByCulture":
+				{
+					"ar-AE": "محلل بلا أجر",
+					"de-DE": "Unbezahlter Analyst",
+					"en-US": "Unpaid Analyst",
+					"es-ES": "Analista sin sueldo",
+					"es-MX": "Analista Pasante",
+					"fr-FR": "Analyste bénévole",
+					"id-ID": "Unpaid Analyst",
+					"it-IT": "Analista non pagato",
+					"ja-JP": "無給のアナリスト",
+					"ko-KR": "무급 분석가",
+					"pl-PL": "Nieopłacany analityk",
+					"pt-BR": "Analista Voluntário",
+					"ru-RU": "Диванный эксперт",
+					"th-TH": "นักวิเคราะห์อาสา",
+					"tr-TR": "Maaşsız Analist",
+					"vi-VN": "Phân Tích Viên Không Lương",
+					"zh-CN": "无偿分析师",
+					"zh-TW": "無薪賽評"
+				}
+			},
+			"id": "5E7E40ED-4CFD-C18A-40C0-34AD2A723C11",
+			"label": "5E7E40ED-4CFD-C18A-40C0-34AD2A723C11",
+			"name":
+			{
+				"defaultText": "Unpaid Analyst Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب محلل بلا أجر",
+					"de-DE": "Titel „Unbezahlter Analyst“",
+					"en-US": "Unpaid Analyst Title",
+					"es-ES": "Título Analista sin sueldo",
+					"es-MX": "Título Analista Pasante",
+					"fr-FR": "Titre Analyste bénévole",
+					"id-ID": "Gelar Unpaid Analyst",
+					"it-IT": "Titolo Analista non pagato",
+					"ja-JP": "無給のアナリスト タイトル",
+					"ko-KR": "무급 분석가 칭호",
+					"pl-PL": "Tytuł „Nieopłacany analityk”",
+					"pt-BR": "Título Analista Voluntário",
+					"ru-RU": "Звание \"Диванный эксперт\"",
+					"th-TH": "ฉายานักวิเคราะห์อาสา",
+					"tr-TR": "Maaşsız Analist Unvanı",
+					"vi-VN": "Danh Hiệu Phân Tích Viên Không Lương",
+					"zh-CN": "无偿分析师 称号",
+					"zh-TW": "無薪賽評 稱號"
 				}
 			}
 		}
@@ -273277,7 +276675,7 @@
 					"en-US": "Boba Truck Buddy",
 					"es-ES": "Amuleto Camión de té con perlas",
 					"es-MX": "Buddy Camión Boba",
-					"fr-FR": "Porte-bonheur Camion à bubble-tea",
+					"fr-FR": "Porte-bonheur Camion à boba",
 					"id-ID": "Buddy Boba Truck",
 					"it-IT": "Accessorio Camioncino del boba",
 					"ja-JP": "タピオカトラック バディー",
@@ -274250,6 +277648,66 @@
 					"vi-VN": "Phụ Kiện Viên Đạn",
 					"zh-CN": "子弹 挂饰",
 					"zh-TW": "子彈 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "1AA15BBF-418E-5F6E-97FD-5EB3B420DBDB",
+					"label": "1AA15BBF-418E-5F6E-97FD-5EB3B420DBDB",
+					"name":
+					{
+						"defaultText": "BurntToast",
+						"localizedByCulture":
+						{
+							"ar-AE": "BurntToast",
+							"de-DE": "BurntToast",
+							"en-US": "BurntToast",
+							"es-ES": "BurntToast",
+							"es-MX": "BurntToast",
+							"fr-FR": "BurntToast",
+							"id-ID": "BurntToast",
+							"it-IT": "BurntToast",
+							"ja-JP": "BurntToast",
+							"ko-KR": "BurntToast",
+							"pl-PL": "BurntToast",
+							"pt-BR": "BurntToast",
+							"ru-RU": "BurntToast",
+							"th-TH": "BurntToast",
+							"tr-TR": "BurntToast",
+							"vi-VN": "BurntToast",
+							"zh-CN": "BurntToast",
+							"zh-TW": "BurntToast"
+						}
+					}
+				}
+			],
+			"id": "42BBF7D4-41E1-85D4-F743-439EE4FE4443",
+			"label": "42BBF7D4-41E1-85D4-F743-439EE4FE4443",
+			"name":
+			{
+				"defaultText": "Toasted Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق الخبز المحروق",
+					"de-DE": "Talisman „Knusprig“",
+					"en-US": "Toasted Buddy",
+					"es-ES": "Amuleto Bien tostado",
+					"es-MX": "Buddy Pan Tostado",
+					"fr-FR": "Porte-bonheur Grillé",
+					"id-ID": "Buddy Toasted",
+					"it-IT": "Accessorio Tostato",
+					"ja-JP": "トースト バディー",
+					"ko-KR": "노릇한 식빵 총기 장식",
+					"pl-PL": "Przywieszka „Grzanka”",
+					"pt-BR": "Chaveiro Torradinha",
+					"ru-RU": "Брелок \"Тост\"",
+					"th-TH": "บัดดี้ Toasted",
+					"tr-TR": "Kızarmış Ekmek Uğuru",
+					"vi-VN": "Phụ Kiện Cháy Đen",
+					"zh-CN": "焦香吐司 挂饰",
+					"zh-TW": "烤焦吐司 吊飾"
 				}
 			}
 		},
@@ -275450,6 +278908,66 @@
 					"vi-VN": "Phụ Kiện Cao Thủ Pick'Ems: G.O.A.T.",
 					"zh-CN": "竞猜大师：史上最佳 挂饰",
 					"zh-TW": "Pick'Ems預測大師：史上最棒 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "C6490839-4820-D135-4EDF-24AF823D23E3",
+					"label": "C6490839-4820-D135-4EDF-24AF823D23E3",
+					"name":
+					{
+						"defaultText": "ChefHat",
+						"localizedByCulture":
+						{
+							"ar-AE": "ChefHat",
+							"de-DE": "ChefHat",
+							"en-US": "ChefHat",
+							"es-ES": "ChefHat",
+							"es-MX": "ChefHat",
+							"fr-FR": "ChefHat",
+							"id-ID": "ChefHat",
+							"it-IT": "ChefHat",
+							"ja-JP": "ChefHat",
+							"ko-KR": "ChefHat",
+							"pl-PL": "ChefHat",
+							"pt-BR": "ChefHat",
+							"ru-RU": "ChefHat",
+							"th-TH": "ChefHat",
+							"tr-TR": "ChefHat",
+							"vi-VN": "ChefHat",
+							"zh-CN": "ChefHat",
+							"zh-TW": "ChefHat"
+						}
+					}
+				}
+			],
+			"id": "0E26667D-4CA1-93AD-28F4-948BB5149B3B",
+			"label": "0E26667D-4CA1-93AD-28F4-948BB5149B3B",
+			"name":
+			{
+				"defaultText": "Head Chef Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق قبعة الطاهي",
+					"de-DE": "Talisman „Küchenchef“",
+					"en-US": "Head Chef Buddy",
+					"es-ES": "Amuleto Chef",
+					"es-MX": "Buddy Chef Principal",
+					"fr-FR": "Porte-bonheur Chef cuistot",
+					"id-ID": "Buddy Head Chef",
+					"it-IT": "Accessorio Capocuoco",
+					"ja-JP": "シェフハット バディー",
+					"ko-KR": "수석 셰프 총기 장식",
+					"pl-PL": "Przywieszka „Budyniówka”",
+					"pt-BR": "Chaveiro Mestre-cuca",
+					"ru-RU": "Брелок \"Шеф-повар\"",
+					"th-TH": "บัดดี้ Head Chef",
+					"tr-TR": "Aşçıbaşı Uğuru",
+					"vi-VN": "Phụ Kiện Bếp Trưởng",
+					"zh-CN": "主厨 挂饰",
+					"zh-TW": "主廚高帽 吊飾"
 				}
 			}
 		},
@@ -279236,6 +282754,66 @@
 		{
 			"levels": [
 				{
+					"id": "2F3F4AE4-4760-BADE-E4F9-018E011C0DCF",
+					"label": "2F3F4AE4-4760-BADE-E4F9-018E011C0DCF",
+					"name":
+					{
+						"defaultText": "Coin_V26_A5",
+						"localizedByCulture":
+						{
+							"ar-AE": "Coin_V26_A5",
+							"de-DE": "Coin_V26_A5",
+							"en-US": "Coin_V26_A5",
+							"es-ES": "Coin_V26_A5",
+							"es-MX": "Coin_V26_A5",
+							"fr-FR": "Coin_V26_A5",
+							"id-ID": "Coin_V26_A5",
+							"it-IT": "Coin_V26_A5",
+							"ja-JP": "Coin_V26_A5",
+							"ko-KR": "Coin_V26_A5",
+							"pl-PL": "Coin_V26_A5",
+							"pt-BR": "Coin_V26_A5",
+							"ru-RU": "Coin_V26_A5",
+							"th-TH": "Coin_V26_A5",
+							"tr-TR": "Coin_V26_A5",
+							"vi-VN": "Coin_V26_A5",
+							"zh-CN": "Coin_V26_A5",
+							"zh-TW": "Coin_V26_A5"
+						}
+					}
+				}
+			],
+			"id": "683A56B8-46F8-9B0D-251A-2DB015CF1083",
+			"label": "683A56B8-46F8-9B0D-251A-2DB015CF1083",
+			"name":
+			{
+				"defaultText": "V26 ACT V Coin Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق عملة V26 المشهد V",
+					"de-DE": "Talisman „V26 AKT V-Münze“",
+					"en-US": "V26 ACT V Coin Buddy",
+					"es-ES": "Amuleto Moneda de V26: ACTO V",
+					"es-MX": "Buddy Moneda V26 // Acto V",
+					"fr-FR": "Porte-bonheur Pièce V26 ACTE V",
+					"id-ID": "Buddy V26 ACT V Coin",
+					"it-IT": "Accessorio Moneta V26 ATTO V",
+					"ja-JP": "V26 ACT V コイン バディー",
+					"ko-KR": "V26 액트 V 코인 총기 장식",
+					"pl-PL": "Przywieszka „Moneta V26 AKT V”",
+					"pt-BR": "Chaveiro Moeda V26 // ATO V",
+					"ru-RU": "Брелок \"Жетон АКТА 5 V26\"",
+					"th-TH": "บัดดี้ V26 ACT V Coin",
+					"tr-TR": "V26 Kısım 05 Para Uğuru",
+					"vi-VN": "Phụ Kiện Xu V26 PHẦN V",
+					"zh-CN": "V26第五幕纪念币 挂饰",
+					"zh-TW": "V26 第五章 紀念幣 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "2710A222-40CF-4D78-832E-42866B62E48C",
 					"label": "2710A222-40CF-4D78-832E-42866B62E48C",
 					"name":
@@ -279836,6 +283414,66 @@
 		{
 			"levels": [
 				{
+					"id": "6923D4CF-4943-5797-EC95-C1A5001FE927",
+					"label": "6923D4CF-4943-5797-EC95-C1A5001FE927",
+					"name":
+					{
+						"defaultText": "CozyCafe",
+						"localizedByCulture":
+						{
+							"ar-AE": "CozyCafe",
+							"de-DE": "CozyCafe",
+							"en-US": "CozyCafe",
+							"es-ES": "CozyCafe",
+							"es-MX": "CozyCafe",
+							"fr-FR": "CozyCafe",
+							"id-ID": "CozyCafe",
+							"it-IT": "CozyCafe",
+							"ja-JP": "CozyCafe",
+							"ko-KR": "CozyCafe",
+							"pl-PL": "CozyCafe",
+							"pt-BR": "CozyCafe",
+							"ru-RU": "CozyCafe",
+							"th-TH": "CozyCafe",
+							"tr-TR": "CozyCafe",
+							"vi-VN": "CozyCafe",
+							"zh-CN": "CozyCafe",
+							"zh-TW": "CozyCafe"
+						}
+					}
+				}
+			],
+			"id": "C609F6DA-4EC4-8DA7-53DD-85B420ADDCE8",
+			"label": "C609F6DA-4EC4-8DA7-53DD-85B420ADDCE8",
+			"name":
+			{
+				"defaultText": "Verdant Cafe Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق المقهى الأخضر",
+					"de-DE": "Talisman „Grünes Cafe“",
+					"en-US": "Verdant Cafe Buddy",
+					"es-ES": "Amuleto Verdant Cafe",
+					"es-MX": "Buddy Verde Espresso",
+					"fr-FR": "Porte-bonheur Café verdoyant",
+					"id-ID": "Buddy Verdant Cafe",
+					"it-IT": "Accessorio Verdant Cafe",
+					"ja-JP": "ヴァーダントカフェ バディー",
+					"ko-KR": "신록의 카페 총기 장식",
+					"pl-PL": "Przywieszka „Herbaciarnia”",
+					"pt-BR": "Chaveiro Cafeteria Verdejante",
+					"ru-RU": "Брелок \"Зеленое кафе\"",
+					"th-TH": "บัดดี้ Verdant Cafe",
+					"tr-TR": "Zümrüt Kafe Uğuru",
+					"vi-VN": "Phụ Kiện Cafe Xanh Mát",
+					"zh-CN": "绿意咖啡馆 挂饰",
+					"zh-TW": "翠綠咖啡 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "2D211244-48FA-3BC3-01FF-30AD99B2C626",
 					"label": "2D211244-48FA-3BC3-01FF-30AD99B2C626",
 					"name":
@@ -279890,6 +283528,66 @@
 					"vi-VN": "Phụ Kiện Nứt Toàn Tập",
 					"zh-CN": "完全裂开 挂饰",
 					"zh-TW": "破蛋 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "D7DE9B74-4C5F-004B-7052-5180C597CB96",
+					"label": "D7DE9B74-4C5F-004B-7052-5180C597CB96",
+					"name":
+					{
+						"defaultText": "CrackedSunsetMug",
+						"localizedByCulture":
+						{
+							"ar-AE": "CrackedSunsetMug",
+							"de-DE": "CrackedSunsetMug",
+							"en-US": "CrackedSunsetMug",
+							"es-ES": "CrackedSunsetMug",
+							"es-MX": "CrackedSunsetMug",
+							"fr-FR": "CrackedSunsetMug",
+							"id-ID": "CrackedSunsetMug",
+							"it-IT": "CrackedSunsetMug",
+							"ja-JP": "CrackedSunsetMug",
+							"ko-KR": "CrackedSunsetMug",
+							"pl-PL": "CrackedSunsetMug",
+							"pt-BR": "CrackedSunsetMug",
+							"ru-RU": "CrackedSunsetMug",
+							"th-TH": "CrackedSunsetMug",
+							"tr-TR": "CrackedSunsetMug",
+							"vi-VN": "CrackedSunsetMug",
+							"zh-CN": "CrackedSunsetMug",
+							"zh-TW": "CrackedSunsetMug"
+						}
+					}
+				}
+			],
+			"id": "E225176E-4BAC-FCB9-2370-F69F1D76B8A8",
+			"label": "E225176E-4BAC-FCB9-2370-F69F1D76B8A8",
+			"name":
+			{
+				"defaultText": "Sunset Sips Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق رشفات الغروب",
+					"de-DE": "Talisman „Schlücke bei Sonnenuntergang“",
+					"en-US": "Sunset Sips Buddy",
+					"es-ES": "Amuleto Sorbos crepusculares",
+					"es-MX": "Buddy Cafecito a Media Tarde",
+					"fr-FR": "Porte-bonheur Café matinal",
+					"id-ID": "Buddy Sunset Sips",
+					"it-IT": "Accessorio Bevuta al tramonto",
+					"ja-JP": "夕時の一杯 バディー",
+					"ko-KR": "선셋 머그잔 총기 장식",
+					"pl-PL": "Przywieszka „Słoneczne siorbanie”",
+					"pt-BR": "Chaveiro Chá da Tarde",
+					"ru-RU": "Брелок \"Вечерний кофе\"",
+					"th-TH": "บัดดี้ Sunset Sips",
+					"tr-TR": "Günbatımı Yudumu Uğuru",
+					"vi-VN": "Phụ Kiện Tách Trà Chiều",
+					"zh-CN": "日落特饮 挂饰",
+					"zh-TW": "日落馬克杯 吊飾"
 				}
 			}
 		},
@@ -280070,6 +283768,66 @@
 					"vi-VN": "Phụ Kiện Thùng Radianite",
 					"zh-CN": "源晶箱 挂饰",
 					"zh-TW": "輻能箱 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "010CFEE6-43BF-2A2E-CAA9-CFBE3A67D1CF",
+					"label": "010CFEE6-43BF-2A2E-CAA9-CFBE3A67D1CF",
+					"name":
+					{
+						"defaultText": "CreatureNugget",
+						"localizedByCulture":
+						{
+							"ar-AE": "CreatureNugget",
+							"de-DE": "CreatureNugget",
+							"en-US": "CreatureNugget",
+							"es-ES": "CreatureNugget",
+							"es-MX": "CreatureNugget",
+							"fr-FR": "CreatureNugget",
+							"id-ID": "CreatureNugget",
+							"it-IT": "CreatureNugget",
+							"ja-JP": "CreatureNugget",
+							"ko-KR": "CreatureNugget",
+							"pl-PL": "CreatureNugget",
+							"pt-BR": "CreatureNugget",
+							"ru-RU": "CreatureNugget",
+							"th-TH": "CreatureNugget",
+							"tr-TR": "CreatureNugget",
+							"vi-VN": "CreatureNugget",
+							"zh-CN": "CreatureNugget",
+							"zh-TW": "CreatureNugget"
+						}
+					}
+				}
+			],
+			"id": "55B4C32B-41B7-E99B-D4B3-1B84756D21FE",
+			"label": "55B4C32B-41B7-E99B-D4B3-1B84756D21FE",
+			"name":
+			{
+				"defaultText": "Nuggetman Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق وينغمان الناجتس",
+					"de-DE": "Talisman „Nuggetman“",
+					"en-US": "Nuggetman Buddy",
+					"es-ES": "Amuleto de Hombre nugget",
+					"es-MX": "Buddy Nuggetcito",
+					"fr-FR": "Porte-bonheur Nuggetman",
+					"id-ID": "Buddy Nuggetman",
+					"it-IT": "Accessorio Nuggetman",
+					"ja-JP": "ナゲットマン バディー",
+					"ko-KR": "너겟봇 총기 장식",
+					"pl-PL": "Przywieszka „Pan Nugget”",
+					"pt-BR": "Chaveiro Wing-panado",
+					"ru-RU": "Брелок \"Бегун-наггетс\"",
+					"th-TH": "บัดดี้ Nuggetman",
+					"tr-TR": "Nugget Adam Uğuru",
+					"vi-VN": "Phụ Kiện Nuggetman",
+					"zh-CN": "鸡块侠 挂饰",
+					"zh-TW": "酥炸鳥人 吊飾"
 				}
 			}
 		},
@@ -281390,6 +285148,126 @@
 					"vi-VN": "Phụ Kiện Xí Ngầu May Mắn",
 					"zh-CN": "幸运骰子 挂饰",
 					"zh-TW": "幸運骰子 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "81C906CB-4EFF-FCF4-7A01-01BDCE3757E7",
+					"label": "81C906CB-4EFF-FCF4-7A01-01BDCE3757E7",
+					"name":
+					{
+						"defaultText": "DietMilk",
+						"localizedByCulture":
+						{
+							"ar-AE": "DietMilk",
+							"de-DE": "DietMilk",
+							"en-US": "DietMilk",
+							"es-ES": "DietMilk",
+							"es-MX": "DietMilk",
+							"fr-FR": "DietMilk",
+							"id-ID": "DietMilk",
+							"it-IT": "DietMilk",
+							"ja-JP": "DietMilk",
+							"ko-KR": "DietMilk",
+							"pl-PL": "DietMilk",
+							"pt-BR": "DietMilk",
+							"ru-RU": "DietMilk",
+							"th-TH": "DietMilk",
+							"tr-TR": "DietMilk",
+							"vi-VN": "DietMilk",
+							"zh-CN": "DietMilk",
+							"zh-TW": "DietMilk"
+						}
+					}
+				}
+			],
+			"id": "9A2463F9-4E7A-F967-BCC5-8C89FA44BDE0",
+			"label": "9A2463F9-4E7A-F967-BCC5-8C89FA44BDE0",
+			"name":
+			{
+				"defaultText": "Diet Milk Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق حليب الحمية",
+					"de-DE": "Talisman „Fettarme Milch“",
+					"en-US": "Diet Milk Buddy",
+					"es-ES": "Amuleto Dieta láctea",
+					"es-MX": "Buddy Leche Light",
+					"fr-FR": "Porte-bonheur Lait allégé",
+					"id-ID": "Buddy Diet Milk",
+					"it-IT": "Accessorio Latte scremato",
+					"ja-JP": "ダイエットミルク バディー",
+					"ko-KR": "다이어트 우유 총기 장식",
+					"pl-PL": "Przywieszka „Mleko zero”",
+					"pt-BR": "Chaveiro Leite Desnatado",
+					"ru-RU": "Брелок \"Обезжиренное молоко\"",
+					"th-TH": "บัดดี้ Diet Milk",
+					"tr-TR": "Diyet Süt Uğuru",
+					"vi-VN": "Phụ Kiện Sữa Ăn Kiêng",
+					"zh-CN": "脱脂牛奶 挂饰",
+					"zh-TW": "低脂牛奶 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "B6C1AF29-4F7D-8A73-9353-C1A42FB8C4F1",
+					"label": "B6C1AF29-4F7D-8A73-9353-C1A42FB8C4F1",
+					"name":
+					{
+						"defaultText": "DietMilkGold",
+						"localizedByCulture":
+						{
+							"ar-AE": "DietMilkGold",
+							"de-DE": "DietMilkGold",
+							"en-US": "DietMilkGold",
+							"es-ES": "DietMilkGold",
+							"es-MX": "DietMilkGold",
+							"fr-FR": "DietMilkGold",
+							"id-ID": "DietMilkGold",
+							"it-IT": "DietMilkGold",
+							"ja-JP": "DietMilkGold",
+							"ko-KR": "DietMilkGold",
+							"pl-PL": "DietMilkGold",
+							"pt-BR": "DietMilkGold",
+							"ru-RU": "DietMilkGold",
+							"th-TH": "DietMilkGold",
+							"tr-TR": "DietMilkGold",
+							"vi-VN": "DietMilkGold",
+							"zh-CN": "DietMilkGold",
+							"zh-TW": "DietMilkGold"
+						}
+					}
+				}
+			],
+			"id": "8B6BE2EF-4AAE-E921-FF92-229B77C12900",
+			"label": "8B6BE2EF-4AAE-E921-FF92-229B77C12900",
+			"name":
+			{
+				"defaultText": "Epilogue: Diet Milk Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق الخاتمة: حليب الحمية",
+					"de-DE": "Talisman „Epilog: Fettarme Milch“",
+					"en-US": "Epilogue: Diet Milk Buddy",
+					"es-ES": "Epílogo: Amuleto Dieta láctea",
+					"es-MX": "Buddy Epílogo: Leche Light",
+					"fr-FR": "Porte-bonheur Épilogue : Lait allégé",
+					"id-ID": "Buddy Epilogue: Diet Milk",
+					"it-IT": "Accessorio Epilogo: Latte scremato",
+					"ja-JP": "エピローグ: ダイエットミルク バディー",
+					"ko-KR": "에필로그: 다이어트 우유 총기 장식",
+					"pl-PL": "Przywieszka „Epilog: Mleko zero”",
+					"pt-BR": "Epílogo: Chaveiro Leite Desnatado",
+					"ru-RU": "Брелок \"Эпилог: Обезжиренное молоко\"",
+					"th-TH": "บัดดี้ Epilogue: Diet Milk",
+					"tr-TR": "Kapanış: Diyet Süt Uğuru",
+					"vi-VN": "Hồi Kết: Phụ Kiện Sữa Ăn Kiêng",
+					"zh-CN": "终章：脱脂牛奶 挂饰",
+					"zh-TW": "後記：低脂牛奶 吊飾"
 				}
 			}
 		},
@@ -284036,6 +287914,66 @@
 		{
 			"levels": [
 				{
+					"id": "86CC0F4B-4549-22B0-CCE8-1CB5EC9C6845",
+					"label": "86CC0F4B-4549-22B0-CCE8-1CB5EC9C6845",
+					"name":
+					{
+						"defaultText": "FineDining",
+						"localizedByCulture":
+						{
+							"ar-AE": "FineDining",
+							"de-DE": "FineDining",
+							"en-US": "FineDining",
+							"es-ES": "FineDining",
+							"es-MX": "FineDining",
+							"fr-FR": "FineDining",
+							"id-ID": "FineDining",
+							"it-IT": "FineDining",
+							"ja-JP": "FineDining",
+							"ko-KR": "FineDining",
+							"pl-PL": "FineDining",
+							"pt-BR": "FineDining",
+							"ru-RU": "FineDining",
+							"th-TH": "FineDining",
+							"tr-TR": "FineDining",
+							"vi-VN": "FineDining",
+							"zh-CN": "FineDining",
+							"zh-TW": "FineDining"
+						}
+					}
+				}
+			],
+			"id": "800D2A6C-4605-1378-85AA-7898CB180EF5",
+			"label": "800D2A6C-4605-1378-85AA-7898CB180EF5",
+			"name":
+			{
+				"defaultText": "Gourmand Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق الذواق",
+					"de-DE": "Talisman „Feinschmecker“",
+					"en-US": "Gourmand Buddy",
+					"es-ES": "Amuleto Gourmand",
+					"es-MX": "Buddy Exquisitez",
+					"fr-FR": "Porte-bonheur Gourmet",
+					"id-ID": "Buddy Gourmand",
+					"it-IT": "Accessorio Buongustaio",
+					"ja-JP": "グルマン バディー",
+					"ko-KR": "미식가 총기 장식",
+					"pl-PL": "Przywieszka „Haute cuisine”",
+					"pt-BR": "Chaveiro Gourmet",
+					"ru-RU": "Брелок \"Гурман\"",
+					"th-TH": "บัดดี้ Gourmand",
+					"tr-TR": "Gurme Uğuru",
+					"vi-VN": "Phụ Kiện Gourmand",
+					"zh-CN": "美食家 挂饰",
+					"zh-TW": "白金盛宴 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "FFA13BCA-4BB7-5F3E-48A3-4E96C05A2DF9",
 					"label": "FFA13BCA-4BB7-5F3E-48A3-4E96C05A2DF9",
 					"name":
@@ -284090,6 +288028,66 @@
 					"vi-VN": "Phụ Kiện Pháo Hoa Nguyên Đán",
 					"zh-CN": "新春炮竹 挂饰",
 					"zh-TW": "鞭炮 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "52F86C26-4A0C-2FAF-F9A9-51A6E72815CC",
+					"label": "52F86C26-4A0C-2FAF-F9A9-51A6E72815CC",
+					"name":
+					{
+						"defaultText": "FlipPhone",
+						"localizedByCulture":
+						{
+							"ar-AE": "FlipPhone",
+							"de-DE": "FlipPhone",
+							"en-US": "FlipPhone",
+							"es-ES": "FlipPhone",
+							"es-MX": "FlipPhone",
+							"fr-FR": "FlipPhone",
+							"id-ID": "FlipPhone",
+							"it-IT": "FlipPhone",
+							"ja-JP": "FlipPhone",
+							"ko-KR": "FlipPhone",
+							"pl-PL": "FlipPhone",
+							"pt-BR": "FlipPhone",
+							"ru-RU": "FlipPhone",
+							"th-TH": "FlipPhone",
+							"tr-TR": "FlipPhone",
+							"vi-VN": "FlipPhone",
+							"zh-CN": "FlipPhone",
+							"zh-TW": "FlipPhone"
+						}
+					}
+				}
+			],
+			"id": "809CD43D-4FCB-50AA-60C1-58AE07296C56",
+			"label": "809CD43D-4FCB-50AA-60C1-58AE07296C56",
+			"name":
+			{
+				"defaultText": "Miss Call Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق المكالمة الفائتة",
+					"de-DE": "Talisman „Verpasster Anruf“",
+					"en-US": "Miss Call Buddy",
+					"es-ES": "Amuleto Llamada perdida",
+					"es-MX": "Buddy Llamada Perdida",
+					"fr-FR": "Porte-bonheur Appel manqué",
+					"id-ID": "Buddy Missed Call",
+					"it-IT": "Accessorio Chiamata persa",
+					"ja-JP": "不在着信 バディー",
+					"ko-KR": "부재중 전화 총기 장식",
+					"pl-PL": "Przywieszka „Puść mi sygnał”",
+					"pt-BR": "Chaveiro Chamada Perdida",
+					"ru-RU": "Брелок \"Пропущенный звонок\"",
+					"th-TH": "บัดดี้ Missed Call",
+					"tr-TR": "Cevapsız Çağrı Uğuru",
+					"vi-VN": "Phụ Kiện Cuộc Gọi Nhỡ",
+					"zh-CN": "未接来电 挂饰",
+					"zh-TW": "未接來電 吊飾"
 				}
 			}
 		},
@@ -285050,6 +289048,66 @@
 					"vi-VN": "Phụ Kiện Cúp Game Changers",
 					"zh-CN": "改变者全球冠军赛奖杯 挂饰",
 					"zh-TW": "顛覆者獎盃 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "6EDA86E6-4E6C-3EC8-492D-9DBDF042700A",
+					"label": "6EDA86E6-4E6C-3EC8-492D-9DBDF042700A",
+					"name":
+					{
+						"defaultText": "Gastropub",
+						"localizedByCulture":
+						{
+							"ar-AE": "Gastropub",
+							"de-DE": "Gastropub",
+							"en-US": "Gastropub",
+							"es-ES": "Gastropub",
+							"es-MX": "Gastropub",
+							"fr-FR": "Gastropub",
+							"id-ID": "Gastropub",
+							"it-IT": "Gastropub",
+							"ja-JP": "Gastropub",
+							"ko-KR": "Gastropub",
+							"pl-PL": "Gastropub",
+							"pt-BR": "Gastropub",
+							"ru-RU": "Gastropub",
+							"th-TH": "Gastropub",
+							"tr-TR": "Gastropub",
+							"vi-VN": "Gastropub",
+							"zh-CN": "Gastropub",
+							"zh-TW": "Gastropub"
+						}
+					}
+				}
+			],
+			"id": "786A1C3F-4D16-7AB7-D7B3-36BEC100F459",
+			"label": "786A1C3F-4D16-7AB7-D7B3-36BEC100F459",
+			"name":
+			{
+				"defaultText": "Last Stop Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق المحطة الأخيرة",
+					"de-DE": "Talisman „Endstation“",
+					"en-US": "Last Stop Buddy",
+					"es-ES": "Amuleto Last Stop",
+					"es-MX": "Buddy Última Parada",
+					"fr-FR": "Porte-bonheur Dernier Arrêt",
+					"id-ID": "Buddy Last Stop",
+					"it-IT": "Accessorio Ultima fermata",
+					"ja-JP": "ラストストップ バディー",
+					"ko-KR": "종착지 총기 장식",
+					"pl-PL": "Przywieszka „Ostatni postój”",
+					"pt-BR": "Chaveiro Última Parada",
+					"ru-RU": "Брелок \"Последняя остановка\"",
+					"th-TH": "บัดดี้ Last Stop",
+					"tr-TR": "Son Durak Uğuru",
+					"vi-VN": "Phụ Kiện Trạm Dừng Cuối",
+					"zh-CN": "终点站餐吧 挂饰",
+					"zh-TW": "霓虹餐館 吊飾"
 				}
 			}
 		},
@@ -287866,7 +291924,7 @@
 					"pt-BR": "Chaveiro Sublime",
 					"ru-RU": "Брелок \"Прайм\"",
 					"th-TH": "บัดดี้ Prime",
-					"tr-TR": "ASİL UĞURU",
+					"tr-TR": "Asil Uğuru",
 					"vi-VN": "Phụ Kiện Hoàng Gia",
 					"zh-CN": "紫阙金琅 挂饰",
 					"zh-TW": "紫金狂潮 吊飾"
@@ -287926,7 +291984,7 @@
 					"pt-BR": "Chaveiro Sublime//2.0",
 					"ru-RU": "Брелок \"Прайм//2.0\"",
 					"th-TH": "บัดดี้ Prime//2.0 ",
-					"tr-TR": "ASİL//2.0 UĞURU",
+					"tr-TR": "Asil//2.0 Uğuru",
 					"vi-VN": "Phụ Kiện Hoàng Gia//2.0",
 					"zh-CN": "紫阙金琅//2.0 挂饰",
 					"zh-TW": "紫金狂潮//2.0 吊飾"
@@ -312230,6 +316288,66 @@
 					"vi-VN": "Phụ Kiện Transition",
 					"zh-CN": "弧光异彩 挂饰",
 					"zh-TW": "千變萬花筒 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "0F7BAB6F-4658-CB35-EA4D-758634C4B14A",
+					"label": "0F7BAB6F-4658-CB35-EA4D-758634C4B14A",
+					"name":
+					{
+						"defaultText": "Skymage",
+						"localizedByCulture":
+						{
+							"ar-AE": "Skymage",
+							"de-DE": "Skymage",
+							"en-US": "Skymage",
+							"es-ES": "Skymage",
+							"es-MX": "Skymage",
+							"fr-FR": "Skymage",
+							"id-ID": "Skymage",
+							"it-IT": "Skymage",
+							"ja-JP": "Skymage",
+							"ko-KR": "Skymage",
+							"pl-PL": "Skymage",
+							"pt-BR": "Skymage",
+							"ru-RU": "Skymage",
+							"th-TH": "Skymage",
+							"tr-TR": "Skymage",
+							"vi-VN": "Skymage",
+							"zh-CN": "Skymage",
+							"zh-TW": "Skymage"
+						}
+					}
+				}
+			],
+			"id": "79E08389-4041-B8EF-35E8-FEB5D659C366",
+			"label": "79E08389-4041-B8EF-35E8-FEB5D659C366",
+			"name":
+			{
+				"defaultText": "Aeris Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق الأثير",
+					"de-DE": "Talisman „Aeris“",
+					"en-US": "Aeris Buddy",
+					"es-ES": "Amuleto Aeris",
+					"es-MX": "Buddy Aeris",
+					"fr-FR": "Porte-bonheur Aeris",
+					"id-ID": "Buddy Aeris",
+					"it-IT": "Accessorio Aeris",
+					"ja-JP": "エアリス バディー",
+					"ko-KR": "에리스 총기 장식",
+					"pl-PL": "Przywieszka „Aeris”",
+					"pt-BR": "Chaveiro Aeris",
+					"ru-RU": "Брелок \"Аэромантия\"",
+					"th-TH": "บัดดี้ Aeris",
+					"tr-TR": "Göksel Uğuru",
+					"vi-VN": "Phụ Kiện Aeris",
+					"zh-CN": "圣契命澜 挂饰",
+					"zh-TW": "至高聖使 吊飾"
 				}
 			}
 		},
@@ -343750,7 +347868,7 @@
 							"en-US": "Scribble Squad Spray",
 							"es-ES": "Grafiti Garabato de pandilla",
 							"es-MX": "Spray Escuadrón Garabato",
-							"fr-FR": "Graffiti Groupe Gribouillis",
+							"fr-FR": "Graffiti Groupe gribouillé",
 							"id-ID": "Spray Scribble Squad",
 							"it-IT": "Spray Scribacchini",
 							"ja-JP": "らくがきチーム スプレー",
@@ -343779,7 +347897,7 @@
 					"en-US": "Scribble Squad Spray",
 					"es-ES": "Grafiti Garabato de pandilla",
 					"es-MX": "Spray Escuadrón Garabato",
-					"fr-FR": "Graffiti Groupe Gribouillis",
+					"fr-FR": "Graffiti Groupe gribouillé",
 					"id-ID": "Spray Scribble Squad",
 					"it-IT": "Spray Scribacchini",
 					"ja-JP": "らくがきチーム スプレー",
@@ -352819,7 +356937,7 @@
 							"pt-BR": "Spray Tijolada",
 							"ru-RU": "Граффити \"Мощный кирпич\"",
 							"th-TH": "สเปรย์ Prime Brick",
-							"tr-TR": "ASİL TUĞLA SPREYİ",
+							"tr-TR": "Asil Tuğla Spreyi",
 							"vi-VN": "Hình Phun Sơn Gạch Hoàng Gia",
 							"zh-CN": "紫阙金琅 板砖 喷漆",
 							"zh-TW": "紫金狂潮 磚塊 塗鴉"
@@ -352848,7 +356966,7 @@
 					"pt-BR": "Spray Tijolada",
 					"ru-RU": "Граффити \"Мощный кирпич\"",
 					"th-TH": "สเปรย์ Prime Brick",
-					"tr-TR": "ASİL TUĞLA SPREYİ",
+					"tr-TR": "Asil Tuğla Spreyi",
 					"vi-VN": "Hình Phun Sơn Gạch Hoàng Gia",
 					"zh-CN": "紫阙金琅 板砖 喷漆",
 					"zh-TW": "紫金狂潮 磚塊 塗鴉"
@@ -358779,7 +362897,7 @@
 					"en-US": "Scribble Speed Spray",
 					"es-ES": "Grafiti Garabato rápido",
 					"es-MX": "Spray Velocidad de Garabato",
-					"fr-FR": "Graffiti Gribouillage éclair",
+					"fr-FR": "Graffiti Vitesse gribouillée",
 					"id-ID": "Spray Scribble Speed",
 					"it-IT": "Spray Scarabocchio veloce",
 					"ja-JP": "らくがきスピード スプレー",
@@ -365899,7 +370017,7 @@
 							"pt-BR": "Spray Sublime//2.0",
 							"ru-RU": "Граффити \"Прайм//2.0\"",
 							"th-TH": "สเปรย์ Prime//2.0",
-							"tr-TR": "ASİL//2.0 SPREYİ",
+							"tr-TR": "Asil//2.0 Spreyi",
 							"vi-VN": "Hình Phun Sơn Hoàng Gia//2.0",
 							"zh-CN": "紫阙金琅//2.0 喷漆",
 							"zh-TW": "紫金狂潮//2.0 塗鴉"
@@ -365928,7 +370046,7 @@
 					"pt-BR": "Spray Sublime//2.0",
 					"ru-RU": "Граффити \"Прайм//2.0\"",
 					"th-TH": "สเปรย์ Prime//2.0",
-					"tr-TR": "ASİL//2.0 SPREYİ",
+					"tr-TR": "Asil//2.0 Spreyi",
 					"vi-VN": "Hình Phun Sơn Hoàng Gia//2.0",
 					"zh-CN": "紫阙金琅//2.0 喷漆",
 					"zh-TW": "紫金狂潮//2.0 塗鴉"
@@ -370419,7 +374537,7 @@
 					"en-US": "Scribble Lightspeed Spray",
 					"es-ES": "Grafiti Garabato de A la velocidad de la luz",
 					"es-MX": "Spray Supervelocidad Garabato",
-					"fr-FR": "Graffiti Gribouillage rapide",
+					"fr-FR": "Graffiti Vitesse lumière gribouillée",
 					"id-ID": "Spray Scribble Lightspeed",
 					"it-IT": "Spray Scarabocchio fulmineo",
 					"ja-JP": "らくがきライトスピード スプレー",
@@ -372772,6 +376890,906 @@
 					"vi-VN": "Hình Phun Sơn Lêu Lêu",
 					"zh-CN": "猫猫吐舌 喷漆",
 					"zh-TW": "貓咪吐舌 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "850ECD7C-43CB-7401-3DFA-E68E77B52EAC",
+					"label": "850ECD7C-43CB-7401-3DFA-E68E77B52EAC",
+					"name":
+					{
+						"defaultText": "BigWink",
+						"localizedByCulture":
+						{
+							"ar-AE": "BigWink",
+							"de-DE": "BigWink",
+							"en-US": "BigWink",
+							"es-ES": "BigWink",
+							"es-MX": "BigWink",
+							"fr-FR": "BigWink",
+							"id-ID": "BigWink",
+							"it-IT": "BigWink",
+							"ja-JP": "BigWink",
+							"ko-KR": "BigWink",
+							"pl-PL": "BigWink",
+							"pt-BR": "BigWink",
+							"ru-RU": "BigWink",
+							"th-TH": "BigWink",
+							"tr-TR": "BigWink",
+							"vi-VN": "BigWink",
+							"zh-CN": "BigWink",
+							"zh-TW": "BigWink"
+						}
+					}
+				}
+			],
+			"id": "AA2C316B-4017-0576-C8BB-398407DF94FA",
+			"label": "AA2C316B-4017-0576-C8BB-398407DF94FA",
+			"name":
+			{
+				"defaultText": "Between Us Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة بيني وبينك",
+					"de-DE": "Graffiti „Unter uns“",
+					"en-US": "Between Us Spray",
+					"es-ES": "Grafiti Entre colegas",
+					"es-MX": "Spray Aquí Entre Nos",
+					"fr-FR": "Graffiti Entre nous",
+					"id-ID": "Spray Between Us",
+					"it-IT": "Spray Tra noi",
+					"ja-JP": "ここだけの話 スプレー",
+					"ko-KR": "우리만의 비밀 스프레이",
+					"pl-PL": "Graffiti „Między nami”",
+					"pt-BR": "Spray Fica Entre Nós",
+					"ru-RU": "Граффити \"Только между нами\"",
+					"th-TH": "สเปรย์ Between Us",
+					"tr-TR": "Aramızda Kalsın Spreyi",
+					"vi-VN": "Hình Phun Sơn Bí Mật Giữa Hai Ta",
+					"zh-CN": "你知我知 喷漆",
+					"zh-TW": "默契眼神 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "A3828279-4520-B38D-4C2F-E2AF547B5BF2",
+					"label": "A3828279-4520-B38D-4C2F-E2AF547B5BF2",
+					"name":
+					{
+						"defaultText": "CozyCafe",
+						"localizedByCulture":
+						{
+							"ar-AE": "CozyCafe",
+							"de-DE": "CozyCafe",
+							"en-US": "CozyCafe",
+							"es-ES": "CozyCafe",
+							"es-MX": "CozyCafe",
+							"fr-FR": "CozyCafe",
+							"id-ID": "CozyCafe",
+							"it-IT": "CozyCafe",
+							"ja-JP": "CozyCafe",
+							"ko-KR": "CozyCafe",
+							"pl-PL": "CozyCafe",
+							"pt-BR": "CozyCafe",
+							"ru-RU": "CozyCafe",
+							"th-TH": "CozyCafe",
+							"tr-TR": "CozyCafe",
+							"vi-VN": "CozyCafe",
+							"zh-CN": "CozyCafe",
+							"zh-TW": "CozyCafe"
+						}
+					}
+				}
+			],
+			"id": "19323AD8-4FBD-0CDC-1785-21A6CA9D4947",
+			"label": "19323AD8-4FBD-0CDC-1785-21A6CA9D4947",
+			"name":
+			{
+				"defaultText": "Verdant Cafe Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة المقهى الأخضر",
+					"de-DE": "Graffiti „Grünes Cafe“",
+					"en-US": "Verdant Cafe Spray",
+					"es-ES": "Grafiti Verdant Cafe",
+					"es-MX": "Spray Verde Espresso",
+					"fr-FR": "Graffiti Café verdoyant",
+					"id-ID": "Spray Verdant Cafe",
+					"it-IT": "Spray Verdant Cafe",
+					"ja-JP": "ヴァーダントカフェ スプレー",
+					"ko-KR": "신록의 카페 스프레이",
+					"pl-PL": "Graffiti „Herbaciarnia”",
+					"pt-BR": "Spray Cafeteria Verdejante",
+					"ru-RU": "Граффити \"Зеленое кафе\"",
+					"th-TH": "สเปรย์ Verdant Cafe",
+					"tr-TR": "Zümrüt Kafe Spreyi",
+					"vi-VN": "Hình Phun Sơn Cafe Xanh Mát",
+					"zh-CN": "绿意咖啡馆 喷漆",
+					"zh-TW": "翠綠咖啡 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "13722812-4493-B839-C906-5A94D20AC5D0",
+					"label": "13722812-4493-B839-C906-5A94D20AC5D0",
+					"name":
+					{
+						"defaultText": "FastFoodNerf",
+						"localizedByCulture":
+						{
+							"ar-AE": "FastFoodNerf",
+							"de-DE": "FastFoodNerf",
+							"en-US": "FastFoodNerf",
+							"es-ES": "FastFoodNerf",
+							"es-MX": "FastFoodNerf",
+							"fr-FR": "FastFoodNerf",
+							"id-ID": "FastFoodNerf",
+							"it-IT": "FastFoodNerf",
+							"ja-JP": "FastFoodNerf",
+							"ko-KR": "FastFoodNerf",
+							"pl-PL": "FastFoodNerf",
+							"pt-BR": "FastFoodNerf",
+							"ru-RU": "FastFoodNerf",
+							"th-TH": "FastFoodNerf",
+							"tr-TR": "FastFoodNerf",
+							"vi-VN": "FastFoodNerf",
+							"zh-CN": "FastFoodNerf",
+							"zh-TW": "FastFoodNerf"
+						}
+					}
+				}
+			],
+			"id": "EB367935-4110-6C7F-F798-D68705FB8E62",
+			"label": "EB367935-4110-6C7F-F798-D68705FB8E62",
+			"name":
+			{
+				"defaultText": "On The Clock Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة وقت العمل",
+					"de-DE": "Graffiti „Im Dienst“",
+					"en-US": "On The Clock Spray",
+					"es-ES": "Grafiti A contrarreloj",
+					"es-MX": "Spray Chambeando",
+					"fr-FR": "Graffiti En service",
+					"id-ID": "Spray On The Clock",
+					"it-IT": "Spray Sul lavoro",
+					"ja-JP": "スピード第一 スプレー",
+					"ko-KR": "근무 중 스프레이",
+					"pl-PL": "Graffiti „Na czas”",
+					"pt-BR": "Spray De Plantão",
+					"ru-RU": "Граффити \"Свободная касса\"",
+					"th-TH": "สเปรย์ On The Clock",
+					"tr-TR": "Mesai Vakti Spreyi",
+					"vi-VN": "Hình Phun Sơn Trong Giờ Làm",
+					"zh-CN": "上班中 喷漆",
+					"zh-TW": "打工時間 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "16A7AF05-4918-27C5-18A2-1886191D389C",
+					"label": "16A7AF05-4918-27C5-18A2-1886191D389C",
+					"name":
+					{
+						"defaultText": "FineDining",
+						"localizedByCulture":
+						{
+							"ar-AE": "FineDining",
+							"de-DE": "FineDining",
+							"en-US": "FineDining",
+							"es-ES": "FineDining",
+							"es-MX": "FineDining",
+							"fr-FR": "FineDining",
+							"id-ID": "FineDining",
+							"it-IT": "FineDining",
+							"ja-JP": "FineDining",
+							"ko-KR": "FineDining",
+							"pl-PL": "FineDining",
+							"pt-BR": "FineDining",
+							"ru-RU": "FineDining",
+							"th-TH": "FineDining",
+							"tr-TR": "FineDining",
+							"vi-VN": "FineDining",
+							"zh-CN": "FineDining",
+							"zh-TW": "FineDining"
+						}
+					}
+				}
+			],
+			"id": "8AE6F65F-4752-16F3-B013-658F21F8CB4E",
+			"label": "8AE6F65F-4752-16F3-B013-658F21F8CB4E",
+			"name":
+			{
+				"defaultText": "Gourmand Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة الذواق",
+					"de-DE": "Graffiti „Feinschmecker“",
+					"en-US": "Gourmand Spray",
+					"es-ES": "Grafiti Gourmand",
+					"es-MX": "Spray Exquisitez",
+					"fr-FR": "Graffiti Gourmet",
+					"id-ID": "Spray Gourmand",
+					"it-IT": "Spray Buongustaio",
+					"ja-JP": "グルマン スプレー",
+					"ko-KR": "미식가 스프레이",
+					"pl-PL": "Graffiti „Haute cuisine”",
+					"pt-BR": "Spray Gourmet",
+					"ru-RU": "Граффити \"Гурман\"",
+					"th-TH": "สเปรย์ Gourmand",
+					"tr-TR": "Gurme Spreyi",
+					"vi-VN": "Hình Phun Sơn Gourmand",
+					"zh-CN": "美食家 喷漆",
+					"zh-TW": "白金盛宴 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "41726B79-4A85-EDC8-B629-A19DA97A2BC6",
+					"label": "41726B79-4A85-EDC8-B629-A19DA97A2BC6",
+					"name":
+					{
+						"defaultText": "Gastropub",
+						"localizedByCulture":
+						{
+							"ar-AE": "Gastropub",
+							"de-DE": "Gastropub",
+							"en-US": "Gastropub",
+							"es-ES": "Gastropub",
+							"es-MX": "Gastropub",
+							"fr-FR": "Gastropub",
+							"id-ID": "Gastropub",
+							"it-IT": "Gastropub",
+							"ja-JP": "Gastropub",
+							"ko-KR": "Gastropub",
+							"pl-PL": "Gastropub",
+							"pt-BR": "Gastropub",
+							"ru-RU": "Gastropub",
+							"th-TH": "Gastropub",
+							"tr-TR": "Gastropub",
+							"vi-VN": "Gastropub",
+							"zh-CN": "Gastropub",
+							"zh-TW": "Gastropub"
+						}
+					}
+				}
+			],
+			"id": "39E1DBC3-46E4-1C5A-6345-44BEC07C727A",
+			"label": "39E1DBC3-46E4-1C5A-6345-44BEC07C727A",
+			"name":
+			{
+				"defaultText": "Last Stop Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة المحطة الأخيرة",
+					"de-DE": "Graffiti „Endstation“",
+					"en-US": "Last Stop Spray",
+					"es-ES": "Grafiti Last Stop",
+					"es-MX": "Spray Última Parada",
+					"fr-FR": "Graffiti Dernier arrêt",
+					"id-ID": "Spray Last Stop",
+					"it-IT": "Spray Ultima fermata",
+					"ja-JP": "ラストストップ スプレー",
+					"ko-KR": "종착지 스프레이",
+					"pl-PL": "Graffiti „Ostatni postój”",
+					"pt-BR": "Spray Última Parada",
+					"ru-RU": "Граффити \"Последняя остановка\"",
+					"th-TH": "สเปรย์ Last Stop",
+					"tr-TR": "Son Durak Spreyi",
+					"vi-VN": "Hình Phun Sơn Trạm Dừng Cuối",
+					"zh-CN": "终点站餐吧 喷漆",
+					"zh-TW": "霓虹餐館 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "CAA53641-49D5-A87E-277B-6197035C0934",
+					"label": "CAA53641-49D5-A87E-277B-6197035C0934",
+					"name":
+					{
+						"defaultText": "JustADash",
+						"localizedByCulture":
+						{
+							"ar-AE": "JustADash",
+							"de-DE": "JustADash",
+							"en-US": "JustADash",
+							"es-ES": "JustADash",
+							"es-MX": "JustADash",
+							"fr-FR": "JustADash",
+							"id-ID": "JustADash",
+							"it-IT": "JustADash",
+							"ja-JP": "JustADash",
+							"ko-KR": "JustADash",
+							"pl-PL": "JustADash",
+							"pt-BR": "JustADash",
+							"ru-RU": "JustADash",
+							"th-TH": "JustADash",
+							"tr-TR": "JustADash",
+							"vi-VN": "JustADash",
+							"zh-CN": "JustADash",
+							"zh-TW": "JustADash"
+						}
+					}
+				}
+			],
+			"id": "42232068-43FB-BEF4-7CE4-D8A19BA94B45",
+			"label": "42232068-43FB-BEF4-7CE4-D8A19BA94B45",
+			"name":
+			{
+				"defaultText": "Just A Touch Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة رشة خفيفة",
+					"de-DE": "Graffiti „Nur einen Hauch“",
+					"en-US": "Just A Touch Spray",
+					"es-ES": "Grafiti Un toquecito",
+					"es-MX": "Spray Una Pizquita",
+					"fr-FR": "Graffiti Juste une touche",
+					"id-ID": "Spray Just A Touch",
+					"it-IT": "Spray Solo un pizzico",
+					"ja-JP": "ほんの隠し味 スプレー",
+					"ko-KR": "마지막 한 꼬집 스프레이",
+					"pl-PL": "Graffiti „Jeszcze szczypta”",
+					"pt-BR": "Spray Só Uma Pitada",
+					"ru-RU": "Граффити \"Всего щепотку\"",
+					"th-TH": "สเปรย์ Just A Touch",
+					"tr-TR": "Bir Tutam Yeterli Spreyi",
+					"vi-VN": "Hình Phun Sơn Chút Xíu Thôi",
+					"zh-CN": "加点佐料 喷漆",
+					"zh-TW": "灑灑花瓣 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "4CD14115-4E6C-377F-4AE9-AE8E846996B6",
+					"label": "4CD14115-4E6C-377F-4AE9-AE8E846996B6",
+					"name":
+					{
+						"defaultText": "NotProvenYet",
+						"localizedByCulture":
+						{
+							"ar-AE": "NotProvenYet",
+							"de-DE": "NotProvenYet",
+							"en-US": "NotProvenYet",
+							"es-ES": "NotProvenYet",
+							"es-MX": "NotProvenYet",
+							"fr-FR": "NotProvenYet",
+							"id-ID": "NotProvenYet",
+							"it-IT": "NotProvenYet",
+							"ja-JP": "NotProvenYet",
+							"ko-KR": "NotProvenYet",
+							"pl-PL": "NotProvenYet",
+							"pt-BR": "NotProvenYet",
+							"ru-RU": "NotProvenYet",
+							"th-TH": "NotProvenYet",
+							"tr-TR": "NotProvenYet",
+							"vi-VN": "NotProvenYet",
+							"zh-CN": "NotProvenYet",
+							"zh-TW": "NotProvenYet"
+						}
+					}
+				}
+			],
+			"id": "16168A83-4C8F-145E-B9D4-0FB316F109F3",
+			"label": "16168A83-4C8F-145E-B9D4-0FB316F109F3",
+			"name":
+			{
+				"defaultText": "Can't Prove It Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة لا يمكن إثبات ذلك",
+					"de-DE": "Graffiti „Keine Beweise“",
+					"en-US": "Can't Prove It Spray",
+					"es-ES": "Grafiti No puedes demostrarlo",
+					"es-MX": "Spray Sin Pruebas",
+					"fr-FR": "Graffiti Impossible à prouver",
+					"id-ID": "Spray Can't Prove It",
+					"it-IT": "Spray Non puoi dimostrarlo",
+					"ja-JP": "証明不能 スプレー",
+					"ko-KR": "증명할 수 없어 스프레이",
+					"pl-PL": "Graffiti „Nic mi nie udowodnisz”",
+					"pt-BR": "Spray Não Posso Provar",
+					"ru-RU": "Граффити \"Я знаю, но не могу доказать\"",
+					"th-TH": "สเปรย์ Can't Prove It",
+					"tr-TR": "Hiçbir Şey Kanıtlayamazsın Spreyi",
+					"vi-VN": "Hình Phun Sơn Không Thể Chứng Minh",
+					"zh-CN": "你没证据 喷漆",
+					"zh-TW": "你沒證據 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "A29C1FDA-4B6A-3D62-054A-9BB232609FAF",
+					"label": "A29C1FDA-4B6A-3D62-054A-9BB232609FAF",
+					"name":
+					{
+						"defaultText": "PurebreadBruno",
+						"localizedByCulture":
+						{
+							"ar-AE": "PurebreadBruno",
+							"de-DE": "PurebreadBruno",
+							"en-US": "PurebreadBruno",
+							"es-ES": "PurebreadBruno",
+							"es-MX": "PurebreadBruno",
+							"fr-FR": "PurebreadBruno",
+							"id-ID": "PurebreadBruno",
+							"it-IT": "PurebreadBruno",
+							"ja-JP": "PurebreadBruno",
+							"ko-KR": "PurebreadBruno",
+							"pl-PL": "PurebreadBruno",
+							"pt-BR": "PurebreadBruno",
+							"ru-RU": "PurebreadBruno",
+							"th-TH": "PurebreadBruno",
+							"tr-TR": "PurebreadBruno",
+							"vi-VN": "PurebreadBruno",
+							"zh-CN": "PurebreadBruno",
+							"zh-TW": "PurebreadBruno"
+						}
+					}
+				}
+			],
+			"id": "42FF0452-4D22-9C86-E2F6-9F84CA6217A2",
+			"label": "42FF0452-4D22-9C86-E2F6-9F84CA6217A2",
+			"name":
+			{
+				"defaultText": "Pure Bread Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة الخبز النقي",
+					"de-DE": "Graffiti „Naturreines Brot“",
+					"en-US": "Pure Bread Spray",
+					"es-ES": "Grafiti Masa madre",
+					"es-MX": "Spray Panino",
+					"fr-FR": "Graffiti Un vrai pain",
+					"id-ID": "Spray Pure Bread",
+					"it-IT": "Spray Pane di razza",
+					"ja-JP": "トースト犬 スプレー",
+					"ko-KR": "빵빵한 강아지 스프레이",
+					"pl-PL": "Graffiti „Hauka”",
+					"pt-BR": "Spray Pãodigree",
+					"ru-RU": "Граффити \"Породистая булочка\"",
+					"th-TH": "สเปรย์ Pure Bread",
+					"tr-TR": "Köpekli Ekmek Spreyi",
+					"vi-VN": "Hình Phun Sơn Bánh Mì Nguyên Chất",
+					"zh-CN": "正宗面包 喷漆",
+					"zh-TW": "純種麵包 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "C978AF5B-494B-2521-3FFC-46A7DCF01CF1",
+					"label": "C978AF5B-494B-2521-3FFC-46A7DCF01CF1",
+					"name":
+					{
+						"defaultText": "RetroRPGPortrait",
+						"localizedByCulture":
+						{
+							"ar-AE": "RetroRPGPortrait",
+							"de-DE": "RetroRPGPortrait",
+							"en-US": "RetroRPGPortrait",
+							"es-ES": "RetroRPGPortrait",
+							"es-MX": "RetroRPGPortrait",
+							"fr-FR": "RetroRPGPortrait",
+							"id-ID": "RetroRPGPortrait",
+							"it-IT": "RetroRPGPortrait",
+							"ja-JP": "RetroRPGPortrait",
+							"ko-KR": "RetroRPGPortrait",
+							"pl-PL": "RetroRPGPortrait",
+							"pt-BR": "RetroRPGPortrait",
+							"ru-RU": "RetroRPGPortrait",
+							"th-TH": "RetroRPGPortrait",
+							"tr-TR": "RetroRPGPortrait",
+							"vi-VN": "RetroRPGPortrait",
+							"zh-CN": "RetroRPGPortrait",
+							"zh-TW": "RetroRPGPortrait"
+						}
+					}
+				}
+			],
+			"id": "72E09720-4984-8E85-6FC8-B39C600D4C62",
+			"label": "72E09720-4984-8E85-6FC8-B39C600D4C62",
+			"name":
+			{
+				"defaultText": "Character Select // Breach Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة اختيار الشخصية // بريتش",
+					"de-DE": "Graffiti „Agentenauswahl // Breach“",
+					"en-US": "Character Select // Breach Spray",
+					"es-ES": "Grafiti Selección de personaje // Breach",
+					"es-MX": "Spray Selección de Personaje // Breach",
+					"fr-FR": "Graffiti Sélection du personnage // Breach",
+					"id-ID": "Spray Character Select // Breach",
+					"it-IT": "Spray Selezione personaggio // Breach",
+					"ja-JP": "キャラクター選択 // ブリーチ スプレー",
+					"ko-KR": "캐릭터 선택 // 브리치 스프레이",
+					"pl-PL": "Wybór postaci // Graffiti „Breach”",
+					"pt-BR": "Spray Seleção de Personagem // Breach",
+					"ru-RU": "Граффити \"Выбор персонажа // Breach\"",
+					"th-TH": "สเปรย์ Character Select // Breach",
+					"tr-TR": "Karakter Seçimi // Breach Spreyi",
+					"vi-VN": "Hình Phun Sơn Chọn Nhân Vật // Breach",
+					"zh-CN": "角色选择//铁臂 喷漆",
+					"zh-TW": "像素特務 // 叛奇 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "1D94C680-4125-D079-07BC-E59A54DABACE",
+					"label": "1D94C680-4125-D079-07BC-E59A54DABACE",
+					"name":
+					{
+						"defaultText": "ScribbleSeriesMiks",
+						"localizedByCulture":
+						{
+							"ar-AE": "ScribbleSeriesMiks",
+							"de-DE": "ScribbleSeriesMiks",
+							"en-US": "ScribbleSeriesMiks",
+							"es-ES": "ScribbleSeriesMiks",
+							"es-MX": "ScribbleSeriesMiks",
+							"fr-FR": "ScribbleSeriesMiks",
+							"id-ID": "ScribbleSeriesMiks",
+							"it-IT": "ScribbleSeriesMiks",
+							"ja-JP": "ScribbleSeriesMiks",
+							"ko-KR": "ScribbleSeriesMiks",
+							"pl-PL": "ScribbleSeriesMiks",
+							"pt-BR": "ScribbleSeriesMiks",
+							"ru-RU": "ScribbleSeriesMiks",
+							"th-TH": "ScribbleSeriesMiks",
+							"tr-TR": "ScribbleSeriesMiks",
+							"vi-VN": "ScribbleSeriesMiks",
+							"zh-CN": "ScribbleSeriesMiks",
+							"zh-TW": "ScribbleSeriesMiks"
+						}
+					}
+				}
+			],
+			"id": "7FD64A03-493B-1D23-C9C0-D6854849E988",
+			"label": "7FD64A03-493B-1D23-C9C0-D6854849E988",
+			"name":
+			{
+				"defaultText": "Scribble M-Pulse Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة خربشات النبضة المدوّية",
+					"de-DE": "Graffiti „Gekritzelter M-Impuls“",
+					"en-US": "Scribble M-Pulse Spray",
+					"es-ES": "Grafiti Garabato de Pulso disonante",
+					"es-MX": "Spray Pulso M: A Pulso",
+					"fr-FR": "Graffiti M-pulsion gribouillée",
+					"id-ID": "Spray Scribble M-Pulse",
+					"it-IT": "Spray Impulso scarabocchiato",
+					"ja-JP": "らくがきM-パルス スプレー",
+					"ko-KR": "낙서 M-파동 스프레이",
+					"pl-PL": "Graffiti „M-puls od malowanek”",
+					"pt-BR": "Spray Pulso M Rabiscado",
+					"ru-RU": "Граффити \"Каракули: М-пульс\"",
+					"th-TH": "สเปรย์ Scribble M-Pulse",
+					"tr-TR": "Eskiz M Patlaması Spreyi",
+					"vi-VN": "Hình Phun Sơn Tung Chiêu Xung Lực",
+					"zh-CN": "电音脉冲涂鸦 喷漆",
+					"zh-TW": "童趣M脈衝 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "B40D3866-4D0B-9D43-3E8D-6BBFF62E054B",
+					"label": "B40D3866-4D0B-9D43-3E8D-6BBFF62E054B",
+					"name":
+					{
+						"defaultText": "SideEyeFade",
+						"localizedByCulture":
+						{
+							"ar-AE": "SideEyeFade",
+							"de-DE": "SideEyeFade",
+							"en-US": "SideEyeFade",
+							"es-ES": "SideEyeFade",
+							"es-MX": "SideEyeFade",
+							"fr-FR": "SideEyeFade",
+							"id-ID": "SideEyeFade",
+							"it-IT": "SideEyeFade",
+							"ja-JP": "SideEyeFade",
+							"ko-KR": "SideEyeFade",
+							"pl-PL": "SideEyeFade",
+							"pt-BR": "SideEyeFade",
+							"ru-RU": "SideEyeFade",
+							"th-TH": "SideEyeFade",
+							"tr-TR": "SideEyeFade",
+							"vi-VN": "SideEyeFade",
+							"zh-CN": "SideEyeFade",
+							"zh-TW": "SideEyeFade"
+						}
+					}
+				}
+			],
+			"id": "22F04E02-42B4-314C-CE56-5BA9B5CF6AE4",
+			"label": "22F04E02-42B4-314C-CE56-5BA9B5CF6AE4",
+			"name":
+			{
+				"defaultText": "Side Eye Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة النظرة الجانبية",
+					"de-DE": "Graffiti „Schräger Blick“",
+					"en-US": "Side Eye Spray",
+					"es-ES": "Grafiti Será broma",
+					"es-MX": "Spray ¿Tas Bien?",
+					"fr-FR": "Graffiti Regard en coin",
+					"id-ID": "Spray Side Eye",
+					"it-IT": "Spray Sguardo di traverso",
+					"ja-JP": "疑念 スプレー",
+					"ko-KR": "의심의 눈초리 스프레이",
+					"pl-PL": "Graffiti „Krzywe spojrzenie”",
+					"pt-BR": "Spray Canto de Olho",
+					"ru-RU": "Граффити \"Осуждаю\"",
+					"th-TH": "สเปรย์ Side Eye",
+					"tr-TR": "Yan Göz Spreyi",
+					"vi-VN": "Hình Phun Sơn Liếc Mắt",
+					"zh-CN": "斜眼 喷漆",
+					"zh-TW": "懷疑目光 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "81938B72-47C5-99DD-4E5B-DA8CD151996D",
+					"label": "81938B72-47C5-99DD-4E5B-DA8CD151996D",
+					"name":
+					{
+						"defaultText": "SlicingThePie",
+						"localizedByCulture":
+						{
+							"ar-AE": "SlicingThePie",
+							"de-DE": "SlicingThePie",
+							"en-US": "SlicingThePie",
+							"es-ES": "SlicingThePie",
+							"es-MX": "SlicingThePie",
+							"fr-FR": "SlicingThePie",
+							"id-ID": "SlicingThePie",
+							"it-IT": "SlicingThePie",
+							"ja-JP": "SlicingThePie",
+							"ko-KR": "SlicingThePie",
+							"pl-PL": "SlicingThePie",
+							"pt-BR": "SlicingThePie",
+							"ru-RU": "SlicingThePie",
+							"th-TH": "SlicingThePie",
+							"tr-TR": "SlicingThePie",
+							"vi-VN": "SlicingThePie",
+							"zh-CN": "SlicingThePie",
+							"zh-TW": "SlicingThePie"
+						}
+					}
+				}
+			],
+			"id": "6416BF6C-4417-DAF5-2FA0-60A73F594EE7",
+			"label": "6416BF6C-4417-DAF5-2FA0-60A73F594EE7",
+			"name":
+			{
+				"defaultText": "Slicing the Pie Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة تقطيع الفطيرة",
+					"de-DE": "Graffiti „Den Kuchen anschneiden“",
+					"en-US": "Slicing the Pie Spray",
+					"es-ES": "Grafiti Repartiendo el pastel",
+					"es-MX": "Spray El Que Parte y Reparte...",
+					"fr-FR": "Graffiti À parts inégales",
+					"id-ID": "Spray Slicing the Pie",
+					"it-IT": "Spray Affetta la torta",
+					"ja-JP": "パイカット スプレー",
+					"ko-KR": "파이 분배 스프레이",
+					"pl-PL": "Graffiti „Krojenie ciasta”",
+					"pt-BR": "Spray Fatiando a Torta",
+					"ru-RU": "Граффити \"Каждому по кусочку\"",
+					"th-TH": "สเปรย์ Slicing the Pie",
+					"tr-TR": "Turta Dilimi Spreyi",
+					"vi-VN": "Hình Phun Sơn Dò Góc",
+					"zh-CN": "切馅饼 喷漆",
+					"zh-TW": "切派定理 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "0DDB5391-494A-1E74-FB48-F7922EA48509",
+					"label": "0DDB5391-494A-1E74-FB48-F7922EA48509",
+					"name":
+					{
+						"defaultText": "SmoothieTactipig",
+						"localizedByCulture":
+						{
+							"ar-AE": "SmoothieTactipig",
+							"de-DE": "SmoothieTactipig",
+							"en-US": "SmoothieTactipig",
+							"es-ES": "SmoothieTactipig",
+							"es-MX": "SmoothieTactipig",
+							"fr-FR": "SmoothieTactipig",
+							"id-ID": "SmoothieTactipig",
+							"it-IT": "SmoothieTactipig",
+							"ja-JP": "SmoothieTactipig",
+							"ko-KR": "SmoothieTactipig",
+							"pl-PL": "SmoothieTactipig",
+							"pt-BR": "SmoothieTactipig",
+							"ru-RU": "SmoothieTactipig",
+							"th-TH": "SmoothieTactipig",
+							"tr-TR": "SmoothieTactipig",
+							"vi-VN": "SmoothieTactipig",
+							"zh-CN": "SmoothieTactipig",
+							"zh-TW": "SmoothieTactipig"
+						}
+					}
+				}
+			],
+			"id": "F2F84F9D-40B1-7FCA-E0FB-A8A45D8925B8",
+			"label": "F2F84F9D-40B1-7FCA-E0FB-A8A45D8925B8",
+			"name":
+			{
+				"defaultText": "Lil Diva Walkin Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة مشية النجم الصغير",
+					"de-DE": "Graffiti „Kleine Diva unterwegs“",
+					"en-US": "Lil Diva Walkin Spray",
+					"es-ES": "Grafiti Diva en acción",
+					"es-MX": "Spray Cerdivina",
+					"fr-FR": "Graffiti Mini-Diva en marche",
+					"id-ID": "Spray Lil Diva Walkin",
+					"it-IT": "Spray Camminata da diva",
+					"ja-JP": "ゴージャスさんが通る スプレー",
+					"ko-KR": "깜찍한 디바의 활보 스프레이",
+					"pl-PL": "Graffiti „Mała diwa w akcji”",
+					"pt-BR": "Spray Caminhar da Diva",
+					"ru-RU": "Граффити \"Звезда на стиле\"",
+					"th-TH": "สเปรย์ Lil Diva Walkin",
+					"tr-TR": "Minik Diva Yürüyor Spreyi",
+					"vi-VN": "Hình Phun Sơn Dáng Hình Diva",
+					"zh-CN": "幼年天后登场 喷漆",
+					"zh-TW": "天后走路 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "D94F6090-4268-425D-189D-8D956BF81366",
+					"label": "D94F6090-4268-425D-189D-8D956BF81366",
+					"name":
+					{
+						"defaultText": "TooSpicy",
+						"localizedByCulture":
+						{
+							"ar-AE": "TooSpicy",
+							"de-DE": "TooSpicy",
+							"en-US": "TooSpicy",
+							"es-ES": "TooSpicy",
+							"es-MX": "TooSpicy",
+							"fr-FR": "TooSpicy",
+							"id-ID": "TooSpicy",
+							"it-IT": "TooSpicy",
+							"ja-JP": "TooSpicy",
+							"ko-KR": "TooSpicy",
+							"pl-PL": "TooSpicy",
+							"pt-BR": "TooSpicy",
+							"ru-RU": "TooSpicy",
+							"th-TH": "TooSpicy",
+							"tr-TR": "TooSpicy",
+							"vi-VN": "TooSpicy",
+							"zh-CN": "TooSpicy",
+							"zh-TW": "TooSpicy"
+						}
+					}
+				}
+			],
+			"id": "D5004EFD-41C7-29DB-5547-8A924A9762D2",
+			"label": "D5004EFD-41C7-29DB-5547-8A924A9762D2",
+			"name":
+			{
+				"defaultText": "Hot Hot Hot Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة حرارة لا تحتمل",
+					"de-DE": "Graffiti „Heiß, heiß, heiß“",
+					"en-US": "Hot Hot Hot Spray",
+					"es-ES": "Grafiti Cómo quema",
+					"es-MX": "Spray Picardilla",
+					"fr-FR": "Graffiti Chaud Chaud Chaud",
+					"id-ID": "Spray Hot Hot Hot",
+					"it-IT": "Spray Scotta!",
+					"ja-JP": "辛っ スプレー",
+					"ko-KR": "너무 매워 스프레이",
+					"pl-PL": "Graffiti „Parzyparzyparzy”",
+					"pt-BR": "Spray Picanteeeee",
+					"ru-RU": "Граффити \"Остро\"",
+					"th-TH": "สเปรย์ Hot Hot Hot",
+					"tr-TR": "Yanıyorum Spreyi",
+					"vi-VN": "Hình Phun Sơn Nóng Quá Đi",
+					"zh-CN": "好辣好辣 喷漆",
+					"zh-TW": "好辣好辣 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "27FCCA13-4FDA-5333-9EBA-A4BE43EC44E1",
+					"label": "27FCCA13-4FDA-5333-9EBA-A4BE43EC44E1",
+					"name":
+					{
+						"defaultText": "WingmanBoba",
+						"localizedByCulture":
+						{
+							"ar-AE": "WingmanBoba",
+							"de-DE": "WingmanBoba",
+							"en-US": "WingmanBoba",
+							"es-ES": "WingmanBoba",
+							"es-MX": "WingmanBoba",
+							"fr-FR": "WingmanBoba",
+							"id-ID": "WingmanBoba",
+							"it-IT": "WingmanBoba",
+							"ja-JP": "WingmanBoba",
+							"ko-KR": "WingmanBoba",
+							"pl-PL": "WingmanBoba",
+							"pt-BR": "WingmanBoba",
+							"ru-RU": "WingmanBoba",
+							"th-TH": "WingmanBoba",
+							"tr-TR": "WingmanBoba",
+							"vi-VN": "WingmanBoba",
+							"zh-CN": "WingmanBoba",
+							"zh-TW": "WingmanBoba"
+						}
+					}
+				}
+			],
+			"id": "7F32D80E-4C1A-773E-63A8-2592E4361BD6",
+			"label": "7F32D80E-4C1A-773E-63A8-2592E4361BD6",
+			"name":
+			{
+				"defaultText": "Boba Break Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة استراحة شاي البوبا",
+					"de-DE": "Graffiti „Zeit für Bubble-Tea“",
+					"en-US": "Boba Break Spray",
+					"es-ES": "Grafiti Descanso y boba",
+					"es-MX": "Spray Hora del Boba",
+					"fr-FR": "Graffiti Pause boba",
+					"id-ID": "Spray Boba Break",
+					"it-IT": "Spray Pausa Boba",
+					"ja-JP": "タピオカタイム スプレー",
+					"ko-KR": "버블티 한 잔 스프레이",
+					"pl-PL": "Graffiti „Przerwa na bubble tea”",
+					"pt-BR": "Spray Pausa pro Chazinho",
+					"ru-RU": "Граффити \"Перерыв на бабл-ти\"",
+					"th-TH": "สเปรย์ Boba Break",
+					"tr-TR": "Boba Molası Spreyi",
+					"vi-VN": "Hình Phun Sơn Giải Lao Trà Sữa",
+					"zh-CN": "喝杯奶茶压压惊 喷漆",
+					"zh-TW": "偷喝珍奶 塗鴉"
 				}
 			}
 		},
@@ -377231,6 +382249,35 @@
 					"vi-VN": "Flex Hoa Hồng Blackthorn",
 					"zh-CN": "荆刺圣骸玫瑰 盘盘",
 					"zh-TW": "黑棘玫瑰 炫技"
+				}
+			}
+		},
+		{
+			"id": "1FF7899E-4C5B-1E49-E2D3-479A6B61C1A0",
+			"label": "1FF7899E-4C5B-1E49-E2D3-479A6B61C1A0",
+			"name":
+			{
+				"defaultText": "Aeris Flex",
+				"localizedByCulture":
+				{
+					"ar-AE": "أداة استعراض الأثير",
+					"de-DE": "Flex „Aeris“",
+					"en-US": "Aeris Flex",
+					"es-ES": "Vacile Aeris",
+					"es-MX": "Flex Aeris",
+					"fr-FR": "Flex Aeris",
+					"id-ID": "Flex Aeris",
+					"it-IT": "Flex Aeris",
+					"ja-JP": "エアリス フレックス",
+					"ko-KR": "에리스 플렉스",
+					"pl-PL": "Flex „Aeris”",
+					"pt-BR": "Gesto Aeris",
+					"ru-RU": "Флекс \"Аэромантия\"",
+					"th-TH": "Aeris Flex",
+					"tr-TR": "Göksel Donatısı",
+					"vi-VN": "Flex Aeris",
+					"zh-CN": "圣契命澜 盘盘",
+					"zh-TW": "至高聖使 炫技"
 				}
 			}
 		},
