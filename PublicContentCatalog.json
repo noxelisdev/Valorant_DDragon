@@ -1,5 +1,5 @@
 {
-	"version": "13.04.00.5304478",
+	"version": "13.05.00.5350494",
 	"characters": [
 		{
 			"description":
@@ -2121,7 +2121,7 @@
 							"ko-KR": "케이/오가 즉시 양극화된 레디어나이트 에너지를 과충전하여 넓은 범위에 파동을 방출합니다. 이 파동에 맞은 적은 짧은 시간 동안 제압됩니다. 케이/오는 과충전된 동안 전투 자극제 효과를 얻으며, 쓰러져도 다시 안정화할 수 있습니다.",
 							"pl-PL": "NATYCHMIAST przeciąża KAY/O spolaryzowaną energią Promienitu, która emituje impulsy o sporym zasięgu z jego pozycji. Wrogowie trafieni impulsami zostają stłumieni na krótki czas. Podczas przeciążenia KAY/O zyskuje stymulant bitewny, a po jego powaleniu można go ponownie ustabilizować.",
 							"pt-BR": "INSTANTANEAMENTE sobrecarrega com energia de Radianita polarizada que emite grandes pulsos energéticos em um raio enorme a partir de onde KAY/O estiver. Inimigos atingidos pelos pulsos são Suprimidos por um curto período. Enquanto estiver sobrecarregado, KAY/O recebe Estimulante de Combate e pode ser reestabilizado se for abatido.",
-							"ru-RU": "Мгновенно заряжается энергией поляризованного радианита, которая вызывает мощное излучение там, где находится KAY/O. Излучение ненадолго подавляет врагов, попавших в зону действия. На заряженного KAY/O действует эффект боевого стимулятора, и он может восстановиться при получении смертельного урона.",
+							"ru-RU": "Мгновенно заряжается энергией поляризованного радианита, которая вызывает мощное излучение там, где находится KAY/O. Излучение ненадолго подавляет врагов, попавших в зону действия. На заряженного  KAY/O действует эффект боевого стимулятора, и он может восстановиться при получении смертельного урона.",
 							"th-TH": "โอเวอร์โหลดทันทีด้วยการปล่อยคลื่นพลังงาน Radianite เปลี่ยนขั้วจาก KAY/O ในรัศมีกว้างมาก ศัตรูที่โดนคลื่นพลังงานจะถูกยับยั้งพลังเป็นระยะเวลาสั้น ๆ ขณะโอเวอร์โหลด KAY/O จะได้บัฟ Combat Stim และเพื่อนร่วมทีมสามารถชุบชีวิตได้เมื่อหยุดทำงาน",
 							"tr-TR": "KAY/O, kutuplaşmış radyanit enerjisiyle ANINDA aşırı yüklenir ve bulunduğu konumdan devasa bir etki alanına sahip enerji dalgaları yayar. Enerji dalgalarının isabet ettiği düşmanlar kısa bir süreliğine Sindirilir. Aşırı yükleme durumundayken KAY/O Kuvvetli Savaş kazanır ve çöktüğünde yeniden stabil hale getirilebilir.",
 							"vi-VN": "NGAY LẬP TỨC tải đầy năng lượng radianite phân cực để giải phóng các sóng năng lượng trên diện rộng từ KAY/O. Kẻ địch trúng phải sóng năng lượng này sẽ bị Áp Chế trong một thời gian ngắn. Khi tải đầy năng lượng, KAY/O được Khuấy Động Giao Tranh và có thể được hồi sinh.",
@@ -26619,11 +26619,11 @@
 							"it-IT": "Vandal Verdant Cafe",
 							"ja-JP": "ヴァーダントカフェ ヴァンダル",
 							"ko-KR": "신록의 카페 밴달",
-							"pl-PL": "Herbaciany Vandal",
+							"pl-PL": "Vandal Herbaciany",
 							"pt-BR": "Vandal Cafeteria Verdejante",
 							"ru-RU": "Vandal \"Зеленое кафе\"",
 							"th-TH": "Verdant Cafe Vandal",
-							"tr-TR": "Zümrüt Kafe Vandal",
+							"tr-TR": "Flora Kafe Vandal",
 							"vi-VN": "Vandal Cafe Xanh Mát",
 							"zh-CN": "绿意咖啡馆 狂徒",
 							"zh-TW": "翠綠咖啡 暴徒"
@@ -26648,11 +26648,11 @@
 							"it-IT": "Vandal Verdant Cafe\n(variante 1 Blu)",
 							"ja-JP": "ヴァーダントカフェ ヴァンダル\n(ヴァリアント 1 ブルー)",
 							"ko-KR": "신록의 카페 밴달\n(변형 1 파란색)",
-							"pl-PL": "Herbaciany Vandal\n(wersja 1 – niebieska)",
+							"pl-PL": "Vandal Herbaciany\n(wersja 1 – niebieska)",
 							"pt-BR": "Vandal Cafeteria Verdejante\n(Variante 1 Azul)",
 							"ru-RU": "Vandal \"Зеленое кафе\"\n(расцветка 1 \"Синий\")",
 							"th-TH": "Verdant Cafe Vandal\n(ตัวเลือกที่ 1 สีฟ้า)",
-							"tr-TR": "Zümrüt Kafe Vandal\n(Stil 1 - Mavi)",
+							"tr-TR": "Flora Kafe Vandal\n(Stil 1 - Mavi)",
 							"vi-VN": "Vandal Cafe Xanh Mát\n(Dạng 1 Ánh Lam)",
 							"zh-CN": "绿意咖啡馆 狂徒\n（炫彩1 蓝色）",
 							"zh-TW": "翠綠咖啡 暴徒\n(幻彩1 藍色)"
@@ -26677,11 +26677,11 @@
 							"it-IT": "Vandal Verdant Cafe\n(variante 2 Rosa)",
 							"ja-JP": "ヴァーダントカフェ ヴァンダル\n(ヴァリアント 2 ピンク)",
 							"ko-KR": "신록의 카페 밴달\n(변형 2 분홍색)",
-							"pl-PL": "Herbaciany Vandal\n(wersja 2 – różowa)",
+							"pl-PL": "Vandal Herbaciany\n(wersja 2 – różowa)",
 							"pt-BR": "Vandal Cafeteria Verdejante\n(Variante 2 Rosa)",
 							"ru-RU": "Vandal \"Зеленое кафе\"\n(расцветка 2 \"Розовый\")",
 							"th-TH": "Verdant Cafe Vandal\n(ตัวเลือกที่ 2 สีชมพู)",
-							"tr-TR": "Zümrüt Kafe Vandal\n(Stil 2 - Pembe)",
+							"tr-TR": "Flora Kafe Vandal\n(Stil 2 - Pembe)",
 							"vi-VN": "Vandal Cafe Xanh Mát\n(Dạng 2 Ánh Hồng)",
 							"zh-CN": "绿意咖啡馆 狂徒\n（炫彩2 粉色）",
 							"zh-TW": "翠綠咖啡 暴徒\n(幻彩2 粉色)"
@@ -26708,11 +26708,11 @@
 							"it-IT": "Vandal Verdant Cafe",
 							"ja-JP": "ヴァーダントカフェ ヴァンダル",
 							"ko-KR": "신록의 카페 밴달",
-							"pl-PL": "Herbaciany Vandal",
+							"pl-PL": "Vandal Herbaciany",
 							"pt-BR": "Vandal Cafeteria Verdejante",
 							"ru-RU": "Vandal \"Зеленое кафе\"",
 							"th-TH": "Verdant Cafe Vandal",
-							"tr-TR": "Zümrüt Kafe Vandal",
+							"tr-TR": "Flora Kafe Vandal",
 							"vi-VN": "Vandal Cafe Xanh Mát",
 							"zh-CN": "绿意咖啡馆 狂徒",
 							"zh-TW": "翠綠咖啡 暴徒"
@@ -26737,11 +26737,11 @@
 					"it-IT": "Vandal Verdant Cafe",
 					"ja-JP": "ヴァーダントカフェ ヴァンダル",
 					"ko-KR": "신록의 카페 밴달",
-					"pl-PL": "Herbaciany Vandal",
+					"pl-PL": "Vandal Herbaciany",
 					"pt-BR": "Vandal Cafeteria Verdejante",
 					"ru-RU": "Vandal \"Зеленое кафе\"",
 					"th-TH": "Verdant Cafe Vandal",
-					"tr-TR": "Zümrüt Kafe Vandal",
+					"tr-TR": "Flora Kafe Vandal",
 					"vi-VN": "Vandal Cafe Xanh Mát",
 					"zh-CN": "绿意咖啡馆 狂徒",
 					"zh-TW": "翠綠咖啡 暴徒"
@@ -43767,11 +43767,11 @@
 							"it-IT": "Bulldog Verdant Cafe",
 							"ja-JP": "ヴァーダントカフェ ブルドッグ",
 							"ko-KR": "신록의 카페 불독",
-							"pl-PL": "Herbaciany Bulldog",
+							"pl-PL": "Bulldog Herbaciany",
 							"pt-BR": "Bulldog Cafeteria Verdejante",
 							"ru-RU": "Bulldog \"Зеленое кафе\"",
 							"th-TH": "Verdant Cafe Bulldog",
-							"tr-TR": "Zümrüt Kafe Bulldog",
+							"tr-TR": "Flora Kafe Bulldog",
 							"vi-VN": "Bulldog Cafe Xanh Mát",
 							"zh-CN": "绿意咖啡馆 獠犬",
 							"zh-TW": "翠綠咖啡 鬥牛犬"
@@ -43796,11 +43796,11 @@
 							"it-IT": "Bulldog Verdant Cafe\n(variante 1 Blu)",
 							"ja-JP": "ヴァーダントカフェ ブルドッグ\n(ヴァリアント 1 ブルー)",
 							"ko-KR": "신록의 카페 불독\n(변형 1 파란색)",
-							"pl-PL": "Herbaciany Bulldog\n(wersja 1 – niebieska)",
+							"pl-PL": "Bulldog Herbaciany\n(wersja 1 – niebieska)",
 							"pt-BR": "Bulldog Cafeteria Verdejante\n(Variante 1 Azul)",
 							"ru-RU": "Bulldog \"Зеленое кафе\"\n(расцветка 1 \"Синий\")",
 							"th-TH": "Verdant Cafe Bulldog\n(ตัวเลือกที่ 1 สีฟ้า)",
-							"tr-TR": "Zümrüt Kafe Bulldog\n(Stil 1 - Mavi)",
+							"tr-TR": "Flora Kafe Bulldog\n(Stil 1 - Mavi)",
 							"vi-VN": "Bulldog Cafe Xanh Mát\n(Dạng 1 Ánh Lam)",
 							"zh-CN": "绿意咖啡馆 獠犬\n（炫彩1 蓝色）",
 							"zh-TW": "翠綠咖啡 鬥牛犬\n(幻彩1 藍色)"
@@ -43825,11 +43825,11 @@
 							"it-IT": "Bulldog Verdant Cafe\n(variante 2 Rosa)",
 							"ja-JP": "ヴァーダントカフェ ブルドッグ\n(ヴァリアント 2 ピンク)",
 							"ko-KR": "신록의 카페 불독\n(변형 2 분홍색)",
-							"pl-PL": "Herbaciany Bulldog\n(wersja 2 – różowa)",
+							"pl-PL": "Bulldog Herbaciany\n(wersja 2 – różowa)",
 							"pt-BR": "Bulldog Cafeteria Verdejante\n(Variante 2 Rosa)",
 							"ru-RU": "Bulldog \"Зеленое кафе\"\n(расцветка 2 \"Розовый\")",
 							"th-TH": "Verdant Cafe Bulldog\n(ตัวเลือกที่ 2 สีชมพู)",
-							"tr-TR": "Zümrüt Kafe Bulldog\n(Stil 2 - Pembe)",
+							"tr-TR": "Flora Kafe Bulldog\n(Stil 2 - Pembe)",
 							"vi-VN": "Bulldog Cafe Xanh Mát\n(Dạng 2 Ánh Hồng)",
 							"zh-CN": "绿意咖啡馆 獠犬\n（炫彩2 粉色）",
 							"zh-TW": "翠綠咖啡 鬥牛犬\n(幻彩2 粉色)"
@@ -43856,11 +43856,11 @@
 							"it-IT": "Bulldog Verdant Cafe",
 							"ja-JP": "ヴァーダントカフェ ブルドッグ",
 							"ko-KR": "신록의 카페 불독",
-							"pl-PL": "Herbaciany Bulldog",
+							"pl-PL": "Bulldog Herbaciany",
 							"pt-BR": "Bulldog Cafeteria Verdejante",
 							"ru-RU": "Bulldog \"Зеленое кафе\"",
 							"th-TH": "Verdant Cafe Bulldog",
-							"tr-TR": "Zümrüt Kafe Bulldog",
+							"tr-TR": "Flora Kafe Bulldog",
 							"vi-VN": "Bulldog Cafe Xanh Mát",
 							"zh-CN": "绿意咖啡馆 獠犬",
 							"zh-TW": "翠綠咖啡 鬥牛犬"
@@ -43885,11 +43885,11 @@
 					"it-IT": "Bulldog Verdant Cafe",
 					"ja-JP": "ヴァーダントカフェ ブルドッグ",
 					"ko-KR": "신록의 카페 불독",
-					"pl-PL": "Herbaciany Bulldog",
+					"pl-PL": "Bulldog Herbaciany",
 					"pt-BR": "Bulldog Cafeteria Verdejante",
 					"ru-RU": "Bulldog \"Зеленое кафе\"",
 					"th-TH": "Verdant Cafe Bulldog",
-					"tr-TR": "Zümrüt Kafe Bulldog",
+					"tr-TR": "Flora Kafe Bulldog",
 					"vi-VN": "Bulldog Cafe Xanh Mát",
 					"zh-CN": "绿意咖啡馆 獠犬",
 					"zh-TW": "翠綠咖啡 鬥牛犬"
@@ -90591,11 +90591,11 @@
 							"it-IT": "Classic Verdant Cafe",
 							"ja-JP": "ヴァーダントカフェ クラシック",
 							"ko-KR": "신록의 카페 클래식",
-							"pl-PL": "Herbaciany Classic",
+							"pl-PL": "Classic Herbaciany",
 							"pt-BR": "Classic Cafeteria Verdejante",
 							"ru-RU": "Classic \"Зеленое кафе\"",
 							"th-TH": "Verdant Cafe Classic",
-							"tr-TR": "Zümrüt Kafe Classic",
+							"tr-TR": "Flora Kafe Classic",
 							"vi-VN": "Classic Cafe Xanh Mát",
 							"zh-CN": "绿意咖啡馆 标配",
 							"zh-TW": "翠綠咖啡 制式手槍"
@@ -90620,11 +90620,11 @@
 							"it-IT": "Classic Verdant Cafe\n(variante 1 Blu)",
 							"ja-JP": "ヴァーダントカフェ クラシック\n(ヴァリアント 1 ブルー)",
 							"ko-KR": "신록의 카페 클래식\n(변형 1 파란색)",
-							"pl-PL": "Herbaciany Classic\n(wersja 1 – niebieska)",
+							"pl-PL": "Classic Herbaciany\n(wersja 1 – niebieska)",
 							"pt-BR": "Classic Cafeteria Verdejante\n(Variante 1 Azul)",
 							"ru-RU": "Classic \"Зеленое кафе\"\n(расцветка 1 \"Синий\")",
 							"th-TH": "Verdant Cafe Classic\n(ตัวเลือกที่ 1 สีฟ้า)",
-							"tr-TR": "Zümrüt Kafe Classic\n(Stil 1 - Mavi)",
+							"tr-TR": "Flora Kafe Classic\n(Stil 1 - Mavi)",
 							"vi-VN": "Classic Cafe Xanh Mát\n(Dạng 1 Ánh Lam)",
 							"zh-CN": "绿意咖啡馆 标配\n（炫彩1 蓝色）",
 							"zh-TW": "翠綠咖啡 制式手槍\n(幻彩1 藍色)"
@@ -90649,11 +90649,11 @@
 							"it-IT": "Classic Verdant Cafe\n(variante 2 Rosa)",
 							"ja-JP": "ヴァーダントカフェ クラシック\n(ヴァリアント 2 ピンク)",
 							"ko-KR": "신록의 카페 클래식\n(변형 2 분홍색)",
-							"pl-PL": "Herbaciany Classic\n(wersja 2 – różowa)",
+							"pl-PL": "Classic Herbaciany\n(wersja 2 – różowa)",
 							"pt-BR": "Classic Cafeteria Verdejante\n(Variante 2 Rosa)",
 							"ru-RU": "Classic \"Зеленое кафе\"\n(расцветка 2 \"Розовый\")",
 							"th-TH": "Verdant Cafe Classic\n(ตัวเลือกที่ 2 สีชมพู)",
-							"tr-TR": "Zümrüt Kafe Classic\n(Stil 2 - Pembe)",
+							"tr-TR": "Flora Kafe Classic\n(Stil 2 - Pembe)",
 							"vi-VN": "Classic Cafe Xanh Mát\n(Dạng 2 Ánh Hồng)",
 							"zh-CN": "绿意咖啡馆 标配\n（炫彩2 粉色）",
 							"zh-TW": "翠綠咖啡 制式手槍\n(幻彩2 粉色)"
@@ -90680,11 +90680,11 @@
 							"it-IT": "Classic Verdant Cafe",
 							"ja-JP": "ヴァーダントカフェ クラシック",
 							"ko-KR": "신록의 카페 클래식",
-							"pl-PL": "Herbaciany Classic",
+							"pl-PL": "Classic Herbaciany",
 							"pt-BR": "Classic Cafeteria Verdejante",
 							"ru-RU": "Classic \"Зеленое кафе\"",
 							"th-TH": "Verdant Cafe Classic",
-							"tr-TR": "Zümrüt Kafe Classic",
+							"tr-TR": "Flora Kafe Classic",
 							"vi-VN": "Classic Cafe Xanh Mát",
 							"zh-CN": "绿意咖啡馆 标配",
 							"zh-TW": "翠綠咖啡 制式手槍"
@@ -90709,11 +90709,11 @@
 					"it-IT": "Classic Verdant Cafe",
 					"ja-JP": "ヴァーダントカフェ クラシック",
 					"ko-KR": "신록의 카페 클래식",
-					"pl-PL": "Herbaciany Classic",
+					"pl-PL": "Classic Herbaciany",
 					"pt-BR": "Classic Cafeteria Verdejante",
 					"ru-RU": "Classic \"Зеленое кафе\"",
 					"th-TH": "Verdant Cafe Classic",
-					"tr-TR": "Zümrüt Kafe Classic",
+					"tr-TR": "Flora Kafe Classic",
 					"vi-VN": "Classic Cafe Xanh Mát",
 					"zh-CN": "绿意咖啡馆 标配",
 					"zh-TW": "翠綠咖啡 制式手槍"
@@ -190112,11 +190112,11 @@
 							"it-IT": "Stinger Verdant Cafe",
 							"ja-JP": "ヴァーダントカフェ スティンガー",
 							"ko-KR": "신록의 카페 스팅어",
-							"pl-PL": "Herbaciany Stinger",
+							"pl-PL": "Stinger Herbaciany",
 							"pt-BR": "Stinger Cafeteria Verdejante",
 							"ru-RU": "Stinger \"Зеленое кафе\"",
 							"th-TH": "Verdant Cafe Stinger",
-							"tr-TR": "Zümrüt Kafe Stinger",
+							"tr-TR": "Flora Kafe Stinger",
 							"vi-VN": "Stinger Cafe Xanh Mát",
 							"zh-CN": "绿意咖啡馆 蜂刺",
 							"zh-TW": "翠綠咖啡 刺針"
@@ -190141,11 +190141,11 @@
 							"it-IT": "Stinger Verdant Cafe\n(variante 1 Blu)",
 							"ja-JP": "ヴァーダントカフェ スティンガー\n(ヴァリアント 1 ブルー)",
 							"ko-KR": "신록의 카페 스팅어\n(변형 1 파란색)",
-							"pl-PL": "Herbaciany Stinger\n(wersja 1 – niebieska)",
+							"pl-PL": "Stinger Herbaciany\n(wersja 1 – niebieska)",
 							"pt-BR": "Stinger Cafeteria Verdejante\n(Variante 1 Azul)",
 							"ru-RU": "Stinger \"Зеленое кафе\"\n(расцветка 1 \"Синий\")",
 							"th-TH": "Verdant Cafe Stinger\n(ตัวเลือกที่ 1 สีฟ้า)",
-							"tr-TR": "Zümrüt Kafe Stinger\n(Stil 1 - Mavi)",
+							"tr-TR": "Flora Kafe Stinger\n(Stil 1 - Mavi)",
 							"vi-VN": "Stinger Cafe Xanh Mát\n(Dạng 1 Ánh Lam)",
 							"zh-CN": "绿意咖啡馆 蜂刺\n（炫彩1 蓝色）",
 							"zh-TW": "翠綠咖啡 刺針\n(幻彩1 藍色)"
@@ -190170,11 +190170,11 @@
 							"it-IT": "Stinger Verdant Cafe\n(variante 2 Rosa)",
 							"ja-JP": "ヴァーダントカフェ スティンガー\n(ヴァリアント 2 ピンク)",
 							"ko-KR": "신록의 카페 스팅어\n(변형 2 분홍색)",
-							"pl-PL": "Herbaciany Stinger\n(wersja 2 – różowa)",
+							"pl-PL": "Stinger Herbaciany\n(wersja 2 – różowa)",
 							"pt-BR": "Stinger Cafeteria Verdejante\n(Variante 2 Rosa)",
 							"ru-RU": "Stinger \"Зеленое кафе\"\n(расцветка 2 \"Розовый\")",
 							"th-TH": "Verdant Cafe Stinger\n(ตัวเลือกที่ 2 สีชมพู)",
-							"tr-TR": "Zümrüt Kafe Stinger\n(Stil 2 - Pembe)",
+							"tr-TR": "Flora Kafe Stinger\n(Stil 2 - Pembe)",
 							"vi-VN": "Stinger Cafe Xanh Mát\n(Dạng 2 Ánh Hồng)",
 							"zh-CN": "绿意咖啡馆 蜂刺\n（炫彩2 粉色）",
 							"zh-TW": "翠綠咖啡 刺針\n(幻彩2 粉色)"
@@ -190201,11 +190201,11 @@
 							"it-IT": "Stinger Verdant Cafe",
 							"ja-JP": "ヴァーダントカフェ スティンガー",
 							"ko-KR": "신록의 카페 스팅어",
-							"pl-PL": "Herbaciany Stinger",
+							"pl-PL": "Stinger Herbaciany",
 							"pt-BR": "Stinger Cafeteria Verdejante",
 							"ru-RU": "Stinger \"Зеленое кафе\"",
 							"th-TH": "Verdant Cafe Stinger",
-							"tr-TR": "Zümrüt Kafe Stinger",
+							"tr-TR": "Flora Kafe Stinger",
 							"vi-VN": "Stinger Cafe Xanh Mát",
 							"zh-CN": "绿意咖啡馆 蜂刺",
 							"zh-TW": "翠綠咖啡 刺針"
@@ -190230,11 +190230,11 @@
 					"it-IT": "Stinger Verdant Cafe",
 					"ja-JP": "ヴァーダントカフェ スティンガー",
 					"ko-KR": "신록의 카페 스팅어",
-					"pl-PL": "Herbaciany Stinger",
+					"pl-PL": "Stinger Herbaciany",
 					"pt-BR": "Stinger Cafeteria Verdejante",
 					"ru-RU": "Stinger \"Зеленое кафе\"",
 					"th-TH": "Verdant Cafe Stinger",
-					"tr-TR": "Zümrüt Kafe Stinger",
+					"tr-TR": "Flora Kafe Stinger",
 					"vi-VN": "Stinger Cafe Xanh Mát",
 					"zh-CN": "绿意咖啡馆 蜂刺",
 					"zh-TW": "翠綠咖啡 刺針"
@@ -201169,7 +201169,7 @@
 							"pt-BR": "Faca de Chef Cafeteria Verdejante",
 							"ru-RU": "Поварской нож \"Зеленое кафе\"",
 							"th-TH": "Verdant Cafe Chef's Knife",
-							"tr-TR": "Zümrüt Kafe Şef Bıçağı",
+							"tr-TR": "Flora Kafe Şef Bıçağı",
 							"vi-VN": "Dao Đầu Bếp Cafe Xanh Mát",
 							"zh-CN": "绿意咖啡馆 主厨刀",
 							"zh-TW": "翠綠咖啡 廚刀"
@@ -201198,7 +201198,7 @@
 							"pt-BR": "Faca de Chef Cafeteria Verdejante\n(Variante 1 Azul)",
 							"ru-RU": "Поварской нож \"Зеленое кафе\"\n(расцветка 1 \"Синий\")",
 							"th-TH": "Verdant Cafe Chef's Knife\n(ตัวเลือกที่ 1 สีฟ้า)",
-							"tr-TR": "Zümrüt Kafe Şef Bıçağı\n(Stil 1 - Mavi)",
+							"tr-TR": "Flora Kafe Şef Bıçağı\n(Stil 1 - Mavi)",
 							"vi-VN": "Dao Đầu Bếp Cafe Xanh Mát\n(Dạng 1 Ánh Lam)",
 							"zh-CN": "绿意咖啡馆 主厨刀\n（炫彩1 蓝色）",
 							"zh-TW": "翠綠咖啡 廚刀\n(幻彩1 藍色)"
@@ -201227,7 +201227,7 @@
 							"pt-BR": "Faca de Chef Cafeteria Verdejante\n(Variante 2 Rosa)",
 							"ru-RU": "Поварской нож \"Зеленое кафе\"\n(расцветка 2 \"Розовый\")",
 							"th-TH": "Verdant Cafe Chef's Knife\n(ตัวเลือกที่ 2 สีชมพู)",
-							"tr-TR": "Zümrüt Kafe Şef Bıçağı\n(Stil 2 - Pembe)",
+							"tr-TR": "Flora Kafe Şef Bıçağı\n(Stil 2 - Pembe)",
 							"vi-VN": "Dao Đầu Bếp Cafe Xanh Mát\n(Dạng 2 Ánh Hồng)",
 							"zh-CN": "绿意咖啡馆 主厨刀\n（炫彩2 粉色）",
 							"zh-TW": "翠綠咖啡 廚刀\n(幻彩2 粉色)"
@@ -201258,7 +201258,7 @@
 							"pt-BR": "Faca de Chef Cafeteria Verdejante",
 							"ru-RU": "Поварской нож \"Зеленое кафе\"",
 							"th-TH": "Verdant Cafe Chef's Knife",
-							"tr-TR": "Zümrüt Kafe Şef Bıçağı",
+							"tr-TR": "Flora Kafe Şef Bıçağı",
 							"vi-VN": "Dao Đầu Bếp Cafe Xanh Mát",
 							"zh-CN": "绿意咖啡馆 主厨刀",
 							"zh-TW": "翠綠咖啡 廚刀"
@@ -201287,7 +201287,7 @@
 					"pt-BR": "Faca de Chef Cafeteria Verdejante",
 					"ru-RU": "Поварской нож \"Зеленое кафе\"",
 					"th-TH": "Verdant Cafe Chef's Knife",
-					"tr-TR": "Zümrüt Kafe Şef Bıçağı",
+					"tr-TR": "Flora Kafe Şef Bıçağı",
 					"vi-VN": "Dao Đầu Bếp Cafe Xanh Mát",
 					"zh-CN": "绿意咖啡馆 主厨刀",
 					"zh-TW": "翠綠咖啡 廚刀"
@@ -215161,9 +215161,9 @@
 							"id-ID": "Suit of Aeris",
 							"it-IT": "Armatura di Aeris",
 							"ja-JP": "スーツ・オブ・エアリス",
-							"ko-KR": "에리스 슈트",
-							"pl-PL": "Zbroja Aeris",
-							"pt-BR": "Adaga Aeris",
+							"ko-KR": "에리스의 문양",
+							"pl-PL": "Talia Aeris",
+							"pt-BR": "Naipe de Aeris",
 							"ru-RU": "Колода аэроманта",
 							"th-TH": "Suit of Aeris",
 							"tr-TR": "Göksel Sembolü",
@@ -215190,9 +215190,9 @@
 							"id-ID": "Suit of Aeris Level 2\n(Varian 1 Merah)",
 							"it-IT": "Armatura di Aeris livello 2\n(variante 1 Rossa)",
 							"ja-JP": "スーツ・オブ・エアリス Lv.2\n(ヴァリアント 1 レッド)",
-							"ko-KR": "에리스 슈트 2레벨\n(변형 1 빨간색)",
-							"pl-PL": "Zbroja Aeris (poziom 2)\n(wersja 1 – czerwona)",
-							"pt-BR": "Adaga Aeris Nível 2\n(Variante 1 Vermelha)",
+							"ko-KR": "에리스의 문양 2레벨\n(변형 1 빨간색)",
+							"pl-PL": "Talia Aeris (poziom 2)\n(wersja 1 – czerwona)",
+							"pt-BR": "Naipe de Aeris Nível 2\n(Variante 1 Vermelha)",
 							"ru-RU": "Колода аэроманта, уровень 2\n(расцветка 1 \"Красный\")",
 							"th-TH": "Suit of Aeris เลเวล 2\n(ตัวเลือกที่ 1 สีแดง)",
 							"tr-TR": "2. Seviye Göksel Sembolü\n(Stil 1 - Kırmızı)",
@@ -215219,9 +215219,9 @@
 							"id-ID": "Suit of Aeris Level 2\n(Varian 2 Merah Muda)",
 							"it-IT": "Armatura di Aeris livello 2\n(variante 2 Rosa)",
 							"ja-JP": "スーツ・オブ・エアリス Lv.2\n(ヴァリアント 2 ピンク)",
-							"ko-KR": "에리스 슈트 2레벨\n(변형 2 분홍색)",
-							"pl-PL": "Zbroja Aeris (poziom 2)\n(wersja 2 – różowa)",
-							"pt-BR": "Adaga Aeris Nível 2\n(Variante 2 Rosa)",
+							"ko-KR": "에리스의 문양 2레벨\n(변형 2 분홍색)",
+							"pl-PL": "Talia Aeris (poziom 2)\n(wersja 2 – różowa)",
+							"pt-BR": "Naipe de Aeris Nível 2\n(Variante 2 Rosa)",
 							"ru-RU": "Колода аэроманта, уровень 2\n(расцветка 2 \"Розовый\")",
 							"th-TH": "Suit of Aeris เลเวล 2\n(ตัวเลือกที่ 2 สีชมพู)",
 							"tr-TR": "2. Seviye Göksel Sembolü\n(Stil 2 - Pembe)",
@@ -215248,9 +215248,9 @@
 							"id-ID": "Suit of Aeris Level 2\r\n(Varian 3 Ungu)",
 							"it-IT": "Armatura di Aeris livello 2\r\n(variante 3 Viola)",
 							"ja-JP": "スーツ・オブ・エアリス Lv.2\r\n(ヴァリアント 3 パープル)",
-							"ko-KR": "에리스 슈트 2레벨\r\n(변형 3 보라색)",
-							"pl-PL": "Zbroja Aeris (poziom 2)\r\n(wersja 3 – fioletowa)",
-							"pt-BR": "Adaga Aeris Nível 2\r\n(Variante 3 Roxa)",
+							"ko-KR": "에리스의 문양 2레벨\r\n(변형 3 보라색)",
+							"pl-PL": "Talia Aeris (poziom 2)\r\n(wersja 3 – fioletowa)",
+							"pt-BR": "Naipe de Aeris Nível 2\r\n(Variante 3 Roxa)",
 							"ru-RU": "Колода аэроманта, уровень 2\r\n(расцветка 3 \"Фиолетовый\")",
 							"th-TH": "Suit of Aeris เลเวล 2\r\n(ตัวเลือกที่ 3 สีม่วง)",
 							"tr-TR": "2. Seviye Göksel Sembolü\r\n(Stil 3 - Mor)",
@@ -215279,9 +215279,9 @@
 							"id-ID": "Suit of Aeris",
 							"it-IT": "Armatura di Aeris",
 							"ja-JP": "スーツ・オブ・エアリス",
-							"ko-KR": "에리스 슈트",
-							"pl-PL": "Zbroja Aeris",
-							"pt-BR": "Adaga Aeris",
+							"ko-KR": "에리스의 문양",
+							"pl-PL": "Talia Aeris",
+							"pt-BR": "Naipe de Aeris",
 							"ru-RU": "Колода аэроманта",
 							"th-TH": "Suit of Aeris",
 							"tr-TR": "Göksel Sembolü",
@@ -215308,9 +215308,9 @@
 							"id-ID": "Suit of Aeris Level 2",
 							"it-IT": "Armatura di Aeris livello 2",
 							"ja-JP": "スーツ・オブ・エアリス Lv.2",
-							"ko-KR": "에리스 슈트 2레벨",
-							"pl-PL": "Zbroja Aeris (poziom 2)",
-							"pt-BR": "Adaga Aeris Nível 2",
+							"ko-KR": "에리스의 문양 2레벨",
+							"pl-PL": "Talia Aeris (poziom 2)",
+							"pt-BR": "Naipe de Aeris Nível 2",
 							"ru-RU": "Колода аэроманта, уровень 2",
 							"th-TH": "Suit of Aeris เลเวล 2",
 							"tr-TR": "2. Seviye Göksel Sembolü",
@@ -215337,9 +215337,9 @@
 					"id-ID": "Suit of Aeris",
 					"it-IT": "Armatura di Aeris",
 					"ja-JP": "スーツ・オブ・エアリス",
-					"ko-KR": "에리스 슈트",
-					"pl-PL": "Zbroja Aeris",
-					"pt-BR": "Adaga Aeris",
+					"ko-KR": "에리스의 문양",
+					"pl-PL": "Talia Aeris",
+					"pt-BR": "Naipe de Aeris",
 					"ru-RU": "Колода аэроманта",
 					"th-TH": "Suit of Aeris",
 					"tr-TR": "Göksel Sembolü",
@@ -224841,6 +224841,35 @@
 			}
 		},
 		{
+			"id": "C7A558E8-499C-839F-C98B-9C906D4219DA",
+			"label": "C7A558E8-499C-839F-C98B-9C906D4219DA",
+			"name":
+			{
+				"defaultText": "Good Boy Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة الكلب الوفي",
+					"de-DE": "Banner „Feini“",
+					"en-US": "Good Boy Card",
+					"es-ES": "Tarjeta Buen chico",
+					"es-MX": "Tarjeta Lindo Perrito",
+					"fr-FR": "Carte Bon toutou",
+					"id-ID": "Card Good Boy",
+					"it-IT": "Carta Bravo cucciolo",
+					"ja-JP": "グッドボーイ カード",
+					"ko-KR": "착한 강아지 카드",
+					"pl-PL": "Karta „Dobry piesek”",
+					"pt-BR": "Card Bom Garoto",
+					"ru-RU": "Карточка \"Хороший мальчик\"",
+					"th-TH": "การ์ด Good Boy",
+					"tr-TR": "Uslu Köpüş Kartı",
+					"vi-VN": "Thẻ Cún Ngoan",
+					"zh-CN": "乖狗狗 卡面",
+					"zh-TW": "乖狗狗 玩家卡面"
+				}
+			}
+		},
+		{
 			"id": "9FB348BC-41A0-91AD-8A3E-818035C4E561",
 			"label": "9FB348BC-41A0-91AD-8A3E-818035C4E561",
 			"name":
@@ -225185,6 +225214,151 @@
 					"vi-VN": "Thẻ Tiến Vào Hang Xà",
 					"zh-CN": "身陷蝰腹 卡面",
 					"zh-TW": "蛇我其誰 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "920957BD-4517-2E67-3402-92A0B782C678",
+			"label": "920957BD-4517-2E67-3402-92A0B782C678",
+			"name":
+			{
+				"defaultText": "Frag or Die: Alpha Sage Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة النصر أو الهزيمة: سايج ألفا",
+					"de-DE": "Banner „Fraggen oder sterben: Alpha-Sage“",
+					"en-US": "Frag or Die: Alpha Sage Card",
+					"es-ES": "Tarjeta Frag or Die: Sage alfa",
+					"es-MX": "Tarjeta Aniquila o Muere: Sage de Alfa",
+					"fr-FR": "Carte Frag or Die : Sage Alpha",
+					"id-ID": "Card Frag or Die: Alpha Sage",
+					"it-IT": "Carta Frag or Die: Sage Alfa",
+					"ja-JP": "Frag or Die: アルファ・セージ カード",
+					"ko-KR": "사생결단: 알파 세이지 카드",
+					"pl-PL": "Karta „Zabijaj lub Giń: Sage Alfa”",
+					"pt-BR": "Card Abater ou Morrer: Sage Alfa",
+					"ru-RU": "Карточка \"Победи или умри: Sage с \"Альфы\"",
+					"th-TH": "การ์ด Frag or Die: Alpha Sage",
+					"tr-TR": "Öldür ya da Öl: Alfa Sage Kartı",
+					"vi-VN": "Thẻ Hạ Gục hay Bị Hạ: Alpha Sage",
+					"zh-CN": "生死无暇：阿尔法贤者 卡面",
+					"zh-TW": "擊殺方能生存：阿爾發聖祈 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "2723CFBB-4A3D-8B62-EAC5-6CAFE0B7D856",
+			"label": "2723CFBB-4A3D-8B62-EAC5-6CAFE0B7D856",
+			"name":
+			{
+				"defaultText": "Frag or Die: Omega Viper Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة النصر أو الهزيمة: فايبر أوميغا",
+					"de-DE": "Banner „Fraggen oder sterben: Omega-Viper“",
+					"en-US": "Frag or Die: Omega Viper Card",
+					"es-ES": "Tarjeta Frag or Die: Viper omega",
+					"es-MX": "Tarjeta Aniquila o Muere: Viper de Omega",
+					"fr-FR": "Carte Frag or Die : Viper Omega",
+					"id-ID": "Card Frag or Die: Omega Viper",
+					"it-IT": "Carta Frag or Die: Viper Omega",
+					"ja-JP": "Frag or Die: オメガ・ヴァイパー カード",
+					"ko-KR": "사생결단: 오메가 바이퍼 카드",
+					"pl-PL": "Karta „Zabijaj lub Giń: Viper Omega”",
+					"pt-BR": "Card Abater ou Morrer: Viper Ômega",
+					"ru-RU": "Карточка \"Победи или умри: Viper с \"Омеги\"",
+					"th-TH": "การ์ด Frag or Die: Omega Viper",
+					"tr-TR": "Öldür ya da Öl: Omega Viper Kartı",
+					"vi-VN": "Thẻ Hạ Gục hay Bị Hạ: Omega Viper",
+					"zh-CN": "生死无暇：欧米伽蝰蛇 卡面",
+					"zh-TW": "擊殺方能生存：奧米伽薇蝮 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "CA8F260B-427C-9506-3371-F28AB41DBB93",
+			"label": "CA8F260B-427C-9506-3371-F28AB41DBB93",
+			"name":
+			{
+				"defaultText": "Jade & Venom Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة الزمرد والسم",
+					"de-DE": "Banner „Jade und Gift“",
+					"en-US": "Jade & Venom Card",
+					"es-ES": "Tarjeta Jade y veneno",
+					"es-MX": "Tarjeta Jade y Veneno",
+					"fr-FR": "Carte Jade et venin",
+					"id-ID": "Card Jade & Venom",
+					"it-IT": "Carta Giada e Veleno",
+					"ja-JP": "ジェイド & ヴェノム カード",
+					"ko-KR": "비취와 독 카드",
+					"pl-PL": "Karta „Jadeit i Jad”",
+					"pt-BR": "Card Jade e Veneno",
+					"ru-RU": "Карточка \"Нефрит и яд\"",
+					"th-TH": "การ์ด Jade & Venom",
+					"tr-TR": "Yeşim ve Zehir Kartı",
+					"vi-VN": "Thẻ Ngọc Bích & Độc",
+					"zh-CN": "淬玉沁毒 卡面",
+					"zh-TW": "翠玉與毒液 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "7B0F9B3F-4EBF-C3B2-8CBE-E2AFB79FC5BE",
+			"label": "7B0F9B3F-4EBF-C3B2-8CBE-E2AFB79FC5BE",
+			"name":
+			{
+				"defaultText": "Frag or Die: Summit Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة النصر أو الهزيمة: ساميت",
+					"de-DE": "Banner „Summit: Fraggen oder sterben“",
+					"en-US": "Frag or Die: Summit Card",
+					"es-ES": "Tarjeta Frag or Die: Summit",
+					"es-MX": "Aniquila o Muere: Tarjeta Summit",
+					"fr-FR": "Carte Frag or Die: Summit",
+					"id-ID": "Card Frag or Die: Summit",
+					"it-IT": "Carta Frag or Die: Cima",
+					"ja-JP": "Frag or Die: サミット カード",
+					"ko-KR": "사생결단: 서밋 카드",
+					"pl-PL": "Karta „Zabijaj lub Giń: Summit”",
+					"pt-BR": "Card Abater ou Morrer: Summit",
+					"ru-RU": "Карточка \"Победи или умри: Summit\"",
+					"th-TH": "การ์ด Frag or Die: Summit",
+					"tr-TR": "Öldür ya da Öl: Summit Kartı",
+					"vi-VN": "Thẻ Hạ Gục Hay Bị Hạ: Summit",
+					"zh-CN": "生死无暇：天枢之决 卡面",
+					"zh-TW": "擊殺方能生存：巔峰 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "2E5243E4-49D1-861B-AFCE-AE84A6B0791B",
+			"label": "2E5243E4-49D1-861B-AFCE-AE84A6B0791B",
+			"name":
+			{
+				"defaultText": "Frag or Die: Last Strike Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة النصر أو الهزيمة: الضربة الأخيرة",
+					"de-DE": "Banner „Fraggen oder sterben: Letzter Schlag“",
+					"en-US": "Frag or Die: Last Strike Card",
+					"es-ES": "Tarjeta Frag or Die: Último golpe",
+					"es-MX": "Aniquila o Muere: Tarjeta Último Golpe",
+					"fr-FR": "Carte Frag or Die: Last Strike",
+					"id-ID": "Card Frag or Die: Last Strike",
+					"it-IT": "Carta Frag or Die: Ultimo colpo",
+					"ja-JP": "Frag or Die: ラストストライク カード",
+					"ko-KR": "사생결단: 최후의 일격 카드",
+					"pl-PL": "Karta „Zabijaj lub Giń: Ostatni Cios”",
+					"pt-BR": "Card Abater ou Morrer: Golpe Final",
+					"ru-RU": "Карточка \"Победи или умри: последний удар\"",
+					"th-TH": "การ์ด Frag or Die: Last Strike",
+					"tr-TR": "Öldür ya da Öl: Son Saldırı Kartı",
+					"vi-VN": "Thẻ Hạ Gục Hay Bị Hạ: Last Strike",
+					"zh-CN": "生死无暇：绝命一击 卡面",
+					"zh-TW": "擊殺方能生存：最後一擊 玩家卡面"
 				}
 			}
 		},
@@ -237079,6 +237253,35 @@
 			}
 		},
 		{
+			"id": "EE511B41-4771-8553-ED7F-5BBBA0FB352E",
+			"label": "EE511B41-4771-8553-ED7F-5BBBA0FB352E",
+			"name":
+			{
+				"defaultText": "Frag or Die Trophy Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة كأس النصر أو الهزيمة",
+					"de-DE": "Banner „Fraggen oder sterben: Trophäe“",
+					"en-US": "Frag or Die Trophy Card",
+					"es-ES": "Tarjeta Trofeo de Frag or Die",
+					"es-MX": "Tarjeta Trofeo de Aniquila o Muere",
+					"fr-FR": "Carte Trophée Frag or Die",
+					"id-ID": "Card Frag or Die Trophy",
+					"it-IT": "Carta Trofeo Frag or Die",
+					"ja-JP": "Frag or Die トロフィー カード",
+					"ko-KR": "사생결단 트로피 카드",
+					"pl-PL": "Karta „Trofeum: Zabijaj lub Giń”",
+					"pt-BR": "Card Troféu: Abater ou Morrer",
+					"ru-RU": "Карточка \"Победи или умри: трофей\"",
+					"th-TH": "การ์ด Frag or Die Trophy",
+					"tr-TR": "Öldür ya da Öl Kupa Kartı",
+					"vi-VN": "Thẻ Cúp Hạ Gục hay Bị Hạ",
+					"zh-CN": "生死无暇：奖杯 卡面",
+					"zh-TW": "擊殺方能生存 獎盃 玩家卡面"
+				}
+			}
+		},
+		{
 			"id": "8E488D06-4B6D-F294-A803-CBBAFED3C077",
 			"label": "8E488D06-4B6D-F294-A803-CBBAFED3C077",
 			"name":
@@ -237104,6 +237307,35 @@
 					"vi-VN": "Thẻ Sân Khấu Lớn",
 					"zh-CN": "最高舞台 卡面",
 					"zh-TW": "大賽舞台 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "BE21F94B-45EA-52B2-40D2-07B999F4A8ED",
+			"label": "BE21F94B-45EA-52B2-40D2-07B999F4A8ED",
+			"name":
+			{
+				"defaultText": "Seoul Night Jett Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة جيت ليلة سيئول",
+					"de-DE": "Banner „Seoul Night-Jett“",
+					"en-US": "Seoul Night Jett Card",
+					"es-ES": "Tarjeta Jett de noche en Seúl",
+					"es-MX": "Tarjeta Jett Noche en Seúl",
+					"fr-FR": "Carte Jett de nuit à Séoul",
+					"id-ID": "Card Seoul Night Jett",
+					"it-IT": "Carta Jett Serata a Seul",
+					"ja-JP": "ソウル・ナイト・ジェット カード",
+					"ko-KR": "한가위의 밤 제트 카드",
+					"pl-PL": "Karta „Noc w Seulu: Jett”",
+					"pt-BR": "Card Jett Noite em Seul",
+					"ru-RU": "Карточка \"Jett сеульской ночью\"",
+					"th-TH": "การ์ด Seoul Night Jett",
+					"tr-TR": "Seul Gecesi Jett Kartı",
+					"vi-VN": "Thẻ Jett Đêm Seoul",
+					"zh-CN": "新罗之夜：捷风 卡面",
+					"zh-TW": "首爾之夜 婕提 玩家卡面"
 				}
 			}
 		},
@@ -241418,11 +241650,11 @@
 					"ja-JP": "VCT Americas 2023 カード",
 					"ko-KR": "2023 VCT Americas 카드",
 					"pl-PL": "Karta „VCT Americas 2023”",
-					"pt-BR": "Card VCT Américas 2023",
+					"pt-BR": "Card VCT Americas 2023",
 					"ru-RU": "Карточка \"VCT Америка 2023\"",
 					"th-TH": "การ์ด VCT Americas 2023",
 					"tr-TR": "VCT Americas 2023 Kartı",
-					"vi-VN": "Thẻ VCT Châu Mỹ 2023",
+					"vi-VN": "Thẻ VCT Americas 2023",
 					"zh-CN": "2023 VCT美洲联赛 卡面",
 					"zh-TW": "2023 VCT美洲聯賽 玩家卡面"
 				}
@@ -241480,7 +241712,7 @@
 					"ru-RU": "Карточка \"VCT Океания 2023\"",
 					"th-TH": "การ์ด VCT Pacific 2023",
 					"tr-TR": "VCT Pacific 2023 Kartı",
-					"vi-VN": "Thẻ VCT Thái Bình Dương 2023",
+					"vi-VN": "Thẻ VCT Pacific 2023",
 					"zh-CN": "2023 VCT太平洋联赛 卡面",
 					"zh-TW": "2023 VCT太平洋聯賽 玩家卡面"
 				}
@@ -247424,7 +247656,7 @@
 					"pt-BR": "Card Cafeteria Verdejante",
 					"ru-RU": "Карточка \"Зеленое кафе\"",
 					"th-TH": "การ์ด Verdant Cafe",
-					"tr-TR": "Zümrüt Kafe Kartı",
+					"tr-TR": "Flora Kafe Kartı",
 					"vi-VN": "Thẻ Cafe Xanh Mát",
 					"zh-CN": "绿意咖啡馆 卡面",
 					"zh-TW": "翠綠咖啡 玩家卡面"
@@ -247623,7 +247855,7 @@
 					"it-IT": "Carta Cena dell'Assassino",
 					"ja-JP": "デュエリスト ディナー カード",
 					"ko-KR": "타격대 회식 카드",
-					"pl-PL": "Karta „Pojedynek na noże”",
+					"pl-PL": "Karta „Kolacja szturmowców”",
 					"pt-BR": "Card Jantar dos Duelistas",
 					"ru-RU": "Карточка \"Ужин дуэлянтов\"",
 					"th-TH": "การ์ด Duelist Dinner",
@@ -247652,7 +247884,7 @@
 					"it-IT": "Carta VERSUS // Viper e Sage",
 					"ja-JP": "VERSUS // ヴァイパー + セージ カード",
 					"ko-KR": "VS // 바이퍼 + 세이지 카드",
-					"pl-PL": "KONTRA // Karta „Viper + Sage”",
+					"pl-PL": "Karta „VERSUS // Viper + Sage”",
 					"pt-BR": "Card VERSUS // Viper + Sage",
 					"ru-RU": "Карточка \"Противостояние\" (Viper + Sage)",
 					"th-TH": "การ์ด VERSUS // Viper + Sage",
@@ -255860,6 +256092,60 @@
 		{
 			"titleText":
 			{
+				"defaultText": "Say It With Your Chest",
+				"localizedByCulture":
+				{
+					"ar-AE": "الصوت العالي",
+					"de-DE": "Sag’s mit deiner Brust",
+					"en-US": "Say It With Your Chest",
+					"es-ES": "Grita con orgullo",
+					"es-MX": "Con La Frente En Alto",
+					"fr-FR": "Dites-le haut et fort",
+					"id-ID": "Say It With Your Chest",
+					"it-IT": "A gran voce",
+					"ja-JP": "胸を張って言え",
+					"ko-KR": "소신 발언",
+					"pl-PL": "Powiedz prosto w oczy",
+					"pt-BR": "Faz o Mundo Ouvir",
+					"ru-RU": "Во весь голос",
+					"th-TH": "ยืดอกประกาศศักดา",
+					"tr-TR": "Göğsünü Gererek Söyle",
+					"vi-VN": "Nói Lớn Xem Nào",
+					"zh-CN": "自信表达",
+					"zh-TW": "大聲說出來"
+				}
+			},
+			"id": "E12A433B-4410-042B-EF53-20A9DB7BDF4A",
+			"label": "E12A433B-4410-042B-EF53-20A9DB7BDF4A",
+			"name":
+			{
+				"defaultText": "Say It With Your Chest Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب الصوت العالي",
+					"de-DE": "Titel „Sag’s mit deiner Brust“",
+					"en-US": "Say It With Your Chest Title",
+					"es-ES": "Título Grita con orgullo",
+					"es-MX": "Título Con La Frente En Alto",
+					"fr-FR": "Titre Dites-le haut et fort",
+					"id-ID": "Gelar Say It With Your Chest",
+					"it-IT": "Titolo A gran voce",
+					"ja-JP": "胸を張って言え タイトル",
+					"ko-KR": "소신 발언 칭호",
+					"pl-PL": "Tytuł „Powiedz prosto w oczy”",
+					"pt-BR": "Título Faz o Mundo Ouvir",
+					"ru-RU": "Звание \"Во весь голос\"",
+					"th-TH": "ฉายายืดอกประกาศศักดา",
+					"tr-TR": "Göğsünü Gererek Söyle Unvanı",
+					"vi-VN": "Danh Hiệu Nói Lớn Xem Nào",
+					"zh-CN": "自信表达 称号",
+					"zh-TW": "大聲說出來 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
 				"defaultText": "Ståljeger",
 				"localizedByCulture":
 				{
@@ -256448,6 +256734,222 @@
 					"vi-VN": "Danh Hiệu Người Chơi Cuối Cùng",
 					"zh-CN": "最后一人 称号",
 					"zh-TW": "孤軍奮戰 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Prepared",
+				"localizedByCulture":
+				{
+					"ar-AE": "الجاهز",
+					"de-DE": "Vorbereitet",
+					"en-US": "Prepared",
+					"es-ES": "Todo preparado",
+					"es-MX": "Voy con Todo",
+					"fr-FR": "Prêt",
+					"id-ID": "Prepared",
+					"it-IT": "Preparato",
+					"ja-JP": "準備万全",
+					"ko-KR": "준비된 자",
+					"pl-PL": "W gotowości",
+					"pt-BR": "Preparo Total",
+					"ru-RU": "Наготове",
+					"th-TH": "พร้อมลุยศึก",
+					"tr-TR": "Hazırlıklı",
+					"vi-VN": "Sẵn Sàng",
+					"zh-CN": "准备就绪",
+					"zh-TW": "萬事俱備"
+				}
+			},
+			"id": "7B7EA647-4FAB-CBF5-A78E-B0995039CC53",
+			"label": "7B7EA647-4FAB-CBF5-A78E-B0995039CC53",
+			"name":
+			{
+				"defaultText": "Prepared Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب الجاهز",
+					"de-DE": "Titel „Vorbereitet“",
+					"en-US": "Prepared Title",
+					"es-ES": "Título Todo preparado",
+					"es-MX": "Título Voy con Todo",
+					"fr-FR": "Titre Prêt",
+					"id-ID": "Gelar Prepared",
+					"it-IT": "Titolo Preparato",
+					"ja-JP": "準備万全 タイトル",
+					"ko-KR": "준비된 자 칭호",
+					"pl-PL": "Tytuł „W gotowości”",
+					"pt-BR": "Título Preparo Total",
+					"ru-RU": "Звание \"Наготове\"",
+					"th-TH": "ฉายาพร้อมลุยศึก",
+					"tr-TR": "Hazırlıklı Unvanı",
+					"vi-VN": "Danh Hiệu Sẵn Sàng",
+					"zh-CN": "准备就绪 称号",
+					"zh-TW": "萬事俱備 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Broken",
+				"localizedByCulture":
+				{
+					"ar-AE": "الخارق",
+					"de-DE": "Kaputt",
+					"en-US": "Broken",
+					"es-ES": "Destrucción total",
+					"es-MX": "Irreparable",
+					"fr-FR": "Brisé",
+					"id-ID": "Broken",
+					"it-IT": "Spezzato",
+					"ja-JP": "ブロークン",
+					"ko-KR": "부서진 자",
+					"pl-PL": "Złamana",
+					"pt-BR": "Aos Pedaços",
+					"ru-RU": "На пределе",
+					"th-TH": "แตกหัก",
+					"tr-TR": "Yıkık",
+					"vi-VN": "Tan Vỡ",
+					"zh-CN": "崩离",
+					"zh-TW": "損壞"
+				}
+			},
+			"id": "B66B12DD-4138-49DC-CDB0-5FADE1D26B1C",
+			"label": "B66B12DD-4138-49DC-CDB0-5FADE1D26B1C",
+			"name":
+			{
+				"defaultText": "Broken Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب الخارق",
+					"de-DE": "Titel „Kaputt“",
+					"en-US": "Broken Title",
+					"es-ES": "Título Destrucción total",
+					"es-MX": "Título Irreparable",
+					"fr-FR": "Titre Brisé",
+					"id-ID": "Gelar Broken",
+					"it-IT": "Titolo Spezzato",
+					"ja-JP": "ブロークン タイトル",
+					"ko-KR": "부서진 자 칭호",
+					"pl-PL": "Tytuł „Złamana”",
+					"pt-BR": "Título Aos Pedaços",
+					"ru-RU": "Звание \"На пределе\"",
+					"th-TH": "ฉายาแตกหัก",
+					"tr-TR": "Yıkık Unvanı",
+					"vi-VN": "Danh Hiệu Tan Vỡ",
+					"zh-CN": "崩离 称号",
+					"zh-TW": "損壞 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Calculated",
+				"localizedByCulture":
+				{
+					"ar-AE": "محسوبة",
+					"de-DE": "Berechnet",
+					"en-US": "Calculated",
+					"es-ES": "Todo calculado",
+					"es-MX": "Cálculo Perfecto",
+					"fr-FR": "Tout calculé",
+					"id-ID": "Calculated",
+					"it-IT": "Tutto calcolato",
+					"ja-JP": "計算済み",
+					"ko-KR": "계산했어",
+					"pl-PL": "Obliczone",
+					"pt-BR": "Friamente Calculado",
+					"ru-RU": "Все просчитано",
+					"th-TH": "คำนวณไว้หมดแล้ว",
+					"tr-TR": "Hesaplandı",
+					"vi-VN": "Tính Cả Rồi",
+					"zh-CN": "都算到了",
+					"zh-TW": "神機妙算"
+				}
+			},
+			"id": "168DC445-4DF0-1387-9223-E285EB6C17B6",
+			"label": "168DC445-4DF0-1387-9223-E285EB6C17B6",
+			"name":
+			{
+				"defaultText": "Calculated Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب محسوبة",
+					"de-DE": "Titel „Berechnet“",
+					"en-US": "Calculated Title",
+					"es-ES": "Título Todo calculado",
+					"es-MX": "Título Cálculo Perfecto",
+					"fr-FR": "Titre Tout calculé",
+					"id-ID": "Gelar Calculated",
+					"it-IT": "Titolo Tutto calcolato",
+					"ja-JP": "計算済み タイトル",
+					"ko-KR": "계산했어 칭호",
+					"pl-PL": "Tytuł „Obliczone”",
+					"pt-BR": "Título Friamente Calculado",
+					"ru-RU": "Звание \"Все просчитано\"",
+					"th-TH": "ฉายาคำนวณไว้หมดแล้ว",
+					"tr-TR": "Hesaplandı Unvanı",
+					"vi-VN": "Danh Hiệu Tính Cả Rồi",
+					"zh-CN": "都算到了 称号",
+					"zh-TW": "神機妙算 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "The Catch",
+				"localizedByCulture":
+				{
+					"ar-AE": "الغنيمة",
+					"de-DE": "Der Haken",
+					"en-US": "The Catch",
+					"es-ES": "La captura",
+					"es-MX": "Lo Conseguí",
+					"fr-FR": "Quelle prise",
+					"id-ID": "The Catch",
+					"it-IT": "La fregatura",
+					"ja-JP": "キャッチ",
+					"ko-KR": "월척",
+					"pl-PL": "Połów",
+					"pt-BR": "Strafe de Siri",
+					"ru-RU": "Улов",
+					"th-TH": "จอมฉกฉวย",
+					"tr-TR": "Kıskaçta",
+					"vi-VN": "Mấu Chốt",
+					"zh-CN": "一举拿下",
+					"zh-TW": "制敵機先"
+				}
+			},
+			"id": "16606971-43D3-5691-FE4F-7AB7C500AD33",
+			"label": "16606971-43D3-5691-FE4F-7AB7C500AD33",
+			"name":
+			{
+				"defaultText": "The Catch Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب الغنيمة",
+					"de-DE": "Titel „Der Haken“",
+					"en-US": "The Catch Title",
+					"es-ES": "Título La captura",
+					"es-MX": "Título Lo Conseguí",
+					"fr-FR": "Titre Quelle prise",
+					"id-ID": "Gelar The Catch",
+					"it-IT": "Titolo La fregatura",
+					"ja-JP": "キャッチ タイトル",
+					"ko-KR": "월척 칭호",
+					"pl-PL": "Tytuł „Połów”",
+					"pt-BR": "Título Strafe de Siri",
+					"ru-RU": "Звание \"Улов\"",
+					"th-TH": "ฉายาจอมฉกฉวย",
+					"tr-TR": "Kıskaçta Unvanı",
+					"vi-VN": "Danh Hiệu Mấu Chốt",
+					"zh-CN": "一举拿下 称号",
+					"zh-TW": "制敵機先 稱號"
 				}
 			}
 		},
@@ -261484,7 +261986,7 @@
 					"en-US": "Louder",
 					"es-ES": "Que se oiga",
 					"es-MX": "Sube el volumen",
-					"fr-FR": "Haut et fort",
+					"fr-FR": "Plus fort",
 					"id-ID": "Louder",
 					"it-IT": "Più assordante",
 					"ja-JP": "Louder",
@@ -261511,7 +262013,7 @@
 					"en-US": "Louder Title",
 					"es-ES": "Título Que se oiga",
 					"es-MX": "Título Sube el volumen",
-					"fr-FR": "Titre Haut et fort",
+					"fr-FR": "Titre Plus fort",
 					"id-ID": "Gelar Louder",
 					"it-IT": "Titolo Più assordante",
 					"ja-JP": "Louder タイトル",
@@ -262280,6 +262782,60 @@
 					"vi-VN": "Danh Hiệu Đoàn Kết",
 					"zh-CN": "同心协力 称号",
 					"zh-TW": "團結一致 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Instinctual",
+				"localizedByCulture":
+				{
+					"ar-AE": "الفطري",
+					"de-DE": "Instinktiv",
+					"en-US": "Instinctual",
+					"es-ES": "Instinto",
+					"es-MX": "Instintivo",
+					"fr-FR": "Instinctif",
+					"id-ID": "Instinctual",
+					"it-IT": "Istintivo",
+					"ja-JP": "本能的",
+					"ko-KR": "본능적",
+					"pl-PL": "Instynkt",
+					"pt-BR": "Instintivo",
+					"ru-RU": "Обостренный инстинкт",
+					"th-TH": "พึ่งสัญชาตญาณ",
+					"tr-TR": "İçgüdüsel",
+					"vi-VN": "Bản Năng",
+					"zh-CN": "直觉先行",
+					"zh-TW": "本能"
+				}
+			},
+			"id": "A5E81233-48EC-1B1C-C6B7-6B9DA508C12A",
+			"label": "A5E81233-48EC-1B1C-C6B7-6B9DA508C12A",
+			"name":
+			{
+				"defaultText": "Instinctual Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب الفطري",
+					"de-DE": "Titel „Instinktiv“",
+					"en-US": "Instinctual Title",
+					"es-ES": "Título Instinto",
+					"es-MX": "Título Instintivo",
+					"fr-FR": "Titre instinctif",
+					"id-ID": "Gelar Instinctual",
+					"it-IT": "Titolo Istintivo",
+					"ja-JP": "本能的 タイトル",
+					"ko-KR": "본능적 칭호",
+					"pl-PL": "Tytuł „Instynkt”",
+					"pt-BR": "Título Instintivo",
+					"ru-RU": "Звание \"Обостренный инстинкт\"",
+					"th-TH": "ฉายาพึ่งสัญชาตญาณ",
+					"tr-TR": "İçgüdüsel Unvanı",
+					"vi-VN": "Danh Hiệu Bản Năng",
+					"zh-CN": "直觉先行 称号",
+					"zh-TW": "本能稱號"
 				}
 			}
 		},
@@ -272721,7 +273277,7 @@
 					"it-IT": "Servendo il tè",
 					"ja-JP": "茶の給仕",
 					"ko-KR": "차 대접",
-					"pl-PL": "Tytuł „Herbatka podana”",
+					"pl-PL": "Herbatka podana",
 					"pt-BR": "Fofoca? Aceito",
 					"ru-RU": "Главный по тарелочкам",
 					"th-TH": "สายเม้าธ์",
@@ -273896,6 +274452,60 @@
 		{
 			"titleText":
 			{
+				"defaultText": "2026 VCT Champion",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل VCT 2026",
+					"de-DE": "VCT Champion 2026",
+					"en-US": "2026 VCT Champion",
+					"es-ES": "Campeón del VCT 2026",
+					"es-MX": "Campeón del VCT 2026",
+					"fr-FR": "Champion du VCT 2026",
+					"id-ID": "VCT Champion 2026",
+					"it-IT": "Campione del VCT 2026",
+					"ja-JP": "2026 VCT チャンピオン",
+					"ko-KR": "2026 VCT 챔피언",
+					"pl-PL": "Mistrz VCT 2026",
+					"pt-BR": "Campeão do VCT 2026",
+					"ru-RU": "Чемпион VCT 2026",
+					"th-TH": "2026 VCT Champion",
+					"tr-TR": "2026 VCT Şampiyonu",
+					"vi-VN": "Nhà Vô Địch VCT 2026",
+					"zh-CN": "2026冠军巡回赛冠军",
+					"zh-TW": "2026 VCT世界冠軍"
+				}
+			},
+			"id": "CB66DBF6-4522-813C-0DEC-BC8F392DC8C7",
+			"label": "CB66DBF6-4522-813C-0DEC-BC8F392DC8C7",
+			"name":
+			{
+				"defaultText": "2026 VCT Champion Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل 2026 VCT",
+					"de-DE": "Titel „VCT Champion 2026“",
+					"en-US": "2026 VCT Champion Title",
+					"es-ES": "Título Campeón del VCT 2026",
+					"es-MX": "Título Campeón del VCT 2026",
+					"fr-FR": "Titre Champion du VCT 2026",
+					"id-ID": "Gelar VCT Champion 2026",
+					"it-IT": "Titolo Campione del VCT 2026",
+					"ja-JP": "2026 VCT チャンピオン タイトル",
+					"ko-KR": "2026 VCT 챔피언 칭호",
+					"pl-PL": "Tytuł „Mistrz VCT 2026”",
+					"pt-BR": "Título Campeão do VCT 2026",
+					"ru-RU": "Звание \"Чемпион VCT 2026\"",
+					"th-TH": "ฉายา 2026 VCT Champion",
+					"tr-TR": "2026 VCT Şampiyonu Unvanı",
+					"vi-VN": "Danh Hiệu Nhà Vô Địch VCT 2026",
+					"zh-CN": "2026冠军巡回赛冠军 称号",
+					"zh-TW": "2026 VCT世界冠軍 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
 				"defaultText": "VCT Masters Madrid Winner",
 				"localizedByCulture":
 				{
@@ -274106,6 +274716,60 @@
 					"vi-VN": "Danh Hiệu Phân Tích Viên Không Lương",
 					"zh-CN": "无偿分析师 称号",
 					"zh-TW": "無薪賽評 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Zestify",
+				"localizedByCulture":
+				{
+					"ar-AE": "Zestify",
+					"de-DE": "Zestify",
+					"en-US": "Zestify",
+					"es-ES": "Zestify",
+					"es-MX": "Zestify",
+					"fr-FR": "Zestify",
+					"id-ID": "Zestify",
+					"it-IT": "Zestify",
+					"ja-JP": "Zestify",
+					"ko-KR": "Zestify",
+					"pl-PL": "Zestify",
+					"pt-BR": "Zestify",
+					"ru-RU": "Zestify",
+					"th-TH": "Zestify",
+					"tr-TR": "Zestify",
+					"vi-VN": "Zestify",
+					"zh-CN": "戏精上身",
+					"zh-TW": "Zestify"
+				}
+			},
+			"id": "40511DE7-4DA5-F808-46E3-ABB45D1EB96C",
+			"label": "40511DE7-4DA5-F808-46E3-ABB45D1EB96C",
+			"name":
+			{
+				"defaultText": "Zestify Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب Zestify",
+					"de-DE": "Titel „Zestify“",
+					"en-US": "Zestify Title",
+					"es-ES": "Título Zestify",
+					"es-MX": "Título Zestify",
+					"fr-FR": "Titre Zestify",
+					"id-ID": "Gelar Zestify",
+					"it-IT": "Titolo Zestify",
+					"ja-JP": "Zestify タイトル",
+					"ko-KR": "Zestify 칭호",
+					"pl-PL": "Tytuł „Zestify”",
+					"pt-BR": "Título Zestify",
+					"ru-RU": "Звание \"Zestify\"",
+					"th-TH": "ฉายา Zestify",
+					"tr-TR": "Zestify Unvanı",
+					"vi-VN": "Danh Hiệu Zestify",
+					"zh-CN": "戏精上身 称号",
+					"zh-TW": "Zestify 稱號"
 				}
 			}
 		}
@@ -275728,6 +276392,66 @@
 					"vi-VN": "Phụ Kiện Composite",
 					"zh-CN": "合金战车 挂饰",
 					"zh-TW": "坦克大戰 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "5FF2FFDC-49C9-FFBE-2009-1CB63D4FF9D7",
+					"label": "5FF2FFDC-49C9-FFBE-2009-1CB63D4FF9D7",
+					"name":
+					{
+						"defaultText": "Bark",
+						"localizedByCulture":
+						{
+							"ar-AE": "Bark",
+							"de-DE": "Bark",
+							"en-US": "Bark",
+							"es-ES": "Bark",
+							"es-MX": "Bark",
+							"fr-FR": "Bark",
+							"id-ID": "Bark",
+							"it-IT": "Bark",
+							"ja-JP": "Bark",
+							"ko-KR": "Bark",
+							"pl-PL": "Bark",
+							"pt-BR": "Bark",
+							"ru-RU": "Bark",
+							"th-TH": "Bark",
+							"tr-TR": "Bark",
+							"vi-VN": "Bark",
+							"zh-CN": "Bark",
+							"zh-TW": "Bark"
+						}
+					}
+				}
+			],
+			"id": "825715EA-45DB-55B2-FDAD-37AA5C7BBD2A",
+			"label": "825715EA-45DB-55B2-FDAD-37AA5C7BBD2A",
+			"name":
+			{
+				"defaultText": "Good Boy Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق الكلب الوفي",
+					"de-DE": "Talisman „Feini“",
+					"en-US": "Good Boy Buddy",
+					"es-ES": "Amuleto Buen chico",
+					"es-MX": "Buddy Lindo Perrito",
+					"fr-FR": "Porte-bonheur Bon toutou",
+					"id-ID": "Buddy Good Boy",
+					"it-IT": "Accessorio Bravo cucciolo",
+					"ja-JP": "グッドボーイ バディー",
+					"ko-KR": "착한 강아지 총기 장식",
+					"pl-PL": "Przywieszka „Dobry piesek”",
+					"pt-BR": "Chaveiro Bom Garoto",
+					"ru-RU": "Брелок \"Хороший мальчик\"",
+					"th-TH": "บัดดี้ Good Boy",
+					"tr-TR": "Uslu Köpüş Uğuru",
+					"vi-VN": "Phụ Kiện Cún Ngoan",
+					"zh-CN": "乖狗狗 挂饰",
+					"zh-TW": "乖狗狗 吊飾"
 				}
 			}
 		},
@@ -283464,10 +284188,70 @@
 					"pt-BR": "Chaveiro Cafeteria Verdejante",
 					"ru-RU": "Брелок \"Зеленое кафе\"",
 					"th-TH": "บัดดี้ Verdant Cafe",
-					"tr-TR": "Zümrüt Kafe Uğuru",
+					"tr-TR": "Flora Kafe Uğuru",
 					"vi-VN": "Phụ Kiện Cafe Xanh Mát",
 					"zh-CN": "绿意咖啡馆 挂饰",
 					"zh-TW": "翠綠咖啡 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "77157C3F-450B-307C-CA58-F2B204A1CF54",
+					"label": "77157C3F-450B-307C-CA58-F2B204A1CF54",
+					"name":
+					{
+						"defaultText": "CPXBlindStitch",
+						"localizedByCulture":
+						{
+							"ar-AE": "CPXBlindStitch",
+							"de-DE": "CPXBlindStitch",
+							"en-US": "CPXBlindStitch",
+							"es-ES": "CPXBlindStitch",
+							"es-MX": "CPXBlindStitch",
+							"fr-FR": "CPXBlindStitch",
+							"id-ID": "CPXBlindStitch",
+							"it-IT": "CPXBlindStitch",
+							"ja-JP": "CPXBlindStitch",
+							"ko-KR": "CPXBlindStitch",
+							"pl-PL": "CPXBlindStitch",
+							"pt-BR": "CPXBlindStitch",
+							"ru-RU": "CPXBlindStitch",
+							"th-TH": "CPXBlindStitch",
+							"tr-TR": "CPXBlindStitch",
+							"vi-VN": "CPXBlindStitch",
+							"zh-CN": "CPXBlindStitch",
+							"zh-TW": "CPXBlindStitch"
+						}
+					}
+				}
+			],
+			"id": "6CA9AA09-452F-606A-5B6A-37912082DBA2",
+			"label": "6CA9AA09-452F-606A-5B6A-37912082DBA2",
+			"name":
+			{
+				"defaultText": "Downtime Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق وقت الفراغ",
+					"de-DE": "Talisman „Auszeit“",
+					"en-US": "Downtime Buddy",
+					"es-ES": "Amuleto Descanso",
+					"es-MX": "Buddy Hora de Descanso",
+					"fr-FR": "Porte-bonheur Passe-temps",
+					"id-ID": "Buddy Downtime",
+					"it-IT": "Spray Pausa momentanea",
+					"ja-JP": "息抜き中 バディー",
+					"ko-KR": "쉬는 시간 총기 장식",
+					"pl-PL": "Przywieszka „Przestój”",
+					"pt-BR": "Chaveiro Descanso",
+					"ru-RU": "Брелок \"Технический перерыв\"",
+					"th-TH": "บัดดี้ Downtime",
+					"tr-TR": "Mola Uğuru",
+					"vi-VN": "Phụ Kiện Nghỉ Ngơi",
+					"zh-CN": "闲暇时光 挂饰",
+					"zh-TW": "小憩時光 吊飾"
 				}
 			}
 		},
@@ -287055,7 +287839,7 @@
 					"en-US": "VCT Champions Winner Buddy",
 					"es-ES": "Amuleto Ganador del VCT Champions",
 					"es-MX": "Buddy Ganador del VCT Champions",
-					"fr-FR": "Porte-bonheur Vainqueur des Champions du VCT",
+					"fr-FR": "Porte-bonheur Vainqueur des VCT Champions",
 					"id-ID": "Buddy VCT Champions Winner",
 					"it-IT": "Accessorio Vincitore Champions VCT",
 					"ja-JP": "VCT Champions ウィナー バディー",
@@ -288067,12 +288851,12 @@
 			"label": "809CD43D-4FCB-50AA-60C1-58AE07296C56",
 			"name":
 			{
-				"defaultText": "Miss Call Buddy",
+				"defaultText": "Missed Call Buddy",
 				"localizedByCulture":
 				{
 					"ar-AE": "ملحق المكالمة الفائتة",
 					"de-DE": "Talisman „Verpasster Anruf“",
-					"en-US": "Miss Call Buddy",
+					"en-US": "Missed Call Buddy",
 					"es-ES": "Amuleto Llamada perdida",
 					"es-MX": "Buddy Llamada Perdida",
 					"fr-FR": "Porte-bonheur Appel manqué",
@@ -288080,7 +288864,7 @@
 					"it-IT": "Accessorio Chiamata persa",
 					"ja-JP": "不在着信 バディー",
 					"ko-KR": "부재중 전화 총기 장식",
-					"pl-PL": "Przywieszka „Puść mi sygnał”",
+					"pl-PL": "Przywieszka „Nieodebrane połączenie”",
 					"pt-BR": "Chaveiro Chamada Perdida",
 					"ru-RU": "Брелок \"Пропущенный звонок\"",
 					"th-TH": "บัดดี้ Missed Call",
@@ -293794,6 +294578,66 @@
 		{
 			"levels": [
 				{
+					"id": "CBF85422-4F1A-99DC-5AF2-0883D12A2433",
+					"label": "CBF85422-4F1A-99DC-5AF2-0883D12A2433",
+					"name":
+					{
+						"defaultText": "KintsugiBullet",
+						"localizedByCulture":
+						{
+							"ar-AE": "KintsugiBullet",
+							"de-DE": "KintsugiBullet",
+							"en-US": "KintsugiBullet",
+							"es-ES": "KintsugiBullet",
+							"es-MX": "KintsugiBullet",
+							"fr-FR": "KintsugiBullet",
+							"id-ID": "KintsugiBullet",
+							"it-IT": "KintsugiBullet",
+							"ja-JP": "KintsugiBullet",
+							"ko-KR": "KintsugiBullet",
+							"pl-PL": "KintsugiBullet",
+							"pt-BR": "KintsugiBullet",
+							"ru-RU": "KintsugiBullet",
+							"th-TH": "KintsugiBullet",
+							"tr-TR": "KintsugiBullet",
+							"vi-VN": "KintsugiBullet",
+							"zh-CN": "KintsugiBullet",
+							"zh-TW": "KintsugiBullet"
+						}
+					}
+				}
+			],
+			"id": "E7C5747F-49CD-50B2-141C-7F8EF1E9EB7C",
+			"label": "E7C5747F-49CD-50B2-141C-7F8EF1E9EB7C",
+			"name":
+			{
+				"defaultText": "Fragment Shell Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق شظية الصدَفة",
+					"de-DE": "Talisman „Fragmenthülle“",
+					"en-US": "Fragment Shell Buddy",
+					"es-ES": "Amuleto Fragmento de cascarón",
+					"es-MX": "Buddy Casquillo Fragmentado",
+					"fr-FR": "Porte-bonheur Coquillage fragmenté",
+					"id-ID": "Buddy Fragment Shell",
+					"it-IT": "Accessorio Frammento di bossolo",
+					"ja-JP": "フラグメント シェル バディー",
+					"ko-KR": "탄약 파편 총기 장식",
+					"pl-PL": "Przywieszka „Fragment Skorupy”",
+					"pt-BR": "Chaveiro Cartucho Fragmentado",
+					"ru-RU": "Брелок \"Фрагментированный патрон\"",
+					"th-TH": "บัดดี้ Fragment Shell",
+					"tr-TR": "Parçacık Kovanı Uğuru",
+					"vi-VN": "Phụ Kiện Đạn Phân Mảnh",
+					"zh-CN": "破片弹壳 挂饰",
+					"zh-TW": "彈殼碎片 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "0EADFB30-4336-2680-55C0-F0B16B55FC19",
 					"label": "0EADFB30-4336-2680-55C0-F0B16B55FC19",
 					"name":
@@ -296368,6 +297212,66 @@
 					"vi-VN": "Phụ Kiện Máy Pha Espresso",
 					"zh-CN": "迷你浓缩 挂饰",
 					"zh-TW": "迷你咖啡機 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "A009E93E-4CBF-3E8F-A4D9-BEA1E517A8B5",
+					"label": "A009E93E-4CBF-3E8F-A4D9-BEA1E517A8B5",
+					"name":
+					{
+						"defaultText": "MittenCrab",
+						"localizedByCulture":
+						{
+							"ar-AE": "MittenCrab",
+							"de-DE": "MittenCrab",
+							"en-US": "MittenCrab",
+							"es-ES": "MittenCrab",
+							"es-MX": "MittenCrab",
+							"fr-FR": "MittenCrab",
+							"id-ID": "MittenCrab",
+							"it-IT": "MittenCrab",
+							"ja-JP": "MittenCrab",
+							"ko-KR": "MittenCrab",
+							"pl-PL": "MittenCrab",
+							"pt-BR": "MittenCrab",
+							"ru-RU": "MittenCrab",
+							"th-TH": "MittenCrab",
+							"tr-TR": "MittenCrab",
+							"vi-VN": "MittenCrab",
+							"zh-CN": "MittenCrab",
+							"zh-TW": "MittenCrab"
+						}
+					}
+				}
+			],
+			"id": "78DFB181-4299-F56F-5041-4CBEFF8934F6",
+			"label": "78DFB181-4299-F56F-5041-4CBEFF8934F6",
+			"name":
+			{
+				"defaultText": "Crab Mentality Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق عقلية السلطعون",
+					"de-DE": "Talisman „Krabbenmentalität“",
+					"en-US": "Crab Mentality Buddy",
+					"es-ES": "Amuleto Mentalidad de cangrejo",
+					"es-MX": "Buddy Cangrejo de Cubeta",
+					"fr-FR": "Porte-bonheur Mentalité de crabe",
+					"id-ID": "Buddy Crab Mentality",
+					"it-IT": "Accessorio Mentalità da granchio",
+					"ja-JP": "クラブメンタリティー バディー",
+					"ko-KR": "제철 꽃게 총기 장식",
+					"pl-PL": "Przywieszka „Krabia mentalność”",
+					"pt-BR": "Chaveiro Casca-grossa",
+					"ru-RU": "Брелок \"Боевой краб\"",
+					"th-TH": "บัดดี้ Crab Mentality",
+					"tr-TR": "Yengeç Mantığı Uğuru",
+					"vi-VN": "Phụ Kiện Tư Duy Con Cua",
+					"zh-CN": "绑蟹心态 挂饰",
+					"zh-TW": "螃蟹效應 吊飾"
 				}
 			}
 		},
@@ -315634,6 +316538,126 @@
 		{
 			"levels": [
 				{
+					"id": "0F1796A9-4303-3E05-8ED5-A38144D69D64",
+					"label": "0F1796A9-4303-3E05-8ED5-A38144D69D64",
+					"name":
+					{
+						"defaultText": "ShanghaiJadeSage",
+						"localizedByCulture":
+						{
+							"ar-AE": "ShanghaiJadeSage",
+							"de-DE": "ShanghaiJadeSage",
+							"en-US": "ShanghaiJadeSage",
+							"es-ES": "ShanghaiJadeSage",
+							"es-MX": "ShanghaiJadeSage",
+							"fr-FR": "ShanghaiJadeSage",
+							"id-ID": "ShanghaiJadeSage",
+							"it-IT": "ShanghaiJadeSage",
+							"ja-JP": "ShanghaiJadeSage",
+							"ko-KR": "ShanghaiJadeSage",
+							"pl-PL": "ShanghaiJadeSage",
+							"pt-BR": "ShanghaiJadeSage",
+							"ru-RU": "ShanghaiJadeSage",
+							"th-TH": "ShanghaiJadeSage",
+							"tr-TR": "ShanghaiJadeSage",
+							"vi-VN": "ShanghaiJadeSage",
+							"zh-CN": "ShanghaiJadeSage",
+							"zh-TW": "ShanghaiJadeSage"
+						}
+					}
+				}
+			],
+			"id": "D40F3E04-46E3-FE26-C2D2-8E9DA6787199",
+			"label": "D40F3E04-46E3-FE26-C2D2-8E9DA6787199",
+			"name":
+			{
+				"defaultText": "Stone of Heaven Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق حجر السماء",
+					"de-DE": "Talisman „Himmelsstein“",
+					"en-US": "Stone of Heaven Buddy",
+					"es-ES": "Amuleto Piedra celestial",
+					"es-MX": "Buddy Piedra Celestial",
+					"fr-FR": "Porte-bonheur Pierre sacrée",
+					"id-ID": "Buddy Stone of Heaven",
+					"it-IT": "Accessorio Pietra celeste",
+					"ja-JP": "ストーン・オブ・ヘブン バディー",
+					"ko-KR": "천상의 조각상 총기 장식",
+					"pl-PL": "Przywieszka „Kamień z niebios”",
+					"pt-BR": "Chaveiro Escultura Celestial",
+					"ru-RU": "Брелок \"Небесный камень\"",
+					"th-TH": "บัดดี้ Stone of Heaven",
+					"tr-TR": "Semavi Taş Uğuru",
+					"vi-VN": "Phụ Kiện Ngọc Thạch Thiên Đường",
+					"zh-CN": "天铸之石 挂饰",
+					"zh-TW": "天界神石 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "599A28E8-41B6-7622-2E12-AFA1BC743E37",
+					"label": "599A28E8-41B6-7622-2E12-AFA1BC743E37",
+					"name":
+					{
+						"defaultText": "ShanghaiJadeSageGold",
+						"localizedByCulture":
+						{
+							"ar-AE": "ShanghaiJadeSageGold",
+							"de-DE": "ShanghaiJadeSageGold",
+							"en-US": "ShanghaiJadeSageGold",
+							"es-ES": "ShanghaiJadeSageGold",
+							"es-MX": "ShanghaiJadeSageGold",
+							"fr-FR": "ShanghaiJadeSageGold",
+							"id-ID": "ShanghaiJadeSageGold",
+							"it-IT": "ShanghaiJadeSageGold",
+							"ja-JP": "ShanghaiJadeSageGold",
+							"ko-KR": "ShanghaiJadeSageGold",
+							"pl-PL": "ShanghaiJadeSageGold",
+							"pt-BR": "ShanghaiJadeSageGold",
+							"ru-RU": "ShanghaiJadeSageGold",
+							"th-TH": "ShanghaiJadeSageGold",
+							"tr-TR": "ShanghaiJadeSageGold",
+							"vi-VN": "ShanghaiJadeSageGold",
+							"zh-CN": "ShanghaiJadeSageGold",
+							"zh-TW": "ShanghaiJadeSageGold"
+						}
+					}
+				}
+			],
+			"id": "DA961EF5-4E12-501F-4D9A-768454BC3D2C",
+			"label": "DA961EF5-4E12-501F-4D9A-768454BC3D2C",
+			"name":
+			{
+				"defaultText": "Pick'Ems Master: Stone of Heaven Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق خبير Pick'Ems: حجر السماء",
+					"de-DE": "Talisman „Tippspielmeister: Himmelsstein“",
+					"en-US": "Pick'Ems Master: Stone of Heaven Buddy",
+					"es-ES": "Maestro de la quiniela: Amuleto Piedra celestial",
+					"es-MX": "Buddy Especialista en Pick'Ems: Piedra Celestial",
+					"fr-FR": "Porte-bonheur Expert des Pick'Ems : Pierre sacrée",
+					"id-ID": "Buddy Pick'Ems Master: Stone of Heaven",
+					"it-IT": "Accessorio Maestro Pick'Ems: Pietra celeste",
+					"ja-JP": "Pick'Ems マスター: ストーン・オブ・ヘブン バディー",
+					"ko-KR": "승부의 신 마스터: 천상의 조각상 총기 장식",
+					"pl-PL": "Przywieszka „Mistrz Typowania: Kamień z niebios”",
+					"pt-BR": "Chaveiro Mestre do Bolão: Escultura Celestial",
+					"ru-RU": "Брелок \"Мастер конкурса прогнозов: Небесный камень\"",
+					"th-TH": "บัดดี้ Pick'Ems Master: Stone of Heaven",
+					"tr-TR": "Kim Alır Ustası: Semavi Taş Uğuru",
+					"vi-VN": "Phụ Kiện Bậc Thầy Pick’Ems: Ngọc Thạch Thiên Đường",
+					"zh-CN": "竞猜大师：天铸之石 挂饰",
+					"zh-TW": "Pick'Ems預測大師：天界神石 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "6BD8578A-49AA-3BFF-B368-E3A044EF8E54",
 					"label": "6BD8578A-49AA-3BFF-B368-E3A044EF8E54",
 					"name":
@@ -329556,6 +330580,66 @@
 		{
 			"levels": [
 				{
+					"id": "E50043DB-4E58-132E-FA9D-9C9602730ADD",
+					"label": "E50043DB-4E58-132E-FA9D-9C9602730ADD",
+					"name":
+					{
+						"defaultText": "Bark",
+						"localizedByCulture":
+						{
+							"ar-AE": "Bark",
+							"de-DE": "Bark",
+							"en-US": "Bark",
+							"es-ES": "Bark",
+							"es-MX": "Bark",
+							"fr-FR": "Bark",
+							"id-ID": "Bark",
+							"it-IT": "Bark",
+							"ja-JP": "Bark",
+							"ko-KR": "Bark",
+							"pl-PL": "Bark",
+							"pt-BR": "Bark",
+							"ru-RU": "Bark",
+							"th-TH": "Bark",
+							"tr-TR": "Bark",
+							"vi-VN": "Bark",
+							"zh-CN": "Bark",
+							"zh-TW": "Bark"
+						}
+					}
+				}
+			],
+			"id": "D39FBF07-4088-062A-1BBD-8BB229FD77B2",
+			"label": "D39FBF07-4088-062A-1BBD-8BB229FD77B2",
+			"name":
+			{
+				"defaultText": "Good Boy Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة الكلب الوفي",
+					"de-DE": "Graffiti „Feini“",
+					"en-US": "Good Boy Spray",
+					"es-ES": "Grafiti Buen chico",
+					"es-MX": "Spray Lindo Perrito",
+					"fr-FR": "Graffiti Bon toutou",
+					"id-ID": "Spray Good Boy",
+					"it-IT": "Spray Bravo cucciolo",
+					"ja-JP": "グッドボーイ スプレー",
+					"ko-KR": "착한 강아지 스프레이",
+					"pl-PL": "Graffiti „Dobry piesek”",
+					"pt-BR": "Spray Bom Garoto",
+					"ru-RU": "Граффити \"Хороший мальчик\"",
+					"th-TH": "สเปรย์ Good Boy",
+					"tr-TR": "Uslu Köpüş Spreyi",
+					"vi-VN": "Hình Phun Sơn Cún Ngoan",
+					"zh-CN": "乖狗狗 喷漆",
+					"zh-TW": "乖狗狗 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "C959256D-4D3D-6CA0-BEDB-1CA8B81388C7",
 					"label": "C959256D-4D3D-6CA0-BEDB-1CA8B81388C7",
 					"name":
@@ -341566,7 +342650,7 @@
 							"ar-AE": "رسمة هيا نلعب",
 							"de-DE": "Graffiti „Willst du spielen?“",
 							"en-US": "You Wanna Play? Spray",
-							"es-ES": "Grafiti ¿Queréis jugar?",
+							"es-ES": "Grafiti ¿Quieres jugar?",
 							"es-MX": "Spray ¿Quieres Jugar?",
 							"fr-FR": "Graffiti Tu veux jouer ?",
 							"id-ID": "Spray You Wanna Play?",
@@ -341595,7 +342679,7 @@
 					"ar-AE": "رسمة هيا نلعب",
 					"de-DE": "Graffiti „Willst du spielen?“",
 					"en-US": "You Wanna Play? Spray",
-					"es-ES": "Grafiti ¿Queréis jugar?",
+					"es-ES": "Grafiti ¿Quieres jugar?",
 					"es-MX": "Spray ¿Quieres Jugar?",
 					"fr-FR": "Graffiti Tu veux jouer ?",
 					"id-ID": "Spray You Wanna Play?",
@@ -358776,6 +359860,66 @@
 		{
 			"levels": [
 				{
+					"id": "36AAD691-4BFF-23D5-2585-A8A9F84DCFAA",
+					"label": "36AAD691-4BFF-23D5-2585-A8A9F84DCFAA",
+					"name":
+					{
+						"defaultText": "BRVCT2026",
+						"localizedByCulture":
+						{
+							"ar-AE": "BRVCT2026",
+							"de-DE": "BRVCT2026",
+							"en-US": "BRVCT2026",
+							"es-ES": "BRVCT2026",
+							"es-MX": "BRVCT2026",
+							"fr-FR": "BRVCT2026",
+							"id-ID": "BRVCT2026",
+							"it-IT": "BRVCT2026",
+							"ja-JP": "BRVCT2026",
+							"ko-KR": "BRVCT2026",
+							"pl-PL": "BRVCT2026",
+							"pt-BR": "BRVCT2026",
+							"ru-RU": "BRVCT2026",
+							"th-TH": "BRVCT2026",
+							"tr-TR": "BRVCT2026",
+							"vi-VN": "BRVCT2026",
+							"zh-CN": "BRVCT2026",
+							"zh-TW": "BRVCT2026"
+						}
+					}
+				}
+			],
+			"id": "713BE339-44EA-CCC8-9AE0-8A825ABC754A",
+			"label": "713BE339-44EA-CCC8-9AE0-8A825ABC754A",
+			"name":
+			{
+				"defaultText": "VCT Americas Aura Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة هالة VCT الأمريكتين",
+					"de-DE": "Graffiti „VCT Americas Aura“",
+					"en-US": "VCT Americas Aura Spray",
+					"es-ES": "VCT Americas: Grafiti Aura",
+					"es-MX": "Spray Aura del VCT Americas",
+					"fr-FR": "Graffiti Aura VCT Americas",
+					"id-ID": "Spray VCT Americas Aura",
+					"it-IT": "Spray Aura VCT Americas",
+					"ja-JP": "VCT Americas オーラ スプレー",
+					"ko-KR": "VCT Americas 오라 스프레이",
+					"pl-PL": "Graffiti „Aura VCT Americas”",
+					"pt-BR": "Spray Aura VCT Americas",
+					"ru-RU": "Граффити \"Аура VCT Americas\"",
+					"th-TH": "สเปรย์ VCT Americas Aura",
+					"tr-TR": "VCT Americas Aurası Spreyi",
+					"vi-VN": "Hình Phun Sơn Hào Quang VCT Americas",
+					"zh-CN": "VCT美洲联赛 光芒四射 喷漆",
+					"zh-TW": "VCT美洲聯賽嗨起來 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "F56A0973-4648-B402-EFF8-29A9AE9DD6FE",
 					"label": "F56A0973-4648-B402-EFF8-29A9AE9DD6FE",
 					"name":
@@ -358890,6 +360034,66 @@
 					"vi-VN": "Hình Phun Sơn ¡Eureka!",
 					"zh-CN": "头脑风暴 喷漆",
 					"zh-TW": "英豪大腦 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "B84F4847-4DD8-25D8-B31F-B09C4A2CE1F3",
+					"label": "B84F4847-4DD8-25D8-B31F-B09C4A2CE1F3",
+					"name":
+					{
+						"defaultText": "Chuseok",
+						"localizedByCulture":
+						{
+							"ar-AE": "Chuseok",
+							"de-DE": "Chuseok",
+							"en-US": "Chuseok",
+							"es-ES": "Chuseok",
+							"es-MX": "Chuseok",
+							"fr-FR": "Chuseok",
+							"id-ID": "Chuseok",
+							"it-IT": "Chuseok",
+							"ja-JP": "Chuseok",
+							"ko-KR": "Chuseok",
+							"pl-PL": "Chuseok",
+							"pt-BR": "Chuseok",
+							"ru-RU": "Chuseok",
+							"th-TH": "Chuseok",
+							"tr-TR": "Chuseok",
+							"vi-VN": "Chuseok",
+							"zh-CN": "Chuseok",
+							"zh-TW": "Chuseok"
+						}
+					}
+				}
+			],
+			"id": "81663686-40E2-FD0B-7166-C3A2E6F853EA",
+			"label": "81663686-40E2-FD0B-7166-C3A2E6F853EA",
+			"name":
+			{
+				"defaultText": "A Piece of Rice Cake Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة أسهل من شربة ماء",
+					"de-DE": "Graffiti „So einfach wie Reiskuchen“",
+					"en-US": "A Piece of Rice Cake Spray",
+					"es-ES": "Grafiti ¡Es pan comido!",
+					"es-MX": "Spray Pan Comido",
+					"fr-FR": "Graffiti C’est du gâteau de riz",
+					"id-ID": "Spray A Piece of Rice Cake",
+					"it-IT": "Spray Troppo facile",
+					"ja-JP": "朝モチ前 スプレー",
+					"ko-KR": "누워서 떡 먹기 스프레이",
+					"pl-PL": "Graffiti „Ryżowa bułka z masłem”",
+					"pt-BR": "Spray Kimchi com Açúcar",
+					"ru-RU": "Граффити \"Проще пареного риса\"",
+					"th-TH": "สเปรย์ A Piece of Rice Cake",
+					"tr-TR": "Çocuk Oyuncağı Spreyi",
+					"vi-VN": "Hình Phun Sơn Dễ Như Bỡn",
+					"zh-CN": "轻松拿捏 喷漆",
+					"zh-TW": "一塊小年糕 塗鴉"
 				}
 			}
 		},
@@ -359250,6 +360454,66 @@
 					"vi-VN": "Hình Phun Sơn Outlaw",
 					"zh-CN": "莽侠 喷漆",
 					"zh-TW": "逃犯 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "949DBED5-466C-73C7-CE24-54AE2ED0E4B4",
+					"label": "949DBED5-466C-73C7-CE24-54AE2ED0E4B4",
+					"name":
+					{
+						"defaultText": "DualismSageViper",
+						"localizedByCulture":
+						{
+							"ar-AE": "DualismSageViper",
+							"de-DE": "DualismSageViper",
+							"en-US": "DualismSageViper",
+							"es-ES": "DualismSageViper",
+							"es-MX": "DualismSageViper",
+							"fr-FR": "DualismSageViper",
+							"id-ID": "DualismSageViper",
+							"it-IT": "DualismSageViper",
+							"ja-JP": "DualismSageViper",
+							"ko-KR": "DualismSageViper",
+							"pl-PL": "DualismSageViper",
+							"pt-BR": "DualismSageViper",
+							"ru-RU": "DualismSageViper",
+							"th-TH": "DualismSageViper",
+							"tr-TR": "DualismSageViper",
+							"vi-VN": "DualismSageViper",
+							"zh-CN": "DualismSageViper",
+							"zh-TW": "DualismSageViper"
+						}
+					}
+				}
+			],
+			"id": "1FB1F522-41B2-0610-DA89-B98133BF2FE4",
+			"label": "1FB1F522-41B2-0610-DA89-B98133BF2FE4",
+			"name":
+			{
+				"defaultText": "Official Seal Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة الختم الرسمي",
+					"de-DE": "Graffiti „Offizielles Siegel“",
+					"en-US": "Official Seal Spray",
+					"es-ES": "Grafiti Sello oficial",
+					"es-MX": "Spray Sello Oficial",
+					"fr-FR": "Graffiti Sceau officiel",
+					"id-ID": "Spray Official Seal",
+					"it-IT": "Spray Sigillo ufficiale",
+					"ja-JP": "公印 スプレー",
+					"ko-KR": "공식 인장 스프레이",
+					"pl-PL": "Graffiti „Oficjalna Pieczęć”",
+					"pt-BR": "Spray Selo Oficial",
+					"ru-RU": "Граффити \"Официальная печать\"",
+					"th-TH": "สเปรย์ Official Seal",
+					"tr-TR": "Resmi Mühür Spreyi",
+					"vi-VN": "Hình Phun Sơn Con Dấu Chính Thức",
+					"zh-CN": "一纸成谶 喷漆",
+					"zh-TW": "官方印章 塗鴉"
 				}
 			}
 		},
@@ -359916,6 +361180,66 @@
 		{
 			"levels": [
 				{
+					"id": "979D8F8A-4967-20B1-042A-0082ED78A096",
+					"label": "979D8F8A-4967-20B1-042A-0082ED78A096",
+					"name":
+					{
+						"defaultText": "MoreCredsPls",
+						"localizedByCulture":
+						{
+							"ar-AE": "MoreCredsPls",
+							"de-DE": "MoreCredsPls",
+							"en-US": "MoreCredsPls",
+							"es-ES": "MoreCredsPls",
+							"es-MX": "MoreCredsPls",
+							"fr-FR": "MoreCredsPls",
+							"id-ID": "MoreCredsPls",
+							"it-IT": "MoreCredsPls",
+							"ja-JP": "MoreCredsPls",
+							"ko-KR": "MoreCredsPls",
+							"pl-PL": "MoreCredsPls",
+							"pt-BR": "MoreCredsPls",
+							"ru-RU": "MoreCredsPls",
+							"th-TH": "MoreCredsPls",
+							"tr-TR": "MoreCredsPls",
+							"vi-VN": "MoreCredsPls",
+							"zh-CN": "MoreCredsPls",
+							"zh-TW": "MoreCredsPls"
+						}
+					}
+				}
+			],
+			"id": "21FCAA8E-452F-9ED8-DB0A-A8A95E0F357F",
+			"label": "21FCAA8E-452F-9ED8-DB0A-A8A95E0F357F",
+			"name":
+			{
+				"defaultText": "More Creds Pls Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة المزيد من العملات رجاءً",
+					"de-DE": "Graffiti „Mehr Creds, bitte“",
+					"en-US": "More Creds Pls Spray",
+					"es-ES": "Grafiti Más créditos, porfa",
+					"es-MX": "Spray Más Créditos Porfi",
+					"fr-FR": "Graffiti Plus de crédits, SVP",
+					"id-ID": "Spray More Creds Pls",
+					"it-IT": "Spray Altri crediti, grazie",
+					"ja-JP": "もっとクレジットちょうだい スプレー",
+					"ko-KR": "크레드 더 주세요 스프레이",
+					"pl-PL": "Graffiti „Więcej Kredytów, plis”",
+					"pt-BR": "Spray Mais Créditos Pfv",
+					"ru-RU": "Граффити \"Дайте кредитов, пож\"",
+					"th-TH": "สเปรย์ More Creds Pls",
+					"tr-TR": "Daha Fazla Kredi Lütfen Spreyi",
+					"vi-VN": "Hình Phun Sơn Thêm Cred Đi Mà",
+					"zh-CN": "求资助 喷漆",
+					"zh-TW": "信幣不嫌多 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "7C15E833-441A-2B4F-B4C1-90A1F9AAB5E5",
 					"label": "7C15E833-441A-2B4F-B4C1-90A1F9AAB5E5",
 					"name":
@@ -360570,6 +361894,66 @@
 					"vi-VN": "Hình Phun Sơn Cặp Đôi Hoàn Cảnh",
 					"zh-CN": "尴尬时刻 喷漆",
 					"zh-TW": "一起尷尬 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "D6416D76-4AC6-82A7-2B19-E696C93D6DE2",
+					"label": "D6416D76-4AC6-82A7-2B19-E696C93D6DE2",
+					"name":
+					{
+						"defaultText": "VCTStamp",
+						"localizedByCulture":
+						{
+							"ar-AE": "VCTStamp",
+							"de-DE": "VCTStamp",
+							"en-US": "VCTStamp",
+							"es-ES": "VCTStamp",
+							"es-MX": "VCTStamp",
+							"fr-FR": "VCTStamp",
+							"id-ID": "VCTStamp",
+							"it-IT": "VCTStamp",
+							"ja-JP": "VCTStamp",
+							"ko-KR": "VCTStamp",
+							"pl-PL": "VCTStamp",
+							"pt-BR": "VCTStamp",
+							"ru-RU": "VCTStamp",
+							"th-TH": "VCTStamp",
+							"tr-TR": "VCTStamp",
+							"vi-VN": "VCTStamp",
+							"zh-CN": "VCTStamp",
+							"zh-TW": "VCTStamp"
+						}
+					}
+				}
+			],
+			"id": "32589AC6-49C5-1F17-2B3C-E492DC7A3AD1",
+			"label": "32589AC6-49C5-1F17-2B3C-E492DC7A3AD1",
+			"name":
+			{
+				"defaultText": "Stamp of Approval Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة ختم الموافقة",
+					"de-DE": "Graffiti „Gütesiegel“",
+					"en-US": "Stamp of Approval Spray",
+					"es-ES": "Grafiti Sello de aprobación",
+					"es-MX": "Spray Visto Bueno",
+					"fr-FR": "Graffiti Tampon d'approbation",
+					"id-ID": "Spray Stamp of Approval",
+					"it-IT": "Spray Certificato di approvazione",
+					"ja-JP": "お墨付き スプレー",
+					"ko-KR": "인증 도장 스프레이",
+					"pl-PL": "Graffiti „Pieczęć aprobaty”",
+					"pt-BR": "Spray Selo de Aprovação",
+					"ru-RU": "Граффити \"Печать качества\"",
+					"th-TH": "บัดดี้ Stamp of Approval",
+					"tr-TR": "Onay Mührü Spreyi",
+					"vi-VN": "Hình Phun Sơn Đóng Dấu Phê Chuẩn",
+					"zh-CN": "认可之印 喷漆",
+					"zh-TW": "認可戳記 塗鴉"
 				}
 			}
 		},
@@ -377006,7 +378390,7 @@
 					"pt-BR": "Spray Cafeteria Verdejante",
 					"ru-RU": "Граффити \"Зеленое кафе\"",
 					"th-TH": "สเปรย์ Verdant Cafe",
-					"tr-TR": "Zümrüt Kafe Spreyi",
+					"tr-TR": "Flora Kafe Spreyi",
 					"vi-VN": "Hình Phun Sơn Cafe Xanh Mát",
 					"zh-CN": "绿意咖啡馆 喷漆",
 					"zh-TW": "翠綠咖啡 塗鴉"
@@ -377422,7 +378806,7 @@
 					"it-IT": "Spray Selezione personaggio // Breach",
 					"ja-JP": "キャラクター選択 // ブリーチ スプレー",
 					"ko-KR": "캐릭터 선택 // 브리치 스프레이",
-					"pl-PL": "Wybór postaci // Graffiti „Breach”",
+					"pl-PL": "Graffiti „Wybór postaci // Breach”",
 					"pt-BR": "Spray Seleção de Personagem // Breach",
 					"ru-RU": "Граффити \"Выбор персонажа // Breach\"",
 					"th-TH": "สเปรย์ Character Select // Breach",
@@ -377783,7 +379167,7 @@
 					"ja-JP": "タピオカタイム スプレー",
 					"ko-KR": "버블티 한 잔 스프레이",
 					"pl-PL": "Graffiti „Przerwa na bubble tea”",
-					"pt-BR": "Spray Pausa pro Chazinho",
+					"pt-BR": "Spray Bora de Boba",
 					"ru-RU": "Граффити \"Перерыв на бабл-ти\"",
 					"th-TH": "สเปรย์ Boba Break",
 					"tr-TR": "Boba Molası Spreyi",
