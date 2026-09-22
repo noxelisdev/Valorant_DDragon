@@ -1,6 +1,63 @@
 {
-	"version": "13.05.00.5350494",
+	"version": "13.06.00.5435758",
 	"characters": [
+		{
+			"description":
+			{
+				"defaultText": "",
+				"localizedByCulture":
+				{
+					"ar-AE": "",
+					"de-DE": "",
+					"en-US": "",
+					"es-ES": "",
+					"es-MX": "",
+					"fr-FR": "",
+					"id-ID": "",
+					"it-IT": "",
+					"ja-JP": "",
+					"ko-KR": "",
+					"pl-PL": "",
+					"pt-BR": "",
+					"ru-RU": "",
+					"th-TH": "",
+					"tr-TR": "",
+					"vi-VN": "",
+					"zh-CN": "",
+					"zh-TW": ""
+				}
+			},
+			"abilities":
+			{
+			},
+			"id": "773F0C78-4486-752B-68EF-4585D7F4B848",
+			"label": "773F0C78-4486-752B-68EF-4585D7F4B848",
+			"name":
+			{
+				"defaultText": "KAY/O",
+				"localizedByCulture":
+				{
+					"ar-AE": "كاي/أو",
+					"de-DE": "KAY/O",
+					"en-US": "KAY/O",
+					"es-ES": "KAY/O",
+					"es-MX": "KAY/O",
+					"fr-FR": "KAY/O",
+					"id-ID": "KAY/O",
+					"it-IT": "KAY/O",
+					"ja-JP": "KAY/O",
+					"ko-KR": "케이/오",
+					"pl-PL": "KAY/O",
+					"pt-BR": "KAY/O",
+					"ru-RU": "KAY/O",
+					"th-TH": "KAY/O",
+					"tr-TR": "KAY/O",
+					"vi-VN": "KAY/O",
+					"zh-CN": "K/O",
+					"zh-TW": "KAY/O"
+				}
+			}
+		},
 		{
 			"description":
 			{
@@ -3105,7 +3162,7 @@
 							"ko-KR": "M-파동을 장착합니다. 보조 공격 시 뇌진탕과 치유 모드를 전환합니다. 발사하면 기기를 던집니다. 지면에 닿으면 M-파동이 음파를 방출해, 플레이어에게 뇌진탕을 일으키거나 체력을 회복시킵니다.",
 							"pl-PL": "WYPOSAŻ M-puls. ALT. STRZAŁ przełącza między ogłuszeniem a leczeniem. STRZEL, by rzucić urządzenie. Po wylądowaniu M-puls wysyła fale dźwiękowe, które ogłuszają lub leczą graczy.",
 							"pt-BR": "EQUIPE Pulso M. O DISPARO ALTERNATIVO alterna entre Concussão e Cura. DISPARE para lançar o dispositivo. Ao ser posicionado, o Pulso M emite ondas sonoras que causam Concussão ou Curam os jogadores.",
-							"ru-RU": "Выбирает \"М-пульс\". Нажимайте кнопку АЛЬТ. ОГОНЬ, чтобы переключаться между режимами оглушения и лечения. Нажмите кнопку ОГОНЬ, чтобы бросить устройство. После приземления \"М-пульс\" распространяет звуковые волны, которые оглушают или лечат игроков.",
+							"ru-RU": "Выбирает \"М-пульс\". Нажимайте кнопку АЛЬТ. ОГОНЬ, чтобы переключаться между режимами оглушения и лечения. Нажмите кнопку ОГОНЬ, чтобы бросить устройство. После приземления \"М-пульс\" распространяет звуковые волны, которые оглушают или лечат игроков.",
 							"th-TH": "ติดตั้ง M-pulse กดโหมดยิงเสริมเพื่อสลับระหว่างการมอบสถานะกระทบกระเทือนและการฮีล กดยิงเพื่อขว้างอุปกรณ์ เมื่อตกลงพื้น M-pulse จะส่งคลื่นเสียงออกไป ทำให้ผู้เล่นติดสถานะกระทบกระเทือนหรือได้รับการฮีล",
 							"tr-TR": "M Patlaması'nı KUŞAN. ALT. ATIŞ ile Sersemletme ve İyileştirme arasında geçiş yap. Cihazı fırlatmak için ATEŞ ET. M Patlaması yere düştüğünde ses dalgaları yayarak oyunculara Sersemletme veya İyileştirme uygular.",
 							"vi-VN": "TRANG BỊ Xung Lực. BẮN PHỤ để chuyển đổi giữa hiệu ứng Làm Choáng và Hồi Máu. BẮN để quăng thiết bị về phía trước. Khi tiếp đất, Xung Lực phát ra sóng âm, Làm Choáng hoặc Hồi Máu cho người chơi.",
@@ -8751,6 +8808,77 @@
 			"stats":
 			{
 				"fireMode": "FullyAutomatic",
+				"fireRate": 6.5,
+				"magazineSize": 18,
+				"runSpeedMultiplier": 0.80000001192092896,
+				"equipTimeSeconds": 1,
+				"reloadTimeSeconds": 2.5,
+				"firstBulletAccuracy": 0.15000000596046448,
+				"shotgunPelletCount": 1,
+				"wallPenetration": "Medium",
+				"damageRanges": [
+					{
+						"rangeStartMeters": 0,
+						"rangeEndMeters": 50,
+						"headDamage": 200,
+						"bodyDamage": 50,
+						"legDamage": 42
+					}
+				],
+				"altFireType": "ADS",
+				"aDSStats":
+				{
+					"zoomMultiplier": 2,
+					"fireRate": 6.5,
+					"runSpeedMultiplier": 0.75999999046325684,
+					"burstCount": 1,
+					"firstBulletAccuracy": 0.039999999105930328
+				},
+				"airBurstStats":
+				{
+					"burstDistance": 0,
+					"shotgunPelletCount": 0
+				},
+				"altShotgunStats":
+				{
+					"shotgunPelletCount": 0,
+					"burstRate": 0
+				},
+				"feature": "None"
+			},
+			"category": "Rifle",
+			"id": "8DB0A1BF-4A50-832A-4566-FAAAA6D250CA",
+			"label": "8DB0A1BF-4A50-832A-4566-FAAAA6D250CA",
+			"name":
+			{
+				"defaultText": "Warden",
+				"localizedByCulture":
+				{
+					"ar-AE": "واردن",
+					"de-DE": "Warden",
+					"en-US": "Warden",
+					"es-ES": "Warden",
+					"es-MX": "Guardián",
+					"fr-FR": "Warden",
+					"id-ID": "Warden",
+					"it-IT": "Warden",
+					"ja-JP": "ウォーデン",
+					"ko-KR": "워든",
+					"pl-PL": "Warden",
+					"pt-BR": "Warden",
+					"ru-RU": "Warden",
+					"th-TH": "Warden",
+					"tr-TR": "WARDEN",
+					"vi-VN": "Quản Đốc",
+					"zh-CN": "悍狼",
+					"zh-TW": "守望者"
+				}
+			}
+		},
+		{
+			"stats":
+			{
+				"fireMode": "FullyAutomatic",
 				"fireRate": 10,
 				"magazineSize": 24,
 				"runSpeedMultiplier": 0.80000001192092896,
@@ -12354,6 +12482,99 @@
 					"vi-VN": "Odin Topotek",
 					"zh-CN": "凌云天纵 奥丁",
 					"zh-TW": "空翼幾何 奧丁"
+				}
+			}
+		},
+		{
+			"weaponId": "63E6C2B6-4A8E-869C-3D4C-E38355226584",
+			"defaultChromaId": "86C4C0BA-4764-36D6-F2F1-268A590C8BB0",
+			"chromas": [
+				{
+					"id": "86C4C0BA-4764-36D6-F2F1-268A590C8BB0",
+					"label": "86C4C0BA-4764-36D6-F2F1-268A590C8BB0",
+					"name":
+					{
+						"defaultText": "Galleria Odin",
+						"localizedByCulture":
+						{
+							"ar-AE": "غاليريا أودين",
+							"de-DE": "Odin – Galleria",
+							"en-US": "Galleria Odin",
+							"es-ES": "Odin Galleria",
+							"es-MX": "Odin Galería",
+							"fr-FR": "Odin (Galeries)",
+							"id-ID": "Galleria Odin",
+							"it-IT": "Odin Graffiti",
+							"ja-JP": "ガレリア オーディン",
+							"ko-KR": "갤러리아 오딘",
+							"pl-PL": "Odin Galerii",
+							"pt-BR": "Odin Galeria",
+							"ru-RU": "Odin \"Галлерия\"",
+							"th-TH": "Galleria Odin",
+							"tr-TR": "Galeri Odin",
+							"vi-VN": "Odin Galleria",
+							"zh-CN": "涂鸦艺廊//2.0 奥丁",
+							"zh-TW": "藝境 奧丁"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "3FFD9F78-408B-2EA1-F484-67A7D9A12C39",
+					"label": "3FFD9F78-408B-2EA1-F484-67A7D9A12C39",
+					"name":
+					{
+						"defaultText": "Galleria Odin",
+						"localizedByCulture":
+						{
+							"ar-AE": "غاليريا أودين",
+							"de-DE": "Odin – Galleria",
+							"en-US": "Galleria Odin",
+							"es-ES": "Odin Galleria",
+							"es-MX": "Odin Galería",
+							"fr-FR": "Odin (Galeries)",
+							"id-ID": "Galleria Odin",
+							"it-IT": "Odin Graffiti",
+							"ja-JP": "ガレリア オーディン",
+							"ko-KR": "갤러리아 오딘",
+							"pl-PL": "Odin Galerii",
+							"pt-BR": "Odin Galeria",
+							"ru-RU": "Odin \"Галлерия\"",
+							"th-TH": "Galleria Odin",
+							"tr-TR": "Galeri Odin",
+							"vi-VN": "Odin Galleria",
+							"zh-CN": "涂鸦艺廊//2.0 奥丁",
+							"zh-TW": "藝境 奧丁"
+						}
+					}
+				}
+			],
+			"id": "9450A84C-4FC5-8DF6-9D04-328D11D7D979",
+			"label": "9450A84C-4FC5-8DF6-9D04-328D11D7D979",
+			"name":
+			{
+				"defaultText": "Galleria Odin",
+				"localizedByCulture":
+				{
+					"ar-AE": "غاليريا أودين",
+					"de-DE": "Odin – Galleria",
+					"en-US": "Galleria Odin",
+					"es-ES": "Odin Galleria",
+					"es-MX": "Odin Galería",
+					"fr-FR": "Odin (Galeries)",
+					"id-ID": "Galleria Odin",
+					"it-IT": "Odin Graffiti",
+					"ja-JP": "ガレリア オーディン",
+					"ko-KR": "갤러리아 오딘",
+					"pl-PL": "Odin Galerii",
+					"pt-BR": "Odin Galeria",
+					"ru-RU": "Odin \"Галлерия\"",
+					"th-TH": "Galleria Odin",
+					"tr-TR": "Galeri Odin",
+					"vi-VN": "Odin Galleria",
+					"zh-CN": "涂鸦艺廊//2.0 奥丁",
+					"zh-TW": "藝境 奧丁"
 				}
 			}
 		},
@@ -29386,6 +29607,99 @@
 		},
 		{
 			"weaponId": "9C82E19D-4575-0200-1A81-3EACF00CF872",
+			"defaultChromaId": "54F4E24D-46AE-73DE-0807-348F021D8BC2",
+			"chromas": [
+				{
+					"id": "54F4E24D-46AE-73DE-0807-348F021D8BC2",
+					"label": "54F4E24D-46AE-73DE-0807-348F021D8BC2",
+					"name":
+					{
+						"defaultText": "Galleria Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "غاليريا فاندال",
+							"de-DE": "Vandal – Galleria",
+							"en-US": "Galleria Vandal",
+							"es-ES": "Vandal Galleria",
+							"es-MX": "Vandal Galería",
+							"fr-FR": "Vandal (Galeries)",
+							"id-ID": "Galleria Vandal",
+							"it-IT": "Vandal Graffiti",
+							"ja-JP": "ガレリア ヴァンダル",
+							"ko-KR": "갤러리아 밴달",
+							"pl-PL": "Vandal Galerii",
+							"pt-BR": "Vandal Galeria",
+							"ru-RU": "Vandal \"Галлерия\"",
+							"th-TH": "Galleria Vandal",
+							"tr-TR": "Galeri Vandal",
+							"vi-VN": "Vandal Galleria",
+							"zh-CN": "涂鸦艺廊//2.0 狂徒",
+							"zh-TW": "藝境 暴徒"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "76A1658B-4E89-0F48-1E43-3F80C41D87F7",
+					"label": "76A1658B-4E89-0F48-1E43-3F80C41D87F7",
+					"name":
+					{
+						"defaultText": "Galleria Vandal",
+						"localizedByCulture":
+						{
+							"ar-AE": "غاليريا فاندال",
+							"de-DE": "Vandal – Galleria",
+							"en-US": "Galleria Vandal",
+							"es-ES": "Vandal Galleria",
+							"es-MX": "Vandal Galería",
+							"fr-FR": "Vandal (Galeries)",
+							"id-ID": "Galleria Vandal",
+							"it-IT": "Vandal Graffiti",
+							"ja-JP": "ガレリア ヴァンダル",
+							"ko-KR": "갤러리아 밴달",
+							"pl-PL": "Vandal Galerii",
+							"pt-BR": "Vandal Galeria",
+							"ru-RU": "Vandal \"Галлерия\"",
+							"th-TH": "Galleria Vandal",
+							"tr-TR": "Galeri Vandal",
+							"vi-VN": "Vandal Galleria",
+							"zh-CN": "涂鸦艺廊//2.0 狂徒",
+							"zh-TW": "藝境 暴徒"
+						}
+					}
+				}
+			],
+			"id": "2B7A1B00-48A0-8BFD-F2EC-CE95E5E78BDB",
+			"label": "2B7A1B00-48A0-8BFD-F2EC-CE95E5E78BDB",
+			"name":
+			{
+				"defaultText": "Galleria Vandal",
+				"localizedByCulture":
+				{
+					"ar-AE": "غاليريا فاندال",
+					"de-DE": "Vandal – Galleria",
+					"en-US": "Galleria Vandal",
+					"es-ES": "Vandal Galleria",
+					"es-MX": "Vandal Galería",
+					"fr-FR": "Vandal (Galeries)",
+					"id-ID": "Galleria Vandal",
+					"it-IT": "Vandal Graffiti",
+					"ja-JP": "ガレリア ヴァンダル",
+					"ko-KR": "갤러리아 밴달",
+					"pl-PL": "Vandal Galerii",
+					"pt-BR": "Vandal Galeria",
+					"ru-RU": "Vandal \"Галлерия\"",
+					"th-TH": "Galleria Vandal",
+					"tr-TR": "Galeri Vandal",
+					"vi-VN": "Vandal Galleria",
+					"zh-CN": "涂鸦艺廊//2.0 狂徒",
+					"zh-TW": "藝境 暴徒"
+				}
+			}
+		},
+		{
+			"weaponId": "9C82E19D-4575-0200-1A81-3EACF00CF872",
 			"defaultChromaId": "64241E28-4242-C309-A84A-008B97DD5B25",
 			"chromas": [
 				{
@@ -41243,6 +41557,285 @@
 			}
 		},
 		{
+			"weaponId": "8DB0A1BF-4A50-832A-4566-FAAAA6D250CA",
+			"defaultChromaId": "DEB6D1B0-4A31-BA38-A1F1-F8965AF2AEE3",
+			"chromas": [
+				{
+					"id": "DEB6D1B0-4A31-BA38-A1F1-F8965AF2AEE3",
+					"label": "DEB6D1B0-4A31-BA38-A1F1-F8965AF2AEE3",
+					"name":
+					{
+						"defaultText": "Galleria Warden",
+						"localizedByCulture":
+						{
+							"ar-AE": "غاليريا واردن",
+							"de-DE": "Warden – Galleria",
+							"en-US": "Galleria Warden",
+							"es-ES": "Warden Galleria",
+							"es-MX": "Warden Galería",
+							"fr-FR": "Warden (Galeries)",
+							"id-ID": "Galleria Warden",
+							"it-IT": "Warden Graffiti",
+							"ja-JP": "ガレリア ウォーデン",
+							"ko-KR": "갤러리아 워든",
+							"pl-PL": "Warden Galerii",
+							"pt-BR": "Warden Galeria",
+							"ru-RU": "Warden \"Галлерия\"",
+							"th-TH": "Galleria Warden",
+							"tr-TR": "Galeri Warden",
+							"vi-VN": "Warden Galleria",
+							"zh-CN": "涂鸦艺廊//2.0 悍狼",
+							"zh-TW": "藝境 守望者"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "3CDA025F-468B-3A1D-8936-B1B26D7C8FE5",
+					"label": "3CDA025F-468B-3A1D-8936-B1B26D7C8FE5",
+					"name":
+					{
+						"defaultText": "Galleria Warden",
+						"localizedByCulture":
+						{
+							"ar-AE": "غاليريا واردن",
+							"de-DE": "Warden – Galleria",
+							"en-US": "Galleria Warden",
+							"es-ES": "Warden Galleria",
+							"es-MX": "Warden Galería",
+							"fr-FR": "Warden (Galeries)",
+							"id-ID": "Galleria Warden",
+							"it-IT": "Warden Graffiti",
+							"ja-JP": "ガレリア ウォーデン",
+							"ko-KR": "갤러리아 워든",
+							"pl-PL": "Warden Galerii",
+							"pt-BR": "Warden Galeria",
+							"ru-RU": "Warden \"Галлерия\"",
+							"th-TH": "Galleria Warden",
+							"tr-TR": "Galeri Warden",
+							"vi-VN": "Warden Galleria",
+							"zh-CN": "涂鸦艺廊//2.0 悍狼",
+							"zh-TW": "藝境 守望者"
+						}
+					}
+				}
+			],
+			"id": "7A6C65D8-4439-CF7B-1138-E2883F53BFF8",
+			"label": "7A6C65D8-4439-CF7B-1138-E2883F53BFF8",
+			"name":
+			{
+				"defaultText": "Galleria Warden",
+				"localizedByCulture":
+				{
+					"ar-AE": "غاليريا واردن",
+					"de-DE": "Warden – Galleria",
+					"en-US": "Galleria Warden",
+					"es-ES": "Warden Galleria",
+					"es-MX": "Warden Galería",
+					"fr-FR": "Warden (Galeries)",
+					"id-ID": "Galleria Warden",
+					"it-IT": "Warden Graffiti",
+					"ja-JP": "ガレリア ウォーデン",
+					"ko-KR": "갤러리아 워든",
+					"pl-PL": "Warden Galerii",
+					"pt-BR": "Warden Galeria",
+					"ru-RU": "Warden \"Галлерия\"",
+					"th-TH": "Galleria Warden",
+					"tr-TR": "Galeri Warden",
+					"vi-VN": "Warden Galleria",
+					"zh-CN": "涂鸦艺廊//2.0 悍狼",
+					"zh-TW": "藝境 守望者"
+				}
+			}
+		},
+		{
+			"weaponId": "8DB0A1BF-4A50-832A-4566-FAAAA6D250CA",
+			"defaultChromaId": "E30BA5A8-4EDF-20CA-D0CE-6A995874F19B",
+			"chromas": [
+				{
+					"id": "E30BA5A8-4EDF-20CA-D0CE-6A995874F19B",
+					"label": "E30BA5A8-4EDF-20CA-D0CE-6A995874F19B",
+					"name":
+					{
+						"defaultText": "Standard",
+						"localizedByCulture":
+						{
+							"ar-AE": "Standard",
+							"de-DE": "Standard",
+							"en-US": "Standard",
+							"es-ES": "Standard",
+							"es-MX": "Standard",
+							"fr-FR": "Standard",
+							"id-ID": "Standard",
+							"it-IT": "Standard",
+							"ja-JP": "Standard",
+							"ko-KR": "Standard",
+							"pl-PL": "Standard",
+							"pt-BR": "Standard",
+							"ru-RU": "Standard",
+							"th-TH": "Standard",
+							"tr-TR": "Standard",
+							"vi-VN": "Standard",
+							"zh-CN": "Standard",
+							"zh-TW": "Standard"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "B35A8550-4F50-264A-8C77-838C7BA713C3",
+					"label": "B35A8550-4F50-264A-8C77-838C7BA713C3",
+					"name":
+					{
+						"defaultText": "RANDOM FAVORITE SKIN",
+						"localizedByCulture":
+						{
+							"ar-AE": "مظهر مفضل عشوائي",
+							"de-DE": "ZUFÄLLIGER LIEBLINGSSKIN",
+							"en-US": "RANDOM FAVORITE SKIN",
+							"es-ES": "DISEÑO FAVORITO ALEATORIO",
+							"es-MX": "DISEÑO FAVORITO ALEATORIO",
+							"fr-FR": "SKIN FAVORI ALÉATOIRE",
+							"id-ID": "SKIN FAVORIT ACAK",
+							"it-IT": "MODELLO PREFERITO CASUALE",
+							"ja-JP": "ランダムお気に入りスキン",
+							"ko-KR": "무작위 즐겨찾기 스킨",
+							"pl-PL": "LOSOWA ULUBIONA SKÓRKA",
+							"pt-BR": "SKIN FAVORITA ALEATÓRIA",
+							"ru-RU": "СЛУЧАЙНЫЙ ОБЛИК ИЗ ИЗБРАННОГО",
+							"th-TH": "สุ่มสกินโปรด",
+							"tr-TR": "RASGELE FAVORİ KAPLAMA",
+							"vi-VN": "SKIN YÊU THÍCH NGẪU NHIÊN",
+							"zh-CN": "从个人最爱中随机选择",
+							"zh-TW": "隨機最愛造型"
+						}
+					}
+				}
+			],
+			"id": "167FC37F-42A3-D0E0-912A-AD8DC817820B",
+			"label": "167FC37F-42A3-D0E0-912A-AD8DC817820B",
+			"name":
+			{
+				"defaultText": "Random Favorite Skin",
+				"localizedByCulture":
+				{
+					"ar-AE": "مظهر مفضل عشوائي",
+					"de-DE": "Zufälliger Lieblingsskin",
+					"en-US": "Random Favorite Skin",
+					"es-ES": "Diseño favorito aleatorio",
+					"es-MX": "Diseño favorito aleatorio",
+					"fr-FR": "Skin favori aléatoire",
+					"id-ID": "Skin Favorit Acak",
+					"it-IT": "Modello preferito casuale",
+					"ja-JP": "ランダムお気に入りスキン",
+					"ko-KR": "무작위 즐겨찾기 스킨",
+					"pl-PL": "Losowa ulubiona skórka",
+					"pt-BR": "Skin favorita aleatória",
+					"ru-RU": "Случайный облик из избранного",
+					"th-TH": "สุ่มสกินโปรด",
+					"tr-TR": "Rasgele Favori Kaplama",
+					"vi-VN": "Skin Yêu Thích Ngẫu Nhiên",
+					"zh-CN": "从个人最爱中随机选择",
+					"zh-TW": "隨機最愛造型"
+				}
+			}
+		},
+		{
+			"weaponId": "8DB0A1BF-4A50-832A-4566-FAAAA6D250CA",
+			"defaultChromaId": "44B01F26-4569-0161-681F-E2A677F317FF",
+			"chromas": [
+				{
+					"id": "44B01F26-4569-0161-681F-E2A677F317FF",
+					"label": "44B01F26-4569-0161-681F-E2A677F317FF",
+					"name":
+					{
+						"defaultText": "Warden",
+						"localizedByCulture":
+						{
+							"ar-AE": "واردن",
+							"de-DE": "Warden",
+							"en-US": "Warden",
+							"es-ES": "Warden",
+							"es-MX": "Guardián",
+							"fr-FR": "Warden",
+							"id-ID": "Warden",
+							"it-IT": "Warden",
+							"ja-JP": "ウォーデン",
+							"ko-KR": "워든",
+							"pl-PL": "Warden",
+							"pt-BR": "Warden",
+							"ru-RU": "Warden",
+							"th-TH": "Warden",
+							"tr-TR": "WARDEN",
+							"vi-VN": "Quản Đốc",
+							"zh-CN": "悍狼",
+							"zh-TW": "守望者"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "45A2214F-4730-8C89-B0A4-A7A2B5125AC8",
+					"label": "45A2214F-4730-8C89-B0A4-A7A2B5125AC8",
+					"name":
+					{
+						"defaultText": "Warden",
+						"localizedByCulture":
+						{
+							"ar-AE": "واردن",
+							"de-DE": "Warden",
+							"en-US": "Warden",
+							"es-ES": "Warden",
+							"es-MX": "Guardián",
+							"fr-FR": "Warden",
+							"id-ID": "Warden",
+							"it-IT": "Warden",
+							"ja-JP": "ウォーデン",
+							"ko-KR": "워든",
+							"pl-PL": "Warden",
+							"pt-BR": "Warden",
+							"ru-RU": "Warden",
+							"th-TH": "Warden",
+							"tr-TR": "WARDEN",
+							"vi-VN": "Quản Đốc",
+							"zh-CN": "悍狼",
+							"zh-TW": "守望者"
+						}
+					}
+				}
+			],
+			"id": "61D99A36-4033-0FA9-2C94-71AAF901E120",
+			"label": "61D99A36-4033-0FA9-2C94-71AAF901E120",
+			"name":
+			{
+				"defaultText": "Standard Warden",
+				"localizedByCulture":
+				{
+					"ar-AE": "واردن قياسي",
+					"de-DE": "Warden – Standard",
+					"en-US": "Standard Warden",
+					"es-ES": "Warden estándar",
+					"es-MX": "Warden Estándar",
+					"fr-FR": "Warden (standard)",
+					"id-ID": "Warden Standar",
+					"it-IT": "Warden Standard",
+					"ja-JP": "スタンダード ウォーデン",
+					"ko-KR": "기본 워든",
+					"pl-PL": "Warden Zwykły",
+					"pt-BR": "Warden Padrão",
+					"ru-RU": "Warden \"Стандарт\"",
+					"th-TH": "Standard Warden",
+					"tr-TR": "Standart Warden",
+					"vi-VN": "Warden Thông Thường",
+					"zh-CN": "标准 悍狼",
+					"zh-TW": "標準 守望者"
+				}
+			}
+		},
+		{
 			"weaponId": "AE3DE142-4D85-2547-DD26-4E90BED35CF7",
 			"defaultChromaId": "E769943F-401E-DCF6-4036-4A86EB2E121D",
 			"chromas": [
@@ -52936,6 +53529,186 @@
 					"vi-VN": "Phantom Champions 2024",
 					"zh-CN": "2024全球冠军赛 幻影",
 					"zh-TW": "Champions 2024 幻象"
+				}
+			}
+		},
+		{
+			"weaponId": "EE8E8D15-496B-07AC-E5F6-8FAE5D4C7B1A",
+			"defaultChromaId": "3EC220AA-4395-9927-28E3-01AA2C3CCB94",
+			"chromas": [
+				{
+					"id": "3EC220AA-4395-9927-28E3-01AA2C3CCB94",
+					"label": "3EC220AA-4395-9927-28E3-01AA2C3CCB94",
+					"name":
+					{
+						"defaultText": "Champions 2026 Phantom",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏Champions 2026 فانتوم",
+							"de-DE": "Phantom – Champions 2026",
+							"en-US": "Champions 2026 Phantom",
+							"es-ES": "Phantom Champions 2026",
+							"es-MX": "Phantom Champions 2026",
+							"fr-FR": "Phantom (Champions 2026)",
+							"id-ID": "Champions 2026 Phantom",
+							"it-IT": "Phantom Champions 2026",
+							"ja-JP": "Champions 2026 ファントム",
+							"ko-KR": "2026 챔피언스 팬텀",
+							"pl-PL": "Phantom Champions 2026",
+							"pt-BR": "Phantom Champions 2026",
+							"ru-RU": "Phantom \"Champions 2026\"",
+							"th-TH": "Champions 2026 Phantom",
+							"tr-TR": "Champions 2026 Phantom",
+							"vi-VN": "Phantom Champions 2026",
+							"zh-CN": "2026全球冠军赛 幻影",
+							"zh-TW": "Champions 2026 幻象"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "49DD8152-4901-0FC7-3D4A-CBB7C4F4E409",
+					"label": "49DD8152-4901-0FC7-3D4A-CBB7C4F4E409",
+					"name":
+					{
+						"defaultText": "Champions 2026 Phantom",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏Champions 2026 فانتوم",
+							"de-DE": "Phantom – Champions 2026",
+							"en-US": "Champions 2026 Phantom",
+							"es-ES": "Phantom Champions 2026",
+							"es-MX": "Phantom Champions 2026",
+							"fr-FR": "Phantom (Champions 2026)",
+							"id-ID": "Champions 2026 Phantom",
+							"it-IT": "Phantom Champions 2026",
+							"ja-JP": "Champions 2026 ファントム",
+							"ko-KR": "2026 챔피언스 팬텀",
+							"pl-PL": "Phantom Champions 2026",
+							"pt-BR": "Phantom Champions 2026",
+							"ru-RU": "Phantom \"Champions 2026\"",
+							"th-TH": "Champions 2026 Phantom",
+							"tr-TR": "Champions 2026 Phantom",
+							"vi-VN": "Phantom Champions 2026",
+							"zh-CN": "2026全球冠军赛 幻影",
+							"zh-TW": "Champions 2026 幻象"
+						}
+					}
+				},
+				{
+					"id": "92B704DD-4DA3-0594-6BE5-48B288B4020A",
+					"label": "92B704DD-4DA3-0594-6BE5-48B288B4020A",
+					"name":
+					{
+						"defaultText": "Champions 2026 Phantom Level 2\nThe skin design changes if you are attacker or defender",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏Champions 2026 فانتوم المستوى 2\nيتغير تصميم المظهر حسب دور الهجوم أو الدفاع",
+							"de-DE": "Phantom – Champions 2026 Level 2\nDas Skin-Design ändert sich, wenn du Angreifer oder Verteidiger bist.",
+							"en-US": "Champions 2026 Phantom Level 2\nThe skin design changes if you are attacker or defender",
+							"es-ES": "Phantom Champions 2026 de nivel 2\nDistinto diseño si atacas o defiendes.",
+							"es-MX": "Phantom Champions 2026 nivel 2\nLa apariencia del diseño cambia dependiendo de si eres atacante o defensor.",
+							"fr-FR": "Phantom (Champions 2026) niveau 2\nLe skin change selon que vous êtes attaquant ou défenseur.",
+							"id-ID": "Champions 2026 Phantom Level 2\nDesain skin berubah tergantung apakah kamu attacker atau defender",
+							"it-IT": "Phantom Champions 2026 livello 2\nL'aspetto del modello cambia da attaccante a difensore",
+							"ja-JP": "Champions 2026 ファントム Lv.2\nアタック時とディフェンス時でスキンのデザインが変化",
+							"ko-KR": "2026 챔피언스 팬텀 2레벨\n공격팀인지 수비팀인지에 따라 스킨 디자인이 달라집니다.",
+							"pl-PL": "Phantom Champions 2026 (poziom 2)\nWygląd tej skórki zmienia się w zależności od tego, czy grasz na pozycji atakującego, czy obrońcy",
+							"pt-BR": "Phantom Champions 2026 Nível 2\nO design da skin muda se você estiver do lado Atacante ou Defensor",
+							"ru-RU": "Phantom \"Champions 2026\" уровень 2\nУ этого облика разный внешний вид при игре за атакующих и защитников",
+							"th-TH": "Champions 2026 Phantom เลเวล 2\nดีไซน์สกินเมื่อเป็นฝ่ายโจมตีและฝ่ายป้องกันจะไม่เหมือนกัน",
+							"tr-TR": "2. Seviye Champions 2026 Phantom\nKaplama tasarımı saldıran ve savunan tarafta değişir.",
+							"vi-VN": "Phantom Champions 2026 Cấp 2\nThiết kế của skin sẽ thay đổi khi bạn ở bên tấn công hay phòng thủ",
+							"zh-CN": "2026全球冠军赛 幻影 等级2\n根据玩家的攻守阵营，皮肤造型会有所变化",
+							"zh-TW": "Champions 2026 幻象 等級2\n此造型設計會因你是攻擊方或守備方而變化"
+						}
+					}
+				},
+				{
+					"id": "082706CC-45B1-D570-48BD-A2ACAA3FB149",
+					"label": "082706CC-45B1-D570-48BD-A2ACAA3FB149",
+					"name":
+					{
+						"defaultText": "Champions 2026 Phantom Level 3\nThe skin design changes if you are attacker or defender",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏Champions 2026 فانتوم المستوى 3\nيتغير تصميم المظهر حسب دور الهجوم أو الدفاع",
+							"de-DE": "Phantom – Champions 2026 Level 3\nDas Skin-Design ändert sich, wenn du Angreifer oder Verteidiger bist.",
+							"en-US": "Champions 2026 Phantom Level 3\nThe skin design changes if you are attacker or defender",
+							"es-ES": "Phantom Champions 2026 de nivel 3\nDistinto diseño si atacas o defiendes.",
+							"es-MX": "Phantom Champions 2026 nivel 3\nLa apariencia del diseño cambia dependiendo de si eres atacante o defensor.",
+							"fr-FR": "Phantom (Champions 2026) niveau 3\nLe skin change selon que vous êtes attaquant ou défenseur.",
+							"id-ID": "Champions 2026 Phantom Level 3\nDesain skin berubah tergantung apakah kamu attacker atau defender",
+							"it-IT": "Phantom Champions 2026 livello 3\nL'aspetto del modello cambia da attaccante a difensore",
+							"ja-JP": "Champions 2026 ファントム Lv.3\nアタック時とディフェンス時でスキンのデザインが変化",
+							"ko-KR": "2026 챔피언스 팬텀 3레벨\n공격팀인지 수비팀인지에 따라 스킨 디자인이 달라집니다.",
+							"pl-PL": "Phantom Champions 2026 (poziom 3)\nWygląd tej skórki zmienia się w zależności od tego, czy grasz na pozycji atakującego, czy obrońcy",
+							"pt-BR": "Phantom Champions 2026 Nível 3\nO design da skin muda se você estiver do lado Atacante ou Defensor",
+							"ru-RU": "Phantom \"Champions 2026\" уровень 3\nУ этого облика разный внешний вид при игре за атакующих и защитников",
+							"th-TH": "Champions 2026 Phantom เลเวล 3\nดีไซน์สกินเมื่อเป็นฝ่ายโจมตีและฝ่ายป้องกันจะไม่เหมือนกัน",
+							"tr-TR": "3. Seviye Champions 2026 Phantom\nKaplama tasarımı saldıran ve savunan tarafta değişir.",
+							"vi-VN": "Phantom Champions 2026 Cấp 3\nThiết kế của skin sẽ thay đổi khi bạn ở bên tấn công hay phòng thủ",
+							"zh-CN": "2026全球冠军赛 幻影 等级3\n根据玩家的攻守阵营，皮肤造型会有所变化",
+							"zh-TW": "Champions 2026 幻象 等級3\n此造型設計會因你是攻擊方或守備方而變化"
+						}
+					}
+				},
+				{
+					"id": "DE58C560-4557-FFF1-CA4B-FE85D05796D7",
+					"label": "DE58C560-4557-FFF1-CA4B-FE85D05796D7",
+					"name":
+					{
+						"defaultText": "Champions 2026 Phantom Level 4\nThe skin design changes if you are attacker or defender",
+						"localizedByCulture":
+						{
+							"ar-AE": "‏Champions 2026 فانتوم المستوى 4\nيتغير تصميم المظهر حسب دور الهجوم أو الدفاع",
+							"de-DE": "Phantom – Champions 2026 Level 4\nDas Skin-Design ändert sich, wenn du Angreifer oder Verteidiger bist.",
+							"en-US": "Champions 2026 Phantom Level 4\nThe skin design changes if you are attacker or defender",
+							"es-ES": "Phantom Champions 2026 de nivel 4\nDistinto diseño si atacas o defiendes.",
+							"es-MX": "Phantom Champions 2026 nivel 4\nLa apariencia del diseño cambia dependiendo de si eres atacante o defensor.",
+							"fr-FR": "Phantom (Champions 2026) niveau 4\nLe skin change selon que vous êtes attaquant ou défenseur.",
+							"id-ID": "Champions 2026 Phantom Level 4\nDesain skin berubah tergantung apakah kamu attacker atau defender",
+							"it-IT": "Phantom Champions 2026 livello 4\nL'aspetto del modello cambia da attaccante a difensore",
+							"ja-JP": "Champions 2026 ファントム Lv.4\nアタック時とディフェンス時でスキンのデザインが変化",
+							"ko-KR": "2026 챔피언스 팬텀 4레벨\n공격팀인지 수비팀인지에 따라 스킨 디자인이 달라집니다.",
+							"pl-PL": "Phantom Champions 2026 (poziom 4)\nWygląd tej skórki zmienia się w zależności od tego, czy grasz na pozycji atakującego, czy obrońcy",
+							"pt-BR": "Phantom Champions 2026 Nível 4\nO design da skin muda se você estiver do lado Atacante ou Defensor",
+							"ru-RU": "Phantom \"Champions 2026\" уровень 4\nУ этого облика разный внешний вид при игре за атакующих и защитников",
+							"th-TH": "Champions 2026 Phantom เลเวล 4\nดีไซน์สกินเมื่อเป็นฝ่ายโจมตีและฝ่ายป้องกันจะไม่เหมือนกัน",
+							"tr-TR": "4. Seviye Champions 2026 Phantom\nKaplama tasarımı saldıran ve savunan tarafta değişir.",
+							"vi-VN": "Phantom Champions 2026 Cấp 4\nThiết kế của skin sẽ thay đổi khi bạn ở bên tấn công hay phòng thủ",
+							"zh-CN": "2026全球冠军赛 幻影 等级4\n根据玩家的攻守阵营，皮肤造型会有所变化",
+							"zh-TW": "Champions 2026 幻象 等級4\n此造型設計會因你是攻擊方或守備方而變化"
+						}
+					}
+				}
+			],
+			"id": "7B17CFBB-4D50-4908-9DA5-18AFB3A63D8A",
+			"label": "7B17CFBB-4D50-4908-9DA5-18AFB3A63D8A",
+			"name":
+			{
+				"defaultText": "Champions 2026 Phantom",
+				"localizedByCulture":
+				{
+					"ar-AE": "‏Champions 2026 فانتوم",
+					"de-DE": "Phantom – Champions 2026",
+					"en-US": "Champions 2026 Phantom",
+					"es-ES": "Phantom Champions 2026",
+					"es-MX": "Phantom Champions 2026",
+					"fr-FR": "Phantom (Champions 2026)",
+					"id-ID": "Champions 2026 Phantom",
+					"it-IT": "Phantom Champions 2026",
+					"ja-JP": "Champions 2026 ファントム",
+					"ko-KR": "2026 챔피언스 팬텀",
+					"pl-PL": "Phantom Champions 2026",
+					"pt-BR": "Phantom Champions 2026",
+					"ru-RU": "Phantom \"Champions 2026\"",
+					"th-TH": "Champions 2026 Phantom",
+					"tr-TR": "Champions 2026 Phantom",
+					"vi-VN": "Phantom Champions 2026",
+					"zh-CN": "2026全球冠军赛 幻影",
+					"zh-TW": "Champions 2026 幻象"
 				}
 			}
 		},
@@ -69486,6 +70259,99 @@
 		},
 		{
 			"weaponId": "EC845BF4-4F79-DDDA-A3DA-0DB3774B2794",
+			"defaultChromaId": "9257C8FE-4C85-5C98-652B-16A08787CB8F",
+			"chromas": [
+				{
+					"id": "9257C8FE-4C85-5C98-652B-16A08787CB8F",
+					"label": "9257C8FE-4C85-5C98-652B-16A08787CB8F",
+					"name":
+					{
+						"defaultText": "Galleria Judge",
+						"localizedByCulture":
+						{
+							"ar-AE": "غاليريا جادج",
+							"de-DE": "Judge – Galleria",
+							"en-US": "Galleria Judge",
+							"es-ES": "Judge Galleria",
+							"es-MX": "Judge Galería",
+							"fr-FR": "Judge (Galeries)",
+							"id-ID": "Galleria Judge",
+							"it-IT": "Judge Graffiti",
+							"ja-JP": "ガレリア ジャッジ",
+							"ko-KR": "갤러리아 저지",
+							"pl-PL": "Judge Galerii",
+							"pt-BR": "Judge Galeria",
+							"ru-RU": "Judge \"Галлерия\"",
+							"th-TH": "Galleria Judge",
+							"tr-TR": "Galeri Judge",
+							"vi-VN": "Judge Galleria",
+							"zh-CN": "涂鸦艺廊//2.0 判官",
+							"zh-TW": "藝境 判官"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "5B327805-4283-C131-FA8C-67AEDC8007C2",
+					"label": "5B327805-4283-C131-FA8C-67AEDC8007C2",
+					"name":
+					{
+						"defaultText": "Galleria Judge",
+						"localizedByCulture":
+						{
+							"ar-AE": "غاليريا جادج",
+							"de-DE": "Judge – Galleria",
+							"en-US": "Galleria Judge",
+							"es-ES": "Judge Galleria",
+							"es-MX": "Judge Galería",
+							"fr-FR": "Judge (Galeries)",
+							"id-ID": "Galleria Judge",
+							"it-IT": "Judge Graffiti",
+							"ja-JP": "ガレリア ジャッジ",
+							"ko-KR": "갤러리아 저지",
+							"pl-PL": "Judge Galerii",
+							"pt-BR": "Judge Galeria",
+							"ru-RU": "Judge \"Галлерия\"",
+							"th-TH": "Galleria Judge",
+							"tr-TR": "Galeri Judge",
+							"vi-VN": "Judge Galleria",
+							"zh-CN": "涂鸦艺廊//2.0 判官",
+							"zh-TW": "藝境 判官"
+						}
+					}
+				}
+			],
+			"id": "B0F4C51B-4655-CB16-A6F0-D0B38C0AB45B",
+			"label": "B0F4C51B-4655-CB16-A6F0-D0B38C0AB45B",
+			"name":
+			{
+				"defaultText": "Galleria Judge",
+				"localizedByCulture":
+				{
+					"ar-AE": "غاليريا جادج",
+					"de-DE": "Judge – Galleria",
+					"en-US": "Galleria Judge",
+					"es-ES": "Judge Galleria",
+					"es-MX": "Judge Galería",
+					"fr-FR": "Judge (Galeries)",
+					"id-ID": "Galleria Judge",
+					"it-IT": "Judge Graffiti",
+					"ja-JP": "ガレリア ジャッジ",
+					"ko-KR": "갤러리아 저지",
+					"pl-PL": "Judge Galerii",
+					"pt-BR": "Judge Galeria",
+					"ru-RU": "Judge \"Галлерия\"",
+					"th-TH": "Galleria Judge",
+					"tr-TR": "Galeri Judge",
+					"vi-VN": "Judge Galleria",
+					"zh-CN": "涂鸦艺廊//2.0 判官",
+					"zh-TW": "藝境 判官"
+				}
+			}
+		},
+		{
+			"weaponId": "EC845BF4-4F79-DDDA-A3DA-0DB3774B2794",
 			"defaultChromaId": "FDBF9AE2-46C2-093C-2B62-8EAE2370F04B",
 			"chromas": [
 				{
@@ -83195,6 +84061,99 @@
 					"vi-VN": "Frenzy Quét Sạch Toàn Đội",
 					"zh-CN": "王牌队员 狂怒",
 					"zh-TW": "王牌戰隊 狂弒"
+				}
+			}
+		},
+		{
+			"weaponId": "44D4E95C-4157-0037-81B2-17841BF2E8E3",
+			"defaultChromaId": "683D3112-4D7A-8771-4AB6-CC96C7A09D04",
+			"chromas": [
+				{
+					"id": "683D3112-4D7A-8771-4AB6-CC96C7A09D04",
+					"label": "683D3112-4D7A-8771-4AB6-CC96C7A09D04",
+					"name":
+					{
+						"defaultText": "Galleria Frenzy",
+						"localizedByCulture":
+						{
+							"ar-AE": "غاليريا فرينزي",
+							"de-DE": "Frenzy – Galleria",
+							"en-US": "Galleria Frenzy",
+							"es-ES": "Frenzy Galleria",
+							"es-MX": "Frenzy Galería",
+							"fr-FR": "Frenzy (Galeries)",
+							"id-ID": "Galleria Frenzy",
+							"it-IT": "Frenzy Graffiti",
+							"ja-JP": "ガレリア フレンジー",
+							"ko-KR": "갤러리아 프렌지",
+							"pl-PL": "Frenzy Galerii",
+							"pt-BR": "Frenzy Galeria",
+							"ru-RU": "Frenzy \"Галлерия\"",
+							"th-TH": "Galleria Frenzy",
+							"tr-TR": "Galeri Frenzy",
+							"vi-VN": "Frenzy Galleria",
+							"zh-CN": "涂鸦艺廊//2.0 狂怒",
+							"zh-TW": "藝境 狂弒"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "6C06183A-492E-2268-4BDB-18B95FD18E14",
+					"label": "6C06183A-492E-2268-4BDB-18B95FD18E14",
+					"name":
+					{
+						"defaultText": "Galleria Frenzy",
+						"localizedByCulture":
+						{
+							"ar-AE": "غاليريا فرينزي",
+							"de-DE": "Frenzy – Galleria",
+							"en-US": "Galleria Frenzy",
+							"es-ES": "Frenzy Galleria",
+							"es-MX": "Frenzy Galería",
+							"fr-FR": "Frenzy (Galeries)",
+							"id-ID": "Galleria Frenzy",
+							"it-IT": "Frenzy Graffiti",
+							"ja-JP": "ガレリア フレンジー",
+							"ko-KR": "갤러리아 프렌지",
+							"pl-PL": "Frenzy Galerii",
+							"pt-BR": "Frenzy Galeria",
+							"ru-RU": "Frenzy \"Галлерия\"",
+							"th-TH": "Galleria Frenzy",
+							"tr-TR": "Galeri Frenzy",
+							"vi-VN": "Frenzy Galleria",
+							"zh-CN": "涂鸦艺廊//2.0 狂怒",
+							"zh-TW": "藝境 狂弒"
+						}
+					}
+				}
+			],
+			"id": "3AD9E695-4FD2-0937-2894-84BDB2798294",
+			"label": "3AD9E695-4FD2-0937-2894-84BDB2798294",
+			"name":
+			{
+				"defaultText": "Galleria Frenzy",
+				"localizedByCulture":
+				{
+					"ar-AE": "غاليريا فرينزي",
+					"de-DE": "Frenzy – Galleria",
+					"en-US": "Galleria Frenzy",
+					"es-ES": "Frenzy Galleria",
+					"es-MX": "Frenzy Galería",
+					"fr-FR": "Frenzy (Galeries)",
+					"id-ID": "Galleria Frenzy",
+					"it-IT": "Frenzy Graffiti",
+					"ja-JP": "ガレリア フレンジー",
+					"ko-KR": "갤러리아 프렌지",
+					"pl-PL": "Frenzy Galerii",
+					"pt-BR": "Frenzy Galeria",
+					"ru-RU": "Frenzy \"Галлерия\"",
+					"th-TH": "Galleria Frenzy",
+					"tr-TR": "Galeri Frenzy",
+					"vi-VN": "Frenzy Galleria",
+					"zh-CN": "涂鸦艺廊//2.0 狂怒",
+					"zh-TW": "藝境 狂弒"
 				}
 			}
 		},
@@ -149810,6 +150769,99 @@
 		},
 		{
 			"weaponId": "A03B24D3-4319-996D-0F8C-94BBFBA1DFC7",
+			"defaultChromaId": "88FB724C-4CBF-161C-3F34-9F8CB6481D52",
+			"chromas": [
+				{
+					"id": "88FB724C-4CBF-161C-3F34-9F8CB6481D52",
+					"label": "88FB724C-4CBF-161C-3F34-9F8CB6481D52",
+					"name":
+					{
+						"defaultText": "Galleria Operator",
+						"localizedByCulture":
+						{
+							"ar-AE": "غاليريا أوبيريتور",
+							"de-DE": "Operator – Galleria",
+							"en-US": "Galleria Operator",
+							"es-ES": "Operator Galleria",
+							"es-MX": "Operator Galería",
+							"fr-FR": "Operator (Galeries)",
+							"id-ID": "Galleria Operator",
+							"it-IT": "Operator Graffiti",
+							"ja-JP": "ガレリア オペレーター",
+							"ko-KR": "갤러리아 오퍼레이터",
+							"pl-PL": "Operator Galerii",
+							"pt-BR": "Operator Galeria",
+							"ru-RU": "Operator \"Галлерия\"",
+							"th-TH": "Galleria Operator",
+							"tr-TR": "Galeri Operator",
+							"vi-VN": "Operator Galleria",
+							"zh-CN": "涂鸦艺廊//2.0 冥驹",
+							"zh-TW": "藝境 間諜"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "034924C5-41E8-74A5-FF8B-7CBF7BB11B36",
+					"label": "034924C5-41E8-74A5-FF8B-7CBF7BB11B36",
+					"name":
+					{
+						"defaultText": "Galleria Operator",
+						"localizedByCulture":
+						{
+							"ar-AE": "غاليريا أوبيريتور",
+							"de-DE": "Operator – Galleria",
+							"en-US": "Galleria Operator",
+							"es-ES": "Operator Galleria",
+							"es-MX": "Operator Galería",
+							"fr-FR": "Operator (Galeries)",
+							"id-ID": "Galleria Operator",
+							"it-IT": "Operator Graffiti",
+							"ja-JP": "ガレリア オペレーター",
+							"ko-KR": "갤러리아 오퍼레이터",
+							"pl-PL": "Operator Galerii",
+							"pt-BR": "Operator Galeria",
+							"ru-RU": "Operator \"Галлерия\"",
+							"th-TH": "Galleria Operator",
+							"tr-TR": "Galeri Operator",
+							"vi-VN": "Operator Galleria",
+							"zh-CN": "涂鸦艺廊//2.0 冥驹",
+							"zh-TW": "藝境 間諜"
+						}
+					}
+				}
+			],
+			"id": "1909CFD3-4229-1943-2DB0-D489366A4652",
+			"label": "1909CFD3-4229-1943-2DB0-D489366A4652",
+			"name":
+			{
+				"defaultText": "Galleria Operator",
+				"localizedByCulture":
+				{
+					"ar-AE": "غاليريا أوبيريتور",
+					"de-DE": "Operator – Galleria",
+					"en-US": "Galleria Operator",
+					"es-ES": "Operator Galleria",
+					"es-MX": "Operator Galería",
+					"fr-FR": "Operator (Galeries)",
+					"id-ID": "Galleria Operator",
+					"it-IT": "Operator Graffiti",
+					"ja-JP": "ガレリア オペレーター",
+					"ko-KR": "갤러리아 오퍼레이터",
+					"pl-PL": "Operator Galerii",
+					"pt-BR": "Operator Galeria",
+					"ru-RU": "Operator \"Галлерия\"",
+					"th-TH": "Galleria Operator",
+					"tr-TR": "Galeri Operator",
+					"vi-VN": "Operator Galleria",
+					"zh-CN": "涂鸦艺廊//2.0 冥驹",
+					"zh-TW": "藝境 間諜"
+				}
+			}
+		},
+		{
+			"weaponId": "A03B24D3-4319-996D-0F8C-94BBFBA1DFC7",
 			"defaultChromaId": "0316BE06-4ADB-4083-4816-0FB4D47BEABC",
 			"chromas": [
 				{
@@ -200030,6 +201082,157 @@
 		},
 		{
 			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
+			"defaultChromaId": "B71C896B-48FF-8151-BFEE-9BB8F64EBB8A",
+			"chromas": [
+				{
+					"id": "B71C896B-48FF-8151-BFEE-9BB8F64EBB8A",
+					"label": "B71C896B-48FF-8151-BFEE-9BB8F64EBB8A",
+					"name":
+					{
+						"defaultText": "Champions 2026 Fan",
+						"localizedByCulture":
+						{
+							"ar-AE": "مروحة Champions 2026",
+							"de-DE": "Fächer – Champions 2026",
+							"en-US": "Champions 2026 Fan",
+							"es-ES": "Abanico Champions 2026",
+							"es-MX": "Fan de Champions 2026",
+							"fr-FR": "Éventail (Champions 2026)",
+							"id-ID": "Kipas Champions 2026",
+							"it-IT": "Fan Champions 2026",
+							"ja-JP": "Champions 2026 ファン",
+							"ko-KR": "2026 챔피언스 부채",
+							"pl-PL": "Wachlarz Champions 2026",
+							"pt-BR": "Leque Champions 2026",
+							"ru-RU": "Веер \"Champions 2026\"",
+							"th-TH": "Champions 2026 Fan",
+							"tr-TR": "Champions 2026 Yelpazesi",
+							"vi-VN": "Quạt Champions 2026",
+							"zh-CN": "2026全球冠军赛 风云断",
+							"zh-TW": "Champions 2026 扇刃"
+						}
+					}
+				}
+			],
+			"levels": [
+				{
+					"id": "9F88E377-48EC-6BCF-9641-A495870B05EF",
+					"label": "9F88E377-48EC-6BCF-9641-A495870B05EF",
+					"name":
+					{
+						"defaultText": "Champions 2026 Fan",
+						"localizedByCulture":
+						{
+							"ar-AE": "مروحة Champions 2026",
+							"de-DE": "Fächer – Champions 2026",
+							"en-US": "Champions 2026 Fan",
+							"es-ES": "Abanico Champions 2026",
+							"es-MX": "Fan de Champions 2026",
+							"fr-FR": "Éventail (Champions 2026)",
+							"id-ID": "Kipas Champions 2026",
+							"it-IT": "Fan Champions 2026",
+							"ja-JP": "Champions 2026 ファン",
+							"ko-KR": "2026 챔피언스 부채",
+							"pl-PL": "Wachlarz Champions 2026",
+							"pt-BR": "Leque Champions 2026",
+							"ru-RU": "Веер \"Champions 2026\"",
+							"th-TH": "Champions 2026 Fan",
+							"tr-TR": "Champions 2026 Yelpazesi",
+							"vi-VN": "Quạt Champions 2026",
+							"zh-CN": "2026全球冠军赛 风云断",
+							"zh-TW": "Champions 2026 扇刃"
+						}
+					}
+				},
+				{
+					"id": "46BF35CE-4B4E-C0A5-6FFB-20A9E0090827",
+					"label": "46BF35CE-4B4E-C0A5-6FFB-20A9E0090827",
+					"name":
+					{
+						"defaultText": "Champions 2026 Fan Level 2\nThe skin design changes if you are attacker or defender",
+						"localizedByCulture":
+						{
+							"ar-AE": "مروحة Champions 2026 المستوى 2\nيتغير تصميم المظهر حسب دور الهجوم أو الدفاع",
+							"de-DE": "Fächer – Champions 2026 Level 2\nDas Skin-Design ändert sich, wenn du Angreifer oder Verteidiger bist.",
+							"en-US": "Champions 2026 Fan Level 2\nThe skin design changes if you are attacker or defender",
+							"es-ES": "Abanico Champions 2026 de nivel 2\nDistinto diseño si atacas o defiendes.",
+							"es-MX": "Fan de Champions 2026 nivel 2\nLa apariencia del diseño cambia dependiendo de si eres atacante o defensor.",
+							"fr-FR": "Éventail (Champions 2026) niveau 2\nLe skin change selon que vous êtes attaquant ou défenseur.",
+							"id-ID": "Kipas Champions 2026 Level 2\nDesain skin berubah tergantung apakah kamu attacker atau defender",
+							"it-IT": "Fan Champions 2026 livello 2\nL'aspetto del modello cambia da attaccante a difensore",
+							"ja-JP": "Champions 2026 ファン Lv.2\nアタック時とディフェンス時でスキンのデザインが変化",
+							"ko-KR": "2026 챔피언스 부채 2레벨\n공격팀인지 수비팀인지에 따라 스킨 디자인이 달라집니다.",
+							"pl-PL": "Wachlarz Champions 2026 (poziom 2)\nWygląd tej skórki zmienia się w zależności od tego, czy grasz na pozycji atakującego, czy obrońcy",
+							"pt-BR": "Leque Champions 2026 Nível 2\nO design da skin muda se você estiver do lado Atacante ou Defensor",
+							"ru-RU": "Веер \"Champions 2026\" уровень 2\nУ этого облика разный внешний вид при игре за атакующих и защитников",
+							"th-TH": "Champions 2026 Fan เลเวล 2\nดีไซน์สกินเมื่อเป็นฝ่ายโจมตีและฝ่ายป้องกันจะไม่เหมือนกัน",
+							"tr-TR": "2. Seviye Champions 2026 Yelpazesi\nKaplama tasarımı saldıran ve savunan tarafta değişir.",
+							"vi-VN": "Quạt Champions 2026 Cấp 2\nThiết kế của skin sẽ thay đổi khi bạn ở bên tấn công hay phòng thủ",
+							"zh-CN": "2026全球冠军赛 风云断 等级2\n根据玩家的攻守阵营，皮肤造型会有所变化",
+							"zh-TW": "Champions 2026 扇刃 等級2\n此造型設計會因你是攻擊方或守備方而變化"
+						}
+					}
+				},
+				{
+					"id": "7B783889-4AEE-C23B-FF4A-4B8F3E7733D6",
+					"label": "7B783889-4AEE-C23B-FF4A-4B8F3E7733D6",
+					"name":
+					{
+						"defaultText": "Champions 2026 Fan Level 3\r\nThe skin design changes if you are attacker or defender",
+						"localizedByCulture":
+						{
+							"ar-AE": "مروحة Champions 2026 المستوى 3\r\nيتغير تصميم المظهر حسب دور الهجوم أو الدفاع",
+							"de-DE": "Fächer – Champions 2026 Level 3\r\nDas Skin-Design ändert sich, wenn du Angreifer oder Verteidiger bist.",
+							"en-US": "Champions 2026 Fan Level 3\r\nThe skin design changes if you are attacker or defender",
+							"es-ES": "Abanico Champions 2026 de nivel 3\r\nDistinto diseño si atacas o defiendes.",
+							"es-MX": "Fan de Champions 2026 nivel 3\r\nLa apariencia del diseño cambia dependiendo de si eres atacante o defensor.",
+							"fr-FR": "Éventail (Champions 2026) niveau 3\r\nLe skin change selon que vous êtes attaquant ou défenseur.",
+							"id-ID": "Kipas Champions 2026 Level 3\r\nDesain skin berubah tergantung apakah kamu attacker atau defender",
+							"it-IT": "Fan Champions 2026 livello 3\r\nL'aspetto del modello cambia da attaccante a difensore",
+							"ja-JP": "Champions 2026 ファン Lv.3\r\nアタック時とディフェンス時でスキンのデザインが変化",
+							"ko-KR": "2026 챔피언스 부채 3레벨\r\n공격팀인지 수비팀인지에 따라 스킨 디자인이 달라집니다.",
+							"pl-PL": "Wachlarz Champions 2026 (poziom 3)\r\nWygląd tej skórki zmienia się w zależności od tego, czy grasz na pozycji atakującego, czy obrońcy",
+							"pt-BR": "Leque Champions 2026 Nível 3\r\nO design da skin muda se você estiver do lado Atacante ou Defensor",
+							"ru-RU": "Веер \"Champions 2026\" уровень 3\r\nУ этого облика разный внешний вид при игре за атакующих и защитников",
+							"th-TH": "Champions 2026 Fan เลเวล 3\r\nดีไซน์สกินเมื่อเป็นฝ่ายโจมตีและฝ่ายป้องกันจะไม่เหมือนกัน",
+							"tr-TR": "3. Seviye Champions 2026 Yelpazesi\r\nKaplama tasarımı saldıran ve savunan tarafta değişir.",
+							"vi-VN": "Quạt Champions 2026 Cấp 3\r\nThiết kế của skin sẽ thay đổi khi bạn ở bên tấn công hay phòng thủ",
+							"zh-CN": "2026全球冠军赛 风云断 等级3\r\n根据玩家的攻守阵营，皮肤造型会有所变化",
+							"zh-TW": "Champions 2026 扇刃 等級3\r\n此造型設計會因你是攻擊方或守備方而變化"
+						}
+					}
+				}
+			],
+			"id": "F401B55F-4B7D-C7A5-D698-A5AB0A54DF39",
+			"label": "F401B55F-4B7D-C7A5-D698-A5AB0A54DF39",
+			"name":
+			{
+				"defaultText": "Champions 2026 Fan",
+				"localizedByCulture":
+				{
+					"ar-AE": "مروحة Champions 2026",
+					"de-DE": "Fächer – Champions 2026",
+					"en-US": "Champions 2026 Fan",
+					"es-ES": "Abanico Champions 2026",
+					"es-MX": "Fan de Champions 2026",
+					"fr-FR": "Éventail (Champions 2026)",
+					"id-ID": "Kipas Champions 2026",
+					"it-IT": "Fan Champions 2026",
+					"ja-JP": "Champions 2026 ファン",
+					"ko-KR": "2026 챔피언스 부채",
+					"pl-PL": "Wachlarz Champions 2026",
+					"pt-BR": "Leque Champions 2026",
+					"ru-RU": "Веер \"Champions 2026\"",
+					"th-TH": "Champions 2026 Fan",
+					"tr-TR": "Champions 2026 Yelpazesi",
+					"vi-VN": "Quạt Champions 2026",
+					"zh-CN": "2026全球冠军赛 风云断",
+					"zh-TW": "Champions 2026 扇刃"
+				}
+			}
+		},
+		{
+			"weaponId": "2F59173C-4BED-B6C3-2191-DEA9B58BE9C7",
 			"defaultChromaId": "3D37799A-4EC1-61C1-AC3A-8DB96119897E",
 			"chromas": [
 				{
@@ -222376,6 +223579,64 @@
 		{
 			"coordinates":
 			{
+				"defaultText": "",
+				"localizedByCulture":
+				{
+					"ar-AE": "",
+					"de-DE": "",
+					"en-US": "",
+					"es-ES": "",
+					"es-MX": "",
+					"fr-FR": "",
+					"id-ID": "",
+					"it-IT": "",
+					"ja-JP": "",
+					"ko-KR": "",
+					"pl-PL": "",
+					"pt-BR": "",
+					"ru-RU": "",
+					"th-TH": "",
+					"tr-TR": "",
+					"vi-VN": "",
+					"zh-CN": "",
+					"zh-TW": ""
+				}
+			},
+			"xScalarToAdd": 0,
+			"xMultiplier": 0,
+			"yScalarToAdd": 0,
+			"yMultiplier": 0,
+			"id": "DD3A1CD9-41B1-50EA-3BD6-A7BB3C5978BD",
+			"label": "DD3A1CD9-41B1-50EA-3BD6-A7BB3C5978BD",
+			"name":
+			{
+				"defaultText": "Gauntlet",
+				"localizedByCulture":
+				{
+					"ar-AE": "الاختبار",
+					"de-DE": "Gauntlet",
+					"en-US": "Gauntlet",
+					"es-ES": "Galería de pruebas",
+					"es-MX": "Duelos",
+					"fr-FR": "Gauntlet",
+					"id-ID": "Gauntlet",
+					"it-IT": "Gauntlet",
+					"ja-JP": "ガントレット",
+					"ko-KR": "건틀릿",
+					"pl-PL": "Wyzwanie",
+					"pt-BR": "Contenda",
+					"ru-RU": "Вызов",
+					"th-TH": "Gauntlet",
+					"tr-TR": "Galeyan",
+					"vi-VN": "Thử Thách",
+					"zh-CN": "异变轮战",
+					"zh-TW": "大亂鬥"
+				}
+			}
+		},
+		{
+			"coordinates":
+			{
 				"defaultText": "45°26'BF'N,12°20'Q'E",
 				"localizedByCulture":
 				{
@@ -225015,6 +226276,847 @@
 			}
 		},
 		{
+			"id": "4E2283EB-44C4-DD2E-C0A3-9FBCF5C574FC",
+			"label": "4E2283EB-44C4-DD2E-C0A3-9FBCF5C574FC",
+			"name":
+			{
+				"defaultText": "Gekko Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان غيكو",
+					"de-DE": "Banner „Meisterschaft: Gekko“",
+					"en-US": "Gekko Mastery Card",
+					"es-ES": "Tarjeta de maestría de Gekko",
+					"es-MX": "Tarjeta Maestría de Gekko",
+					"fr-FR": "Carte maîtrise de Gekko",
+					"id-ID": "Card Gekko Mastery",
+					"it-IT": "Carta maestria Gekko",
+					"ja-JP": "ゲッコー マスタリーカード",
+					"ko-KR": "게코 숙련도 카드",
+					"pl-PL": "Karta „Maestria Gekko”",
+					"pt-BR": "Card Maestria // Gekko",
+					"ru-RU": "Карточка \"Мастерство Gekko\"",
+					"th-TH": "การ์ด Gekko Mastery",
+					"tr-TR": "Gekko Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Gekko",
+					"zh-CN": "盖可精通 卡面",
+					"zh-TW": "蓋克專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "E0D4094A-4AE9-BA8C-5A65-DC8CAFBC7B96",
+			"label": "E0D4094A-4AE9-BA8C-5A65-DC8CAFBC7B96",
+			"name":
+			{
+				"defaultText": "Fade Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان فايد",
+					"de-DE": "Banner „Meisterschaft: Fade“",
+					"en-US": "Fade Mastery Card",
+					"es-ES": "Tarjeta de maestría de Fade",
+					"es-MX": "Tarjeta Maestría de Fade",
+					"fr-FR": "Carte maîtrise de Fade",
+					"id-ID": "Card Fade Mastery",
+					"it-IT": "Carta maestria Fade",
+					"ja-JP": "フェイド マスタリーカード",
+					"ko-KR": "페이드 숙련도 카드",
+					"pl-PL": "Karta „Maestria Fade”",
+					"pt-BR": "Card Maestria // Fade",
+					"ru-RU": "Карточка \"Мастерство Fade\"",
+					"th-TH": "การ์ด Fade Mastery",
+					"tr-TR": "Fade Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Fade",
+					"zh-CN": "黑梦精通 卡面",
+					"zh-TW": "菲德專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "FFBFCB92-462E-58BD-3AEA-4C9849A7BB76",
+			"label": "FFBFCB92-462E-58BD-3AEA-4C9849A7BB76",
+			"name":
+			{
+				"defaultText": "Breach Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان بريتش",
+					"de-DE": "Banner „Meisterschaft: Breach“",
+					"en-US": "Breach Mastery Card",
+					"es-ES": "Tarjeta de maestría de Breach",
+					"es-MX": "Tarjeta Maestría de Breach",
+					"fr-FR": "Carte maîtrise de Breach",
+					"id-ID": "Card Breach Mastery",
+					"it-IT": "Carta maestria Breach",
+					"ja-JP": "ブリーチ マスタリーカード",
+					"ko-KR": "브리치 숙련도 카드",
+					"pl-PL": "Karta „Maestria Breacha”",
+					"pt-BR": "Card Maestria // Breach",
+					"ru-RU": "Карточка \"Мастерство Breach\"",
+					"th-TH": "การ์ด Breach Mastery",
+					"tr-TR": "Breach Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Breach",
+					"zh-CN": "铁臂精通 卡面",
+					"zh-TW": "叛奇專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "7A7D21C3-4886-F5C8-606E-858FF452E2D8",
+			"label": "7A7D21C3-4886-F5C8-606E-858FF452E2D8",
+			"name":
+			{
+				"defaultText": "Deadlock Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان ديدلوك",
+					"de-DE": "Banner „Meisterschaft: Deadlock“",
+					"en-US": "Deadlock Mastery Card",
+					"es-ES": "Tarjeta de maestría de Deadlock",
+					"es-MX": "Tarjeta Maestría de Deadlock",
+					"fr-FR": "Carte maîtrise de Deadlock",
+					"id-ID": "Card Deadlock Mastery",
+					"it-IT": "Carta maestria Deadlock",
+					"ja-JP": "デッドロック マスタリーカード",
+					"ko-KR": "데드록 숙련도 카드",
+					"pl-PL": "Karta „Maestria Deadlock”",
+					"pt-BR": "Card Maestria // Deadlock",
+					"ru-RU": "Карточка \"Мастерство Deadlock\"",
+					"th-TH": "การ์ด Deadlock Mastery",
+					"tr-TR": "Deadlock Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Deadlock",
+					"zh-CN": "钢锁精通 卡面",
+					"zh-TW": "蒂羅專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "6B4BCDF9-43E6-BD1E-7AB9-72807B01FA41",
+			"label": "6B4BCDF9-43E6-BD1E-7AB9-72807B01FA41",
+			"name":
+			{
+				"defaultText": "Tejo Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان تيهو",
+					"de-DE": "Banner „Meisterschaft: Tejo“",
+					"en-US": "Tejo Mastery Card",
+					"es-ES": "Tarjeta de maestría de Tejo",
+					"es-MX": "Tarjeta Maestría de Tejo",
+					"fr-FR": "Carte maîtrise de Tejo",
+					"id-ID": "Card Tejo Mastery",
+					"it-IT": "Carta maestria Tejo",
+					"ja-JP": "テホ マスタリーカード",
+					"ko-KR": "테호 숙련도 카드",
+					"pl-PL": "Karta „Maestria Tejo”",
+					"pt-BR": "Card Maestria // Tejo",
+					"ru-RU": "Карточка \"Мастерство Tejo\"",
+					"th-TH": "การ์ด Tejo Mastery",
+					"tr-TR": "Tejo Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Tejo",
+					"zh-CN": "钛狐精通 卡面",
+					"zh-TW": "戴侯專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "5E9E64D1-4FED-2225-7B9D-5A960470F644",
+			"label": "5E9E64D1-4FED-2225-7B9D-5A960470F644",
+			"name":
+			{
+				"defaultText": "Raze Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان رايز",
+					"de-DE": "Banner „Meisterschaft: Raze“",
+					"en-US": "Raze Mastery Card",
+					"es-ES": "Tarjeta de maestría de Raze",
+					"es-MX": "Tarjeta Maestría de Raze",
+					"fr-FR": "Carte maîtrise de Raze",
+					"id-ID": "Card Raze Mastery",
+					"it-IT": "Carta maestria Raze",
+					"ja-JP": "レイズ マスタリーカード",
+					"ko-KR": "레이즈 숙련도 카드",
+					"pl-PL": "Karta „Maestria Raze”",
+					"pt-BR": "Card Maestria // Raze",
+					"ru-RU": "Карточка \"Мастерство Raze\"",
+					"th-TH": "การ์ด Raze Mastery",
+					"tr-TR": "Raze Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Raze",
+					"zh-CN": "雷兹精通 卡面",
+					"zh-TW": "芮茲專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "532EA15E-4851-1A56-9226-638282F76472",
+			"label": "532EA15E-4851-1A56-9226-638282F76472",
+			"name":
+			{
+				"defaultText": "Chamber Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان تشامبر",
+					"de-DE": "Banner „Meisterschaft: Chamber“",
+					"en-US": "Chamber Mastery Card",
+					"es-ES": "Tarjeta de maestría de Chamber",
+					"es-MX": "Tarjeta Maestría de Chamber",
+					"fr-FR": "Carte maîtrise de Chamber",
+					"id-ID": "Card Chamber Mastery",
+					"it-IT": "Carta maestria Chamber",
+					"ja-JP": "チェンバー マスタリーカード",
+					"ko-KR": "체임버 숙련도 카드",
+					"pl-PL": "Karta „Maestria Chambera”",
+					"pt-BR": "Card Maestria // Chamber",
+					"ru-RU": "Карточка \"Мастерство Chamber\"",
+					"th-TH": "การ์ด Chamber Mastery",
+					"tr-TR": "Chamber Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Chamber",
+					"zh-CN": "尚勃勒精通 卡面",
+					"zh-TW": "錢博爾專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "67751F32-445F-63B1-1079-3B9E170F3914",
+			"label": "67751F32-445F-63B1-1079-3B9E170F3914",
+			"name":
+			{
+				"defaultText": "KAY/O Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان كاي/أو",
+					"de-DE": "Banner „Meisterschaft: KAY/O“",
+					"en-US": "KAY/O Mastery Card",
+					"es-ES": "Tarjeta de maestría de KAY/O",
+					"es-MX": "Tarjeta Maestría de KAY/O",
+					"fr-FR": "Carte maîtrise de KAY/O",
+					"id-ID": "Card KAY/O Mastery",
+					"it-IT": "Carta maestria KAY/O",
+					"ja-JP": "KAY/O マスタリーカード",
+					"ko-KR": "케이/오 숙련도 카드",
+					"pl-PL": "Karta „Maestria KAY/O”",
+					"pt-BR": "Card Maestria // KAY/O",
+					"ru-RU": "Карточка \"Мастерство KAY/O\"",
+					"th-TH": "การ์ด KAY/O Mastery",
+					"tr-TR": "KAY/O Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo KAY/O",
+					"zh-CN": "K/O精通 卡面",
+					"zh-TW": "KAY/O專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "2630C24B-424D-974F-98B4-A1ADF1B49C72",
+			"label": "2630C24B-424D-974F-98B4-A1ADF1B49C72",
+			"name":
+			{
+				"defaultText": "Skye Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان سكاي",
+					"de-DE": "Banner „Meisterschaft: Skye“",
+					"en-US": "Skye Mastery Card",
+					"es-ES": "Tarjeta de maestría de Skye",
+					"es-MX": "Tarjeta Maestría de Skye",
+					"fr-FR": "Carte maîtrise de Skye",
+					"id-ID": "Card Skye Mastery",
+					"it-IT": "Carta maestria Skye",
+					"ja-JP": "スカイ マスタリーカード",
+					"ko-KR": "스카이 숙련도 카드",
+					"pl-PL": "Karta „Maestria Skye”",
+					"pt-BR": "Card Maestria // Skye",
+					"ru-RU": "Карточка \"Мастерство Skye\"",
+					"th-TH": "การ์ด Skye Mastery",
+					"tr-TR": "Skye Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Skye",
+					"zh-CN": "斯凯精通 卡面",
+					"zh-TW": "絲凱專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "B8B503F2-410E-759E-3C14-128B71623597",
+			"label": "B8B503F2-410E-759E-3C14-128B71623597",
+			"name":
+			{
+				"defaultText": "Cypher Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان سايفر",
+					"de-DE": "Banner „Meisterschaft: Cypher“",
+					"en-US": "Cypher Mastery Card",
+					"es-ES": "Tarjeta de maestría de Cypher",
+					"es-MX": "Tarjeta Maestría de Cypher",
+					"fr-FR": "Carte maîtrise de Cypher",
+					"id-ID": "Card Cypher Mastery",
+					"it-IT": "Carta maestria Cypher",
+					"ja-JP": "サイファー マスタリーカード",
+					"ko-KR": "사이퍼 숙련도 카드",
+					"pl-PL": "Karta „Maestria Cyphera”",
+					"pt-BR": "Card Maestria // Cypher",
+					"ru-RU": "Карточка \"Мастерство Cypher\"",
+					"th-TH": "การ์ด Cypher Mastery",
+					"tr-TR": "Cypher Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Cypher",
+					"zh-CN": "零精通 卡面",
+					"zh-TW": "瑟符專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "52995983-424C-9517-2FE8-3795E092EDB8",
+			"label": "52995983-424C-9517-2FE8-3795E092EDB8",
+			"name":
+			{
+				"defaultText": "Sova Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان سوفا",
+					"de-DE": "Banner „Meisterschaft: Sova“",
+					"en-US": "Sova Mastery Card",
+					"es-ES": "Tarjeta de maestría de Sova",
+					"es-MX": "Tarjeta Maestría de Sova",
+					"fr-FR": "Carte maîtrise de Sova",
+					"id-ID": "Card Sova Mastery",
+					"it-IT": "Carta maestria Sova",
+					"ja-JP": "ソーヴァ マスタリーカード",
+					"ko-KR": "소바 숙련도 카드",
+					"pl-PL": "Karta „Maestria Sovy”",
+					"pt-BR": "Card Maestria // Sova",
+					"ru-RU": "Карточка \"Мастерство Sova\"",
+					"th-TH": "การ์ด Sova Mastery",
+					"tr-TR": "Sova Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Sova",
+					"zh-CN": "猎枭精通 卡面",
+					"zh-TW": "蘇法專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "F823AD0B-408B-A2CB-FB6D-0D8F32061566",
+			"label": "F823AD0B-408B-A2CB-FB6D-0D8F32061566",
+			"name":
+			{
+				"defaultText": "Miks Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان ميكس",
+					"de-DE": "Banner „Meisterschaft: Miks“",
+					"en-US": "Miks Mastery Card",
+					"es-ES": "Tarjeta de maestría de Miks",
+					"es-MX": "Tarjeta Maestría de Miks",
+					"fr-FR": "Carte maîtrise de Miks",
+					"id-ID": "Card Miks Mastery",
+					"it-IT": "Carta maestria Miks",
+					"ja-JP": "ミクス マスタリーカード",
+					"ko-KR": "믹스 숙련도 카드",
+					"pl-PL": "Karta „Maestria Miksa”",
+					"pt-BR": "Card Maestria // Miks",
+					"ru-RU": "Карточка \"Мастерство Miks\"",
+					"th-TH": "การ์ด Miks Mastery",
+					"tr-TR": "Miks Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Miks",
+					"zh-CN": "迷核精通 卡面",
+					"zh-TW": "米克什專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "C4CE1182-4C8E-FCCF-30F0-2E868E59B9E0",
+			"label": "C4CE1182-4C8E-FCCF-30F0-2E868E59B9E0",
+			"name":
+			{
+				"defaultText": "Killjoy Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان كيلجوي",
+					"de-DE": "Banner „Meisterschaft: Killjoy“",
+					"en-US": "Killjoy Mastery Card",
+					"es-ES": "Tarjeta de maestría de Killjoy",
+					"es-MX": "Tarjeta Maestría de Killjoy",
+					"fr-FR": "Carte maîtrise de Killjoy",
+					"id-ID": "Card Killjoy Mastery",
+					"it-IT": "Carta maestria Killjoy",
+					"ja-JP": "キルジョイ マスタリーカード",
+					"ko-KR": "킬조이 숙련도 카드",
+					"pl-PL": "Karta „Maestria Killjoy”",
+					"pt-BR": "Card Maestria // Killjoy",
+					"ru-RU": "Карточка \"Мастерство Killjoy\"",
+					"th-TH": "การ์ด Killjoy Mastery",
+					"tr-TR": "Killjoy Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Killjoy",
+					"zh-CN": "奇乐精通 卡面",
+					"zh-TW": "愷宙專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "C6806299-4972-10DF-ADB7-6FB21F487C8E",
+			"label": "C6806299-4972-10DF-ADB7-6FB21F487C8E",
+			"name":
+			{
+				"defaultText": "Harbor Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان هاربور",
+					"de-DE": "Banner „Meisterschaft: Harbor“",
+					"en-US": "Harbor Mastery Card",
+					"es-ES": "Tarjeta de maestría de Harbor",
+					"es-MX": "Tarjeta Maestría de Harbor",
+					"fr-FR": "Carte maîtrise de Harbor",
+					"id-ID": "Card Harbor Mastery",
+					"it-IT": "Carta maestria Harbor",
+					"ja-JP": "ハーバー マスタリーカード",
+					"ko-KR": "하버 숙련도 카드",
+					"pl-PL": "Karta „Maestria Harbora”",
+					"pt-BR": "Card Maestria // Harbor",
+					"ru-RU": "Карточка \"Мастерство Harbor\"",
+					"th-TH": "การ์ด Harbor Mastery",
+					"tr-TR": "Harbor Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Harbor",
+					"zh-CN": "海神精通 卡面",
+					"zh-TW": "哈泊專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "7866C5B0-4B0A-EE92-2B19-5789166EC629",
+			"label": "7866C5B0-4B0A-EE92-2B19-5789166EC629",
+			"name":
+			{
+				"defaultText": "Vyse Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان فايس",
+					"de-DE": "Banner „Meisterschaft: Vyse“",
+					"en-US": "Vyse Mastery Card",
+					"es-ES": "Tarjeta de maestría de Vyse",
+					"es-MX": "Tarjeta Maestría de Vyse",
+					"fr-FR": "Carte maîtrise de Vyse",
+					"id-ID": "Card Vyse Mastery",
+					"it-IT": "Carta maestria Vyse",
+					"ja-JP": "ヴァイス マスタリーカード",
+					"ko-KR": "바이스 숙련도 카드",
+					"pl-PL": "Karta „Maestria Vyse”",
+					"pt-BR": "Card Maestria // Vyse",
+					"ru-RU": "Карточка \"Мастерство Vyse\"",
+					"th-TH": "การ์ด Vyse Mastery",
+					"tr-TR": "Vyse Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Vyse",
+					"zh-CN": "维斯精通 卡面",
+					"zh-TW": "薇絲專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "6380E65B-4685-904D-1E80-4AB266493BAE",
+			"label": "6380E65B-4685-904D-1E80-4AB266493BAE",
+			"name":
+			{
+				"defaultText": "Viper Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان فايبر",
+					"de-DE": "Banner „Meisterschaft: Viper“",
+					"en-US": "Viper Mastery Card",
+					"es-ES": "Tarjeta de maestría de Viper",
+					"es-MX": "Tarjeta Maestría de Viper",
+					"fr-FR": "Carte maîtrise de Viper",
+					"id-ID": "Card Viper Mastery",
+					"it-IT": "Carta maestria Viper",
+					"ja-JP": "ヴァイパー マスタリーカード",
+					"ko-KR": "바이퍼 숙련도 카드",
+					"pl-PL": "Karta „Maestria Viper”",
+					"pt-BR": "Card Maestria // Viper",
+					"ru-RU": "Карточка \"Мастерство Viper\"",
+					"th-TH": "การ์ด Viper Mastery",
+					"tr-TR": "Viper Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Viper",
+					"zh-CN": "蝰蛇精通 卡面",
+					"zh-TW": "薇蝮專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "743D51AB-4562-E36C-59BB-6CB68E1AC43E",
+			"label": "743D51AB-4562-E36C-59BB-6CB68E1AC43E",
+			"name":
+			{
+				"defaultText": "Phoenix Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان فينيكس",
+					"de-DE": "Banner „Meisterschaft: Phoenix“",
+					"en-US": "Phoenix Mastery Card",
+					"es-ES": "Tarjeta de maestría de Phoenix",
+					"es-MX": "Tarjeta Maestría de Phoenix",
+					"fr-FR": "Carte maîtrise de Phoenix",
+					"id-ID": "Card Phoenix Mastery",
+					"it-IT": "Carta maestria Phoenix",
+					"ja-JP": "フェニックス マスタリーカード",
+					"ko-KR": "피닉스 숙련도 카드",
+					"pl-PL": "Karta „Maestria Phoenixa”",
+					"pt-BR": "Card Maestria // Phoenix",
+					"ru-RU": "Карточка \"Мастерство Phoenix\"",
+					"th-TH": "การ์ด Phoenix Mastery",
+					"tr-TR": "Phoenix Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Phoenix",
+					"zh-CN": "不死鸟精通 卡面",
+					"zh-TW": "菲尼克斯專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "98036EAA-42E9-E629-6151-90A153AE1F8F",
+			"label": "98036EAA-42E9-E629-6151-90A153AE1F8F",
+			"name":
+			{
+				"defaultText": "Veto Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان فيتو",
+					"de-DE": "Banner „Meisterschaft: Veto“",
+					"en-US": "Veto Mastery Card",
+					"es-ES": "Tarjeta de maestría de Veto",
+					"es-MX": "Tarjeta Maestría de Veto",
+					"fr-FR": "Carte maîtrise de Veto",
+					"id-ID": "Card Veto Mastery",
+					"it-IT": "Carta maestria Veto",
+					"ja-JP": "ヴィトー マスタリーカード",
+					"ko-KR": "비토 숙련도 카드",
+					"pl-PL": "Karta „Maestria Veto”",
+					"pt-BR": "Card Maestria // Veto",
+					"ru-RU": "Карточка \"Мастерство Veto\"",
+					"th-TH": "การ์ด Veto Mastery",
+					"tr-TR": "Veto Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Veto",
+					"zh-CN": "禁灭精通 卡面",
+					"zh-TW": "維托專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "1C1B4B18-4624-67A8-4B8F-34BA41E3872B",
+			"label": "1C1B4B18-4624-67A8-4B8F-34BA41E3872B",
+			"name":
+			{
+				"defaultText": "Astra Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان أسترا",
+					"de-DE": "Banner „Meisterschaft. Astra“",
+					"en-US": "Astra Mastery Card",
+					"es-ES": "Tarjeta de maestría de Astra",
+					"es-MX": "Tarjeta Maestría de Astra",
+					"fr-FR": "Carte Maîtrise d'Astra",
+					"id-ID": "Card Astra Mastery",
+					"it-IT": "Carta maestria Astra",
+					"ja-JP": "アストラ マスタリーカード",
+					"ko-KR": "아스트라 숙련도 카드",
+					"pl-PL": "Karta „Maestria Astry”",
+					"pt-BR": "Card Maestria // Astra",
+					"ru-RU": "Карточка \"Мастерство Astra\"",
+					"th-TH": "การ์ด Astra Mastery",
+					"tr-TR": "Astra Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Astra",
+					"zh-CN": "星礈精通 卡面",
+					"zh-TW": "亞星卓專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "94DCF337-4AE7-7F11-4E1C-38B45FEC751D",
+			"label": "94DCF337-4AE7-7F11-4E1C-38B45FEC751D",
+			"name":
+			{
+				"defaultText": "Brimstone Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان بريمستون",
+					"de-DE": "Banner „Meisterschaft: Brimstone“",
+					"en-US": "Brimstone Mastery Card",
+					"es-ES": "Tarjeta de maestría de Brimstone",
+					"es-MX": "Tarjeta Maestría de Brimstone",
+					"fr-FR": "Carte maîtrise de Brimstone",
+					"id-ID": "Card Brimstone Mastery",
+					"it-IT": "Carta maestria Brimstone",
+					"ja-JP": "ブリムストーン マスタリーカード",
+					"ko-KR": "브림스톤 숙련도 카드",
+					"pl-PL": "Karta „Maestria Brimstone’a”",
+					"pt-BR": "Card Maestria // Brimstone",
+					"ru-RU": "Карточка \"Мастерство Brimstone\"",
+					"th-TH": "การ์ด Brimstone Mastery",
+					"tr-TR": "Brimstone Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Brimstone",
+					"zh-CN": "炼狱精通 卡面",
+					"zh-TW": "布史東專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "970C5624-42B9-8808-387E-BD9BACB2EF13",
+			"label": "970C5624-42B9-8808-387E-BD9BACB2EF13",
+			"name":
+			{
+				"defaultText": "Iso Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان آيسو",
+					"de-DE": "Banner „Meisterschaft: Iso“",
+					"en-US": "Iso Mastery Card",
+					"es-ES": "Tarjeta de maestría de Iso",
+					"es-MX": "Tarjeta Maestría de Iso",
+					"fr-FR": "Carte maîtrise d'Iso",
+					"id-ID": "Card Iso Mastery",
+					"it-IT": "Carta maestria Iso",
+					"ja-JP": "アイソ マスタリーカード",
+					"ko-KR": "아이소 숙련도 카드",
+					"pl-PL": "Karta „Maestria Iso”",
+					"pt-BR": "Card Maestria // Iso",
+					"ru-RU": "Карточка \"Мастерство Iso\"",
+					"th-TH": "การ์ด Iso Mastery",
+					"tr-TR": "Iso Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Iso",
+					"zh-CN": "壹决精通 卡面",
+					"zh-TW": "離索專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "E9368C54-41BA-5D07-F9AA-7F98650E9885",
+			"label": "E9368C54-41BA-5D07-F9AA-7F98650E9885",
+			"name":
+			{
+				"defaultText": "Clove Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان كلوف",
+					"de-DE": "Banner „Meisterschaft: Clove“",
+					"en-US": "Clove Mastery Card",
+					"es-ES": "Tarjeta de maestría de Clove",
+					"es-MX": "Tarjeta Maestría de Clove",
+					"fr-FR": "Carte maîtrise de Clove",
+					"id-ID": "Card Clove Mastery",
+					"it-IT": "Carta maestria Clove",
+					"ja-JP": "クローヴ マスタリーカード",
+					"ko-KR": "클로브 숙련도 카드",
+					"pl-PL": "Karta „Maestria Clove”",
+					"pt-BR": "Card Maestria // Clove",
+					"ru-RU": "Карточка \"Мастерство Clove\"",
+					"th-TH": "การ์ด Clove Mastery",
+					"tr-TR": "Clove Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Clove",
+					"zh-CN": "暮蝶精通 卡面",
+					"zh-TW": "珂樂芙專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "A3047113-49D8-A402-393D-BB89C0BF0237",
+			"label": "A3047113-49D8-A402-393D-BB89C0BF0237",
+			"name":
+			{
+				"defaultText": "Neon Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان نيون",
+					"de-DE": "Banner „Meisterschaft: Neon“",
+					"en-US": "Neon Mastery Card",
+					"es-ES": "Tarjeta de maestría de Neon",
+					"es-MX": "Tarjeta Maestría de Neon",
+					"fr-FR": "Carte maîtrise de Neon",
+					"id-ID": "Card Neon Mastery",
+					"it-IT": "Carta maestria Neon",
+					"ja-JP": "ネオン マスタリーカード",
+					"ko-KR": "네온 숙련도 카드",
+					"pl-PL": "Karta „Maestria Neon”",
+					"pt-BR": "Card Maestria // Neon",
+					"ru-RU": "Карточка \"Мастерство Neon\"",
+					"th-TH": "การ์ด Neon Mastery",
+					"tr-TR": "Neon Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Neon",
+					"zh-CN": "霓虹精通 卡面",
+					"zh-TW": "妮虹專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "20193915-488B-E8DC-EDB8-7CBFE7A99B3C",
+			"label": "20193915-488B-E8DC-EDB8-7CBFE7A99B3C",
+			"name":
+			{
+				"defaultText": "Yoru Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان يورو",
+					"de-DE": "Banner „Meisterschaft: Yoru“",
+					"en-US": "Yoru Mastery Card",
+					"es-ES": "Tarjeta de maestría de Yoru",
+					"es-MX": "Tarjeta Maestría de Yoru",
+					"fr-FR": "Carte maîtrise de Yoru",
+					"id-ID": "Card Yoru Mastery",
+					"it-IT": "Carta maestria Yoru",
+					"ja-JP": "ヨル マスタリーカード",
+					"ko-KR": "요루 숙련도 카드",
+					"pl-PL": "Karta „Maestria Yoru”",
+					"pt-BR": "Card Maestria // Yoru",
+					"ru-RU": "Карточка \"Мастерство Yoru\"",
+					"th-TH": "การ์ด Yoru Mastery",
+					"tr-TR": "Yoru Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Yoru",
+					"zh-CN": "夜露精通 卡面",
+					"zh-TW": "夜戮專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "D84BFA7E-4445-F315-F988-7FAC509E4122",
+			"label": "D84BFA7E-4445-F315-F988-7FAC509E4122",
+			"name":
+			{
+				"defaultText": "Waylay Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان وايلاي",
+					"de-DE": "Banner „Meisterschaft: Waylay“",
+					"en-US": "Waylay Mastery Card",
+					"es-ES": "Tarjeta de maestría de Waylay",
+					"es-MX": "Tarjeta Maestría de Waylay",
+					"fr-FR": "Carte maîtrise de Waylay",
+					"id-ID": "Card Waylay Mastery",
+					"it-IT": "Carta maestria Waylay",
+					"ja-JP": "ウェイレイ マスタリーカード",
+					"ko-KR": "웨이레이 숙련도 카드",
+					"pl-PL": "Karta „Maestria Waylay”",
+					"pt-BR": "Card Maestria // Waylay",
+					"ru-RU": "Карточка \"Мастерство Waylay\"",
+					"th-TH": "การ์ด Waylay Mastery",
+					"tr-TR": "Waylay Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Waylay",
+					"zh-CN": "幻棱精通 卡面",
+					"zh-TW": "維蕾專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "7C2BC54D-4F20-3264-1497-03A0A1A506E1",
+			"label": "7C2BC54D-4F20-3264-1497-03A0A1A506E1",
+			"name":
+			{
+				"defaultText": "Sage Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان سايج",
+					"de-DE": "Banner „Meisterschaft: Sage“",
+					"en-US": "Sage Mastery Card",
+					"es-ES": "Tarjeta de maestría de Sage",
+					"es-MX": "Tarjeta Maestría de Sage",
+					"fr-FR": "Carte maîtrise de Sage",
+					"id-ID": "Card Sage Mastery",
+					"it-IT": "Carta maestria Sage",
+					"ja-JP": "セージ マスタリーカード",
+					"ko-KR": "세이지 숙련도 카드",
+					"pl-PL": "Karta „Maestria Sage”",
+					"pt-BR": "Card Maestria // Sage",
+					"ru-RU": "Карточка \"Мастерство Sage\"",
+					"th-TH": "การ์ด Sage Mastery",
+					"tr-TR": "Sage Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Sage",
+					"zh-CN": "贤者精通 卡面",
+					"zh-TW": "聖祈專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "70CECCA0-4B4B-9AD4-1652-BEBE785EF8E8",
+			"label": "70CECCA0-4B4B-9AD4-1652-BEBE785EF8E8",
+			"name":
+			{
+				"defaultText": "Reyna Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان ريينا",
+					"de-DE": "Banner „Meisterschaft: Reyna“",
+					"en-US": "Reyna Mastery Card",
+					"es-ES": "Tarjeta de maestría de Reyna",
+					"es-MX": "Tarjeta Maestría de Reyna",
+					"fr-FR": "Carte maîtrise de Reyna",
+					"id-ID": "Card Reyna Mastery",
+					"it-IT": "Carta maestria Reyna",
+					"ja-JP": "レイナ マスタリーカード",
+					"ko-KR": "레이나 숙련도 카드",
+					"pl-PL": "Karta „Maestria Reyny”",
+					"pt-BR": "Card Maestria // Reyna",
+					"ru-RU": "Карточка \"Мастерство Reyna\"",
+					"th-TH": "การ์ด Reyna Mastery",
+					"tr-TR": "Reyna Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Reyna",
+					"zh-CN": "芮娜精通 卡面",
+					"zh-TW": "蕾娜專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "50EE5414-45CC-85F6-2EC8-CB96D86F6039",
+			"label": "50EE5414-45CC-85F6-2EC8-CB96D86F6039",
+			"name":
+			{
+				"defaultText": "Omen Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان أومن",
+					"de-DE": "Banner „Meisterschaft: Omen“",
+					"en-US": "Omen Mastery Card",
+					"es-ES": "Tarjeta de maestría de Omen",
+					"es-MX": "Tarjeta Maestría de Omen",
+					"fr-FR": "Carte maîtrise d'Omen",
+					"id-ID": "Card Omen Mastery",
+					"it-IT": "Carta maestria Omen",
+					"ja-JP": "オーメン マスタリーカード",
+					"ko-KR": "오멘 숙련도 카드",
+					"pl-PL": "Karta „Maestria Omena”",
+					"pt-BR": "Card Maestria // Omen",
+					"ru-RU": "Карточка \"Мастерство Omen\"",
+					"th-TH": "การ์ด Omen Mastery",
+					"tr-TR": "Omen Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Omen",
+					"zh-CN": "幽影精通 卡面",
+					"zh-TW": "歐門專精 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "E9C8D760-4D06-4037-4882-6BAB3610D9EA",
+			"label": "E9C8D760-4D06-4037-4882-6BAB3610D9EA",
+			"name":
+			{
+				"defaultText": "Jett Mastery Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة إتقان جيت",
+					"de-DE": "Banner „Meisterschaft: Jett“",
+					"en-US": "Jett Mastery Card",
+					"es-ES": "Tarjeta de maestría de Jett",
+					"es-MX": "Tarjeta Maestría de Jett",
+					"fr-FR": "Carte maîtrise de Jett",
+					"id-ID": "Card Jett Mastery",
+					"it-IT": "Carta maestria Jett",
+					"ja-JP": "ジェット マスタリーカード",
+					"ko-KR": "제트 숙련도 카드",
+					"pl-PL": "Karta „Maestria Jett”",
+					"pt-BR": "Card Maestria // Jett",
+					"ru-RU": "Карточка \"Мастерство Jett\"",
+					"th-TH": "การ์ด Jett Mastery",
+					"tr-TR": "Jett Ustalık Kartı",
+					"vi-VN": "Thẻ Thành Thạo Jett",
+					"zh-CN": "捷风精通 卡面",
+					"zh-TW": "婕提專精 玩家卡面"
+				}
+			}
+		},
+		{
 			"id": "C3E4A7E3-48C4-8476-6BF5-39892718E1F2",
 			"label": "C3E4A7E3-48C4-8476-6BF5-39892718E1F2",
 			"name":
@@ -225098,6 +227200,93 @@
 					"vi-VN": "Thẻ Champions 2024",
 					"zh-CN": "2024全球冠军赛 卡面",
 					"zh-TW": "Champions 2024 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "4B8E7084-4DF0-5F39-8C02-0E8035849195",
+			"label": "4B8E7084-4DF0-5F39-8C02-0E8035849195",
+			"name":
+			{
+				"defaultText": "Champions 2026: Dragon Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة Champions 2026: التنين",
+					"de-DE": "Banner „Champions 2026: Drache“",
+					"en-US": "Champions 2026: Dragon Card",
+					"es-ES": "Tarjeta Champions 2026: Dragón",
+					"es-MX": "Champions 2026: Tarjeta de Dragón",
+					"fr-FR": "Carte Champions 2026 : Dragon",
+					"id-ID": "Card Champions 2026: Dragon",
+					"it-IT": "Carta Champions 2026: Drago",
+					"ja-JP": "Champions 2026: ドラゴン カード",
+					"ko-KR": "2026 챔피언스: 용 카드",
+					"pl-PL": "Karta „Champions 2026: Smok”",
+					"pt-BR": "Card Champions 2026: Dragão",
+					"ru-RU": "Карточка \"Champions 2026: дракон\"",
+					"th-TH": "การ์ด Champions 2026: Dragon",
+					"tr-TR": "Champions 2026: Ejder Kartı",
+					"vi-VN": "Thẻ Champions 2026: Rồng",
+					"zh-CN": "2026全球冠军赛：神龙 卡面",
+					"zh-TW": "Champions 2026: 神龍 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "D30271AE-4CE1-5ED2-C55F-F08A6247C274",
+			"label": "D30271AE-4CE1-5ED2-C55F-F08A6247C274",
+			"name":
+			{
+				"defaultText": "Frag or Die: Focus Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة النصر أو الهزيمة: التركيز",
+					"de-DE": "Banner „Fraggen oder sterben: Fokus“",
+					"en-US": "Frag or Die: Focus Card",
+					"es-ES": "Tarjeta Frag or Die: Concentración",
+					"es-MX": "Aniquila o Muere: Tarjeta de Concentración",
+					"fr-FR": "Carte Frag or Die : Concentration",
+					"id-ID": "Card Frag or Die: Focus",
+					"it-IT": "Carta Frag or Die: Concentrazione",
+					"ja-JP": "Frag or Die: フォーカス カード",
+					"ko-KR": "사생결단: 집중 카드",
+					"pl-PL": "Karta „Zabijaj lub Giń: Skupienie”",
+					"pt-BR": "Card Abater ou Morrer: Foco",
+					"ru-RU": "Карточка \"Победи или умри: концентрация\"",
+					"th-TH": "การ์ด Frag or Die: Focus",
+					"tr-TR": "Öldür ya da Öl: Odak Kartı",
+					"vi-VN": "Thẻ Hạ Gục hay Bị Hạ: Chú Tâm",
+					"zh-CN": "生死无暇：凝神屏息 卡面",
+					"zh-TW": "擊殺方能生存：潛心修煉 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "49B3553D-44A2-9F61-C050-52A401064495",
+			"label": "49B3553D-44A2-9F61-C050-52A401064495",
+			"name":
+			{
+				"defaultText": "Champions 2026: Snake Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة Champions 2026: الأفعى",
+					"de-DE": "Banner „Champions 2026: Schlange“",
+					"en-US": "Champions 2026: Snake Card",
+					"es-ES": "Tarjeta Champions 2026: Serpiente",
+					"es-MX": "Champions 2026: Tarjeta de Serpiente",
+					"fr-FR": "Carte Champions 2026 : Serpent",
+					"id-ID": "Card Champions 2026: Snake",
+					"it-IT": "Carta Champions 2026: Serpente",
+					"ja-JP": "Champions 2026: スネーク カード",
+					"ko-KR": "2026 챔피언스: 뱀 카드",
+					"pl-PL": "Karta „Champions 2026: Wąż”",
+					"pt-BR": "Card Champions 2026: Cobra",
+					"ru-RU": "Карточка \"Champions 2026: змея\"",
+					"th-TH": "การ์ด Champions 2026: Snake",
+					"tr-TR": "Champions 2026: Yılan Kartı",
+					"vi-VN": "Thẻ Champions 2026: Rắn",
+					"zh-CN": "2026全球冠军赛：灵蛇 卡面",
+					"zh-TW": "Champions 2026: 靈蛇 玩家卡面"
 				}
 			}
 		},
@@ -225313,13 +227502,13 @@
 				"localizedByCulture":
 				{
 					"ar-AE": "بطاقة النصر أو الهزيمة: ساميت",
-					"de-DE": "Banner „Summit: Fraggen oder sterben“",
+					"de-DE": "Banner „Fraggen oder sterben: Summit“",
 					"en-US": "Frag or Die: Summit Card",
 					"es-ES": "Tarjeta Frag or Die: Summit",
 					"es-MX": "Aniquila o Muere: Tarjeta Summit",
-					"fr-FR": "Carte Frag or Die: Summit",
+					"fr-FR": "Carte Frag or Die : Summit",
 					"id-ID": "Card Frag or Die: Summit",
-					"it-IT": "Carta Frag or Die: Cima",
+					"it-IT": "Carta Frag or Die: Summit",
 					"ja-JP": "Frag or Die: サミット カード",
 					"ko-KR": "사생결단: 서밋 카드",
 					"pl-PL": "Karta „Zabijaj lub Giń: Summit”",
@@ -225329,7 +227518,7 @@
 					"tr-TR": "Öldür ya da Öl: Summit Kartı",
 					"vi-VN": "Thẻ Hạ Gục Hay Bị Hạ: Summit",
 					"zh-CN": "生死无暇：天枢之决 卡面",
-					"zh-TW": "擊殺方能生存：巔峰 玩家卡面"
+					"zh-TW": "擊殺方能生存：頂峰亭閣 玩家卡面"
 				}
 			}
 		},
@@ -225346,7 +227535,7 @@
 					"en-US": "Frag or Die: Last Strike Card",
 					"es-ES": "Tarjeta Frag or Die: Último golpe",
 					"es-MX": "Aniquila o Muere: Tarjeta Último Golpe",
-					"fr-FR": "Carte Frag or Die: Last Strike",
+					"fr-FR": "Carte Frag or Die : Last Strike",
 					"id-ID": "Card Frag or Die: Last Strike",
 					"it-IT": "Carta Frag or Die: Ultimo colpo",
 					"ja-JP": "Frag or Die: ラストストライク カード",
@@ -237166,6 +239355,35 @@
 			}
 		},
 		{
+			"id": "1ECB8866-4410-AFF2-8A56-E1BDD3D1A83A",
+			"label": "1ECB8866-4410-AFF2-8A56-E1BDD3D1A83A",
+			"name":
+			{
+				"defaultText": "Warden Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة واردن",
+					"de-DE": "Banner „Warden“",
+					"en-US": "Warden Card",
+					"es-ES": "Tarjeta Warden",
+					"es-MX": "Tarjeta de Warden",
+					"fr-FR": "Carte Warden",
+					"id-ID": "Card Warden",
+					"it-IT": "Carta Warden",
+					"ja-JP": "ウォーデン カード",
+					"ko-KR": "워든 카드",
+					"pl-PL": "Karta „Warden”",
+					"pt-BR": "Card Warden",
+					"ru-RU": "Карточка \"Warden\"",
+					"th-TH": "การ์ด Warden",
+					"tr-TR": "Warden Kartı",
+					"vi-VN": "Thẻ Warden",
+					"zh-CN": "悍狼 卡面",
+					"zh-TW": "守望者 玩家卡面"
+				}
+			}
+		},
+		{
 			"id": "BCF9CFF4-4163-A536-458D-22B8904876AD",
 			"label": "BCF9CFF4-4163-A536-458D-22B8904876AD",
 			"name":
@@ -238844,6 +241062,35 @@
 					"vi-VN": "Thẻ PREMIER V26P4",
 					"zh-CN": "超级赛//V26第四幕 卡面",
 					"zh-TW": "Premier V26第四章 玩家卡面"
+				}
+			}
+		},
+		{
+			"id": "8DD76058-476F-57A7-0A52-84B307DBF373",
+			"label": "8DD76058-476F-57A7-0A52-84B307DBF373",
+			"name":
+			{
+				"defaultText": "PREMIER V26A5 Card",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطاقة بريمير V26م5",
+					"de-DE": "Banner „PREMIER V26A5“",
+					"en-US": "PREMIER V26A5 Card",
+					"es-ES": "Tarjeta de PREMIER V26A5",
+					"es-MX": "Tarjeta V26A5: PREMIER",
+					"fr-FR": "Carte PREMIER V26A5",
+					"id-ID": "Card PREMIER V26A5",
+					"it-IT": "Carta PREMIER V26A5",
+					"ja-JP": "PREMIER V26A5 カード",
+					"ko-KR": "프리미어 V26A5 카드",
+					"pl-PL": "Karta „V26A5 PREMIER”",
+					"pt-BR": "Card PREMIER V26A5",
+					"ru-RU": "Карточка \"V26A5 PREMIER\"",
+					"th-TH": "การ์ด PREMIER V26A5",
+					"tr-TR": "PREMIER V26K5 Kartı",
+					"vi-VN": "Thẻ PREMIER V26P5",
+					"zh-CN": "超级赛//V26第五幕 卡面",
+					"zh-TW": "Premier V26第五章 玩家卡面"
 				}
 			}
 		},
@@ -255984,6 +258231,1302 @@
 		{
 			"titleText":
 			{
+				"defaultText": "All to Dust",
+				"localizedByCulture":
+				{
+					"ar-AE": "كل شيء إلى غبار!",
+					"de-DE": "Alles zu Staub",
+					"en-US": "All to Dust",
+					"es-ES": "Todo reducido a polvo",
+					"es-MX": "Demolición Total",
+					"fr-FR": "Réduit en poussière",
+					"id-ID": "All to Dust",
+					"it-IT": "Tutto in polvere",
+					"ja-JP": "灰燼に帰す",
+					"ko-KR": "전부 먼지로",
+					"pl-PL": "Wszystko w proch",
+					"pt-BR": "Tudo ao Pó",
+					"ru-RU": "Все в пыль",
+					"th-TH": "ทุกสิ่งเป็นเถ้าธุลี",
+					"tr-TR": "Hepsi Toz Olacak",
+					"vi-VN": "Tất Cả Thành Cát Bụi",
+					"zh-CN": "尘归尘",
+					"zh-TW": "塵歸塵"
+				}
+			},
+			"id": "CD0FE6ED-4FF9-D4F3-F239-B4AA501F0D81",
+			"label": "CD0FE6ED-4FF9-D4F3-F239-B4AA501F0D81",
+			"name":
+			{
+				"defaultText": "All to Dust Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب كل شيء إلى غبار!",
+					"de-DE": "Titel „Alles zu Staub“",
+					"en-US": "All to Dust Title",
+					"es-ES": "Título Todo reducido a polvo",
+					"es-MX": "Título Demolición Total",
+					"fr-FR": "Titre Réduit en poussière",
+					"id-ID": "Gelar All to Dust",
+					"it-IT": "Titolo Tutto in polvere",
+					"ja-JP": "灰燼に帰す タイトル",
+					"ko-KR": "전부 먼지로 칭호",
+					"pl-PL": "Tytuł „Wszystko w proch”",
+					"pt-BR": "Título Tudo ao Pó",
+					"ru-RU": "Звание \"Все в пыль\"",
+					"th-TH": "ฉายาทุกสิ่งเป็นเถ้าธุลี",
+					"tr-TR": "Hepsi Toz Olacak Unvanı",
+					"vi-VN": "Danh Hiệu Tất Cả Thành Cát Bụi",
+					"zh-CN": "尘归尘 称号",
+					"zh-TW": "塵歸塵 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Astral Guardian",
+				"localizedByCulture":
+				{
+					"ar-AE": "حارس الفضاء",
+					"de-DE": "Astralwächter",
+					"en-US": "Astral Guardian",
+					"es-ES": "Guardiana astral",
+					"es-MX": "Vigía Astral",
+					"fr-FR": "Gardien astral",
+					"id-ID": "Abyssal Guardian",
+					"it-IT": "Guardiano astrale",
+					"ja-JP": "アストラル ガーディアン",
+					"ko-KR": "천상의 수호자",
+					"pl-PL": "Astralny Strażnik",
+					"pt-BR": "Guardião Astral",
+					"ru-RU": "Астральный защитник",
+					"th-TH": "ผู้พิทักษ์แห่งดวงดาว",
+					"tr-TR": "Astral Muhafız",
+					"vi-VN": "Giám Hộ Vũ Trụ",
+					"zh-CN": "星界守护者",
+					"zh-TW": "星界捍衛者"
+				}
+			},
+			"id": "494B77B1-4604-6185-B5BD-E0906FFBEB02",
+			"label": "494B77B1-4604-6185-B5BD-E0906FFBEB02",
+			"name":
+			{
+				"defaultText": "Astral Guardian Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب حارس الفضاء",
+					"de-DE": "Titel „Astralwächter“",
+					"en-US": "Astral Guardian Title",
+					"es-ES": "Título Guardiana astral",
+					"es-MX": "Título Vigía Astral",
+					"fr-FR": "Titre Gardien astral",
+					"id-ID": "Gelar Astral Guardian",
+					"it-IT": "Titolo Guardiano astrale",
+					"ja-JP": "アストラル ガーディアン タイトル",
+					"ko-KR": "천상의 수호자 칭호",
+					"pl-PL": "Tytuł „Astralny Strażnik”",
+					"pt-BR": "Título Guardião Astral",
+					"ru-RU": "Звание \"Астральный защитник\"",
+					"th-TH": "ฉายาผู้พิทักษ์แห่งดวงดาว",
+					"tr-TR": "Astral Muhafız Unvanı",
+					"vi-VN": "Danh Hiệu Giám Hộ Vũ Trụ",
+					"zh-CN": "星界守护者 称号",
+					"zh-TW": "星界捍衛者 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Dressed To Kill",
+				"localizedByCulture":
+				{
+					"ar-AE": "الأناقة القاتلة",
+					"de-DE": "Todschick gekleidet",
+					"en-US": "Dressed To Kill",
+					"es-ES": "Modelito de muerte",
+					"es-MX": "Outfit Asesino",
+					"fr-FR": "Paré pour tuer",
+					"id-ID": "Dressed To Kill",
+					"it-IT": "Eleganza che uccide",
+					"ja-JP": "キル ドレス",
+					"ko-KR": "치명적 패션",
+					"pl-PL": "Ubranie zabójcy",
+					"pt-BR": "Vestida para Matar",
+					"ru-RU": "Смертоносный стиль",
+					"th-TH": "เพชฌฆาตสายแฟ",
+					"tr-TR": "Ölümcül Şıklık",
+					"vi-VN": "Ăn Diện Tới Diệt",
+					"zh-CN": "盛装夜行",
+					"zh-TW": "盛裝出擊"
+				}
+			},
+			"id": "8B25CA8F-434F-C702-3851-5A8FD9A7C236",
+			"label": "8B25CA8F-434F-C702-3851-5A8FD9A7C236",
+			"name":
+			{
+				"defaultText": "Dressed To Kill Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب الأناقة القاتلة",
+					"de-DE": "Titel „Todschick gekleidet“",
+					"en-US": "Dressed To Kill Title",
+					"es-ES": "Título Modelito de muerte",
+					"es-MX": "Título Outfit Asesino",
+					"fr-FR": "Titre Paré pour tuer",
+					"id-ID": "Gelar Dressed To Kill",
+					"it-IT": "Titolo Eleganza che uccide",
+					"ja-JP": "キル ドレス タイトル",
+					"ko-KR": "치명적 패션 칭호",
+					"pl-PL": "Tytuł „Ubranie zabójcy”",
+					"pt-BR": "Título Vestida para Matar",
+					"ru-RU": "Звание \"Смертоносный стиль\"",
+					"th-TH": "ฉายาเพชฌฆาตสายแฟ",
+					"tr-TR": "Ölümcül Şıklık Unvanı",
+					"vi-VN": "Danh Hiệu Ăn Diện Tới Diệt",
+					"zh-CN": "盛装夜行 称号",
+					"zh-TW": "盛裝出擊 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Jötunn Hunter",
+				"localizedByCulture":
+				{
+					"ar-AE": "صياد العمالقة",
+					"de-DE": "Jötunnjäger",
+					"en-US": "Jötunn Hunter",
+					"es-ES": "Cazajotuns",
+					"es-MX": "Cazaleyendas",
+					"fr-FR": "Chasseur de Jötunn",
+					"id-ID": "Jötunn Hunter",
+					"it-IT": "Cacciatore di Jötunn",
+					"ja-JP": "ヨトゥン ハンター",
+					"ko-KR": "요툰 사냥꾼",
+					"pl-PL": "Łowca jötunnów",
+					"pt-BR": "Caçador de Jötnar",
+					"ru-RU": "Охотник на йотунов",
+					"th-TH": "นักล่ายอตุนน์",
+					"tr-TR": "Jötunn Avcısı",
+					"vi-VN": "Thợ Săn Jötunn",
+					"zh-CN": "约顿巨人猎手",
+					"zh-TW": "巨人獵手"
+				}
+			},
+			"id": "AC8E0154-40D3-6DE3-AE05-988F97BC7E00",
+			"label": "AC8E0154-40D3-6DE3-AE05-988F97BC7E00",
+			"name":
+			{
+				"defaultText": "Jötunn Hunter Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب صياد العمالقة",
+					"de-DE": "Titel „Jötunnjäger“",
+					"en-US": "Jötunn Hunter Title",
+					"es-ES": "Título Cazajotuns",
+					"es-MX": "Título El Terror de los Jötunn",
+					"fr-FR": "Titre Chasseur de Jötunn",
+					"id-ID": "Gelar Jötunn Hunter",
+					"it-IT": "Titolo Cacciatore di Jötunn",
+					"ja-JP": "ヨトゥン ハンター タイトル",
+					"ko-KR": "요툰 사냥꾼 칭호",
+					"pl-PL": "Tytuł „Łowca jötunnów”",
+					"pt-BR": "Título Caçador de Jötnar",
+					"ru-RU": "Звание \"Охотник на йотунов\"",
+					"th-TH": "ฉายานักล่ายอตุนน์",
+					"tr-TR": "Jötunn Avcısı Unvanı",
+					"vi-VN": "Danh Hiệu Thợ Săn Jötunn",
+					"zh-CN": "约顿巨人猎手 称号",
+					"zh-TW": "巨人獵手 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Kaleidoscopic",
+				"localizedByCulture":
+				{
+					"ar-AE": "المنظار",
+					"de-DE": "Kaleidoskopisch",
+					"en-US": "Kaleidoscopic",
+					"es-ES": "Caleidoscópico",
+					"es-MX": "Caleidoscópico",
+					"fr-FR": "Kaléidoscopique",
+					"id-ID": "Kaleidoscopic",
+					"it-IT": "Caleidoscopico",
+					"ja-JP": "カレイドスコープ",
+					"ko-KR": "만화경",
+					"pl-PL": "Kalejdoskop",
+					"pt-BR": "Caleidoscópico",
+					"ru-RU": "Калейдоскоп",
+					"th-TH": "หลากสีสลับลาย",
+					"tr-TR": "Kaleydoskopik",
+					"vi-VN": "Kính Vạn Hoa",
+					"zh-CN": "万花棱镜",
+					"zh-TW": "萬花筒"
+				}
+			},
+			"id": "2C3D27D7-4CB8-2502-233A-43BB10594279",
+			"label": "2C3D27D7-4CB8-2502-233A-43BB10594279",
+			"name":
+			{
+				"defaultText": "Kaleidoscopic Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب المنظار",
+					"de-DE": "Titel „Kaleidoskopisch“",
+					"en-US": "Kaleidoscopic Title",
+					"es-ES": "Título Caleidoscópico",
+					"es-MX": "Título Caleidoscópico",
+					"fr-FR": "Titre Kaléidoscopique",
+					"id-ID": "Gelar Kaleidoscopic",
+					"it-IT": "Titolo Caleidoscopico",
+					"ja-JP": "カレイドスコープ タイトル",
+					"ko-KR": "만화경 칭호",
+					"pl-PL": "Tytuł „Kalejdoskop”",
+					"pt-BR": "Título Caleidoscópico",
+					"ru-RU": "Звание \"Калейдоскоп\"",
+					"th-TH": "ฉายาหลากสีสลับลาย",
+					"tr-TR": "Kaleydoskopik Unvanı",
+					"vi-VN": "Danh Hiệu Kính Vạn Hoa",
+					"zh-CN": "万花棱镜 称号",
+					"zh-TW": "萬花筒 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Lifeweaver",
+				"localizedByCulture":
+				{
+					"ar-AE": "نسّاج الحياة",
+					"de-DE": "Lebensweber",
+					"en-US": "Lifeweaver",
+					"es-ES": "Tejevida",
+					"es-MX": "Tejevidas",
+					"fr-FR": "Tisse-vie",
+					"id-ID": "Lifeweaver",
+					"it-IT": "Tessivita",
+					"ja-JP": "命脈を紡ぐもの",
+					"ko-KR": "생명을 엮어내는 자",
+					"pl-PL": "Tkacz życia",
+					"pt-BR": "Biomante",
+					"ru-RU": "Ткач жизни",
+					"th-TH": "ผู้ถักทอชีวิต",
+					"tr-TR": "Yaşam Dokuyan",
+					"vi-VN": "Dệt Nên Sự Sống",
+					"zh-CN": "生命织匠",
+					"zh-TW": "生命織者"
+				}
+			},
+			"id": "F5A1C1B5-4B4D-E2D1-D0A0-B6AD4B6A390E",
+			"label": "F5A1C1B5-4B4D-E2D1-D0A0-B6AD4B6A390E",
+			"name":
+			{
+				"defaultText": "Lifeweaver Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب نسّاج الحياة",
+					"de-DE": "Titel „Lebensweber“",
+					"en-US": "Lifeweaver Title",
+					"es-ES": "Título Tejevida",
+					"es-MX": "Título Tejevidas",
+					"fr-FR": "Titre Tisse-vie",
+					"id-ID": "Gelar Lifeweaver",
+					"it-IT": "Titolo Tessivita",
+					"ja-JP": "命脈を紡ぐもの タイトル",
+					"ko-KR": "생명을 엮어내는 자 칭호",
+					"pl-PL": "Tytuł „Tkacz życia”",
+					"pt-BR": "Título Biomante",
+					"ru-RU": "Звание \"Ткач жизни\"",
+					"th-TH": "ฉายาผู้ถักทอชีวิต",
+					"tr-TR": "Yaşam Dokuyan Unvanı",
+					"vi-VN": "Danh Hiệu Dệt Nên Sự Sống",
+					"zh-CN": "生命织匠 称号",
+					"zh-TW": "生命織者 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Lil Homie",
+				"localizedByCulture":
+				{
+					"ar-AE": "الرفيق الصغير",
+					"de-DE": "Kleiner Kumpel",
+					"en-US": "Lil Homie",
+					"es-ES": "Colegui",
+					"es-MX": "Compita de Cora",
+					"fr-FR": "P'tit pote",
+					"id-ID": "Lil Homie",
+					"it-IT": "Amichetto",
+					"ja-JP": "地元仲間",
+					"ko-KR": "작은 친구",
+					"pl-PL": "Ziomeczek",
+					"pt-BR": "Parcinha",
+					"ru-RU": "Кроха",
+					"th-TH": "สหายตัวจิ๋ว",
+					"tr-TR": "Minik Dostum",
+					"vi-VN": "Lil Homie",
+					"zh-CN": "小兄弟",
+					"zh-TW": "小老弟"
+				}
+			},
+			"id": "AE449247-498B-3EA7-C706-5B8D63935D11",
+			"label": "AE449247-498B-3EA7-C706-5B8D63935D11",
+			"name":
+			{
+				"defaultText": "Lil Homie Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب الرفيق الصغير",
+					"de-DE": "Titel „Kleiner Kumpel“",
+					"en-US": "Lil Homie Title",
+					"es-ES": "Título Colegui",
+					"es-MX": "Título Compita de Cora",
+					"fr-FR": "Titre P'tit pote",
+					"id-ID": "Gelar Lil Homie",
+					"it-IT": "Titolo Amichetto",
+					"ja-JP": "地元仲間 タイトル",
+					"ko-KR": "작은 친구 칭호",
+					"pl-PL": "Tytuł „Ziomeczek”",
+					"pt-BR": "Título Parcinha",
+					"ru-RU": "Звание \"Кроха\"",
+					"th-TH": "ฉายาสหายตัวจิ๋ว",
+					"tr-TR": "Minik Dostum Unvanı",
+					"vi-VN": "Danh Hiệu Lil Homie",
+					"zh-CN": "小兄弟 称号",
+					"zh-TW": "小老弟 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Lord of Death",
+				"localizedByCulture":
+				{
+					"ar-AE": "سيد الموت",
+					"de-DE": "Herr des Todes",
+					"en-US": "Lord of Death",
+					"es-ES": "Señor de la muerte",
+					"es-MX": "As de la Muerte",
+					"fr-FR": "Seigneur de la mort",
+					"id-ID": "Lord of Death",
+					"it-IT": "Signore della morte",
+					"ja-JP": "ロード・オブ・デス",
+					"ko-KR": "죽음의 군주",
+					"pl-PL": "Władca śmierci",
+					"pt-BR": "Mandante da Morte",
+					"ru-RU": "Владыка смерти",
+					"th-TH": "เจ้าแห่งความตาย",
+					"tr-TR": "Ölüm Lordu",
+					"vi-VN": "Chúa Tể Của Cái Chết",
+					"zh-CN": "死亡领主",
+					"zh-TW": "死域之王"
+				}
+			},
+			"id": "2C1D58A0-4E6E-9EEA-1E64-1080FA1DC188",
+			"label": "2C1D58A0-4E6E-9EEA-1E64-1080FA1DC188",
+			"name":
+			{
+				"defaultText": "Lord of Death Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب سيد الموت",
+					"de-DE": "Titel „Herr des Todes“",
+					"en-US": "Lord of Death Title",
+					"es-ES": "Título Señor de la muerte",
+					"es-MX": "Título As de la Muerte",
+					"fr-FR": "Titre Seigneur de la mort",
+					"id-ID": "Gelar Lord of Death",
+					"it-IT": "Titolo Signore della morte",
+					"ja-JP": "ロード・オブ・デス タイトル",
+					"ko-KR": "죽음의 군주 칭호",
+					"pl-PL": "Tytuł „Władca śmierci”",
+					"pt-BR": "Título Mandante da Morte",
+					"ru-RU": "Звание \"Владыка смерти\"",
+					"th-TH": "ฉายาเจ้าแห่งความตาย",
+					"tr-TR": "Ölüm Lordu Unvanı",
+					"vi-VN": "Danh Hiệu Chúa Tể Của Cái Chết",
+					"zh-CN": "死亡领主 称号",
+					"zh-TW": "死域之王 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Maelstrom",
+				"localizedByCulture":
+				{
+					"ar-AE": "الدوّامة العاتية",
+					"de-DE": "Mahlstrom",
+					"en-US": "Maelstrom",
+					"es-ES": "Vorágine",
+					"es-MX": "Torbellino",
+					"fr-FR": "Maelström",
+					"id-ID": "Maelstrom",
+					"it-IT": "Maelstrom",
+					"ja-JP": "メイルストローム",
+					"ko-KR": "대혼돈",
+					"pl-PL": "Maelstrom",
+					"pt-BR": "Turbilhão",
+					"ru-RU": "Водоворот",
+					"th-TH": "ห้วงมหาภัย",
+					"tr-TR": "Girdap",
+					"vi-VN": "Tàn Phá Khốc Liệt",
+					"zh-CN": "灭世漩涡",
+					"zh-TW": "渦旋"
+				}
+			},
+			"id": "70B4B892-4CD8-0D62-0976-E4897410BDB0",
+			"label": "70B4B892-4CD8-0D62-0976-E4897410BDB0",
+			"name":
+			{
+				"defaultText": "Maelstrom Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب الدوّامة العاتية",
+					"de-DE": "Titel „Mahlstrom“",
+					"en-US": "Maelstrom Title",
+					"es-ES": "Título Vorágine",
+					"es-MX": "Título Torbellino",
+					"fr-FR": "Titre Maelström",
+					"id-ID": "Gelar Maelstrom",
+					"it-IT": "Titolo Maelstrom",
+					"ja-JP": "メイルストローム タイトル",
+					"ko-KR": "대혼돈 칭호",
+					"pl-PL": "Tytuł „Maelstrom”",
+					"pt-BR": "Título Turbilhão",
+					"ru-RU": "Звание \"Водоворот\"",
+					"th-TH": "ฉายาห้วงมหาภัย",
+					"tr-TR": "Girdap Unvanı",
+					"vi-VN": "Danh Hiệu Tàn Phá Khốc Liệt",
+					"zh-CN": "灭世漩涡 称号",
+					"zh-TW": "渦旋 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Man of Action",
+				"localizedByCulture":
+				{
+					"ar-AE": "رجل الأفعال",
+					"de-DE": "Mann der Tat",
+					"en-US": "Man of Action",
+					"es-ES": "Hombre de acción",
+					"es-MX": "Figura de Acción",
+					"fr-FR": "Homme de terrain",
+					"id-ID": "Man of Action",
+					"it-IT": "Uomo d'azione",
+					"ja-JP": "行動派",
+					"ko-KR": "행동대장",
+					"pl-PL": "Człowiek czynu",
+					"pt-BR": "Agente de Ação",
+					"ru-RU": "Человек действия",
+					"th-TH": "พูดจริงทำจริง",
+					"tr-TR": "Aksiyon Tutkunu",
+					"vi-VN": "Người Thực Tế",
+					"zh-CN": "行动派",
+					"zh-TW": "行動派"
+				}
+			},
+			"id": "1D935892-41A8-7D6C-B7FD-62A3A27383EA",
+			"label": "1D935892-41A8-7D6C-B7FD-62A3A27383EA",
+			"name":
+			{
+				"defaultText": "Man of Action Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب رجل الأفعال",
+					"de-DE": "Titel „Mann der Tat“",
+					"en-US": "Man of Action Title",
+					"es-ES": "Título Hombre de acción",
+					"es-MX": "Título Figura de Acción",
+					"fr-FR": "Titre Homme de terrain",
+					"id-ID": "Gelar Man of Action",
+					"it-IT": "Titolo Uomo d'azione",
+					"ja-JP": "行動派 タイトル",
+					"ko-KR": "행동대장 칭호",
+					"pl-PL": "Tytuł „Człowiek czynu”",
+					"pt-BR": "Título Agente de Ação",
+					"ru-RU": "Звание \"Человек действия\"",
+					"th-TH": "ฉายาพูดจริงทำจริง",
+					"tr-TR": "Aksiyon Tutkunu Unvanı",
+					"vi-VN": "Danh Hiệu Người Thực Tế",
+					"zh-CN": "行动派 称号",
+					"zh-TW": "行動派 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Megahurtz",
+				"localizedByCulture":
+				{
+					"ar-AE": "النبضة المؤلمة",
+					"de-DE": "Megaschmertz",
+					"en-US": "Megahurtz",
+					"es-ES": "Megaherida",
+					"es-MX": "Megaheridaz (MHz)",
+					"fr-FR": "Megahurtz",
+					"id-ID": "Megahurtz",
+					"it-IT": "Megabotte",
+					"ja-JP": "メガハーツ",
+					"ko-KR": "메가허르츠",
+					"pl-PL": "Megabat",
+					"pt-BR": "Ameaça Sônica",
+					"ru-RU": "Мегаболь",
+					"th-TH": "เจ็บระดับเมกะ",
+					"tr-TR": "Mega Acı",
+					"vi-VN": "Megahurtz",
+					"zh-CN": "成吨伤害",
+					"zh-TW": "Megahurtz"
+				}
+			},
+			"id": "4AA16D9F-4C45-2E6C-E2C5-AC905ACFB62E",
+			"label": "4AA16D9F-4C45-2E6C-E2C5-AC905ACFB62E",
+			"name":
+			{
+				"defaultText": "Megahurtz Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب النبضة المؤلمة",
+					"de-DE": "Titel „Megaschmertz“",
+					"en-US": "Megahurtz Title",
+					"es-ES": "Título Megaherida",
+					"es-MX": "Título MHz (Megaheridaz)",
+					"fr-FR": "Titre Megahurtz",
+					"id-ID": "Gelar Megahurtz",
+					"it-IT": "Titolo Megabotte",
+					"ja-JP": "メガハーツ タイトル",
+					"ko-KR": "메가허르츠 칭호",
+					"pl-PL": "Tytuł „Megabat”",
+					"pt-BR": "Título Ameaça Sônica",
+					"ru-RU": "Звание \"Мегаболь\"",
+					"th-TH": "ฉายาเจ็บระดับเมกะ",
+					"tr-TR": "Mega Acı Unvanı",
+					"vi-VN": "Danh Hiệu Megahurtz",
+					"zh-CN": "成吨伤害 称号",
+					"zh-TW": "Megahurtz 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "One on One",
+				"localizedByCulture":
+				{
+					"ar-AE": "المواجهة الفردية",
+					"de-DE": "Einer gegen Einen",
+					"en-US": "One on One",
+					"es-ES": "Uno contra uno",
+					"es-MX": "Uno Contra Uno",
+					"fr-FR": "Un contre un",
+					"id-ID": "One on One",
+					"it-IT": "Uno contro uno",
+					"ja-JP": "ワン・オン・ワン",
+					"ko-KR": "1대1",
+					"pl-PL": "Jeden na jednego",
+					"pt-BR": "Vem x1",
+					"ru-RU": "Один на один",
+					"th-TH": "ตัวต่อตัว",
+					"tr-TR": "Teke Tek",
+					"vi-VN": "Một Chọi Một",
+					"zh-CN": "决斗",
+					"zh-TW": "一對一"
+				}
+			},
+			"id": "077D2CF2-42D2-F722-F899-8491D626E7C8",
+			"label": "077D2CF2-42D2-F722-F899-8491D626E7C8",
+			"name":
+			{
+				"defaultText": "One on One Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب المواجهة الفردية",
+					"de-DE": "Titel „Einer gegen Einen“",
+					"en-US": "One on One Title",
+					"es-ES": "Título Uno contra uno",
+					"es-MX": "Título Uno Contra Uno",
+					"fr-FR": "Titre Un contre un",
+					"id-ID": "Gelar One on One",
+					"it-IT": "Titolo Uno contro uno",
+					"ja-JP": "ワン・オン・ワン タイトル",
+					"ko-KR": "1대1 칭호",
+					"pl-PL": "Tytuł „Jeden na jednego”",
+					"pt-BR": "Título Vem x1",
+					"ru-RU": "Звание \"Один на один\"",
+					"th-TH": "ฉายาตัวต่อตัว",
+					"tr-TR": "Teke Tek Unvanı",
+					"vi-VN": "Danh Hiệu Một Chọi Một",
+					"zh-CN": "决斗 称号",
+					"zh-TW": "一對一 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Overclocked",
+				"localizedByCulture":
+				{
+					"ar-AE": "فائق الأداء",
+					"de-DE": "Übertaktet",
+					"en-US": "Overclocked",
+					"es-ES": "Sobrecargado",
+					"es-MX": "A Sobremarcha",
+					"fr-FR": "Surcadencé",
+					"id-ID": "Overclocked",
+					"it-IT": "Overcloccato",
+					"ja-JP": "オーバークロックド",
+					"ko-KR": "오버클록",
+					"pl-PL": "Przetaktowanie",
+					"pt-BR": "Overclocked",
+					"ru-RU": "На разгоне",
+					"th-TH": "โอเวอร์คล็อก",
+					"tr-TR": "Aşırı Hızlı",
+					"vi-VN": "Ép Xung",
+					"zh-CN": "超频运转",
+					"zh-TW": "超頻"
+				}
+			},
+			"id": "A98A6721-4509-3FFA-2D80-CBBD0CC942C1",
+			"label": "A98A6721-4509-3FFA-2D80-CBBD0CC942C1",
+			"name":
+			{
+				"defaultText": "Overclocked Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب فائق الأداء",
+					"de-DE": "Titel „Übertaktet“",
+					"en-US": "Overclocked Title",
+					"es-ES": "Título Sobrecargado",
+					"es-MX": "Título A Sobremarcha",
+					"fr-FR": "Titre Surcadencé",
+					"id-ID": "Gelar Overclocked",
+					"it-IT": "Titolo Overcloccato",
+					"ja-JP": "オーバークロックド タイトル",
+					"ko-KR": "오버클록 칭호",
+					"pl-PL": "Tytuł „Przetaktowanie”",
+					"pt-BR": "Título Overclocked",
+					"ru-RU": "Звание \"На разгоне\"",
+					"th-TH": "ฉายาโอเวอร์คล็อก",
+					"tr-TR": "Aşırı Hızlı Unvanı",
+					"vi-VN": "Danh Hiệu Ép Xung",
+					"zh-CN": "超频运转 称号",
+					"zh-TW": "超頻 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Riftwalker",
+				"localizedByCulture":
+				{
+					"ar-AE": "عابر الصدوع",
+					"de-DE": "Kluftwanderer",
+					"en-US": "Riftwalker",
+					"es-ES": "Cruzagrietas",
+					"es-MX": "Trotaportales",
+					"fr-FR": "Ouvreur de failles",
+					"id-ID": "Riftwalker",
+					"it-IT": "Viaggiatore di squarci",
+					"ja-JP": "リフトウォーカー",
+					"ko-KR": "균열을 걷는 자",
+					"pl-PL": "Szczelinowiec",
+					"pt-BR": "Andarilho da Fenda",
+					"ru-RU": "Проныра",
+					"th-TH": "ผู้ท่องมิติ",
+					"tr-TR": "Boyut Gezgini",
+					"vi-VN": "Du Hành Không Gian",
+					"zh-CN": "裂隙行者",
+					"zh-TW": "裂隙行者"
+				}
+			},
+			"id": "8749FFC2-4FB0-891F-88D2-989656857D83",
+			"label": "8749FFC2-4FB0-891F-88D2-989656857D83",
+			"name":
+			{
+				"defaultText": "Riftwalker Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب عابر الصدوع",
+					"de-DE": "Titel „Kluftwanderer“",
+					"en-US": "Riftwalker Title",
+					"es-ES": "Título Cruzagrietas",
+					"es-MX": "Título Trotaportales",
+					"fr-FR": "Titre Ouvreur de failles",
+					"id-ID": "Gelar Riftwalker",
+					"it-IT": "Titolo Viaggiatore di squarci",
+					"ja-JP": "リフトウォーカー タイトル",
+					"ko-KR": "균열을 걷는 자 칭호",
+					"pl-PL": "Tytuł „Szczelinowiec”",
+					"pt-BR": "Título Andarilho da Fenda",
+					"ru-RU": "Звание \"Проныра\"",
+					"th-TH": "ฉายาผู้ท่องมิติ",
+					"tr-TR": "Boyut Gezgini Unvanı",
+					"vi-VN": "Danh Hiệu Du Hành Không Gian",
+					"zh-CN": "裂隙行者 称号",
+					"zh-TW": "裂隙行者 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Rose and Thorn",
+				"localizedByCulture":
+				{
+					"ar-AE": "الوردة والشوكة",
+					"de-DE": "Rose und Dorn",
+					"en-US": "Rose and Thorn",
+					"es-ES": "Rosa y espina",
+					"es-MX": "Rosa y Espina",
+					"fr-FR": "Rose et épine",
+					"id-ID": "Rose and Thorn",
+					"it-IT": "Rosa e spina",
+					"ja-JP": "バラとトゲ",
+					"ko-KR": "장미와 가시",
+					"pl-PL": "Róża i cierń",
+					"pt-BR": "Rosa e Espinho",
+					"ru-RU": "Роза в шипах",
+					"th-TH": "กุหลาบและขวากหนาม",
+					"tr-TR": "Gül ve Diken",
+					"vi-VN": "Hoa Hồng Và Gai Nhọn",
+					"zh-CN": "荆棘玫瑰",
+					"zh-TW": "玫瑰與荊棘"
+				}
+			},
+			"id": "03116F2F-4944-444D-262B-88AE112BAAC4",
+			"label": "03116F2F-4944-444D-262B-88AE112BAAC4",
+			"name":
+			{
+				"defaultText": "Rose and Thorn Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب الوردة والشوكة",
+					"de-DE": "Titel „Rose und Dorn“",
+					"en-US": "Rose and Thorn Title",
+					"es-ES": "Título Rosa y espina",
+					"es-MX": "Título Rosa y Espina",
+					"fr-FR": "Titre Rose et épine",
+					"id-ID": "Gelar Rose and Thorn",
+					"it-IT": "Titolo Rosa e spina",
+					"ja-JP": "バラとトゲ タイトル",
+					"ko-KR": "장미와 가시 칭호",
+					"pl-PL": "Tytuł „Róża i cierń”",
+					"pt-BR": "Título Rosa e Espinho",
+					"ru-RU": "Звание \"Роза в шипах\"",
+					"th-TH": "ฉายากุหลาบและขวากหนาม",
+					"tr-TR": "Gül ve Diken Unvanı",
+					"vi-VN": "Danh Hiệu Hoa Hồng Và Gai Nhọn",
+					"zh-CN": "荆棘玫瑰 称号",
+					"zh-TW": "玫瑰與荊棘 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Secret Keeper",
+				"localizedByCulture":
+				{
+					"ar-AE": "حافظ الأسرار",
+					"de-DE": "Geheimnishüter",
+					"en-US": "Secret Keeper",
+					"es-ES": "Guardasecretos",
+					"es-MX": "Guardasecretos",
+					"fr-FR": "Gardien des secrets",
+					"id-ID": "Secret Keeper",
+					"it-IT": "Custode dei segreti",
+					"ja-JP": "秘密の守り手",
+					"ko-KR": "비밀 파수꾼",
+					"pl-PL": "Strażnik tajemnic",
+					"pt-BR": "Confidente",
+					"ru-RU": "Хранитель тайн",
+					"th-TH": "ผู้พิทักษ์ความลับ",
+					"tr-TR": "Sır Muhafızı",
+					"vi-VN": "Kẻ Giữ Bí Mật",
+					"zh-CN": "守秘人",
+					"zh-TW": "守密人"
+				}
+			},
+			"id": "6FB23EFE-46A5-4C90-3084-318006D5547F",
+			"label": "6FB23EFE-46A5-4C90-3084-318006D5547F",
+			"name":
+			{
+				"defaultText": "Secret Keeper Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب حافظ الأسرار",
+					"de-DE": "Titel „Geheimnishüter“",
+					"en-US": "Secret Keeper Title",
+					"es-ES": "Título Guardasecretos",
+					"es-MX": "Título Guardasecretos",
+					"fr-FR": "Titre Gardien des secrets",
+					"id-ID": "Gelar Secret Keeper",
+					"it-IT": "Titolo Custode dei segreti",
+					"ja-JP": "秘密の守り手 タイトル",
+					"ko-KR": "비밀 파수꾼 칭호",
+					"pl-PL": "Tytuł „Strażnik tajemnic”",
+					"pt-BR": "Título Confidente",
+					"ru-RU": "Звание \"Хранитель тайн\"",
+					"th-TH": "ฉายาผู้พิทักษ์ความลับ",
+					"tr-TR": "Sır Muhafızı Unvanı",
+					"vi-VN": "Danh Hiệu Kẻ Giữ Bí Mật",
+					"zh-CN": "守秘人 称号",
+					"zh-TW": "守密人 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Shadow King",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملك الظل",
+					"de-DE": "Schattenkönig",
+					"en-US": "Shadow King",
+					"es-ES": "Rey de las sombras",
+					"es-MX": "Dominio de las Sombras",
+					"fr-FR": "Roi des ombres",
+					"id-ID": "Shadow King",
+					"it-IT": "Re delle ombre",
+					"ja-JP": "影の王",
+					"ko-KR": "그림자 왕",
+					"pl-PL": "Król cienia",
+					"pt-BR": "Realeza das Sombras",
+					"ru-RU": "Король теней",
+					"th-TH": "ราชาแห่งเงา",
+					"tr-TR": "Gölge Kral",
+					"vi-VN": "Vua Bóng Tối",
+					"zh-CN": "暗影之王",
+					"zh-TW": "暗影之王"
+				}
+			},
+			"id": "C7B3B087-48EB-F231-6A50-209BD110F1F3",
+			"label": "C7B3B087-48EB-F231-6A50-209BD110F1F3",
+			"name":
+			{
+				"defaultText": "Shadow King Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب ملك الظل",
+					"de-DE": "Titel „Schattenkönig“",
+					"en-US": "Shadow King Title",
+					"es-ES": "Título Rey de las sombras",
+					"es-MX": "Título Dominio de las Sombras",
+					"fr-FR": "Titre Roi des ombres",
+					"id-ID": "Gelar Shadow King",
+					"it-IT": "Titolo Re delle ombre",
+					"ja-JP": "影の王 タイトル",
+					"ko-KR": "그림자 왕 칭호",
+					"pl-PL": "Tytuł „Król cienia”",
+					"pt-BR": "Título Realeza das Sombras",
+					"ru-RU": "Звание \"Король теней\"",
+					"th-TH": "ฉายาราชาแห่งเงา",
+					"tr-TR": "Gölge Kral Unvanı",
+					"vi-VN": "Danh Hiệu Vua Bóng Tối",
+					"zh-CN": "暗影之王 称号",
+					"zh-TW": "暗影之王 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Soul Stealer",
+				"localizedByCulture":
+				{
+					"ar-AE": "سارق الأرواح",
+					"de-DE": "Seelenfresser",
+					"en-US": "Soul Stealer",
+					"es-ES": "Robaalmas",
+					"es-MX": "Robaalmas",
+					"fr-FR": "Voleur d'âmes",
+					"id-ID": "Soul Stealer",
+					"it-IT": "Ladro d'anime",
+					"ja-JP": "ソウルスティーラー",
+					"ko-KR": "영혼 약탈자",
+					"pl-PL": "Złodziej dusz",
+					"pt-BR": "Ladrão de Almas",
+					"ru-RU": "Похититель душ",
+					"th-TH": "ผู้ช่วงชิงวิญญาณ",
+					"tr-TR": "Ruh Sömüren",
+					"vi-VN": "Kẻ Đoạt Hồn",
+					"zh-CN": "窃魂者",
+					"zh-TW": "竊魂者"
+				}
+			},
+			"id": "EA39D4E0-4B9D-5777-105B-138031B15FF4",
+			"label": "EA39D4E0-4B9D-5777-105B-138031B15FF4",
+			"name":
+			{
+				"defaultText": "Soul Stealer Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب سارق الأرواح",
+					"de-DE": "Titel „Seelenfresser“",
+					"en-US": "Soul Stealer Title",
+					"es-ES": "Título Robaalmas",
+					"es-MX": "Título Robaalmas",
+					"fr-FR": "Titre Voleur d'âmes",
+					"id-ID": "Gelar Soul Stealer",
+					"it-IT": "Titolo Ladro d'anime",
+					"ja-JP": "ソウルスティーラー タイトル",
+					"ko-KR": "영혼 약탈자 칭호",
+					"pl-PL": "Tytuł „Złodziej dusz”",
+					"pt-BR": "Título Ladrão de Almas",
+					"ru-RU": "Звание \"Похититель душ\"",
+					"th-TH": "ฉายาผู้ช่วงชิงวิญญาณ",
+					"tr-TR": "Ruh Sömüren Unvanı",
+					"vi-VN": "Danh Hiệu Kẻ Đoạt Hồn",
+					"zh-CN": "窃魂者 称号",
+					"zh-TW": "竊魂者 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "The Party",
+				"localizedByCulture":
+				{
+					"ar-AE": "الحفلة",
+					"de-DE": "Die Party",
+					"en-US": "The Party",
+					"es-ES": "El grupo",
+					"es-MX": "La Fiesta",
+					"fr-FR": "La fête",
+					"id-ID": "The Party",
+					"it-IT": "La festa",
+					"ja-JP": "パーティー",
+					"ko-KR": "파티",
+					"pl-PL": "Grupa",
+					"pt-BR": "Alma do Grupo",
+					"ru-RU": "Тусер",
+					"th-TH": "เจ้าแห่งปาร์ตี้",
+					"tr-TR": "Parti Vakti",
+					"vi-VN": "Tiệc Tùng",
+					"zh-CN": "狂欢派对",
+					"zh-TW": "成群"
+				}
+			},
+			"id": "793C3520-4E92-A63B-DCE9-23B5A74A236A",
+			"label": "793C3520-4E92-A63B-DCE9-23B5A74A236A",
+			"name":
+			{
+				"defaultText": "The Party Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب الحفلة",
+					"de-DE": "Titel „Die Party“",
+					"en-US": "The Party Title",
+					"es-ES": "Título El grupo",
+					"es-MX": "Título La Mera Fiesta",
+					"fr-FR": "Titre La fête",
+					"id-ID": "Gelar The Party",
+					"it-IT": "Titolo La festa",
+					"ja-JP": "パーティー タイトル",
+					"ko-KR": "파티 칭호",
+					"pl-PL": "Tytuł „Grupa”",
+					"pt-BR": "Título Alma do Grupo",
+					"ru-RU": "Звание \"Тусер\"",
+					"th-TH": "ฉายาเจ้าแห่งปาร์ตี้",
+					"tr-TR": "Parti Vakti Unvanı",
+					"vi-VN": "Danh Hiệu Tiệc Tùng",
+					"zh-CN": "狂欢派对 称号",
+					"zh-TW": "成群 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Thunderstruck",
+				"localizedByCulture":
+				{
+					"ar-AE": "المصعوق",
+					"de-DE": "Vom Blitz getroffen",
+					"en-US": "Thunderstruck",
+					"es-ES": "Atónito",
+					"es-MX": "Descendiente del Trueno",
+					"fr-FR": "Coup de tonnerre",
+					"id-ID": "Thunderstruck",
+					"it-IT": "Fulmine a ciel sereno",
+					"ja-JP": "サンダーストラック",
+					"ko-KR": "천둥 강타",
+					"pl-PL": "Porażony",
+					"pt-BR": "Estupefato",
+					"ru-RU": "Удар грома",
+					"th-TH": "ทัณฑ์สายฟ้า",
+					"tr-TR": "Yıldırım Çarpması",
+					"vi-VN": "Sét Đánh",
+					"zh-CN": "雷霆之力",
+					"zh-TW": "雷霆萬鈞"
+				}
+			},
+			"id": "FB291106-4C35-E41E-EBD5-9DA6BD4B79A2",
+			"label": "FB291106-4C35-E41E-EBD5-9DA6BD4B79A2",
+			"name":
+			{
+				"defaultText": "Thunderstruck Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب المصعوق",
+					"de-DE": "Titel „Vom Blitz getroffen“",
+					"en-US": "Thunderstruck Title",
+					"es-ES": "Título Atónito",
+					"es-MX": "Título Descendiente del Trueno",
+					"fr-FR": "Titre Coup de tonnerre",
+					"id-ID": "Gelar Thunderstruck",
+					"it-IT": "Titolo Fulmine a ciel sereno",
+					"ja-JP": "サンダーストラック タイトル",
+					"ko-KR": "천둥 강타 칭호",
+					"pl-PL": "Tytuł „Porażony”",
+					"pt-BR": "Título Estupefato",
+					"ru-RU": "Звание \"Удар грома\"",
+					"th-TH": "ฉายาทัณฑ์สายฟ้า",
+					"tr-TR": "Yıldırım Çarpması Unvanı",
+					"vi-VN": "Danh Hiệu Sét Đánh",
+					"zh-CN": "雷霆之力 称号",
+					"zh-TW": "雷霆萬鈞 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Two Ton Punch",
+				"localizedByCulture":
+				{
+					"ar-AE": "لكمة الوزن الثقيل",
+					"de-DE": "Zwei-Tonnen-Schlag",
+					"en-US": "Two Ton Punch",
+					"es-ES": "Puñetazo hiperpesado",
+					"es-MX": "Puñetazo de Carga",
+					"fr-FR": "Grosse patate",
+					"id-ID": "Two Ton Punch",
+					"it-IT": "Pugno da due tonnellate",
+					"ja-JP": "2トンパンチ",
+					"ko-KR": "묵직한 펀치",
+					"pl-PL": "Dwutonowy cios",
+					"pt-BR": "Vem Tranquilo",
+					"ru-RU": "Двухтонный удар",
+					"th-TH": "หมัดสองตัน",
+					"tr-TR": "İki Tonluk Yumruk",
+					"vi-VN": "Cú Đấm Hai Tấn",
+					"zh-CN": "巨力重拳",
+					"zh-TW": "雙噸重拳"
+				}
+			},
+			"id": "6FD55EB9-4120-822D-C624-80B59A75634C",
+			"label": "6FD55EB9-4120-822D-C624-80B59A75634C",
+			"name":
+			{
+				"defaultText": "Two Ton Punch Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب لكمة الوزن الثقيل",
+					"de-DE": "Titel „Zwei-Tonnen-Schlag“",
+					"en-US": "Two Ton Punch Title",
+					"es-ES": "Título Puñetazo hiperpesado",
+					"es-MX": "Título Dos Toneladas de Fuerza",
+					"fr-FR": "Titre Grosse patate",
+					"id-ID": "Gelar Two Ton Punch",
+					"it-IT": "Titolo Pugno da due tonnellate",
+					"ja-JP": "2トンパンチ タイトル",
+					"ko-KR": "묵직한 펀치 칭호",
+					"pl-PL": "Tytuł „Dwutonowy cios”",
+					"pt-BR": "Título Vem Tranquilo",
+					"ru-RU": "Звание \"Двухтонный удар\"",
+					"th-TH": "ฉายาหมัดสองตัน",
+					"tr-TR": "İki Tonluk Yumruk Unvanı",
+					"vi-VN": "Danh Hiệu Cú Đấm Hai Tấn",
+					"zh-CN": "巨力重拳 称号",
+					"zh-TW": "雙噸重拳 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Venomous",
+				"localizedByCulture":
+				{
+					"ar-AE": "السمّ القاتل",
+					"de-DE": "Giftig",
+					"en-US": "Venomous",
+					"es-ES": "Venenoso",
+					"es-MX": "Veneno",
+					"fr-FR": "Venimeux",
+					"id-ID": "Venomous",
+					"it-IT": "Velenoso",
+					"ja-JP": "ヴェノマス",
+					"ko-KR": "유독성",
+					"pl-PL": "Jadowity",
+					"pt-BR": "Venenosa",
+					"ru-RU": "Отрава",
+					"th-TH": "อสรพิษ",
+					"tr-TR": "Zehirli",
+					"vi-VN": "Độc Sát",
+					"zh-CN": "蚀骨之毒",
+					"zh-TW": "致命劇毒"
+				}
+			},
+			"id": "16F4E6D6-46F4-DBDA-4F47-F18A424AB076",
+			"label": "16F4E6D6-46F4-DBDA-4F47-F18A424AB076",
+			"name":
+			{
+				"defaultText": "Venomous Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب السمّ القاتل",
+					"de-DE": "Titel „Giftig“",
+					"en-US": "Venomous Title",
+					"es-ES": "Título Venenoso",
+					"es-MX": "Título Puro Veneno",
+					"fr-FR": "Titre Venimeux",
+					"id-ID": "Gelar Venomous",
+					"it-IT": "Titolo Velenoso",
+					"ja-JP": "ヴェノマス タイトル",
+					"ko-KR": "유독성 칭호",
+					"pl-PL": "Tytuł „Jadowity”",
+					"pt-BR": "Título Venenosa",
+					"ru-RU": "Звание \"Отрава\"",
+					"th-TH": "ฉายาอสรพิษ",
+					"tr-TR": "Zehirli Unvanı",
+					"vi-VN": "Danh Hiệu Độc Sát",
+					"zh-CN": "蚀骨之毒 称号",
+					"zh-TW": "致命劇毒 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Wunderkind",
+				"localizedByCulture":
+				{
+					"ar-AE": "الطفل المعجزة",
+					"de-DE": "Wunderkind",
+					"en-US": "Wunderkind",
+					"es-ES": "Mente prodigiosa",
+					"es-MX": "Niño Prodigio",
+					"fr-FR": "Enfant prodige",
+					"id-ID": "Wunderkind",
+					"it-IT": "Prodigio",
+					"ja-JP": "ワンダーキッド",
+					"ko-KR": "천재 요원",
+					"pl-PL": "Cudowne dziecko",
+					"pt-BR": "Prodígio",
+					"ru-RU": "Вундеркинд",
+					"th-TH": "อัจฉริยะรุ่นจิ๋ว",
+					"tr-TR": "Dâhi Çocuk",
+					"vi-VN": "Thần Đồng",
+					"zh-CN": "天才神童",
+					"zh-TW": "天才少女"
+				}
+			},
+			"id": "19C1BBA4-487D-8BCC-1737-7A8E5EA60EE1",
+			"label": "19C1BBA4-487D-8BCC-1737-7A8E5EA60EE1",
+			"name":
+			{
+				"defaultText": "Wunderkind Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب الطفل المعجزة",
+					"de-DE": "Titel „Wunderkind“",
+					"en-US": "Wunderkind Title",
+					"es-ES": "Título Mente prodigiosa",
+					"es-MX": "Título Prodigio Innato",
+					"fr-FR": "Titre Enfant prodige",
+					"id-ID": "Gelar Wunderkind",
+					"it-IT": "Titolo Prodigio",
+					"ja-JP": "ワンダーキッド タイトル",
+					"ko-KR": "천재 요원 칭호",
+					"pl-PL": "Tytuł „Cudowne dziecko”",
+					"pt-BR": "Título Prodígio",
+					"ru-RU": "Звание \"Вундеркинд\"",
+					"th-TH": "ฉายาอัจฉริยะรุ่นจิ๋ว",
+					"tr-TR": "Dâhi Çocuk Unvanı",
+					"vi-VN": "Danh Hiệu Thần Đồng",
+					"zh-CN": "天才神童 称号",
+					"zh-TW": "天才少女 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "Your Worst Fear",
+				"localizedByCulture":
+				{
+					"ar-AE": "أسوأ مخاوفك",
+					"de-DE": "Deine schlimmste Befürchtung",
+					"en-US": "Your Worst Fear",
+					"es-ES": "Tu mayor miedo",
+					"es-MX": "Tu Peor Miedo",
+					"fr-FR": "Ton pire cauchemar",
+					"id-ID": "Your Worst Fear",
+					"it-IT": "La tua peggior paura",
+					"ja-JP": "内なる恐怖",
+					"ko-KR": "최악의 공포",
+					"pl-PL": "Twój najgorszy lęk",
+					"pt-BR": "Seu Pesadelo",
+					"ru-RU": "Твой худший кошмар",
+					"th-TH": "ฝันร้ายสุดสยอง",
+					"tr-TR": "En Büyük Korkun",
+					"vi-VN": "Nỗi Sợ Lớn Nhất",
+					"zh-CN": "无尽恐惧",
+					"zh-TW": "極致恐懼"
+				}
+			},
+			"id": "D79ADAFA-47B6-9BBA-876F-D49125A2BB5C",
+			"label": "D79ADAFA-47B6-9BBA-876F-D49125A2BB5C",
+			"name":
+			{
+				"defaultText": "Your Worst Fear Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب أسوأ مخاوفك",
+					"de-DE": "Titel „Deine schlimmste Befürchtung“",
+					"en-US": "Your Worst Fear Title",
+					"es-ES": "Título Tu mayor miedo",
+					"es-MX": "Título Tu Peor Miedo",
+					"fr-FR": "Titre Ton pire cauchemar",
+					"id-ID": "Gelar Your Worst Fear",
+					"it-IT": "Titolo La tua peggior paura",
+					"ja-JP": "内なる恐怖 タイトル",
+					"ko-KR": "최악의 공포 칭호",
+					"pl-PL": "Tytuł „Twój najgorszy lęk”",
+					"pt-BR": "Título Seu Pesadelo",
+					"ru-RU": "Звание \"Твой худший кошмар\"",
+					"th-TH": "ฉายาฝันร้ายสุดสยอง",
+					"tr-TR": "En Büyük Korkun Unvanı",
+					"vi-VN": "Danh Hiệu Nỗi Sợ Lớn Nhất",
+					"zh-CN": "无尽恐惧 称号",
+					"zh-TW": "極致恐懼 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
 				"defaultText": "Living Nightmare",
 				"localizedByCulture":
 				{
@@ -256100,7 +259643,7 @@
 					"en-US": "Say It With Your Chest",
 					"es-ES": "Grita con orgullo",
 					"es-MX": "Con La Frente En Alto",
-					"fr-FR": "Dites-le haut et fort",
+					"fr-FR": "Dites-le fièrement",
 					"id-ID": "Say It With Your Chest",
 					"it-IT": "A gran voce",
 					"ja-JP": "胸を張って言え",
@@ -256127,7 +259670,7 @@
 					"en-US": "Say It With Your Chest Title",
 					"es-ES": "Título Grita con orgullo",
 					"es-MX": "Título Con La Frente En Alto",
-					"fr-FR": "Titre Dites-le haut et fort",
+					"fr-FR": "Titre Dites-le fièrement",
 					"id-ID": "Gelar Say It With Your Chest",
 					"it-IT": "Titolo A gran voce",
 					"ja-JP": "胸を張って言え タイトル",
@@ -261986,7 +265529,7 @@
 					"en-US": "Louder",
 					"es-ES": "Que se oiga",
 					"es-MX": "Sube el volumen",
-					"fr-FR": "Plus fort",
+					"fr-FR": "Haut et fort",
 					"id-ID": "Louder",
 					"it-IT": "Più assordante",
 					"ja-JP": "Louder",
@@ -262013,7 +265556,7 @@
 					"en-US": "Louder Title",
 					"es-ES": "Título Que se oiga",
 					"es-MX": "Título Sube el volumen",
-					"fr-FR": "Titre Plus fort",
+					"fr-FR": "Titre Haut et fort",
 					"id-ID": "Gelar Louder",
 					"it-IT": "Titolo Più assordante",
 					"ja-JP": "Louder タイトル",
@@ -262835,7 +266378,7 @@
 					"tr-TR": "İçgüdüsel Unvanı",
 					"vi-VN": "Danh Hiệu Bản Năng",
 					"zh-CN": "直觉先行 称号",
-					"zh-TW": "本能稱號"
+					"zh-TW": "本能 稱號"
 				}
 			}
 		},
@@ -270024,6 +273567,330 @@
 		{
 			"titleText":
 			{
+				"defaultText": "PREMIER V26A5 CHAMPION // ADV",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V26م5 // متقدم",
+					"de-DE": "PREMIER V26A5 CHAMPION // PRF",
+					"en-US": "PREMIER V26A5 CHAMPION // ADV",
+					"es-ES": "CAMP. PREMIER V26A5 // AVNZ",
+					"es-MX": "V26A5: AVAN. // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V26A5 // AVN",
+					"id-ID": "PREMIER V26A5 CHAMPION // ADV",
+					"it-IT": "CAMPIONE PREMIER V26A5 // AVZ",
+					"ja-JP": "PREMIER V26A5 チャンピオン // ADV",
+					"ko-KR": "프리미어 V26A5 챔피언 // 중상급",
+					"pl-PL": "BOHATER V26A5 PREMIER // ZWN",
+					"pt-BR": "CAMPEÃO PREMIER V26A5 // AV",
+					"ru-RU": "ЧЕМПИОН V26A5 PREMIER // АС",
+					"th-TH": "PREMIER V26A5 CHAMPION // ADV",
+					"tr-TR": "PREMIER V26K5 ŞAMP. // İLR",
+					"vi-VN": "VĐ PREMIER V26P5 // CC",
+					"zh-CN": "超级赛//V26第五幕冠军//高级",
+					"zh-TW": "Premier V26第五章冠軍 // 高階"
+				}
+			},
+			"id": "1DE2A263-4CCB-C8FB-463F-5DB38E7D4E32",
+			"label": "1DE2A263-4CCB-C8FB-463F-5DB38E7D4E32",
+			"name":
+			{
+				"defaultText": "PREMIER V26A5 CHAMPION // ADV Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V26م5 // متقدم",
+					"de-DE": "Titel „PREMIER V26A5 CHAMPION // PRF“",
+					"en-US": "PREMIER V26A5 CHAMPION // ADV Title",
+					"es-ES": "Título CAMP. PREMIER V26A5 // AVNZ",
+					"es-MX": "Título V26A5: AVAN. // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V26A5 // AVN",
+					"id-ID": "Gelar PREMIER V26A5 CHAMPION // ADV",
+					"it-IT": "Titolo CAMPIONE PREMIER V26A5 // AVZ",
+					"ja-JP": "PREMIER V26A5 チャンピオン // ADV タイトル",
+					"ko-KR": "프리미어 V26A5 챔피언 // 중상급 칭호",
+					"pl-PL": "Tytuł „BOHATER V26A5 PREMIER // ZWN”",
+					"pt-BR": "Título CAMPEÃO PREMIER V26A5 // AV",
+					"ru-RU": "Звание \"ЧЕМПИОН V26A5 PREMIER // АС\"",
+					"th-TH": "ฉายา PREMIER V26A5 CHAMPION // ADV",
+					"tr-TR": "PREMIER V26K5 ŞAMP. // İLR Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V26P5 // CC",
+					"zh-CN": "超级赛//V26第五幕冠军//高级 称号",
+					"zh-TW": "Premier V26第五章冠軍 // 高階 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V26A5 CHAMPION // CTD",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V26م5 // منافس",
+					"de-DE": "PREMIER V26A5 CHAMPION // KNDT",
+					"en-US": "PREMIER V26A5 CHAMPION // CTD",
+					"es-ES": "CAMP. PREMIER V26A5 // CNTD",
+					"es-MX": "V26A5: CONT. // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V26A5 // CCR",
+					"id-ID": "PREMIER V26A5 CHAMPION // CTD",
+					"it-IT": "CAMPIONE PREMIER V26A5 // SFD",
+					"ja-JP": "PREMIER V26A5 チャンピオン // CTD",
+					"ko-KR": "프리미어 V26A5 챔피언 // 최상급",
+					"pl-PL": "BOHATER V26A5 PREMIER // ZDK",
+					"pt-BR": "CAMPEÃO PREMIER V26A5 // DES",
+					"ru-RU": "ЧЕМПИОН V26A5 PREMIER // БОЕЦ",
+					"th-TH": "PREMIER V26A5 CHAMPION // CTD",
+					"tr-TR": "PREMIER V26K5 ŞAMP. // TTKÇİ",
+					"vi-VN": "VĐ PREMIER V26P5 // UVNK",
+					"zh-CN": "超级赛//V26第五幕冠军//竞争者",
+					"zh-TW": "Premier V26第五章冠軍 // 競爭者"
+				}
+			},
+			"id": "94D5FE0D-414E-F605-CFCA-298644E9E35F",
+			"label": "94D5FE0D-414E-F605-CFCA-298644E9E35F",
+			"name":
+			{
+				"defaultText": "PREMIER V26A5 CHAMPION // CTD Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V26م5 // منافس",
+					"de-DE": "Titel „PREMIER V26A5 CHAMPION // KNDT“",
+					"en-US": "PREMIER V26A5 CHAMPION // CTD Title",
+					"es-ES": "Título CAMP. PREMIER V26A5 // CNTD",
+					"es-MX": "Título V26A5: CONT. // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V26A5 // CCR",
+					"id-ID": "Gelar PREMIER V26A5 CHAMPION // CTD",
+					"it-IT": "Titolo CAMPIONE PREMIER V26A5 // SFD",
+					"ja-JP": "PREMIER V26A5 チャンピオン // CTD タイトル",
+					"ko-KR": "프리미어 V26A5 챔피언 // 최상급 칭호",
+					"pl-PL": "Tytuł „BOHATER V26A5 PREMIER // ZDK”",
+					"pt-BR": "Título CAMPEÃO PREMIER V26A5 // DES",
+					"ru-RU": "Звание \"ЧЕМПИОН V26A5 PREMIER // БОЕЦ\"",
+					"th-TH": "ฉายา PREMIER V26A5 CHAMPION // CTD",
+					"tr-TR": "PREMIER V26K5 ŞAMP. // TTKÇİ Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V26P5 // UVNK",
+					"zh-CN": "超级赛//V26第五幕冠军//竞争者 称号",
+					"zh-TW": "Premier V26第五章冠軍 // 競爭者 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V26A5 CHAMPION // ELT",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V26م5 // نخبة",
+					"de-DE": "PREMIER V26A5 CHAMPION // ELT",
+					"en-US": "PREMIER V26A5 CHAMPION // ELT",
+					"es-ES": "CAMP. PREMIER V26A5 // ÉLT",
+					"es-MX": "V26A5: ÉLITE // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V26A5 // ÉLT",
+					"id-ID": "PREMIER V26A5 CHAMPION // ELT",
+					"it-IT": "CAMPIONE PREMIER V26A5 // ÉLT",
+					"ja-JP": "PREMIER V26A5 チャンピオン // ELT",
+					"ko-KR": "프리미어 V26A5 챔피언 // 상급",
+					"pl-PL": "BOHATER V26A5 PREMIER // ELT",
+					"pt-BR": "CAMPEÃO PREMIER V26A5 // ELT",
+					"ru-RU": "ЧЕМПИОН V26A5 PREMIER // ЭЛИТА",
+					"th-TH": "PREMIER V26A5 CHAMPION // ELT",
+					"tr-TR": "PREMIER V26K5 ŞAMP. // SÇKN",
+					"vi-VN": "VĐ PREMIER V26P5 // TN",
+					"zh-CN": "超级赛//V26第五幕冠军//精英",
+					"zh-TW": "Premier V26第五章冠軍 // 菁英"
+				}
+			},
+			"id": "0B57FFDE-487A-B704-7E98-38B27DC2D40D",
+			"label": "0B57FFDE-487A-B704-7E98-38B27DC2D40D",
+			"name":
+			{
+				"defaultText": "PREMIER V26A5 CHAMPION // ELT Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V26م5 // نخبة",
+					"de-DE": "Titel „PREMIER V26A5 CHAMPION // ELT“",
+					"en-US": "PREMIER V26A5 CHAMPION // ELT Title",
+					"es-ES": "Título CAMP. PREMIER V26A5 // ÉLT",
+					"es-MX": "Título V26A5: ÉLITE // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V26A5 // ÉLT",
+					"id-ID": "Gelar PREMIER V26A5 CHAMPION // ELT",
+					"it-IT": "Titolo CAMPIONE PREMIER V26A5 // ÉLT",
+					"ja-JP": "PREMIER V26A5 チャンピオン // ELT タイトル",
+					"ko-KR": "프리미어 V26A5 챔피언 // 상급 칭호",
+					"pl-PL": "Tytuł „BOHATER V26A5 PREMIER // ELT”",
+					"pt-BR": "Título CAMPEÃO PREMIER V26A5 // ELT",
+					"ru-RU": "Звание \"ЧЕМПИОН V26A5 PREMIER // ЭЛИТА\"",
+					"th-TH": "ฉายา PREMIER V26A5 CHAMPION // ELT",
+					"tr-TR": "PREMIER V26K5 ŞAMP. // SÇKN Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V26P5 // TN",
+					"zh-CN": "超级赛//V26第五幕冠军//精英 称号",
+					"zh-TW": "Premier V26第五章冠軍 // 菁英 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V26A5 GRAND CHAMP",
+				"localizedByCulture":
+				{
+					"ar-AE": "البطل الأعظم بريمير V26م5",
+					"de-DE": "PREMIER V26A5 GROSSMEISTER",
+					"en-US": "PREMIER V26A5 GRAND CHAMP",
+					"es-ES": "GRAN CAMP. PREMIER V26A5",
+					"es-MX": "V26A5: MEGACAMPEONES PREMIER",
+					"fr-FR": "GRAND CHAMPION DE PREMIER V26A5",
+					"id-ID": "PREMIER V26A5 GRAND CHAMP",
+					"it-IT": "CAMPIONE ASSOLUTO PREMIER V26A5",
+					"ja-JP": "PREMIER V26A5 グランドチャンピオン",
+					"ko-KR": "프리미어 V26A5 그랜드 챔피언",
+					"pl-PL": "NAJWIĘKSZY BOHATER V26A5 PREMIER",
+					"pt-BR": "GRANDE CAMPEÃO PREMIER V26A5",
+					"ru-RU": "ГРАНД-ЧЕМПИОН V26A5 PREMIER",
+					"th-TH": "PREMIER V26A5 GRAND CHAMP",
+					"tr-TR": "PREMIER V26K5 BÜYÜK ŞAMP.",
+					"vi-VN": "NHÀ VĐ PREMIER V26P5",
+					"zh-CN": "超级赛//V26第五幕总冠军",
+					"zh-TW": "Premier V26第五章總冠軍"
+				}
+			},
+			"id": "A9F63B89-4B63-1AC1-AB8F-3CB51E1CEBE0",
+			"label": "A9F63B89-4B63-1AC1-AB8F-3CB51E1CEBE0",
+			"name":
+			{
+				"defaultText": "PREMIER V26A5 GRAND CHAMP Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب البطل الأعظم بريمير V26م5",
+					"de-DE": "Titel „PREMIER V26A5 GROSSMEISTER“",
+					"en-US": "PREMIER V26A5 GRAND CHAMP Title",
+					"es-ES": "Título GRAN CAMP. PREMIER V26A5",
+					"es-MX": "Título V26A5: MEGACAMPEONES PREMIER",
+					"fr-FR": "Titre GRAND CHAMPION DE PREMIER V26A5",
+					"id-ID": "Gelar PREMIER V26A5 GRAND CHAMP",
+					"it-IT": "Titolo CAMPIONE ASSOLUTO PREMIER V26A5",
+					"ja-JP": "PREMIER V26A5 グランドチャンピオン タイトル",
+					"ko-KR": "프리미어 V26A5 그랜드 챔피언 칭호",
+					"pl-PL": "Tytuł „NAJWIĘKSZY BOHATER V26A5 PREMIER”",
+					"pt-BR": "Título GRANDE CAMPEÃO PREMIER V26A5",
+					"ru-RU": "Звание \"ГРАНД-ЧЕМПИОН V26A5 PREMIER\"",
+					"th-TH": "ฉายา PREMIER V26A5 GRAND CHAMP",
+					"tr-TR": "PREMIER V26K5 BÜYÜK ŞAMP. Unvanı",
+					"vi-VN": "Danh Hiệu NHÀ VĐ PREMIER V26P5",
+					"zh-CN": "超级赛//V26第五幕总冠军 称号",
+					"zh-TW": "Premier V26第五章總冠軍 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V26A5 CHAMPION // INT",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V26م5 // متوسط",
+					"de-DE": "PREMIER V26A5 CHAMPION // FRTG",
+					"en-US": "PREMIER V26A5 CHAMPION // INT",
+					"es-ES": "CAMP. PREMIER V26A5 // INTM",
+					"es-MX": "V26A5: INT. // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V26A5 // INT",
+					"id-ID": "PREMIER V26A5 CHAMPION // INT",
+					"it-IT": "CAMPIONE PREMIER V26A5 // INT",
+					"ja-JP": "PREMIER V26A5 チャンピオン // INT",
+					"ko-KR": "프리미어 V26A5 챔피언 // 중급",
+					"pl-PL": "BOHATER V26A5 PREMIER // ŚRD",
+					"pt-BR": "CAMPEÃO PREMIER V26A5 // INT",
+					"ru-RU": "ЧЕМПИОН V26A5 PREMIER // СРЕД",
+					"th-TH": "PREMIER V26A5 CHAMPION // INT",
+					"tr-TR": "PREMIER V26K5 ŞAMP. // ORT",
+					"vi-VN": "VĐ PREMIER V26P5 // TC",
+					"zh-CN": "超级赛//V26第五幕冠军//中级",
+					"zh-TW": "Premier V26第五章冠軍 // 中階"
+				}
+			},
+			"id": "9AB7BF73-4180-219A-CDF3-E1B53B77B55A",
+			"label": "9AB7BF73-4180-219A-CDF3-E1B53B77B55A",
+			"name":
+			{
+				"defaultText": "PREMIER V26A5 CHAMPION // INT Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V26م5 // متوسط",
+					"de-DE": "Titel „PREMIER V26A5 CHAMPION // FRTG“",
+					"en-US": "PREMIER V26A5 CHAMPION // INT Title",
+					"es-ES": "Título CAMP. PREMIER V26A5 // INTM",
+					"es-MX": "Título V26A5: INT. // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V26A5 // INT",
+					"id-ID": "Gelar PREMIER V26A5 CHAMPION // INT",
+					"it-IT": "Titolo CAMPIONE PREMIER V26A5 // INT",
+					"ja-JP": "PREMIER V26A5 チャンピオン // INT タイトル",
+					"ko-KR": "프리미어 V26A5 챔피언 // 중급 칭호",
+					"pl-PL": "Tytuł „BOHATER V26A5 PREMIER // ŚRD”",
+					"pt-BR": "Título CAMPEÃO PREMIER V26A5 // INT",
+					"ru-RU": "Звание \"ЧЕМПИОН V26A5 PREMIER // СРЕД\"",
+					"th-TH": "ฉายา PREMIER V26A5 CHAMPION // INT",
+					"tr-TR": "PREMIER V26K5 ŞAMP. // ORT Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V26P5 // TC",
+					"zh-CN": "超级赛//V26第五幕冠军//中级 称号",
+					"zh-TW": "Premier V26第五章冠軍 // 中階 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
+				"defaultText": "PREMIER V26A5 CHAMPION // OPN",
+				"localizedByCulture":
+				{
+					"ar-AE": "بطل بريمير V26م5 // مفتوح",
+					"de-DE": "PREMIER V26A5 CHAMPION // OFFN",
+					"en-US": "PREMIER V26A5 CHAMPION // OPN",
+					"es-ES": "CAMP. PREMIER V26A5 // ABRT",
+					"es-MX": "V26A5: ABIERTO // CAMPEONES PREMIER",
+					"fr-FR": "CHAMPION DE PREMIER V26A5 // OUV",
+					"id-ID": "PREMIER V26A5 CHAMPION // OPN",
+					"it-IT": "CAMPIONE PREMIER V26A5 // APR",
+					"ja-JP": "PREMIER V26A5 チャンピオン // OPN",
+					"ko-KR": "프리미어 V26A5 챔피언 // 초급",
+					"pl-PL": "BOHATER V26A5 PREMIER // OTW",
+					"pt-BR": "CAMPEÃO PREMIER V26A5 // ABR",
+					"ru-RU": "ЧЕМПИОН V26A5 PREMIER // ОТКР",
+					"th-TH": "PREMIER V26A5 CHAMPION // OPN",
+					"tr-TR": "PREMIER V26K5 ŞAMP. // AÇK",
+					"vi-VN": "VĐ PREMIER V26P5 // TD",
+					"zh-CN": "超级赛//V26第五幕冠军//初级",
+					"zh-TW": "Premier V26第五章冠軍 // 初階"
+				}
+			},
+			"id": "B0DED333-4C32-4B8D-20E3-C39AC9948529",
+			"label": "B0DED333-4C32-4B8D-20E3-C39AC9948529",
+			"name":
+			{
+				"defaultText": "PREMIER V26A5 CHAMPION // OPN Title",
+				"localizedByCulture":
+				{
+					"ar-AE": "لقب بطل بريمير V26م5 // مفتوح",
+					"de-DE": "Titel „PREMIER V26A5 CHAMPION // OFFN“",
+					"en-US": "PREMIER V26A5 CHAMPION // OPN Title",
+					"es-ES": "Título CAMP. PREMIER V26A5 // ABRT",
+					"es-MX": "Título V26A5: ABIERTO // CAMPEONES PREMIER",
+					"fr-FR": "Titre CHAMPION DE PREMIER V26A5 // OUV",
+					"id-ID": "Gelar PREMIER V26A5 CHAMPION // OPN",
+					"it-IT": "Titolo CAMPIONE PREMIER V26A5 // APR",
+					"ja-JP": "PREMIER V26A5 チャンピオン // OPN タイトル",
+					"ko-KR": "프리미어 V26A5 챔피언 // 초급 칭호",
+					"pl-PL": "Tytuł „BOHATER V26A5 PREMIER // OTW”",
+					"pt-BR": "Título CAMPEÃO PREMIER V26A5 // ABR",
+					"ru-RU": "Звание \"ЧЕМПИОН V26A5 PREMIER // ОТКР\"",
+					"th-TH": "ฉายา PREMIER V26A5 CHAMPION // OPN",
+					"tr-TR": "PREMIER V26K5 ŞAMP. // AÇK Unvanı",
+					"vi-VN": "Danh Hiệu VĐ PREMIER V26P5 // TD",
+					"zh-CN": "超级赛//V26第五幕冠军//初级 称号",
+					"zh-TW": "Premier V26第五章冠軍 // 初階 稱號"
+				}
+			}
+		},
+		{
+			"titleText":
+			{
 				"defaultText": "Proud",
 				"localizedByCulture":
 				{
@@ -276638,6 +280505,66 @@
 		{
 			"levels": [
 				{
+					"id": "1FCEBDA8-477C-3F29-C70D-11A43F2FBCE7",
+					"label": "1FCEBDA8-477C-3F29-C70D-11A43F2FBCE7",
+					"name":
+					{
+						"defaultText": "BattleRifle",
+						"localizedByCulture":
+						{
+							"ar-AE": "BattleRifle",
+							"de-DE": "BattleRifle",
+							"en-US": "BattleRifle",
+							"es-ES": "BattleRifle",
+							"es-MX": "BattleRifle",
+							"fr-FR": "BattleRifle",
+							"id-ID": "BattleRifle",
+							"it-IT": "BattleRifle",
+							"ja-JP": "BattleRifle",
+							"ko-KR": "BattleRifle",
+							"pl-PL": "BattleRifle",
+							"pt-BR": "BattleRifle",
+							"ru-RU": "BattleRifle",
+							"th-TH": "BattleRifle",
+							"tr-TR": "BattleRifle",
+							"vi-VN": "BattleRifle",
+							"zh-CN": "BattleRifle",
+							"zh-TW": "BattleRifle"
+						}
+					}
+				}
+			],
+			"id": "85BA6FFA-4B31-C9AA-F4D6-41ACC97211D2",
+			"label": "85BA6FFA-4B31-C9AA-F4D6-41ACC97211D2",
+			"name":
+			{
+				"defaultText": "Warden Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق واردن",
+					"de-DE": "Talisman „Warden“",
+					"en-US": "Warden Buddy",
+					"es-ES": "Amuleto Warden",
+					"es-MX": "Buddy de Warden",
+					"fr-FR": "Porte-bonheur Warden",
+					"id-ID": "Buddy Warden",
+					"it-IT": "Accessorio Warden",
+					"ja-JP": "ウォーデン バディー",
+					"ko-KR": "워든 총기 장식",
+					"pl-PL": "Przywieszka „Warden”",
+					"pt-BR": "Chaveiro Warden",
+					"ru-RU": "Брелок \"Warden\"",
+					"th-TH": "บัดดี้ Warden",
+					"tr-TR": "Warden Uğuru",
+					"vi-VN": "Phụ Kiện Warden",
+					"zh-CN": "悍狼 挂饰",
+					"zh-TW": "守望者 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "460DD6E0-4A76-6755-525F-4EBB37FA13BA",
 					"label": "460DD6E0-4A76-6755-525F-4EBB37FA13BA",
 					"name":
@@ -279512,6 +283439,66 @@
 					"vi-VN": "Phụ Kiện Champions 2024",
 					"zh-CN": "2024全球冠军赛 挂饰",
 					"zh-TW": "Champions 2024 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "EB86EF90-485A-F84E-3478-A7B5A9BAC61B",
+					"label": "EB86EF90-485A-F84E-3478-A7B5A9BAC61B",
+					"name":
+					{
+						"defaultText": "Champions2026",
+						"localizedByCulture":
+						{
+							"ar-AE": "Champions2026",
+							"de-DE": "Champions2026",
+							"en-US": "Champions2026",
+							"es-ES": "Champions2026",
+							"es-MX": "Champions2026",
+							"fr-FR": "Champions2026",
+							"id-ID": "Champions2026",
+							"it-IT": "Champions2026",
+							"ja-JP": "Champions2026",
+							"ko-KR": "Champions2026",
+							"pl-PL": "Champions2026",
+							"pt-BR": "Champions2026",
+							"ru-RU": "Champions2026",
+							"th-TH": "Champions2026",
+							"tr-TR": "Champions2026",
+							"vi-VN": "Champions2026",
+							"zh-CN": "Champions2026",
+							"zh-TW": "Champions2026"
+						}
+					}
+				}
+			],
+			"id": "FB211961-4531-F246-F27E-C6ABFFEF8F51",
+			"label": "FB211961-4531-F246-F27E-C6ABFFEF8F51",
+			"name":
+			{
+				"defaultText": "Champions 2026 Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق Champions 2026",
+					"de-DE": "Talisman „Champions 2026“",
+					"en-US": "Champions 2026 Buddy",
+					"es-ES": "Amuleto Champions 2026",
+					"es-MX": "Buddy Champions 2026",
+					"fr-FR": "Porte-bonheur Champions 2026",
+					"id-ID": "Buddy Champions 2026",
+					"it-IT": "Accessorio Champions 2026",
+					"ja-JP": "Champions 2026 バディー",
+					"ko-KR": "2026 챔피언스 총기 장식",
+					"pl-PL": "Przywieszka „Champions 2026”",
+					"pt-BR": "Chaveiro Champions 2026",
+					"ru-RU": "Брелок \"Champions 2026\"",
+					"th-TH": "บัดดี้ Champions 2026",
+					"tr-TR": "Champions 2026 Uğuru",
+					"vi-VN": "Phụ Kiện Champions 2026",
+					"zh-CN": "2026全球冠军赛 挂饰",
+					"zh-TW": "Champions 2026 吊飾"
 				}
 			}
 		},
@@ -288869,7 +292856,7 @@
 					"ru-RU": "Брелок \"Пропущенный звонок\"",
 					"th-TH": "บัดดี้ Missed Call",
 					"tr-TR": "Cevapsız Çağrı Uğuru",
-					"vi-VN": "Phụ Kiện Cuộc Gọi Nhỡ",
+					"vi-VN": "Phụ Kiện Gọi Nhỡ",
 					"zh-CN": "未接来电 挂饰",
 					"zh-TW": "未接來電 吊飾"
 				}
@@ -294617,14 +298604,14 @@
 					"ar-AE": "ملحق شظية الصدَفة",
 					"de-DE": "Talisman „Fragmenthülle“",
 					"en-US": "Fragment Shell Buddy",
-					"es-ES": "Amuleto Fragmento de cascarón",
-					"es-MX": "Buddy Casquillo Fragmentado",
-					"fr-FR": "Porte-bonheur Coquillage fragmenté",
+					"es-ES": "Amuleto Fragmento de bala",
+					"es-MX": "Buddy Tiro Fragmentado",
+					"fr-FR": "Porte-bonheur Cartouche fragmentée",
 					"id-ID": "Buddy Fragment Shell",
 					"it-IT": "Accessorio Frammento di bossolo",
 					"ja-JP": "フラグメント シェル バディー",
 					"ko-KR": "탄약 파편 총기 장식",
-					"pl-PL": "Przywieszka „Fragment Skorupy”",
+					"pl-PL": "Przywieszka „Fragment Łuski”",
 					"pt-BR": "Chaveiro Cartucho Fragmentado",
 					"ru-RU": "Брелок \"Фрагментированный патрон\"",
 					"th-TH": "บัดดี้ Fragment Shell",
@@ -307532,6 +311519,366 @@
 					"vi-VN": "Phụ Kiện VĐ PREMIER V26P4 // TD",
 					"zh-CN": "超级赛//V26第四幕冠军//初级 挂饰",
 					"zh-TW": "Premier V26第四章冠軍 // 初階 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "62A7A07F-42AA-3DDC-4C41-95994896AB58",
+					"label": "62A7A07F-42AA-3DDC-4C41-95994896AB58",
+					"name":
+					{
+						"defaultText": "PremierV26A5_Advanced",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A5_Advanced",
+							"de-DE": "PremierV26A5_Advanced",
+							"en-US": "PremierV26A5_Advanced",
+							"es-ES": "PremierV26A5_Advanced",
+							"es-MX": "PremierV26A5_Advanced",
+							"fr-FR": "PremierV26A5_Advanced",
+							"id-ID": "PremierV26A5_Advanced",
+							"it-IT": "PremierV26A5_Advanced",
+							"ja-JP": "PremierV26A5_Advanced",
+							"ko-KR": "PremierV26A5_Advanced",
+							"pl-PL": "PremierV26A5_Advanced",
+							"pt-BR": "PremierV26A5_Advanced",
+							"ru-RU": "PremierV26A5_Advanced",
+							"th-TH": "PremierV26A5_Advanced",
+							"tr-TR": "PremierV26A5_Advanced",
+							"vi-VN": "PremierV26A5_Advanced",
+							"zh-CN": "PremierV26A5_Advanced",
+							"zh-TW": "PremierV26A5_Advanced"
+						}
+					}
+				}
+			],
+			"id": "52476E18-4F80-3053-FA7E-9FA74DFFA1EE",
+			"label": "52476E18-4F80-3053-FA7E-9FA74DFFA1EE",
+			"name":
+			{
+				"defaultText": "PREMIER V26A5 CHAMPION // ADV Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V26م5 // متقدم",
+					"de-DE": "Talisman „PREMIER V26A5 CHAMPION // PRF“",
+					"en-US": "PREMIER V26A5 CHAMPION // ADV Buddy",
+					"es-ES": "Amuleto CAMP. PREMIER V26A5 // AVNZ",
+					"es-MX": "Buddy AVAN. // CAMPEONES PREMIER V26A5",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V26A5 // AVN",
+					"id-ID": "Buddy PREMIER V26A5 CHAMPION // ADV",
+					"it-IT": "Accessorio CAMPIONE PREMIER V26A5 // AVZ",
+					"ja-JP": "PREMIER V26A5 チャンピオン // ADV バディー",
+					"ko-KR": "프리미어 V26A5 챔피언 // 중상급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V26A5 PREMIER // ZWN”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V26A5 // AV",
+					"ru-RU": "Брелок \"ЧЕМПИОН V26A5 PREMIER // АС\"",
+					"th-TH": "บัดดี้ PREMIER V26A5 CHAMPION // ADV",
+					"tr-TR": "PREMIER V26K5 ŞAMPİYONU // İLR DZY Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V26P5 // CC",
+					"zh-CN": "超级赛//V26第五幕冠军//高级 挂饰",
+					"zh-TW": "Premier V26第五章冠軍 // 高階 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "A0736F98-4372-59E4-634F-958B6E525F39",
+					"label": "A0736F98-4372-59E4-634F-958B6E525F39",
+					"name":
+					{
+						"defaultText": "PremierV26A5_Contender",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A5_Contender",
+							"de-DE": "PremierV26A5_Contender",
+							"en-US": "PremierV26A5_Contender",
+							"es-ES": "PremierV26A5_Contender",
+							"es-MX": "PremierV26A5_Contender",
+							"fr-FR": "PremierV26A5_Contender",
+							"id-ID": "PremierV26A5_Contender",
+							"it-IT": "PremierV26A5_Contender",
+							"ja-JP": "PremierV26A5_Contender",
+							"ko-KR": "PremierV26A5_Contender",
+							"pl-PL": "PremierV26A5_Contender",
+							"pt-BR": "PremierV26A5_Contender",
+							"ru-RU": "PremierV26A5_Contender",
+							"th-TH": "PremierV26A5_Contender",
+							"tr-TR": "PremierV26A5_Contender",
+							"vi-VN": "PremierV26A5_Contender",
+							"zh-CN": "PremierV26A5_Contender",
+							"zh-TW": "PremierV26A5_Contender"
+						}
+					}
+				}
+			],
+			"id": "9D07BD7D-43C7-F17D-A166-DE89E84D0B00",
+			"label": "9D07BD7D-43C7-F17D-A166-DE89E84D0B00",
+			"name":
+			{
+				"defaultText": "PREMIER V26A5 CHAMPION // CTD Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V26م5 // منافس",
+					"de-DE": "Talisman „PREMIER V26A5 CHAMPION // KNDT“",
+					"en-US": "PREMIER V26A5 CHAMPION // CTD Buddy",
+					"es-ES": "Amuleto CAMP. PREMIER V26A5 // CNTD",
+					"es-MX": "Buddy CONT. // CAMPEONES PREMIER V26A5",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V26A5 // CCR",
+					"id-ID": "Buddy PREMIER V26A5 CHAMPION // CTD",
+					"it-IT": "Accessorio CAMPIONE PREMIER V26A5 // SFD",
+					"ja-JP": "PREMIER V26A5 チャンピオン // CTD バディー",
+					"ko-KR": "프리미어 V26A5 챔피언 // 최상급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V26A5 PREMIER // ZDK”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V26A5 // DES",
+					"ru-RU": "Брелок \"ЧЕМПИОН V26A5 PREMIER // БОЕЦ\"",
+					"th-TH": "บัดดี้ PREMIER V26A5 CHAMPION // CTD",
+					"tr-TR": "PREMIER V26K5 ŞAMPİYONU // TTKÇİ Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V26P5 // UVNK",
+					"zh-CN": "超级赛//V26第五幕冠军//竞争者 挂饰",
+					"zh-TW": "Premier V26第五章冠軍 // 競爭者 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "1AC8DAF9-40B3-9718-2338-0B84A4A60A87",
+					"label": "1AC8DAF9-40B3-9718-2338-0B84A4A60A87",
+					"name":
+					{
+						"defaultText": "PremierV26A5_Elite",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A5_Elite",
+							"de-DE": "PremierV26A5_Elite",
+							"en-US": "PremierV26A5_Elite",
+							"es-ES": "PremierV26A5_Elite",
+							"es-MX": "PremierV26A5_Elite",
+							"fr-FR": "PremierV26A5_Elite",
+							"id-ID": "PremierV26A5_Elite",
+							"it-IT": "PremierV26A5_Elite",
+							"ja-JP": "PremierV26A5_Elite",
+							"ko-KR": "PremierV26A5_Elite",
+							"pl-PL": "PremierV26A5_Elite",
+							"pt-BR": "PremierV26A5_Elite",
+							"ru-RU": "PremierV26A5_Elite",
+							"th-TH": "PremierV26A5_Elite",
+							"tr-TR": "PremierV26A5_Elite",
+							"vi-VN": "PremierV26A5_Elite",
+							"zh-CN": "PremierV26A5_Elite",
+							"zh-TW": "PremierV26A5_Elite"
+						}
+					}
+				}
+			],
+			"id": "C9BA3BF6-4344-A5FD-0EA0-64A35CB23AF4",
+			"label": "C9BA3BF6-4344-A5FD-0EA0-64A35CB23AF4",
+			"name":
+			{
+				"defaultText": "PREMIER V26A5 CHAMPION // ELT Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V26م5 // نخبة",
+					"de-DE": "Talisman „PREMIER V26A5 CHAMPION // ELT“",
+					"en-US": "PREMIER V26A5 CHAMPION // ELT Buddy",
+					"es-ES": "Amuleto CAMP. PREMIER V26A5 // ÉLT",
+					"es-MX": "Buddy ÉLITE // CAMPEONES PREMIER V26A5",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V26A5 // ÉLT",
+					"id-ID": "Buddy PREMIER V26A5 CHAMPION // ELT",
+					"it-IT": "Accessorio CAMPIONE PREMIER V26A5 // ÉLT",
+					"ja-JP": "PREMIER V26A5 チャンピオン // ELT バディー",
+					"ko-KR": "프리미어 V26A5 챔피언 // 상급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V26A5 PREMIER // ELT”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V26A5 // ELT",
+					"ru-RU": "Брелок \"ЧЕМПИОН V26A5 PREMIER // ЭЛИТА\"",
+					"th-TH": "บัดดี้ PREMIER V26A5 CHAMPION // ELT",
+					"tr-TR": "PREMIER V26K5 ŞAMPİYONU // SÇKN DZY Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V26P5 // TN",
+					"zh-CN": "超级赛//V26第五幕冠军//精英 挂饰",
+					"zh-TW": "Premier V26第五章冠軍 // 菁英 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "8E2C79D8-4785-F0ED-EE71-05BE077DF55B",
+					"label": "8E2C79D8-4785-F0ED-EE71-05BE077DF55B",
+					"name":
+					{
+						"defaultText": "PremierV26A5_Intermediate",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A5_Intermediate",
+							"de-DE": "PremierV26A5_Intermediate",
+							"en-US": "PremierV26A5_Intermediate",
+							"es-ES": "PremierV26A5_Intermediate",
+							"es-MX": "PremierV26A5_Intermediate",
+							"fr-FR": "PremierV26A5_Intermediate",
+							"id-ID": "PremierV26A5_Intermediate",
+							"it-IT": "PremierV26A5_Intermediate",
+							"ja-JP": "PremierV26A5_Intermediate",
+							"ko-KR": "PremierV26A5_Intermediate",
+							"pl-PL": "PremierV26A5_Intermediate",
+							"pt-BR": "PremierV26A5_Intermediate",
+							"ru-RU": "PremierV26A5_Intermediate",
+							"th-TH": "PremierV26A5_Intermediate",
+							"tr-TR": "PremierV26A5_Intermediate",
+							"vi-VN": "PremierV26A5_Intermediate",
+							"zh-CN": "PremierV26A5_Intermediate",
+							"zh-TW": "PremierV26A5_Intermediate"
+						}
+					}
+				}
+			],
+			"id": "147AEDA2-45F7-1F55-72B1-7B80E3605770",
+			"label": "147AEDA2-45F7-1F55-72B1-7B80E3605770",
+			"name":
+			{
+				"defaultText": "PREMIER V26A5 CHAMPION // INT Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V26م5 // متوسط",
+					"de-DE": "Talisman „PREMIER V26A5 CHAMPION // FRTG“",
+					"en-US": "PREMIER V26A5 CHAMPION // INT Buddy",
+					"es-ES": "Amuleto CAMP. PREMIER V26A5 // INTM",
+					"es-MX": "Buddy V26A5: INT. // CAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V26A5 // INT",
+					"id-ID": "Buddy PREMIER V26A5 CHAMPION // INT",
+					"it-IT": "Accessorio CAMPIONE PREMIER V26A5 // INT",
+					"ja-JP": "PREMIER V26A5 チャンピオン // INT バディー",
+					"ko-KR": "프리미어 V26A5 챔피언 // 중급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V26A5 PREMIER // ŚRD”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V26A5 // INT",
+					"ru-RU": "Брелок \"ЧЕМПИОН V26A5 PREMIER // СРЕД\"",
+					"th-TH": "บัดดี้ PREMIER V26A5 CHAMPION // INT",
+					"tr-TR": "PREMIER V26K5 ŞAMPİYONU // ORT DZY Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V26P5 // TC",
+					"zh-CN": "超级赛//V26第五幕冠军//中级 挂饰",
+					"zh-TW": "Premier V26第五章冠軍 // 中階 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "775EDCD4-4675-A86B-39BB-ABB953F6FD32",
+					"label": "775EDCD4-4675-A86B-39BB-ABB953F6FD32",
+					"name":
+					{
+						"defaultText": "PremierV26A5_Invite",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A5_Invite",
+							"de-DE": "PremierV26A5_Invite",
+							"en-US": "PremierV26A5_Invite",
+							"es-ES": "PremierV26A5_Invite",
+							"es-MX": "PremierV26A5_Invite",
+							"fr-FR": "PremierV26A5_Invite",
+							"id-ID": "PremierV26A5_Invite",
+							"it-IT": "PremierV26A5_Invite",
+							"ja-JP": "PremierV26A5_Invite",
+							"ko-KR": "PremierV26A5_Invite",
+							"pl-PL": "PremierV26A5_Invite",
+							"pt-BR": "PremierV26A5_Invite",
+							"ru-RU": "PremierV26A5_Invite",
+							"th-TH": "PremierV26A5_Invite",
+							"tr-TR": "PremierV26A5_Invite",
+							"vi-VN": "PremierV26A5_Invite",
+							"zh-CN": "PremierV26A5_Invite",
+							"zh-TW": "PremierV26A5_Invite"
+						}
+					}
+				}
+			],
+			"id": "9B92205D-42DD-42D6-0355-D6B37C19B3F3",
+			"label": "9B92205D-42DD-42D6-0355-D6B37C19B3F3",
+			"name":
+			{
+				"defaultText": "PREMIER V26A5 GRAND CHAMP Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق البطل الأعظم بريمير V26م5",
+					"de-DE": "Talisman „PREMIER V26A5 GROSSMEISTER“",
+					"en-US": "PREMIER V26A5 GRAND CHAMP Buddy",
+					"es-ES": "Amuleto GRAN CAMP. PREMIER V26A5",
+					"es-MX": "Buddy MEGACAMPEONES PREMIER V26A5",
+					"fr-FR": "Porte-bonheur GRAND CHAMPION DE PREMIER V26A5",
+					"id-ID": "Buddy PREMIER V26A5 GRAND CHAMP",
+					"it-IT": "Accessorio CAMPIONE ASSOLUTO PREMIER V26A5",
+					"ja-JP": "PREMIER V26A5 グランドチャンピオン バディー",
+					"ko-KR": "프리미어 V26A5 그랜드 챔피언 총기 장식",
+					"pl-PL": "Przywieszka „NAJWIĘKSZY BOHATER V26A5 PREMIER”",
+					"pt-BR": "Chaveiro GRANDE CAMPEÃO PREMIER V26A5",
+					"ru-RU": "Брелок \"ГРАНД-ЧЕМПИОН V26A5 PREMIER\"",
+					"th-TH": "บัดดี้ PREMIER V26A5 GRAND CHAMP",
+					"tr-TR": "PREMIER V26K5 BÜYÜK ŞAMPİYONU Uğuru",
+					"vi-VN": "Phụ Kiện NHÀ VĐ PREMIER V26P5",
+					"zh-CN": "超级赛//V26第五幕总冠军 挂饰",
+					"zh-TW": "Premier V26第五章總冠軍 吊飾"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "81B7FA1E-4BCE-3355-08C4-0F9E27737E95",
+					"label": "81B7FA1E-4BCE-3355-08C4-0F9E27737E95",
+					"name":
+					{
+						"defaultText": "PremierV26A5_Open",
+						"localizedByCulture":
+						{
+							"ar-AE": "PremierV26A5_Open",
+							"de-DE": "PremierV26A5_Open",
+							"en-US": "PremierV26A5_Open",
+							"es-ES": "PremierV26A5_Open",
+							"es-MX": "PremierV26A5_Open",
+							"fr-FR": "PremierV26A5_Open",
+							"id-ID": "PremierV26A5_Open",
+							"it-IT": "PremierV26A5_Open",
+							"ja-JP": "PremierV26A5_Open",
+							"ko-KR": "PremierV26A5_Open",
+							"pl-PL": "PremierV26A5_Open",
+							"pt-BR": "PremierV26A5_Open",
+							"ru-RU": "PremierV26A5_Open",
+							"th-TH": "PremierV26A5_Open",
+							"tr-TR": "PremierV26A5_Open",
+							"vi-VN": "PremierV26A5_Open",
+							"zh-CN": "PremierV26A5_Open",
+							"zh-TW": "PremierV26A5_Open"
+						}
+					}
+				}
+			],
+			"id": "B0C34FFE-43B6-1407-556A-BE9561A85D68",
+			"label": "B0C34FFE-43B6-1407-556A-BE9561A85D68",
+			"name":
+			{
+				"defaultText": "PREMIER V26A5 CHAMPION // OPN Buddy",
+				"localizedByCulture":
+				{
+					"ar-AE": "ملحق بطل بريمير V26م5 // مفتوح",
+					"de-DE": "Talisman „PREMIER V26A5 CHAMPION // OFFN“",
+					"en-US": "PREMIER V26A5 CHAMPION // OPN Buddy",
+					"es-ES": "Amuleto CAMP. PREMIER V26A5 // ABRT",
+					"es-MX": "Buddy V26A5: ABIERTO // CAMPEONES PREMIER",
+					"fr-FR": "Porte-bonheur CHAMPION DE PREMIER V26A5 // OUV",
+					"id-ID": "Buddy PREMIER V26A5 CHAMPION // OPN",
+					"it-IT": "Accessorio CAMPIONE PREMIER V26A5 // APR",
+					"ja-JP": "PREMIER V26A5 チャンピオン // OPN バディー",
+					"ko-KR": "프리미어 V26A5 챔피언 // 초급 총기 장식",
+					"pl-PL": "Przywieszka „BOHATER V26A5 PREMIER // OTW”",
+					"pt-BR": "Chaveiro CAMPEÃO PREMIER V26A5 // ABR",
+					"ru-RU": "Брелок \"ЧЕМПИОН V26A5 PREMIER // ОТКР\"",
+					"th-TH": "บัดดี้ PREMIER V26A5 CHAMPION // OPN",
+					"tr-TR": "PREMIER V26K5 ŞAMPİYONU // AÇK Uğuru",
+					"vi-VN": "Phụ Kiện VĐ PREMIER V26P5 // TD",
+					"zh-CN": "超级赛//V26第五幕冠军//初级 挂饰",
+					"zh-TW": "Premier V26第五章冠軍 // 初階 吊飾"
 				}
 			}
 		},
@@ -331834,6 +336181,66 @@
 					"vi-VN": "Hình Phun Sơn Champions 2024",
 					"zh-CN": "2024全球冠军赛 喷漆",
 					"zh-TW": "Champions 2024 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "21E2433E-49F9-1CDE-B833-779518A61009",
+					"label": "21E2433E-49F9-1CDE-B833-779518A61009",
+					"name":
+					{
+						"defaultText": "Champions2026",
+						"localizedByCulture":
+						{
+							"ar-AE": "Champions2026",
+							"de-DE": "Champions2026",
+							"en-US": "Champions2026",
+							"es-ES": "Champions2026",
+							"es-MX": "Champions2026",
+							"fr-FR": "Champions2026",
+							"id-ID": "Champions2026",
+							"it-IT": "Champions2026",
+							"ja-JP": "Champions2026",
+							"ko-KR": "Champions2026",
+							"pl-PL": "Champions2026",
+							"pt-BR": "Champions2026",
+							"ru-RU": "Champions2026",
+							"th-TH": "Champions2026",
+							"tr-TR": "Champions2026",
+							"vi-VN": "Champions2026",
+							"zh-CN": "Champions2026",
+							"zh-TW": "Champions2026"
+						}
+					}
+				}
+			],
+			"id": "7F6AC746-4B70-CD78-E74E-E9B178C009A6",
+			"label": "7F6AC746-4B70-CD78-E74E-E9B178C009A6",
+			"name":
+			{
+				"defaultText": "Champions 2026 Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة Champions 2026",
+					"de-DE": "Graffiti „Champions 2026“",
+					"en-US": "Champions 2026 Spray",
+					"es-ES": "Grafiti Champions 2026",
+					"es-MX": "Spray Champions 2026",
+					"fr-FR": "Graffiti Champions 2026",
+					"id-ID": "Spray Champions 2026",
+					"it-IT": "Spray Champions 2026",
+					"ja-JP": "Champions 2026 スプレー",
+					"ko-KR": "2026 챔피언스 스프레이",
+					"pl-PL": "Graffiti „Champions 2026”",
+					"pt-BR": "Spray Champions 2026",
+					"ru-RU": "Граффити \"Champions 2026\"",
+					"th-TH": "สเปรย์ Champions 2026",
+					"tr-TR": "Champions 2026 Spreyi",
+					"vi-VN": "Hình Phun Sơn Champions 2026",
+					"zh-CN": "2026全球冠军赛 喷漆",
+					"zh-TW": "Champions 2026 塗鴉"
 				}
 			}
 		},
@@ -359680,6 +364087,66 @@
 		{
 			"levels": [
 				{
+					"id": "D193D3EF-49DA-4B37-52ED-E7955526F1A5",
+					"label": "D193D3EF-49DA-4B37-52ED-E7955526F1A5",
+					"name":
+					{
+						"defaultText": "Battlerifle",
+						"localizedByCulture":
+						{
+							"ar-AE": "Battlerifle",
+							"de-DE": "Battlerifle",
+							"en-US": "Battlerifle",
+							"es-ES": "Battlerifle",
+							"es-MX": "Battlerifle",
+							"fr-FR": "Battlerifle",
+							"id-ID": "Battlerifle",
+							"it-IT": "Battlerifle",
+							"ja-JP": "Battlerifle",
+							"ko-KR": "Battlerifle",
+							"pl-PL": "Battlerifle",
+							"pt-BR": "Battlerifle",
+							"ru-RU": "Battlerifle",
+							"th-TH": "Battlerifle",
+							"tr-TR": "Battlerifle",
+							"vi-VN": "Battlerifle",
+							"zh-CN": "Battlerifle",
+							"zh-TW": "Battlerifle"
+						}
+					}
+				}
+			],
+			"id": "D3A923CA-406C-0EAF-C635-78981FC2BDE4",
+			"label": "D3A923CA-406C-0EAF-C635-78981FC2BDE4",
+			"name":
+			{
+				"defaultText": "Warden Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة واردن",
+					"de-DE": "Graffiti „Warden“",
+					"en-US": "Warden Spray",
+					"es-ES": "Grafiti Warden",
+					"es-MX": "Spray de Warden",
+					"fr-FR": "Graffiti Warden",
+					"id-ID": "Spray Warden",
+					"it-IT": "Spray Warden",
+					"ja-JP": "ウォーデン スプレー",
+					"ko-KR": "워든 스프레이",
+					"pl-PL": "Graffiti „Warden”",
+					"pt-BR": "Spray Warden",
+					"ru-RU": "Граффити \"Warden\"",
+					"th-TH": "สเปรย์ Warden",
+					"tr-TR": "Warden Spreyi",
+					"vi-VN": "Hình Phun Sơn Warden",
+					"zh-CN": "悍狼 喷漆",
+					"zh-TW": "守望者 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
 					"id": "A155E9BA-41FA-A677-2E03-58B333ED7013",
 					"label": "A155E9BA-41FA-A677-2E03-58B333ED7013",
 					"name":
@@ -362794,6 +367261,66 @@
 					"vi-VN": "Hình Phun Sơn Độc Dược Bất Chấp",
 					"zh-CN": "喜欢哪种毒？ 喷漆",
 					"zh-TW": "哪種毒自己選 塗鴉"
+				}
+			}
+		},
+		{
+			"levels": [
+				{
+					"id": "74EAD21C-36F1-43D7-B200-F6633C8D9E57",
+					"label": "74EAD21C-36F1-43D7-B200-F6633C8D9E57",
+					"name":
+					{
+						"defaultText": "Deadly Venom Spray",
+						"localizedByCulture":
+						{
+							"ar-AE": "رسمة السم المميت",
+							"de-DE": "Graffiti „Tödliches Gift“",
+							"en-US": "Deadly Venom Spray",
+							"es-ES": "Grafiti Veneno letal",
+							"es-MX": "Spray Veneno Letal",
+							"fr-FR": "Graffiti Venin mortel",
+							"id-ID": "Spray Deadly Venom",
+							"it-IT": "Spray Veleno letale",
+							"ja-JP": "デッドリーヴェノム スプレー",
+							"ko-KR": "치명적인 독 스프레이",
+							"pl-PL": "Graffiti „Zabójczy jad”",
+							"pt-BR": "Spray Veneno Mortal",
+							"ru-RU": "Граффити \"Смертельный яд\"",
+							"th-TH": "สเปรย์ Deadly Venom",
+							"tr-TR": "Ölümcül Toksin Spreyi",
+							"vi-VN": "Hình Phun Sơn Kịch Độc",
+							"zh-CN": "致命毒素 喷漆",
+							"zh-TW": "致死猛毒 塗鴉"
+						}
+					}
+				}
+			],
+			"id": "3A51C722-4690-3494-55C0-BBBD40903E9B",
+			"label": "3A51C722-4690-3494-55C0-BBBD40903E9B",
+			"name":
+			{
+				"defaultText": "Deadly Venom Spray",
+				"localizedByCulture":
+				{
+					"ar-AE": "رسمة السم المميت",
+					"de-DE": "Graffiti „Tödliches Gift“",
+					"en-US": "Deadly Venom Spray",
+					"es-ES": "Grafiti Veneno letal",
+					"es-MX": "Spray Veneno Letal",
+					"fr-FR": "Graffiti Venin mortel",
+					"id-ID": "Spray Deadly Venom",
+					"it-IT": "Spray Veleno letale",
+					"ja-JP": "デッドリーヴェノム スプレー",
+					"ko-KR": "치명적인 독 스프레이",
+					"pl-PL": "Graffiti „Zabójczy jad”",
+					"pt-BR": "Spray Veneno Mortal",
+					"ru-RU": "Граффити \"Смертельный яд\"",
+					"th-TH": "สเปรย์ Deadly Venom",
+					"tr-TR": "Ölümcül Toksin Spreyi",
+					"vi-VN": "Hình Phun Sơn Kịch Độc",
+					"zh-CN": "致命毒素 喷漆",
+					"zh-TW": "致死猛毒 塗鴉"
 				}
 			}
 		},
@@ -383937,6 +388464,60 @@
 					"ar-AE": "10 - 15 دقيقة",
 					"de-DE": "10 BIS 15 MIN.",
 					"en-US": "10-15 MINS",
+					"es-ES": "10-15 MIN",
+					"es-MX": "10-15 MIN",
+					"fr-FR": "10-15 MIN",
+					"id-ID": "10–15 MNT",
+					"it-IT": "10-15 MIN",
+					"ja-JP": "10-15 分",
+					"ko-KR": "10~15분",
+					"pl-PL": "10-15 MIN",
+					"pt-BR": "10 A 15 MIN",
+					"ru-RU": "10–15 МИН.",
+					"th-TH": "10-15 นาที",
+					"tr-TR": "10-15 DK.",
+					"vi-VN": "10 - 15 PHÚT",
+					"zh-CN": "10至15分钟",
+					"zh-TW": "10-15分鐘"
+				}
+			},
+			"id": "106CC7B7-444A-14E5-4AC6-5EADB9864B67",
+			"label": "106CC7B7-444A-14E5-4AC6-5EADB9864B67",
+			"name":
+			{
+				"defaultText": "Gauntlet: Glitched",
+				"localizedByCulture":
+				{
+					"ar-AE": "الاختبار: خلل تقني",
+					"de-DE": "Gauntlet: Glitched",
+					"en-US": "Gauntlet: Glitched",
+					"es-ES": "Galería de pruebas: Glitch",
+					"es-MX": "Duetos Glitcheados",
+					"fr-FR": "Gauntlet: Glitched",
+					"id-ID": "Gauntlet: Glitched",
+					"it-IT": "Gauntlet: Glitch",
+					"ja-JP": "ガントレット: グリッチ",
+					"ko-KR": "건틀릿: 시스템 오류",
+					"pl-PL": "Wyzwanie: Glitch",
+					"pt-BR": "Contenda Bugada",
+					"ru-RU": "Вызов: Сбой",
+					"th-TH": "Gauntlet: Glitched",
+					"tr-TR": "GALEYAN: GÜÇ BOZULMASI",
+					"vi-VN": "Thử Thách: Lỗi Hệ Thống",
+					"zh-CN": "异变轮战",
+					"zh-TW": "大亂鬥：異常"
+				}
+			}
+		},
+		{
+			"duration":
+			{
+				"defaultText": "10-15 MINS",
+				"localizedByCulture":
+				{
+					"ar-AE": "10 - 15 دقيقة",
+					"de-DE": "10 BIS 15 MIN.",
+					"en-US": "10-15 MINS",
 					"es-ES": "10-15 MIN.",
 					"es-MX": "10-15 MIN",
 					"fr-FR": "10-15 MIN",
@@ -388119,6 +392700,60 @@
 		{
 			"description":
 			{
+				"defaultText": "16 players. 8 duos. 1 team remains. Pair up, build your agent, and chase the upgrades that glitch into something new.",
+				"localizedByCulture":
+				{
+					"ar-AE": "16 لاعبًا. 8 فرق ثنائية. 1 فريق صامد. شكّل ثنائيًا وطوّر عميلك واقتنص الترقيات التي ستنقلك إلى مواقف جديدة.",
+					"de-DE": "16 Spieler. 8 Duos. 1 Team verbleibt. Bilde eine Zweiergruppe, baue deinen Agenten auf und jage den Aufwertungen hinterher, die sich in etwas Neues verwandeln.",
+					"en-US": "16 players. 8 duos. 1 team remains. Pair up, build your agent, and chase the upgrades that glitch into something new.",
+					"es-ES": "16 jugadores. 8 dúos. Solo queda 1 equipo. Busca emparejamiento, prepara a tu agente y que no se te escapen esas mejoras que se transforman en algo nuevo.",
+					"es-MX": "16 jugadores, 8 dúos. Solo 1 equipo prevalece. Arma tu dueto, prepara a tu agente y consigue las mejoras glitcheadas para descubrir algo totalmente nuevo.",
+					"fr-FR": "16 joueurs. 8 duos. 1 seule équipe vaincra. Faites équipe, développez votre agent et cherchez les améliorations qui donneront quelque chose d'inédit.",
+					"id-ID": "16 pemain. 8 duo. 1 tim tersisa. Pilih pasangan, kembangkan agent-mu, dan incar upgrade yang bisa berubah tak terduga jadi sesuatu yang baru.",
+					"it-IT": "16 giocatori. 8 coppie. Resta 1 squadra. Fai squadra, crea il tuo agente e insegui i potenziamenti che si trasformano in qualcosa di nuovo.",
+					"ja-JP": "16名のプレイヤー、8組のデュオ、残るのは1チーム。デュオを組んで、エージェントの準備を固め、グリッチによって新たな効果を発揮するアップグレードの獲得を目指せ。",
+					"ko-KR": "16명의 플레이어. 8개의 2인 팀. 한 팀만이 살아남습니다. 2인으로 팀을 이뤄 요원을 구성하고, 오류를 일으키며 새롭게 변화하는 업그레이드를 손에 넣으세요.",
+					"pl-PL": "16 graczy. 8 duetów. Pozostała 1 drużyna. Łączcie się w pary, budujcie swojego agenta i szukajcie ulepszeń, które glitchują się w coś nowego.",
+					"pt-BR": "16 pessoas. 8 duplas. Só 1 equipe restante. Forme uma dupla, monte um Agente e vá em busca de melhorias que bugam e se transformam em algo novo.",
+					"ru-RU": "Шестнадцать игроков. 8 дуэтов. Выстоит лишь одна команда. Играйте с напарником, развивайте агента и ищите улучшения, которые могут повернуть ход боя в неожиданную сторону.",
+					"th-TH": "ผู้เล่น 16 คน ดูโอ้ 8 คู่ ผู้อยู่รอดเพียง 1 ทีม จับคู่ พัฒนาเอเจนท์ของคุณ และตั้งเป้าการอัปเกรดที่จะทำให้เกิดบั๊กจนกลายเป็นความสามารถใหม่",
+					"tr-TR": "16 oyuncu. 8 ikili. Ayakta kalan 1 takım. Takımını kur, ajanını oluştur ve bozularak yeni bir şeye dönüşen geliştirmelerin peşine düş.",
+					"vi-VN": "16 người chơi. 8 cặp. Chỉ 1 đội trụ lại. Lập đội hai người, xây dựng đặc vụ của bạn và săn những nâng cấp \"lỗi\" để sở hữu sức mạnh hoàn toàn mới.",
+					"zh-CN": "16名玩家。8组双人队伍。战至最后1队。选择搭档，打造英雄，争夺能够转化为全新形态的升级技能。",
+					"zh-TW": "16名玩家、8組雙人組合、戰到只剩1支隊伍。組隊、打造你的特務，然後競逐那些能夠進化成全新樣貌的升級技能。"
+				}
+			},
+			"id": "BC011FCE-464D-179F-0A14-C89C3F676343",
+			"label": "BC011FCE-464D-179F-0A14-C89C3F676343",
+			"name":
+			{
+				"defaultText": "Gauntlet: Glitched",
+				"localizedByCulture":
+				{
+					"ar-AE": "الاختبار: خلل تقني",
+					"de-DE": "Gauntlet: Glitched",
+					"en-US": "Gauntlet: Glitched",
+					"es-ES": "Galería de pruebas: Glitch",
+					"es-MX": "Duetos Glitcheados",
+					"fr-FR": "Gauntlet: Glitched",
+					"id-ID": "Gauntlet: Glitched",
+					"it-IT": "Gauntlet: Glitch",
+					"ja-JP": "ガントレット: グリッチ",
+					"ko-KR": "건틀릿: 시스템 오류",
+					"pl-PL": "Wyzwanie: Glitch",
+					"pt-BR": "Contenda Bugada",
+					"ru-RU": "Вызов: Сбой",
+					"th-TH": "Gauntlet: Glitched",
+					"tr-TR": "GALEYAN: GÜÇ BOZULMASI",
+					"vi-VN": "Thử Thách: Lỗi Hệ Thống",
+					"zh-CN": "异变轮战",
+					"zh-TW": "大亂鬥：異常"
+				}
+			}
+		},
+		{
+			"description":
+			{
 				"defaultText": "Plant/defuse mode. Ranked matches, limited map pool, prove your skill, earn your rank. First to 13 wins.",
 				"localizedByCulture":
 				{
@@ -388221,6 +392856,60 @@
 					"vi-VN": "Tất Cả Ngẫu Nhiên Một Khu Đặt Spike",
 					"zh-CN": "爆能大乱斗",
 					"zh-TW": "隨機單點"
+				}
+			}
+		},
+		{
+			"description":
+			{
+				"defaultText": "16 players. 8 duos. 1 team remains. Pair up, build your agent, and chase the upgrades that glitch into something new.",
+				"localizedByCulture":
+				{
+					"ar-AE": "16 لاعبًا. 8 فرق ثنائية. 1 فريق صامد. شكّل ثنائيًا وطوّر عميلك واقتنص الترقيات التي ستنقلك إلى مواقف جديدة.",
+					"de-DE": "16 Spieler. 8 Duos. 1 Team verbleibt. Bilde eine Zweiergruppe, baue deinen Agenten auf und jage den Aufwertungen hinterher, die sich in etwas Neues verwandeln.",
+					"en-US": "16 players. 8 duos. 1 team remains. Pair up, build your agent, and chase the upgrades that glitch into something new.",
+					"es-ES": "16 jugadores. 8 dúos. Solo queda 1 equipo. Busca emparejamiento, prepara a tu agente y que no se te escapen esas mejoras que se transforman en algo nuevo.",
+					"es-MX": "16 jugadores, 8 dúos. Solo 1 equipo prevalece. Arma tu dueto, prepara a tu agente y consigue las mejoras glitcheadas para descubrir algo totalmente nuevo.",
+					"fr-FR": "16 joueurs. 8 duos. 1 seule équipe vaincra. Faites équipe, développez votre agent et cherchez les améliorations qui donneront quelque chose d'inédit.",
+					"id-ID": "16 pemain. 8 duo. 1 tim tersisa. Pilih pasangan, kembangkan agent-mu, dan incar upgrade yang bisa berubah tak terduga jadi sesuatu yang baru.",
+					"it-IT": "16 giocatori. 8 coppie. Resta 1 squadra. Fai squadra, crea il tuo agente e insegui i potenziamenti che si trasformano in qualcosa di nuovo.",
+					"ja-JP": "16名のプレイヤー、8組のデュオ、残るのは1チーム。デュオを組んで、エージェントの準備を固め、グリッチによって新たな効果を発揮するアップグレードの獲得を目指せ。",
+					"ko-KR": "16명의 플레이어. 8개의 2인 팀. 한 팀만이 살아남습니다. 2인으로 팀을 이뤄 요원을 구성하고, 오류를 일으키며 새롭게 변화하는 업그레이드를 손에 넣으세요.",
+					"pl-PL": "16 graczy. 8 duetów. Pozostała 1 drużyna. Łączcie się w pary, budujcie swojego agenta i szukajcie ulepszeń, które glitchują się w coś nowego.",
+					"pt-BR": "16 pessoas. 8 duplas. Só 1 equipe restante. Forme uma dupla, monte um Agente e vá em busca de melhorias que bugam e se transformam em algo novo.",
+					"ru-RU": "Шестнадцать игроков. 8 дуэтов. Выстоит лишь одна команда. Играйте с напарником, развивайте агента и ищите улучшения, которые могут повернуть ход боя в неожиданную сторону.",
+					"th-TH": "ผู้เล่น 16 คน ดูโอ้ 8 คู่ ผู้อยู่รอดเพียง 1 ทีม จับคู่ พัฒนาเอเจนท์ของคุณ และตั้งเป้าการอัปเกรดที่จะทำให้เกิดบั๊กจนกลายเป็นความสามารถใหม่",
+					"tr-TR": "16 oyuncu. 8 ikili. Ayakta kalan 1 takım. Takımını kur, ajanını oluştur ve bozularak yeni bir şeye dönüşen geliştirmelerin peşine düş.",
+					"vi-VN": "16 người chơi. 8 cặp. Chỉ 1 đội trụ lại. Lập đội hai người, xây dựng đặc vụ của bạn và săn những nâng cấp \"lỗi\" để sở hữu sức mạnh hoàn toàn mới.",
+					"zh-CN": "16名玩家。8组双人队伍。战至最后1队。选择搭档，打造英雄，争夺能够转化为全新形态的升级技能。",
+					"zh-TW": "16名玩家、8組雙人組合、戰到只剩1支隊伍。組隊、打造你的特務，然後競逐那些能夠進化成全新樣貌的升級技能。"
+				}
+			},
+			"id": "5D267B43-4C13-C1D7-8462-A29AA7A6BB32",
+			"label": "5D267B43-4C13-C1D7-8462-A29AA7A6BB32",
+			"name":
+			{
+				"defaultText": "Gauntlet: Glitched",
+				"localizedByCulture":
+				{
+					"ar-AE": "الاختبار: خلل تقني",
+					"de-DE": "Gauntlet: Glitched",
+					"en-US": "Gauntlet: Glitched",
+					"es-ES": "Galería de pruebas: Glitch",
+					"es-MX": "Duetos Glitcheados",
+					"fr-FR": "Gauntlet: Glitched",
+					"id-ID": "Gauntlet: Glitched",
+					"it-IT": "Gauntlet: Glitch",
+					"ja-JP": "ガントレット: グリッチ",
+					"ko-KR": "건틀릿: 시스템 오류",
+					"pl-PL": "Wyzwanie: Glitch",
+					"pt-BR": "Contenda Bugada",
+					"ru-RU": "Вызов: Сбой",
+					"th-TH": "Gauntlet: Glitched",
+					"tr-TR": "GALEYAN: GÜÇ BOZULMASI",
+					"vi-VN": "Thử Thách: Lỗi Hệ Thống",
+					"zh-CN": "异变轮战",
+					"zh-TW": "大亂鬥：異常"
 				}
 			}
 		}
